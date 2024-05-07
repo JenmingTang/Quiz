@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.quiz-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+h1 {
+    text-align: center;
+}
+
+/*#options-container {*/
+/*    margin-top: 10px;*/
+/*}*/
+#options-container {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#feedback {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#navigation {
+    text-align: center;
+    margin-top: 20px;
+}

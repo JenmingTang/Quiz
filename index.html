@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<label for="testPaper">选择一张试卷：</label>
+<select id="testPaper" name="testPaper">
+<!--    <option value="1">21222党校考试试卷01_1.pdf</option>-->
+<!--    <option value="2">21222党校考试试卷02_1.pdf</option>-->
+<!--    <option value="3">21222党校考试试卷03_1.pdf</option>-->
+<!--    <option value="4">21222党校考试试卷04_1.pdf</option>-->
+<!--    <option value="5">21222党校考试试卷05_1.pdf</option>-->
+<!--    <option value="6">21222党校考试试卷06_1.pdf</option>-->
+<!--    <option value="7">21222党校考试试卷07_1.pdf</option>-->
+<!--    <option value="8">21222党校考试试卷08_1.pdf</option>-->
+<!--    <option value="9">21222党校考试试卷09_1.pdf</option>-->
+<!--    <option value="10">21222党校考试试卷010_1.pdf</option>-->
+</select>
+<button onclick="showAnswer()">showAnswer</button>
+<div>已选择的选项：
+    <span id="selected-answer-container"></span></div>
+<div class="quiz-container">
+    <h1>Quiz</h1>
+    <div id="question-container"></div>
+    <div id="answer-container"></div>
+    <div id="options-container"></div>
+    <div id="feedback"></div>
+    <div id="navigation">
+        <button id="prev-btn" onclick="prevQuestion()">Previous</button>
+        <button id="next-btn" onclick="nextQuestion()">Next</button>
+    </div>
+</div>
+<div id="question-list">
+
+</div>
+<script src="script.js"></script>
+</body>
+
+</html>
