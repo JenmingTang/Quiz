@@ -12,7 +12,7 @@
 <body>
 
 <label for="testPaper">选择一张试卷：</label>
-<select id="testPaper" name="testPaper">
+<select id="testPaper" name="testPaper" style="padding: 8px">
 <!--    <option value="1">21222党校考试试卷01_1.pdf</option>-->
 <!--    <option value="2">21222党校考试试卷02_1.pdf</option>-->
 <!--    <option value="3">21222党校考试试卷03_1.pdf</option>-->
@@ -24,7 +24,7 @@
 <!--    <option value="9">21222党校考试试卷09_1.pdf</option>-->
 <!--    <option value="10">21222党校考试试卷010_1.pdf</option>-->
 </select>
-<button onclick="showAnswer()">showAnswer</button>
+<button onclick="showAnswer()" style="padding: 16px">showAnswer</button>
 <div>已选择的选项：
     <span id="selected-answer-container"></span></div>
 <div class="quiz-container">
@@ -34,9 +34,16 @@
     <div id="options-container"></div>
     <div id="feedback"></div>
     <div id="navigation">
-        <button id="prev-btn" onclick="prevQuestion()">Previous</button>
-        <button id="next-btn" onclick="nextQuestion()">Next</button>
+        <button id="prev-btn" style="padding: 16px" onclick="prevQuestion()">Previous</button>
+        <button id="next-btn" style="padding: 16px" onclick="nextQuestion()">Next</button>
     </div>
+</div>
+<div>
+
+    <!-- 滑块控件 -->
+<!--    <input type="range" min="50" max="200" value="100" id="sizeSlider">-->
+<!--    <input type="range" min="1" max="5" value="1" id="sizeSlider">-->
+<!--    <label for="sizeSlider">滑动以调整按钮大小</label><br>-->
 </div>
 <div id="question-list">
 

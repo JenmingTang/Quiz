@@ -4552,9 +4552,678 @@ const allTestPaperTopTenQuestions2 = [
     ...data_19.slice(0, 10),
     ...data_20.slice(0, 10),
 ]
+const phonetic3000ByLevel = [
+    {
+        "title": "about / 美[ə'baʊt]  / 英[ə'baʊt] ",
+        "options": [
+            "A) n. 客场比赛 / 客场获胜",
+            "B) adv. 到处 / 在里面各处 / 大约 / 周围",
+            "C) n. 地址 / 演讲 / 称呼",
+            "D) prep. 关于 / 在…各处 / 围绕着 / 大约"
+        ],
+        "answer": [
+            "D",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "above / 美[ə'bʌv]  / 英[ə'bʌv] ",
+        "options": [
+            "A) conj. 和 / 并且 / 然后 / 而且",
+            "B) adv. 在上面 / 更高 / 以上 / 上文",
+            "C) prep. 在…上方 / 高于 / 超过",
+            "D) pron. 任何人 / 重要的人 / 任何一个"
+        ],
+        "answer": [
+            "C",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "across / 美[ə'krɔːs]  / 英[ə'krɒs] ",
+        "options": [
+            "A) n. 大气 / 神情 / 天空 / 样子",
+            "B) adv. 越过 / 横过 / 宽 / 在对面",
+            "C) prep. 越过 / 对过 / 穿过 / 横穿",
+            "D) det. 再一个的 / 不同的 / 另一类似的"
+        ],
+        "answer": [
+            "C",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "action / 美['ækʃn]  / 英['ækʃ(ə)n] ",
+        "options": [
+            "A) n. 行动 / 活动 / 情节",
+            "B) n. 伯母 / 阿姨 / 姑妈 / 舅妈",
+            "C) adj. 客场的",
+            "D) v. 对…采取行动"
+        ],
+        "answer": [
+            "A",
+            "D"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "activity / 美[æk'tɪvətɪ]  / 英[æk'tɪvɪtɪ] ",
+        "options": [
+            "A) n. 建议 / 劝告 / 通知",
+            "B) n. 大气 / 神情 / 天空 / 样子",
+            "C) adv. 比分相同 / 完全 / 全然地 / 越发",
+            "D) n. 状况 / 活动 / 活性 / 行为"
+        ],
+        "answer": [
+            "D"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "actor / 美['æktər]  / 英['æktə] ",
+        "options": [
+            "A) n. 演员 / 参与者 / 行动者 / 作用物",
+            "B) n. 成年人 / 成年动物",
+            "C) n. 地址 / 演讲 / 称呼",
+            "D) v. 年龄增长 / 使长大 / 使显老 / 变得陈香"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "actress / 美['æktrəs]  / 英['æktrɪs] ",
+        "options": [
+            "A) prep. 之后 / 在…身后 / 追求 / 以…命名",
+            "B) conj. 当 / 以…的方式 / 因为 / 虽然",
+            "C) n. 女演员",
+            "D) n. 飞机场 / 空旅通俗读物 / 机场 / 航空站"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "add / 美[æd]  / 英[æd] ",
+        "options": [
+            "A) conj. 当 / 以…的方式 / 因为 / 虽然",
+            "B) n. 状况 / 活动 / 活性 / 行为",
+            "C) v. 增加 / 加起来 / 进一步说 / 掺和",
+            "D) n. 行动 / 活动 / 情节"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "address / 美[ə'dres]  / 英[ə'dres] ",
+        "options": [
+            "A) v. 演说 / 写姓名地址 / 向…致辞 / 处理",
+            "B) adj. 焦虑的 / 害怕的 / 恐怕 / 担心的",
+            "C) n. 地址 / 演讲 / 称呼",
+            "D) v. 到达 / 成功 / 达成 / 出生"
+        ],
+        "answer": [
+            "A",
+            "C"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "adult / 美[ə'dʌlt]  / 英['ædʌlt;ə'dʌlt] ",
+        "options": [
+            "A) prep. 在…上方 / 高于 / 超过",
+            "B) n. 成年人 / 成年动物",
+            "C) adj. 成年的 / 成熟的 / 只适于成人的",
+            "D) n. <电子>“与” / “与”门 / 安德"
+        ],
+        "answer": [
+            "C",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "advice / 美[əd'vaɪs]  / 英[əd'vaɪs] ",
+        "options": [
+            "A) v. 对…采取行动",
+            "B) det. 再一个的 / 不同的 / 另一类似的",
+            "C) n. 建议 / 劝告 / 通知",
+            "D) prep. 在（表示存在或出现的地点、场所、位置、空间） / 以（某种价格、速度等）"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "afraid / 美[ə'freɪd]  / 英[ə'freɪd] ",
+        "options": [
+            "A) adv. 如同 / 多达 / 同样地 / 和…一样的",
+            "B) n. 伯母 / 阿姨 / 姑妈 / 舅妈",
+            "C) v. 对…采取行动",
+            "D) adj. 焦虑的 / 害怕的 / 恐怕 / 担心的"
+        ],
+        "answer": [
+            "D"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "after / 美['æftər]  / 英['ɑːftə] ",
+        "options": [
+            "A) adv. 在…之后 / 后来",
+            "B) conj. 在…之后 / 后来 / 在……之后",
+            "C) prep. 之后 / 在…身后 / 追求 / 以…命名",
+            "D) adj. <古>后来的 / 靠近船尾的 / 以后的"
+        ],
+        "answer": [
+            "A",
+            "C",
+            "B",
+            "D"
+        ],
+        "flag": "answers amount: 4 "
+    },
+    {
+        "title": "afternoon / 美[ˌæftər'nuːn]  / 英[ɑːftə'nuːn] ",
+        "options": [
+            "A) n. 下午",
+            "B) adv. <非正式>在下午 / 每日下午",
+            "C) adj. 焦虑的 / 害怕的 / 恐怕 / 担心的",
+            "D) exclam. 下午好"
+        ],
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "flag": "answers amount: 3 "
+    },
+    {
+        "title": "again / 美[ə'ɡen]  / 英[ə'ɡen;ə'ɡeɪn] ",
+        "options": [
+            "A) n. 阿特（老挝货币基本单位att） / <化>砹",
+            "B) n. <北美>物品的售价 / 阿斯克",
+            "C) adv. 又一次 / 又，此外",
+            "D) adj. 成年的 / 成熟的 / 只适于成人的"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "age / 美[eɪdʒ]  / 英[eɪdʒ] ",
+        "options": [
+            "A) n. 年龄 / 时代 / 寿命，使用年限 / 阶段",
+            "B) adv. <非正式>在下午 / 每日下午",
+            "C) v. 年龄增长 / 使长大 / 使显老 / 变得陈香",
+            "D) n. 八月"
+        ],
+        "answer": [
+            "A",
+            "C"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "ago / 美[ə'ɡoʊ]  / 英[ə'ɡəʊ] ",
+        "options": [
+            "A) adv. 以前 / 更早",
+            "B) n. 阿斯",
+            "C) n. 手臂 / 像手臂的东西 / 部门 / 武器",
+            "D) v. 对…采取行动"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "agree / 美[ə'ɡriː]  / 英[ə'ɡrɪ] ",
+        "options": [
+            "A) v. 年龄增长 / 使长大 / 使显老 / 变得陈香",
+            "B) prep. 之后 / 在…身后 / 追求 / 以…命名",
+            "C) v. 同意，赞成 / 与…一致 / <英>商定 / <英>批准",
+            "D) v. 回答 / 符合 / 顶嘴 / 作出反应"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "air / 美[er]  / 英[e] ",
+        "options": [
+            "A) n. 大气 / 神情 / 天空 / 样子",
+            "B) v. 公开表达 / 使通风 / 广播 / 夸耀",
+            "C) v. 到达 / 成功 / 达成 / 出生",
+            "D) n. 下午"
+        ],
+        "answer": [
+            "A",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "airport / 美['erpɔːrt]  / 英['eəpɔːt] ",
+        "options": [
+            "A) adj. 成年的 / 成熟的 / 只适于成人的",
+            "B) n. 飞机场 / 空旅通俗读物 / 机场 / 航空站",
+            "C) n. 四月",
+            "D) n. 下午"
+        ],
+        "answer": [
+            "B"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "all / 美[ɔːl]  / 英[ɔːl] ",
+        "options": [
+            "A) adv. 比分相同 / 完全 / 全然地 / 越发",
+            "B) pron. 所有 / 任何 / 只 / 全部",
+            "C) predet. 全部 / 任何 / 尽可能 / 惟一",
+            "D) det. 全部 / 尽可能 / 惟一"
+        ],
+        "answer": [
+            "A",
+            "B",
+            "D",
+            "C"
+        ],
+        "flag": "answers amount: 4 "
+    },
+    {
+        "title": "also / 美['ɔːlsoʊ]  / 英['ɔːlsəʊ] ",
+        "options": [
+            "A) adv. 另外 / 也 / 而且 / 同样",
+            "B) n. 客场比赛 / 客场获胜",
+            "C) adv. 又一次 / 又，此外",
+            "D) adv. 在四周 / 朝对立面 / 到处 / 大约"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "always / 美['ɔːlweɪz]  / 英['ɔːlweɪz;-ɪz] ",
+        "options": [
+            "A) adv. 始终 / 无论如何 / 永远，一直 / 总是",
+            "B) adv. 在任何程度上 / 一点儿也不 / 稍微 / 少许",
+            "C) conj. 在…之后 / 后来 / 在……之后",
+            "D) n. 苹果 / 苹果树"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "amazing / 美[ə'meɪzɪŋ]  / 英[ə'meɪzɪŋ] ",
+        "options": [
+            "A) adj. 令人惊愕的 / 给人印象深刻的 / 令人惊异的",
+            "B) prep. 之后 / 在…身后 / 追求 / 以…命名",
+            "C) v. 演说 / 写姓名地址 / 向…致辞 / 处理",
+            "D) pron. 所有 / 任何 / 只 / 全部"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "and / 美[ənd]  / 英[ənd;ən] ",
+        "options": [
+            "A) n. <电子>“与” / “与”门 / 安德",
+            "B) conj. 和 / 并且 / 然后 / 而且",
+            "C) n. 地址 / 演讲 / 称呼",
+            "D) adv. 另外 / 也 / 而且 / 同样"
+        ],
+        "answer": [
+            "B",
+            "A"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "angry / 美['æŋɡrɪ]  / 英['æŋɡrɪ] ",
+        "options": [
+            "A) adj. 愤怒的 / <喻>怒吼的 / 红肿发炎的",
+            "B) conj. 在…之后 / 后来 / 在……之后",
+            "C) adj. 动物的 / 有动物特征的 / 动物极的 / 肉欲的",
+            "D) n. 年龄 / 时代 / 寿命，使用年限 / 阶段"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "animal / 美['ænɪml]  / 英['ænɪm(ə)l] ",
+        "options": [
+            "A) adj. 动物的 / 有动物特征的 / 动物极的 / 肉欲的",
+            "B) adv. 又一次 / 又，此外",
+            "C) v. 对…采取行动",
+            "D) n. 动物 / 哺乳动物 / 人面禽兽 / 某一类型的人"
+        ],
+        "answer": [
+            "D",
+            "A"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "another / 美[ə'nʌðər]  / 英[ə'nʌðə] ",
+        "options": [
+            "A) adv. 另外 / 也 / 而且 / 同样",
+            "B) det. 再一个的 / 不同的 / 另一类似的",
+            "C) n. 一套公寓 / 公寓大楼 / 公寓 / 房间",
+            "D) pron. 又一个的 / 别的 / 另一个 / 又一个"
+        ],
+        "answer": [
+            "D",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "answer / 美['ænsər]  / 英['ɑːnsə] ",
+        "options": [
+            "A) n. 回答 / 答案 / 解决办法 / 对应物",
+            "B) v. 对…采取行动",
+            "C) v. 回答 / 符合 / 顶嘴 / 作出反应",
+            "D) n. 下午"
+        ],
+        "answer": [
+            "C",
+            "A"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "any / 美['enɪ]  / 英['enɪ] ",
+        "options": [
+            "A) pron. 任何 / 任何一个 / 任何人 / 若干",
+            "B) adv. <非正式>在下午 / 每日下午",
+            "C) det. 任何 / 任何一个 / 任何人",
+            "D) adv. 在任何程度上 / 一点儿也不 / 稍微 / 少许"
+        ],
+        "answer": [
+            "A",
+            "D",
+            "C"
+        ],
+        "flag": "answers amount: 3 "
+    },
+    {
+        "title": "anyone / 美['enɪwʌn]  / 英['enɪwʌn] ",
+        "options": [
+            "A) adj. 动物的 / 有动物特征的 / 动物极的 / 肉欲的",
+            "B) conj. 在…之后 / 后来 / 在……之后",
+            "C) v. 对…采取行动",
+            "D) pron. 任何人 / 重要的人 / 任何一个"
+        ],
+        "answer": [
+            "D"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "anything / 美['enɪθɪŋ]  / 英['enɪθɪŋ] ",
+        "options": [
+            "A) adv. 到处 / 在里面各处 / 大约 / 周围",
+            "B) pron. 又一个的 / 别的 / 另一个 / 又一个",
+            "C) pron. 任何物 / 某一限定范围之内的任何一个数量 / 任何事",
+            "D) v. 年龄增长 / 使长大 / 使显老 / 变得陈香"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "apartment / 美[ə'pɑːrtmənt]  / 英[ə'pɑːtmənt] ",
+        "options": [
+            "A) adj. 成年的 / 成熟的 / 只适于成人的",
+            "B) n. 物件 / 文章 / 条款 / <语法>冠词",
+            "C) pron. 任何 / 任何一个 / 任何人 / 若干",
+            "D) n. 一套公寓 / 公寓大楼 / 公寓 / 房间"
+        ],
+        "answer": [
+            "D"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "apple / 美['æpl]  / 英['æp(ə)l] ",
+        "options": [
+            "A) n. 苹果 / 苹果树",
+            "B) adv. <非正式>在下午 / 每日下午",
+            "C) pron. 又一个的 / 别的 / 另一个 / 又一个",
+            "D) adv. 如同 / 多达 / 同样地 / 和…一样的"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "April / 美['eɪprəl]  / 英['eɪpr(ɪ)l] ",
+        "options": [
+            "A) n. 八月",
+            "B) adj. 客场的",
+            "C) n. 四月"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "area /                 美                                  [ 'eɪprəl ]                                                                                       /                 英                                  [ 'eɪpr(ɪ)l ]                                                                                      ",
+        "options": [
+            "A) n. 回答 / 答案 / 解决办法 / 对应物",
+            "B) adv. 始终 / 无论如何 / 永远，一直 / 总是",
+            "C) \n                \n                n.\n                \n                四月",
+            "D) n. 一套公寓 / 公寓大楼 / 公寓 / 房间"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "arm / 美[ɑːrm]  / 英[ɑːm] ",
+        "options": [
+            "A) n. 苹果 / 苹果树",
+            "B) n. 手臂 / 像手臂的东西 / 部门 / 武器",
+            "C) n. 飞机场 / 空旅通俗读物 / 机场 / 航空站",
+            "D) v. 装备 / 提供 / 使准备引爆的状态 / 武装起来"
+        ],
+        "answer": [
+            "B",
+            "D"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "around / 美[ə'raʊnd]  / 英[ə'raʊnd] ",
+        "options": [
+            "A) det. 全部 / 尽可能 / 惟一",
+            "B) prep. 环绕 / 遍及 / 围着 / 以为中心",
+            "C) adv. 在四周 / 朝对立面 / 到处 / 大约",
+            "D) pron. 任何物 / 某一限定范围之内的任何一个数量 / 任何事"
+        ],
+        "answer": [
+            "C",
+            "B"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "arrive / 美[ə'raɪv]  / 英[ə'raɪv] ",
+        "options": [
+            "A) n. 手臂 / 像手臂的东西 / 部门 / 武器",
+            "B) v. 到达 / 成功 / 达成 / 出生",
+            "C) v. 回答 / 符合 / 顶嘴 / 作出反应",
+            "D) v. 增加 / 加起来 / 进一步说 / 掺和"
+        ],
+        "answer": [
+            "B"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "art / 美[ɑːrt]  / 英[ɑːt] ",
+        "options": [
+            "A) n. 艺术 / 文艺 / 文科 / 技巧",
+            "B) adj. 客场的",
+            "C) n. 成年人 / 成年动物",
+            "D) n. <北美>物品的售价 / 阿斯克"
+        ],
+        "answer": [
+            "A"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "article / 美['ɑːrtɪkl]  / 英['ɑːtɪk(ə)l] ",
+        "options": [
+            "A) v. 为取得正式资格而进行见习培训 / 订约将…收为学徒或见习生 / 使…受协议条款的约束",
+            "B) v. 同意，赞成 / 与…一致 / <英>商定 / <英>批准",
+            "C) n. 物件 / 文章 / 条款 / <语法>冠词"
+        ],
+        "answer": [
+            "C",
+            "A"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "artist / 美['ɑːrtɪst]  / 英['ɑːtɪst] ",
+        "options": [
+            "A) adv. 如同 / 多达 / 同样地 / 和…一样的",
+            "B) n. 画家 / 绘画爱好者 / 艺术家 / 表演者",
+            "C) n. 飞机场 / 空旅通俗读物 / 机场 / 航空站",
+            "D) v. 回答 / 符合 / 顶嘴 / 作出反应"
+        ],
+        "answer": [
+            "B"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "as / 美[əz]  / 英[æs] ",
+        "options": [
+            "A) adv. 如同 / 多达 / 同样地 / 和…一样的",
+            "B) conj. 当 / 以…的方式 / 因为 / 虽然",
+            "C) n. 阿斯",
+            "D) prep. 以…的身份 / 当…时 / 如同 / 当作"
+        ],
+        "answer": [
+            "B",
+            "D",
+            "A",
+            "C"
+        ],
+        "flag": "answers amount: 4 "
+    },
+    {
+        "title": "ask / 美[æsk]  / 英[ɑːsk] ",
+        "options": [
+            "A) n. <北美>物品的售价 / 阿斯克",
+            "B) n. 四月",
+            "C) adv. 在…之后 / 后来",
+            "D) v. 询问 / 邀请 / 请求…做要求 / 需要"
+        ],
+        "answer": [
+            "D",
+            "A"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "at / 美[ət]  / 英[ɑːt;æt] ",
+        "options": [
+            "A) prep. 在（表示存在或出现的地点、场所、位置、空间） / 以（某种价格、速度等）",
+            "B) n. 大气 / 神情 / 天空 / 样子",
+            "C) n. 阿特（老挝货币基本单位att） / <化>砹",
+            "D) v. 装备 / 提供 / 使准备引爆的状态 / 武装起来"
+        ],
+        "answer": [
+            "A",
+            "C"
+        ],
+        "flag": "answers amount: 2 "
+    },
+    {
+        "title": "August / 美['ɔːɡəst]  / 英['ɔːɡəst] ",
+        "options": [
+            "A) prep. 在…上方 / 高于 / 超过",
+            "B) predet. 全部 / 任何 / 尽可能 / 惟一",
+            "C) n. 八月",
+            "D) n. 伯母 / 阿姨 / 姑妈 / 舅妈"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "aunt / 美[ænt]  / 英[ɑːnt] ",
+        "options": [
+            "A) prep. 关于 / 在…各处 / 围绕着 / 大约",
+            "B) n. 伯母 / 阿姨 / 姑妈 / 舅妈",
+            "C) n. 一套公寓 / 公寓大楼 / 公寓 / 房间",
+            "D) adj. 令人敬畏的 / 使人畏惧的 / 可怕的 / 极好的"
+        ],
+        "answer": [
+            "B"
+        ],
+        "flag": "answers amount: 1 "
+    },
+    {
+        "title": "away / 美[ə'weɪ]  / 英[ə'weɪ] ",
+        "options": [
+            "A) adj. 客场的",
+            "B) n. 客场比赛 / 客场获胜",
+            "C) adv. 在远处 / 不断地 / 下沉地 / 向下地",
+            "D) adj. 成年的 / 成熟的 / 只适于成人的"
+        ],
+        "answer": [
+            "C",
+            "B",
+            "A"
+        ],
+        "flag": "answers amount: 3 "
+    },
+    {
+        "title": "awesome / 美['ɔːsəm]  / 英['ɔːsəm] ",
+        "options": [
+            "A) v. 回答 / 符合 / 顶嘴 / 作出反应",
+            "B) n. 状况 / 活动 / 活性 / 行为",
+            "C) adj. 令人敬畏的 / 使人畏惧的 / 可怕的 / 极好的",
+            "D) conj. 当 / 以…的方式 / 因为 / 虽然"
+        ],
+        "answer": [
+            "C"
+        ],
+        "flag": "answers amount: 1 "
+    }
+]
 // let questions = [...data_1]
 const data = JSON.parse('[{"title": "11.民族工作的根本要求是：坚定不移走中国特色解决民族问题的正确道路，坚持中国共产党的领导，坚持中国特色社会主义道路，坚持维护祖国统一，坚持各民族一律平等，坚持和完善民族区域自治制度。", "options": ["A)正确", "B)错误"], "answer": ["A"], "flag": "单选题"}, {"title": "12.发现党员有思想、工作、生活、作风和纪律方面苗头性倾向性问题的，以及群众对其有不良反映的，党组织负责人应当及时进行提醒谈话，抓早抓小、防微杜渐。()", "options": ["A)正确", "B)错误"], "answer": ["A"], "flag": "单选题"}, {"title": "13.临时党支部主要组织党员开展政治学习，教育、管理、监督党员，对入党积极分子进行教育培养等，一般不发展党员、处分处置党员，不收缴党费，不选举党代表大会代表和进行换届。", "options": ["A)正确", "B)错误"], "answer": ["A"], "flag": "单选题"}, {"title": "14.非公有制经济组织、社会组织，一般从管理层中选任党支部书记，应当注重从业务骨干中选拔党支部书记。", "options": ["A)正确", "B)错误"], "answer": ["A"], "flag": "单选题"}, {"title": "15.抓党支部建设情况应当列入各级党委书记抓基层党建工作述职评议考核的重要内容，作为评判其履行管党治党政治责任情况的重要依据。", "options": ["A)正确", "B)错误"], "answer": ["A"], "flag": "单选题"}, {"title": "16.企业、农村、机关、学校、科研院所、社区、社会组织、人民解放军和武警部队连（中）队以及其他基层单位，凡是有正式党员2人以上的，都应当成立党支部。", "options": ["A)正确", "B)错误"], "answer": ["B"], "flag": "单选题"}, {"title": "17.为期3个月以上的工程、工作项目等，符合条件的，应当成立党支部。", "options": ["A)正确", "B)错误"], "answer": ["B"], "flag": "单选题"}, {"title": "18.村、社区党支部书记纳入县级党委组织部备案管理。", "options": ["A)正确", "B)错误"], "answer": ["A"], "flag": "单选题"}, {"title": "19.中央纪委国家监察机关主要负责党员纪律作风教育，指导开展党员监督，查处党员违犯党的纪律和职务违法、职务犯罪行为。()", "options": ["A)正确", "B)错误"], "answer": ["B"], "flag": "单选题"}, {"title": "20.中国共产党在领导社会主义事业中，必须坚持以从严治党为中心。", "options": ["A)正确", "B)错误"], "answer": ["B"], "flag": "单选题"}, {"title": "21.社会主义初级阶段基本路线的中心是__________。", "options": ["A)改革开放", "B)经济建设", "C)保持社会稳定", "D)坚持走社会主义道路"], "answer": ["B"], "flag": "单选题"}, {"title": "22.党的基层委员会、总支部委员会、支部委员会每届任期（）", "options": ["A)一年至两年", "B)两年至三年", "C)三年至四年", "D)三年至五年"], "answer": ["D"], "flag": "单选题"}, {"title": "23.把用习近平新时代中国特色社会主义思想武装全党作为党员教育管理的()，引导党员充分认识学习贯彻习近平新时代中国特色社会主义思想的重大意义，自觉学懂弄通做实。", "options": ["A)基本政治任务", "B)首要政治任务", "C)根本政治任务", "D)主要政治任务"], "answer": ["B"], "flag": "单选题"}, {"title": "24.联合党支部覆盖单位一般不超过（）个。", "options": ["A)2", "B)3", "C)4", "D)5"], "answer": ["D"], "flag": "单选题"}, {"title": "25.党员受到警告处分_______内，不得在党内提升职务和向党外组织推荐担任高于其原任职务的党外职务。", "options": ["A)六个月", "B)一年", "C)一年半", "D)两年"], "answer": ["B"], "flag": "单选题"}, {"title": "26.新世纪新阶段统一战线具有空前的广泛性、巨大的包容性、鲜明的多样性和显著的（）", "options": ["A)政治性", "B)时代性", "C)复杂性", "D)社会性"], "answer": ["D"], "flag": "单选题"}, {"title": "27.党员教育基本任务中，要突出()和政治训练，严格党内政治生活锻炼，教育党员旗帜鲜明讲政治，提高政治觉悟和政治能力，严守政治纪律和政治规矩，永葆共产党人政治本色。", "options": ["A)政治修养", "B)政治教育", "C)政治素养", "D)政治规划"], "answer": ["B"], "flag": "单选题"}, {"title": "28.我国根本的政治制度是__________。", "options": ["A)政治协商制度", "B)人民代表大会制度", "C)多党合作制度", "D)民主集中制"], "answer": ["B"], "flag": "单选题"}, {"title": "29.（）是共产党人精神上的“钙”。", "options": ["A)理想信念", "B)政治觉悟", "C)世界观和方法论", "D)文化追求"], "answer": ["A"], "flag": "单选题"}, {"title": "30.（）是党的基础组织，是党组织开展工作的基本单元，是党在社会基层组织中的战斗堡垒，是党的全部工作和战斗力的基础。", "options": ["A)党小组", "B)党支部", "C)党总支", "D)党委"], "answer": ["C"], "flag": "单选题"}, {"title": "31.习近平总书记“七一”重要讲话指出，在坚持马克思主义指导地位这一根本问题上，我们必须坚定不移，任何时候任何情况下都不能有丝毫动摇。同时，面对新的时代特点和实践要求，马克思主义也面临着进一步中国化、时代化、（）的问题。", "options": ["A)特色化", "B)具体化", "C)大众化", "D)科学化"], "answer": ["C"], "flag": "多选题"}, {"title": "32.党员如果没有正当理由，连续_______不交纳党费，就被认为是自行脱党。", "options": ["A)三个月", "B)半年", "C)一年", "D)两年"], "answer": ["B"], "flag": "多选题"}, {"title": "33.党支部书记应当具备良好政治素质，在党员、群众中有较高威信，一般应当具有（）年以上党龄。", "options": ["A)半", "B)一", "C)二", "D)三"], "answer": ["B"], "flag": "多选题"}, {"title": "34.党员必须坚持党和人民利益高于一切，吃苦在前，享受在后，_______，多做贡献。", "options": ["A)克己奉公", "B)廉洁自律", "C)艰苦奋斗", "D)艰苦创业"], "answer": ["A"], "flag": "多选题"}, {"title": "35.坚持四项基本原则的核心是坚持__________。", "options": ["A)社会主义道路", "B)人民民主专政", "C)中国共产党的领导", "D)马克思列宁主义毛泽东思想"], "answer": ["C"], "flag": "多选题"}, {"title": "36.坚持中国共产党在统一战线中的（）是统一战线最根本的问题。", "options": ["A)主导地位", "B)领导权", "C)发言权"], "answer": ["A"], "flag": "多选题"}, {"title": "37.统一战线工作的根本任务是______________，为实现党和国家的宏伟目标而团结奋斗。", "options": ["A)凝聚人心、汇聚力量", "B)大团结、大联合", "C)为社会主义的经济、政治、文化服务"], "answer": ["C"], "flag": "多选题"}, {"title": "38.各级党委主管统一战线工作的职能部门是（）。", "options": ["A)办公厅（室）", "B)宣传部", "C)统战部"], "answer": ["C"], "flag": "多选题"}, {"title": "39.中国共产党第十八次全国代表大会，是在我国进入（）小康社会决定性阶段召开的一次十分重要的大会", "options": ["A)全面建设", "B)全面建成", "C)全面建立"], "answer": ["B"], "flag": "多选题"}, {"title": "40.党的十八大报告强调，我们坚定不移高举中国特色社会主义伟大旗帜，既不走封闭僵化的老路、也不走（）的邪路。", "options": ["A)资本主义", "B)改旗易帜", "C)改弦更张"], "answer": ["B"], "flag": "多选题"}, {"title": "41.对于全面从严治党，（）是党自我净化、自我完善、自我革新、自我提高的根本途径，（）则是实现改革发展目标的根本保证，增强从严治党的系统性、预见性、创造性、实效性，锻造我们事业更加坚强的领导核心。", "options": ["A)改革；", "B)经济建设；", "C)政治建设；", "D)党的领导；"], "answer": ["A", "D"], "flag": "多选题"}, {"title": "42.中国共产党在新时期面临的三大历史任务为()。", "options": ["A)发展生产力", "B)推进现代化建设", "C)完成祖国统一", "D)维护世界和平与促进共同发展"], "answer": ["B", "C", "D"], "flag": "多选题"}, {"title": "43.违反有关规定等，对直接责任者和领导责任者，情节较轻的，给予警告或者严重警告处分;情节较重的，给予撤销党内职务或者留党察看处分;情节严重的，给予开除党籍处分。", "options": ["A)自定薪酬", "B)滥发津贴", "C)滥发补贴", "D)滥发奖金"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "44.健全人民当家作主制度体系，发展社会主义民主政治，必须要（）。", "options": ["A)坚持党的领导、人民当家作主、依法治国有机统一；", "B)加强人民当家作主制度保障；", "C)发挥社会主义协商民主重要作用；", "D)简化机构和行政体制改革；"], "answer": ["A", "B", "C"], "flag": "多选题"}, {"title": "45.《中国共产党党员教育管理工作条例》的制定和实施，对于________,实现党伟大执政使命，具有十分重要的意义。", "options": ["A)提高党员队伍建设质量", "B)激发党组织的生机活力", "C)推动全面从严治党向纵深发展", "D)夯实党长期执政基础"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "46.党员应当主动学网用网，依托各类党员教育管理信息化平台，_______。", "options": ["A)积极"], "answer": ["B", "C", "D", "A", "B", "D"], "flag": "多选题"}, {"title": "47.党员廉洁自律规范包括：", "options": ["A)坚持公私分明，先公后私，克己奉公", "B)坚持崇廉拒腐，清白做人，干净做事", "C)坚持尚俭戒奢，艰苦朴素，勤俭节约", "D)坚持吃苦在前，享受在后，甘于奉献"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "48.中国共产党要建设成为_______、_______、________马克思主义执政党。", "options": ["A)学习型", "B)服务型", "C)创新性", "D)战斗型"], "answer": ["A", "B", "C"], "flag": "多选题"}, {"title": "49.党小组组长（）产生", "options": ["A)党支部指定", "B)群众推荐", "C)所在党小组党员推荐", "D)毛遂自荐"], "answer": ["A", "C"], "flag": "多选题"}, {"title": "50.新形势下，党面临的危险包括：_____", "options": ["A)精神懈怠危险", "B)能力不足危险", "C)脱离群众危险", "D)消极腐败危险"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "51.《党章》第四条规定，党员享有八项权利，下列哪些属于党员享有的权利?", "options": ["A)"], "answer": ["B", "C", "D", "A", "B", "C", "D"], "flag": "多选题"}, {"title": "52.坚定文化自信，推动社会主义文化繁荣兴盛，要求我们党（）。", "options": ["A)放弃意识形态工作；", "B)培育和践行社会主义核心价值观；", "C)加强思想道德建设；", "D)繁荣发展社会主义文艺；"], "answer": ["B", "C", "D"], "flag": "多选题"}, {"title": "53.党员要加强党性锻炼，不断提高政治觉悟和政治能力，把()作为根本政治担当，永葆共产党人政治本色。", "options": ["A)对党忠诚；", "B)为党分忧；", "C)为党尽职；", "D)为民造福；"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "54.《党章》第三十一条规定，党的基层组织对要求入党的积极分子进行教育和培养，做好经常性的发展党员工作，重视在__中发展党员。", "options": ["A)生产第一线", "B)先进工作者", "C)工作第一线", "D)青年"], "answer": ["A", "C"], "flag": "多选题"}, {"title": "55.基层党委履行抓党员教育管理的基本职责，推动落实上级党组织工作安排，组织做好党员集中培训、组织关系管理、_____________,纪律处分等工作，指导所辖党支部做好党员日常教育管理工作。()", "options": ["A)表彰激励", "B)关怀帮扶", "C)指导督促", "D)组织处置"], "answer": ["A", "B", "D"], "flag": "多选题"}, {"title": "56.党小组会一般每月召开1次，组织党员（）等。", "options": ["A)政治学习", "B)谈心谈话", "C)开展批评", "D)自我批评"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "57.对党员的纪律处分种类，包括", "options": ["A)警告", "B)严重警告", "C)撤销党内职务", "D)留党察看"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "58.中国共产党第十九次全国代表大会同意把（）一道写入党章", "options": ["A)中国特色社会主义道路", "B)中国特色社会主义理论体系", "C)中国特色社会主义制度", "D)中国特色社会主义文化"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "59.《党章》总纲中明确指出，中国共产党的性质是", "options": ["A)中国共产党是中国工人阶级的先锋队", "B)是中国特色社会主义事业的领导核心", "C)代表中国先进生产力的发展要求", "D)代表中国先进文化的前进方向"], "answer": ["A", "B", "C", "D"], "flag": "多选题"}, {"title": "60.中国共产党必须不断提高党的创造力、凝聚力、战斗力，建设（）的马克思主义执政党。", "options": ["A)学习型；", "B)努力型；", "C)服务型；", "D)创新型；"], "answer": ["A", "C", "D"], "flag": "多选题"}]')
-let questions = [...data]
+let questions = [...phonetic3000ByLevel]
 // const questions = [{
 //     title: "《党章》总纲中明确指出，中国共产党的性质是",
 //     options: ["A) 中国共产党是中国工人阶级的先锋队", "B) 是中国特色社会主义事业的领导核心", "C) 代表中国先进生产力的发展要求", "D) 代表中国先进文化的前进方向"],
@@ -4573,6 +5242,36 @@ let score = 0;
 let answerContainerShowFlag = "none"
 
 /*
+* 缩放因子
+* 滑块组件
+* 也没有应用上啊
+* */
+let sizeFactor = 2;
+function loadSlider() {
+    // 获取滑块和按钮的引用
+    var sizeSlider = document.getElementById('sizeSlider');
+    // 当滑块值改变时调用的函数
+    sizeSlider.addEventListener('input', function() {
+            // 计算新的字体大小，确保按钮大小的变化与滑块值相关联
+            // 这里简单地将滑块的值映射为字体大小，可以根据需要调整映射关系
+            sizeFactor = this.value; // 使用滑块的当前值作为新的字体大小
+            console.log(sizeFactor)
+            console.log(this.value)
+/*
+* 并没有变大变小
+* 考虑使用localStorage方式，存放缩放因子
+* */
+        // loadQuestion()
+        // loadQuestionList()
+        }
+    )
+}
+// loadSlider()
+/*
+* 当前选择的是单词模式
+* */
+let isWordMode = true;
+/*
 * 试卷修改
 * */
 const testPaper = document.getElementById("testPaper");
@@ -4582,6 +5281,10 @@ testPaper.addEventListener("change", () => {
 
 function loadTestPaperRender() {
 
+    const option3 = document.createElement("option");
+    option3.innerHTML = "phonetic3000ByLevel";
+    option3.value = "phonetic3000ByLevel"
+    testPaper.appendChild(option3)
     for (let i = 1; i <= 10; i++) {
 
         const option = document.createElement("option");
@@ -4603,6 +5306,9 @@ function loadTestPaperRender() {
 loadTestPaperRender()
 
 function changeTestPaper() {
+    if(testPaper.value!="phonetic3000ByLevel")
+        isWordMode = false
+    else isWordMode = true
     switch (testPaper.value) {
         case "1":
             questions = data_1
@@ -4640,6 +5346,9 @@ function changeTestPaper() {
         case "allTestPaperTopTenQuestions2":
             questions = allTestPaperTopTenQuestions2
             break
+        case "phonetic3000ByLevel":
+            questions = phonetic3000ByLevel
+            break
         default:
             break
     }
@@ -4651,13 +5360,26 @@ function loadQuestion() {
     const questionContainer = document.getElementById("question-container");
     const optionsContainer = document.getElementById("options-container");
     const currentQues = questions[currentQuestion];
-    questionContainer.textContent = currentQuestion + " # " + currentQues.flag + ": " + currentQues.title;
+    // questionContainer.innerHTML = "<h1>tangdada</h1>";
+    if (isWordMode)
+        questionContainer.innerHTML = currentQuestion + " # " + currentQues.flag + ": " + "<h1>"+currentQues.title+"</h1>";
+    else
+        questionContainer.textContent = currentQuestion + " # " + currentQues.flag + ": " + currentQues.title;
     optionsContainer.innerHTML = "";
     currentQues.options.forEach((option, index) => {
         const button = document.createElement("button");
         button.style.display = "block"
-        button.textContent = option;
+        button.style.padding = "16px"
+        // button.textContent = option;
+        /*
+        * 选项的首个字符不需要
+        * */
+        if (isWordMode)
+            button.textContent = option.substring(2, option.length);
+        else
+            button.textContent = option;
         button.addEventListener("click", () => {
+
             /*
             * alert(option.charAt(0))
             * A
@@ -4676,6 +5398,7 @@ function loadQuestion() {
             fullAnswerAffirm()
         });
         optionsContainer.appendChild(button);
+
     });
     /*
     * 答案也打印出来
@@ -4766,7 +5489,10 @@ function loadQuestionList() {
 
         const button = document.createElement("button");
         button.textContent = i + '';
-        button.style.padding = '10px'
+        button.style.padding = '12px'
+        button.style.margin = '4px'
+
+        button.style.borderRadius = '50%'
         button.addEventListener("click", () => changeCurrentQuestion(i));
         questionList.appendChild(button);
     }
