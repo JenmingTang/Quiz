@@ -83004,6 +83004,21064 @@ const phonetic_3000_level_by_four_options_and_not_n =
             "flag": "answers amount: 1 "
         }
     ]
+
+const phonetic_5000_level_by_three_options_and_n =
+    [
+        {
+            "title": "absorb / 美[əb'zɔːrb]  / 英[əb'zɔːb;əb'sɔːb] ",
+            "options": [
+                "A) n. <古>检察官 / 财政官员 / 伯牢鸟 / 菲斯卡尔",
+                "B) v. 治好 / 恢复 / 减轻 / 和解",
+                "C) v. 吸收 / 使全神贯注 / 吞并 / 占用"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "abstract / 美['æbstrækt]  / 英['æbstrækt] ",
+            "options": [
+                "A) n. 摘要 / 抽象艺术作品 / 抽象 / 理论思考",
+                "B) n. 优秀品质 / 优点 / 价值 / 功绩",
+                "C) n. 好奇心 / 求知欲 / 奇物 / 奇事"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accent / 美['æksent]  / 英[æksent;'æksənt] ",
+            "options": [
+                "A) n. 口音 / 重音符号 / 重音 / 强调",
+                "B) v. 巩固 / 使坚强 / 使结实 / 联合",
+                "C) n. 官僚制度 / 官僚机构 / 官僚国家 / 官僚阶层"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accidentally / 美[ˌæksəˈdɛn(t)(ə)li]  / 英[aksɪˈdɛnt(ə)li] ",
+            "options": [
+                "A) adv. 意外地 / 偶然地",
+                "B) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "C) adv. 真正地 / 真实地 / 真诚地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accommodate / 美[ə'kɑːmədeɪt]  / 英[ə'kɒmədeɪt] ",
+            "options": [
+                "A) n. 性欲 / 性能力 / [胚]性别 / 性偏好",
+                "B) n. 谨慎 / 自由裁量权 / 判断力 / 考虑周到",
+                "C) v. 容纳 / 为…提供膳宿 / 迎合 / 使适应"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accommodation / 美[əˌkɑːmə'deɪʃn]  / 英[əkɒmə'deɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 不利的 / 阻碍成功的 / 有害的 / 相反的",
+                "B) n. 住处 / 通融 / 调节 / 和解",
+                "C) prep. 除…以外 / 除…之外"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accomplish / 美[ə'kɑːmplɪʃ]  / 英[ə'kʌmplɪʃ;ə'kɒm-] ",
+            "options": [
+                "A) adj. 可爱的 / 迷人的 / 彬彬有礼的",
+                "B) adv. 批判性地 / 极其 / 危重地 / 审慎地",
+                "C) v. 达到 / 完成 / 实现"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accountant / 美[ə'kaʊntənt]  / 英[ə'kaʊntənt] ",
+            "options": [
+                "A) n. 观点 / 见地 / 立场 / 视角",
+                "B) n. 会计师 / 会计人员",
+                "C) n. 优雅 / 恩典 / 期限 / 大人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accuracy / 美['ækjərəsɪ]  / 英['ækjʊrəsɪ] ",
+            "options": [
+                "A) n. 放映 / 播放 / 评估 / 检查",
+                "B) n. 准确 / <技>准确度",
+                "C) v. 提名 / 确定 / 指定 / 任命"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accurately / 美[ˈækjərətli]  / 英[ˈakjərətli] ",
+            "options": [
+                "A) adv. 精确地 / 清楚地",
+                "B) n. 小说 / 小说书",
+                "C) adv. <爱尔兰>非常 / 极其"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "acid / 美['æsɪd]  / 英['æsɪd] ",
+            "options": [
+                "A) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药",
+                "B) n. 计划 / 事业 / 企业 / 进取心",
+                "C) n. 票价 / 费用 / 旅客 / 食物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "acre / 美['eɪkər]  / 英['eɪkə] ",
+            "options": [
+                "A) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "B) v. 提名 / 确定 / 指定 / 任命",
+                "C) n. 英亩 / 土地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "activate / 美['æktɪveɪt]  / 英['æktɪveɪt] ",
+            "options": [
+                "A) adj. 相关的 / 相似的",
+                "B) n. 签证",
+                "C) v. 使活跃 / 刺激 / 使活泼 / 使产生放射性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "addiction / 美[ə'dɪkʃn]  / 英[ə'dɪkʃ(ə)n] ",
+            "options": [
+                "A) n. 决定 / 解决 / 分辨率 / 决议",
+                "B) n. 着迷，上瘾",
+                "C) n. 登记 / 注册 / 挂号 / <英>牌照号码"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "additionally / 美[ə'dɪʃənəlɪ]  / 英[ə'dɪʃənəlɪ] ",
+            "options": [
+                "A) n. 假货 / 冒充者 / 骗子 / 骗人的把戏",
+                "B) adv. 额外 / 此外 / 又",
+                "C) v. 卷入 / 沉迷于 / 满足 / 纵容"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adequate / 美['ædɪkwət]  / 英['ædɪkwət] ",
+            "options": [
+                "A) n. 本质 / <哲>本质 / 香精 / 精华",
+                "B) n. 接合点 / 边缘区域 / 联系装置 / 交界面",
+                "C) adj. 足够的 / 充足的 / 适当的 / 胜任的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adequately / 美[ˈædɪkwətli]  / 英[ˈadɪkwətli] ",
+            "options": [
+                "A) n. 海盗 / 剽窃者 / 非法无线电节目广播者 / 盗版",
+                "B) adv. 充分地 / 足够地 / 合适地",
+                "C) n. 中心语句 / 广告口号 / 标语 / 呐喊声"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adjust / 美[ə'dʒʌst]  / 英[ə'dʒʌst] ",
+            "options": [
+                "A) v. 调整 / 理算 / 适应 / 校准",
+                "B) n. 仔细观察 / 详细审查",
+                "C) n. 拥挤的人群 / 迷恋 / 粉碎 / 压榨"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "affordable / 美[ə'fɔːrdəbl]  / 英[ə'fɔːdəbəl] ",
+            "options": [
+                "A) n. 形象化的描述 / 像 / 意象",
+                "B) adj. 便宜的 / 价格合理的",
+                "C) v. 抓住 / 夺取 / 理解 / 逮捕"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aged / 美[eɪdʒd]  / 英[eɪdʒd] ",
+            "options": [
+                "A) n. 庄严仪式 / 惯例 / 礼制 / 老规矩",
+                "B) n. 关押",
+                "C) adj. 岁的 / 古老的 / 老化的 / 年老的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "agriculture / 美['æɡrɪkʌltʃər]  / 英['æɡrɪkʌltʃə] ",
+            "options": [
+                "A) adj. 不足的 / 不够的 / 不胜任的 / 缺乏能力的",
+                "B) n. 农学 / 农业 / 农艺 / 农耕",
+                "C) v. 通知 / 指导 / 命令 / 教授"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "AIDS / 美[edz]  / 英[eɪdz] ",
+            "options": [
+                "A) n. 一生 / 存在期 / 有效期 / 寿命",
+                "B) abbr. 艾滋病，获得性免疫缺陷综合征",
+                "C) n. 拥抱 / 怀抱 / 庇护"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alien / 美['eɪlɪən]  / 英['eɪlɪən] ",
+            "options": [
+                "A) n. 外国人 / 外侨 / 外星人 / 外国引进品种",
+                "B) v. 加速 / 增加 / <物理>变速 / 使加速",
+                "C) n. 检测"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alongside / 美[əˌlɔːŋ'saɪd]  / 英[əlɒŋ'saɪd] ",
+            "options": [
+                "A) v. 耕地 / 培养 / 种植 / 陶冶",
+                "B) prep. 在旁边 / 与…合作 / 同时 / 在……旁边",
+                "C) n. 狼 / 残忍的东西 / 狼音 / 色狼"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "altogether / 美[ˌɔːltə'ɡeðər]  / 英[ɔːltə'ɡeðə;ɒl-] ",
+            "options": [
+                "A) n. 配置 / 构造 / 布局 / 外形",
+                "B) adv. 彻底地 / 完全地 / 总共 / 总而言之",
+                "C) n. 出席 / 在场人数 / 到场 / 出席人数"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ambitious / 美[æm'bɪʃəs]  / 英[æm'bɪʃəs] ",
+            "options": [
+                "A) n. 毁灭 / 毁坏 / 崩溃 / 灭亡",
+                "B) adj. 有雄心的 / 有野心的 / 要求高的",
+                "C) n. 尊严 / 高贵 / 自尊 / 高位"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "amusing / 美[ə'mjuːzɪŋ]  / 英[ə'mjuːzɪŋ] ",
+            "options": [
+                "A) v. 不同 / 意见不同 / 使…相异 / 使…不同",
+                "B) adj. 逗笑的 / 供人消遣的",
+                "C) n. 口味 / 韵味 / 香味 / 滋味"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "analyst / 美['ænəlɪst]  / 英['ænəlɪst] ",
+            "options": [
+                "A) n. 业务通讯 / 时事通讯",
+                "B) n. 分析者 / 精神分析医师 / 化学分析师",
+                "C) n. 方法学 / 方法论 / 系统方法"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ancestor / 美['ænsestər]  / 英['ænsestə] ",
+            "options": [
+                "A) n. 成问题之事",
+                "B) n. 差异 / 不同 / 多样性",
+                "C) n. 祖先 / 原种 / 原型 / 被继承人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "animation / 美[ˌænɪ'meɪʃn]  / 英[ænɪ'meɪʃ(ə)n] ",
+            "options": [
+                "A) n. 活泼 / 热烈 / 激励 / 卡通片绘制",
+                "B) n. 兄弟，姊妹，同胞",
+                "C) n. 医生 / 内科医生 / 医治者 / 抚慰者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "annually / 美['ænjuəli]  / 英['ænjʊəlɪ;'ænjʊlɪ] ",
+            "options": [
+                "A) n. 满意 / 履行 / 赔偿 / 乐事",
+                "B) n. 机械部件 / <古>工人",
+                "C) adv. 每年"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "anticipate / 美[æn'tɪsɪpeɪt]  / 英[æn'tɪsɪpeɪt] ",
+            "options": [
+                "A) n. 前景 / 展望 / 景色",
+                "B) n. 着迷，上瘾",
+                "C) v. 认为…很有可能 / 预期 / 先于…行动"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "anxiety / 美[æŋ'zaɪətɪ]  / 英[æŋ'zaɪətɪ] ",
+            "options": [
+                "A) n. 忧虑 / 紧张 / <精神病学>焦虑症 / 渴望",
+                "B) v. 执行 / 创作 / 表演 / 处死",
+                "C) adv. 从戏剧角度 / 戏剧性地 / 激动人心地 / 突发惊人地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "apology / 美[ə'pɑːlədʒɪ]  / 英[ə'pɒlədʒɪ] ",
+            "options": [
+                "A) n. 专利 / 专利证 / 专利权 / 执照",
+                "B) v. 把...打晕（stun 的现在分词）",
+                "C) n. 道歉 / 勉强替代物 / 辩护"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "applicant / 美['æplɪkənt]  / 英['æplɪkənt] ",
+            "options": [
+                "A) n. 女发言人",
+                "B) n. 申请人 / 请求者",
+                "C) v. 推断 / 推论"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "appropriately / 美[əˈproʊpriətli]  / 英[əˈprəʊprɪətli] ",
+            "options": [
+                "A) adv. 合适地",
+                "B) n. 构架 / 框架 / 结构",
+                "C) n. 爆炸 / 猝发 / 迸发 / 爆发"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "arrow / 美['æroʊ]  / 英['ærəʊ] ",
+            "options": [
+                "A) adj. 内在的 / <律>属于...的 / 固有的 / 与生俱来的",
+                "B) v. 分配 / 分派 / 拨出 / 使坐落于",
+                "C) n. 箭 / 箭头符号 / 箭状物 / 箭头记号"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "artwork / 美['ɑːrtwɜːrk]  / 英['ɑːtwɜːk] ",
+            "options": [
+                "A) n. 插图 / 艺术品 / 美术品",
+                "B) n. 等级制度 / 分等级的组织 / 层级 / 神职人员",
+                "C) n. 外国人 / 陌生人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "asset / 美['æset]  / 英['æset] ",
+            "options": [
+                "A) adj. 破坏的 / 毁灭的 / 否定的 / 诋毁的",
+                "B) adj. 泰然自若的 / 哲学的 / 冷静的",
+                "C) n. 优点 / 人才 / 资产 / 有价值的人或物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assign / 美[ə'saɪn]  / 英[ə'saɪn] ",
+            "options": [
+                "A) adj. 持续的 / 正在进行的",
+                "B) n. 代理人 / <律>同 assignee",
+                "C) v. 下降 / 是…的后裔 / 遗传 / 屈尊"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assistance / 美[ə'sɪstəns]  / 英[ə'sɪstəns] ",
+            "options": [
+                "A) n. 经过 / 消逝 / 死亡 / 及格",
+                "B) n. 帮助 / 补助 / 协助 / 辅助设备",
+                "C) adj. 谦虚的 / 适中的 / 有限的 / 端庄的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assumption / 美[ə'sʌmpʃn]  / 英[ə'sʌm(p)ʃ(ə)n] ",
+            "options": [
+                "A) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "B) n. （尤指公司）合并",
+                "C) n. 假定 / 设想 / 承担 / 采取"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assure / 美[ə'ʃʊr]  / 英[ə'ʃʊə;ə'ʃɒ] ",
+            "options": [
+                "A) v. 使确信 / 保证 / 担保 / 弄清楚",
+                "B) n. 法律顾问 / 参赞 / 辅导员 / <美><爱尔兰>律师",
+                "C) n. 场地 / 舞台 / 竞技场 / 冲突场所"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "astonishing / 美[əˈstɑnəʃɪŋ]  / 英[əˈstɒnɪʃɪŋ] ",
+            "options": [
+                "A) n. 宝贝 / 亲爱的 / 普雷舍丝",
+                "B) adj. 令人大为惊奇的",
+                "C) v. 使虚弱 / 减弱 / 变弱 / 减少"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "athletic / 美[æθ'letɪk]  / 英[æθ'letɪk] ",
+            "options": [
+                "A) v. 互相作用 / 互相影响",
+                "B) n. 失望 / 沮丧 / 令人失望的人",
+                "C) adj. 强壮的 / 活跃的 / 运动员的 / 体育的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "attachment / 美[ə'tætʃmənt]  / 英[ə'tætʃmənt] ",
+            "options": [
+                "A) n. 箭 / 箭头符号 / 箭状物 / 箭头记号",
+                "B) v. 描述…的特性 / 成为…的特征 / 描绘…的特性 / 具有…的特征",
+                "C) n. 附属物 / 附加装置 / 连接"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "audio / 美['ɔːdɪoʊ]  / 英['ɔːdɪəʊ] ",
+            "options": [
+                "A) n. 音频信号 / 声音",
+                "B) v. 奋斗 / 声称 / 竞争 / 争论",
+                "C) n. 不足 / 缺少"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "awareness / 美[əˈwɛrnəs]  / 英[əˈwɛːnəs] ",
+            "options": [
+                "A) adj. 优雅的 / 雅致的 / 讲究的 / 简洁的",
+                "B) adj. 不明确的 / 模糊的 / 含糊的 / 暧昧的",
+                "C) n. 意识"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "awkward / 美['ɔːkwərd]  / 英['ɔːkwəd] ",
+            "options": [
+                "A) adj. 困难的 / 棘手的 / 尴尬的 / 笨拙的",
+                "B) n. 纪念物 / 纪念碑 / 历史遗迹 / 不朽的作品",
+                "C) n. 扳机 / 启动装置 / 触发因素 / 制滑机"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "badge / 美[bædʒ]  / 英[bædʒ] ",
+            "options": [
+                "A) n. 动机 / 缘由 / 艺术思想 / 主题",
+                "B) v. 由…组成 / 构成 / 包含",
+                "C) n. 徽章 / 证章 / 奖章 / 标志"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "balanced / 美['bælənst]  / 英['bælənst] ",
+            "options": [
+                "A) adj. 挑选的 / 选择的 / 选择性的 / 挑剔的",
+                "B) n. 人道主义者 / 慈善家 / 博爱主义者 / 基督凡人论者",
+                "C) adj. 平衡的 / 协调的 / 和谐的 / 安定的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ballet / 美[bæ'leɪ]  / 英['bæleɪ;-lɪ] ",
+            "options": [
+                "A) n. 养料的供给 / 养料的摄取 / 食物 / 营养物",
+                "B) n. 芭蕾舞 / 芭蕾舞作品 / 芭蕾舞曲 / 芭蕾舞团",
+                "C) adj. 易受攻击的 / 易受伤害的 / 脆弱的 / 有弱点的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "balloon / 美[bə'luːn]  / 英[bə'luːn] ",
+            "options": [
+                "A) n. 气球 / 热气球 / 球形大酒杯 / 气球形圆框",
+                "B) n. 氧符号：O / <化学>氧气",
+                "C) n. 小径 / 路 / 途径"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bargain / 美['bɑːrɡən]  / 英['bɑːɡɪn] ",
+            "options": [
+                "A) n. 协定 / <英>交易 / 特价商品 / 契约",
+                "B) n. 紧握 / 柄 / 旅行包",
+                "C) adj. 组织的 / 组织上的 / 机构的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "basement / 美['beɪsmənt]  / 英['beɪsmənt] ",
+            "options": [
+                "A) n. 地下室 / <地质>基底杂岩 / 地窖",
+                "B) n. 命令 / 执政权 / 授权 / 委托管理",
+                "C) n. 声乐作品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "basket / 美['bæskɪt]  / 英['bɑːskɪt] ",
+            "options": [
+                "A) n. 复杂 / 复杂性 / 复杂因素 / 复杂情况",
+                "B) n. 筐 / <篮球>篮 / 投篮得分 / 篮子",
+                "C) n. 例外 / 异议"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bat / 美[bæt]  / 英[bæt] ",
+            "options": [
+                "A) n. 栅栏 / 网格 / 输电网 / 橄榄球赛",
+                "B) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位",
+                "C) n. 球拍 / 蝙蝠 / 球棒 / 批处理文件的扩展名"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beneficial / 美[ˌbenɪ'fɪʃl]  / 英[benɪ'fɪʃ(ə)l] ",
+            "options": [
+                "A) adv. 连续地 / 反复地",
+                "B) n. 拘留 / 延迟 / 挽留 / 课后留校",
+                "C) adj. 效果好的 / 有利的 / <律>权益的 / 可享利益的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beside / 美[bɪ'saɪd]  / 英[bɪ'saɪd] ",
+            "options": [
+                "A) n. 英亩 / 土地",
+                "B) v. 创作 / 组成 / 使平静 / 排版",
+                "C) prep. 在…旁边 / 除…以外 / 与…相比 / 在旁边"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "besides / 美[bɪ'saɪdz]  / 英[bɪ'saɪdz] ",
+            "options": [
+                "A) prep. 除…以外 / 除…之外",
+                "B) adv. 此外 / 而且",
+                "C) adj. 谦虚的 / 适中的 / 有限的 / 端庄的"
+            ],
+            "answer": [
+                "B",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "bias / 美['baɪəs]  / 英['baɪəs] ",
+            "options": [
+                "A) n. 技工 / <古>劳工 / 工匠",
+                "B) adj. 可辨别的 / 有区别的 / 分开的 / 独特的",
+                "C) n. 偏见 / 偏袒 / 斜裁 / <滚木球>偏重心球形"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bid / 美[bɪd]  / 英[bɪd] ",
+            "options": [
+                "A) n. 满意 / 满足 / 投赞成票的贵族院议员 / 容量",
+                "B) v. 拘留 / 扣押 / 留住 / 耽搁",
+                "C) n. 出价 / 投标 / 努力 / 叫牌"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "biological / 美[ˌbaɪə'lɑːdʒɪkl]  / 英[baɪə(ʊ)'lɒdʒɪk(ə)l] ",
+            "options": [
+                "A) n. 梁 / 横梁 / 光线 / 笑容",
+                "B) adj. 生物学的 / 生物体的 / 生物的 / 加酶的",
+                "C) n. 歌剧 / 歌剧院 / <乐>作品（opus 的复数）"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "blanket / 美['blæŋkɪt]  / 英['blæŋkɪt] ",
+            "options": [
+                "A) n. 毯子 / <印刷>橡皮布 / <喻>覆盖物 / 毯状物",
+                "B) v. 插入 / 干预 / 干涉 / 调停",
+                "C) adv. 靠那个 / 借以"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "blow / 美[bloʊ]  / 英[bləʊ] ",
+            "options": [
+                "A) adj. 成熟的 / 充分考虑的 / 到期的 / 成年人的",
+                "B) n. 重击 / 震惊 / 失望 / 开花",
+                "C) adj. 无先例的 / 前所未闻的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bold / 美[boʊld]  / 英[bəʊld] ",
+            "options": [
+                "A) v. 授权 / 批准",
+                "B) n. 黑体字 / 粗体字 / 博尔德",
+                "C) v. 加强 / 使坚强 / 变强 / 巩固"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bombing / 美[ˈbɑmɪŋ]  / 英[ˈbɒmɪŋ] ",
+            "options": [
+                "A) adv. 最近 / 不久前",
+                "B) n. 铝 / <美>同 aluminium",
+                "C) n. 轰炸 / 炸弹袭击"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "boost / 美[buːst]  / 英[buːst] ",
+            "options": [
+                "A) n. 经销商 / 发牌者 / 交易员 / 商人",
+                "B) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬",
+                "C) n. 名人 / 要人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bound / 美[baʊnd]  / 英[baʊnd] ",
+            "options": [
+                "A) n. 臀部 / 屋脊 / 蔷薇果 / 忧郁",
+                "B) n. 解放 / 解脱",
+                "C) n. 界限 / 限制 / 范围 / 跳跃"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "brick / 美[brɪk]  / 英[brɪk] ",
+            "options": [
+                "A) n. 结盟 / 同盟者 / 协约国 / 伙伴",
+                "B) n. 诊断 / 判断 / 特征简介",
+                "C) n. 砖 / 砖形物 / <英>积木 / 心肠好的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "briefly / 美[ˈbrifli]  / 英[ˈbriːfli] ",
+            "options": [
+                "A) n. 小屋 / 客舱 / 船舱",
+                "B) adv. 短暂地 / 简洁地 / 唐突无礼地 / 简言之",
+                "C) n. 激进分子"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "broadcaster / 美[ˈbrɔdkæstər]  / 英[ˈbrɔːdkɑːstə] ",
+            "options": [
+                "A) n. <计算机>图表",
+                "B) adj. 岁的 / 古老的 / 老化的 / 年老的",
+                "C) n. 播音员"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "broadly / 美['brɔːdlɪ]  / 英['brɔːdlɪ] ",
+            "options": [
+                "A) n. <罕>颠覆 / 翻转 / 革命 / 破灭",
+                "B) adv. 大体地 / 宽阔地 / 明显地 / 粗鄙地",
+                "C) n. 放入物 / 被操作物 / 投入 / 输入电路"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "buck / 美[bʌk]  / 英[bʌk] ",
+            "options": [
+                "A) n. 钱 / 雄鹿 / 年轻的印第安人或黑人",
+                "B) n. 道歉 / 勉强替代物 / 辩护",
+                "C) n. 宽容 / 公差 / 容限 / 耐药性"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bug / 美[bʌɡ]  / 英[bʌɡ] ",
+            "options": [
+                "A) n. 扰乱 / 干扰 / 阻挡犯规 / 干涉",
+                "B) n. 小虫 / 窃听器 / 计算机程序中的错误 / 故障",
+                "C) n. 基础结构，基础设施"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cabin / 美['kæbɪn]  / 英['kæbɪn] ",
+            "options": [
+                "A) n. 不可避免的情形",
+                "B) n. 预报 / 预测 / 预想",
+                "C) n. 小屋 / 客舱 / 船舱"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "canal / 美[kə'næl]  / 英[kə'næl] ",
+            "options": [
+                "A) n. 运河 / 灌溉水渠 / 管",
+                "B) v. 凝视 / 沉思 / 注视 / 思忖",
+                "C) n. 难民 / 避难人 / 流亡者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "candle / 美['kændl]  / 英['kænd(ə)l] ",
+            "options": [
+                "A) n. 船 / 舰 / 容器 / 血管",
+                "B) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "C) adv. 因此 / 结果 / 所以"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "carbon / 美['kɑːrbən]  / 英['kɑːbən] ",
+            "options": [
+                "A) n. 合作农场 / 合作企业 / 合作社",
+                "B) n. <化>碳原子 / 炭棒 / 复写纸",
+                "C) n. 黑体字 / 粗体字 / 博尔德"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "castle / 美['kæsl]  / 英['kɑːs(ə)l] ",
+            "options": [
+                "A) prep. 在旁边 / 与…合作 / 同时 / 在……旁边",
+                "B) n. 激进分子 / 好斗分子 / 富有战斗精神的人",
+                "C) n. 城堡 / 宅邸 / 车 / 象棋中的车"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "casual / 美['kæʒʊəl]  / 英['kæʒjʊəl;-zj-] ",
+            "options": [
+                "A) adj. 永恒的 / 永存的 / 本质不变的 / 上帝",
+                "B) n. 铁匠铺 / 锻铁炉 / 锻造车间 / 铁工厂",
+                "C) n. 偶尔做某事的人 / 临时工 / 便装"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cave / 美[keɪv]  / 英['keɪvɪ] ",
+            "options": [
+                "A) n. 竞争者",
+                "B) n. 洞穴",
+                "C) n. 上帝的祝福 / 祝福 / 赐福 / 祷告"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "certainty / 美['sɜːrtntɪ]  / 英['sɜːt(ə)ntɪ;-tɪn-] ",
+            "options": [
+                "A) adv. 精确地 / 清楚地",
+                "B) n. 确实性 / 自信的神态 / 必然",
+                "C) adj. 强壮的 / 活跃的 / 运动员的 / 体育的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "certificate / 美[sər'tɪfɪkət]  / 英[sə'tɪfɪkət] ",
+            "options": [
+                "A) n. 证书 / 执照",
+                "B) n. 口味 / 韵味 / 香味 / 滋味",
+                "C) n. 官僚制度 / 官僚机构 / 官僚国家 / 官僚阶层"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "challenging / 美['tʃælɪndʒɪŋ]  / 英['tʃælɪn(d)ʒɪŋ] ",
+            "options": [
+                "A) adj. 挑战性的 / 考验能力的",
+                "B) prep. 在…下方 / 在…的里层 / 在…掩藏下 / 在…的背后",
+                "C) v. 变紧 / 绷紧 / 变得更严格 / 使变紧"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "championship / 美['tʃæmpɪənʃɪp]  / 英['tʃæmpɪənʃɪp] ",
+            "options": [
+                "A) n. 老手 / 退伍军人 / 老兵 / 老运动员",
+                "B) n. 传说 / 著名人物 / 图例 / 刻印文字",
+                "C) n. 锦标赛 / 强力支持 / 极力保护 / 冠军称号"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "charming / 美['tʃɑːrmɪŋ]  / 英['tʃɑːmɪŋ] ",
+            "options": [
+                "A) n. 封条 / 密封 / 印章 / 海豹",
+                "B) exclam. 了不起啊 / 得了",
+                "C) adj. 可爱的 / 迷人的 / 彬彬有礼的"
+            ],
+            "answer": [
+                "C",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "chase / 美[tʃeɪs]  / 英[tʃeɪs] ",
+            "options": [
+                "A) v. 恳求 / 为陈述 / 争辩 / <律>辩护",
+                "B) adv. 据传，据报道",
+                "C) n. 活版架 / 追逐 / 追赶 / 追击"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cheek / 美[tʃiːk]  / 英[tʃiːk] ",
+            "options": [
+                "A) v. 注册 / 卷起 / 入学 / 使入会",
+                "B) n. 订约人 / 承包人 / 承包商",
+                "C) n. 脸颊 / 鲁莽 / 无礼 / 臀部"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cheer / 美[tʃɪr]  / 英[tʃɪə] ",
+            "options": [
+                "A) v. 凝视 / 沉思 / 注视 / 思忖",
+                "B) n. 呼叫鼓劲声 / 喝彩声 / 欢呼 / 令人愉快的事",
+                "C) v. 具体化 / 体现 / 包含 / 收录"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "chop / 美[tʃɑːp]  / 英[tʃɒp] ",
+            "options": [
+                "A) n. 中间事物 / 掌握中等知识水平的人 / 中间体 / 媒介",
+                "B) n. 砍 / 排骨 / 削球 / 品牌",
+                "C) adv. 精确地 / 清楚地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "circuit / 美['sɜːrkɪt]  / 英['sɜːkɪt] ",
+            "options": [
+                "A) n. 环线 / 环行 / <电子>电路，回路 / 一圈",
+                "B) n. 方面 / 特征 / 维",
+                "C) v. 纳入 / 使组成公司"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "civilization / 美[ˌsɪvələ'zeɪʃn]  / 英[ˌsɪvɪlaɪ'zeɪʃ(ə)n] ",
+            "options": [
+                "A) n. <非正式>备忘录",
+                "B) n. 文明 / 文明进程 / 舒适便捷的现代生活 / 文化",
+                "C) v. 解决 / 克服 / 压倒 / 胜过"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "clarify / 美['klærəfaɪ]  / 英['klærɪfaɪ] ",
+            "options": [
+                "A) n. 激活 / 启动 / 触发 / 活化",
+                "B) n. 浏览者 / 浏览器 / 吃嫩叶的动物",
+                "C) v. 澄清 / 讲清 / 烧熔以清除杂质 / 阐明"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "classify / 美['klæsɪfaɪ]  / 英['klæsɪfaɪ] ",
+            "options": [
+                "A) adj. 泰然自若的 / 哲学的 / 冷静的",
+                "B) v. 把…分类 / 将定为机密 / 分类 / 分等",
+                "C) n. 部分 / 份额 / 体积 / 比例"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cliff / 美[klɪf]  / 英[klɪf] ",
+            "options": [
+                "A) n. 一生 / 存在期 / 有效期 / 寿命",
+                "B) adv. 极度地 / 非常 / 如死一般地",
+                "C) n. 悬崖 / 绝壁"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "clinic / 美['klɪnɪk]  / 英['klɪnɪk] ",
+            "options": [
+                "A) v. 使产生动机 / 激发积极性 / 刺激 / 使有动机",
+                "B) n. 诊所 / 门诊部 / 短期课程 / 临床",
+                "C) n. 箭 / 箭头符号 / 箭状物 / 箭头记号"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "clip / 美[klɪp]  / 英[klɪp] ",
+            "options": [
+                "A) n. 胸针 / 回纹针 / 修剪 / 剪报",
+                "B) n. 栅栏 / 网格 / 输电网 / 橄榄球赛",
+                "C) n. 专利 / 专利证 / 专利权 / 执照"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coincidence / 美[koʊ'ɪnsɪdəns]  / 英[kəʊ'ɪnsɪdəns] ",
+            "options": [
+                "A) n. 巧合 / 符合 / 同时发生 / 一致",
+                "B) n. 帝国 / 大企业 / 企业集团 / 广泛活动",
+                "C) n. 识别 / 鉴定 / 身份证明 / 认同感"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "collector / 美[kə'lektər]  / 英[kə'lektə] ",
+            "options": [
+                "A) v. 暂不实行 / 暂停 / 悬浮 / <乐>延留",
+                "B) n. 诊断 / 判断 / 特征简介",
+                "C) n. 收集人 / 收集物 / 集电极 / 收税员"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "colony / 美['kɑːlənɪ]  / 英['kɒlənɪ] ",
+            "options": [
+                "A) v. 授权 / 批准",
+                "B) n. 殖民地 / 菌落 / 种群 / 动物栖息地",
+                "C) adj. 广阔的 / 广大的 / 粗放的 / 规模大的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "comic / 美['kɑːmɪk]  / 英['kɒmɪk] ",
+            "options": [
+                "A) n. 喜剧演员 / 连环漫画 / 滑稽人物",
+                "B) n. 匍匐前进 / 自由泳 / 爬行",
+                "C) adj. 全国范围的 / 全国性的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commander / 美[kə'mændər]  / 英[kə'mɑːndə] ",
+            "options": [
+                "A) n. 入住者 / 同院病人 / 同狱犯人 / 同被收容者",
+                "B) n. 警察队长 / 司令官 / 指挥官",
+                "C) adv. 彻底地 / 完全地 / 总共 / 总而言之"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "comparative / 美[kəm'pærətɪv]  / 英[kəm'pærətɪv] ",
+            "options": [
+                "A) n. 苦恼 / 苦难 / 可悲情况 / 穷困",
+                "B) adv. 在附近",
+                "C) n. 比较级 / 对手"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "completion / 美[kəm'pliːʃn]  / 英[kəm'pliːʃn] ",
+            "options": [
+                "A) n. 忽略 / 疏漏 / 玩忽 / 怠慢",
+                "B) n. 完成 / 完满 / 填写表格 / 实现",
+                "C) n. 伴侣 / 配偶 / 助手 / 老兄"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compose / 美[kəm'poʊz]  / 英[kəm'pəʊz] ",
+            "options": [
+                "A) n. 下摆 / 一圈 / 膝盖 / 山坳",
+                "B) adj. 有资格做的 / 符合条件的 / 合适的 / 中意的",
+                "C) v. 创作 / 组成 / 使平静 / 排版"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "composer / 美[kəm'poʊzər]  / 英[kəm'pəʊzə] ",
+            "options": [
+                "A) adv. 充分地 / 足够地 / 合适地",
+                "B) n. 作曲家 / 作家，著作者 / 设计者",
+                "C) n. 着迷"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compound / 美['kɑːmpaʊnd]  / 英['kɒmpaʊnd] ",
+            "options": [
+                "A) n. 笨蛋，傻瓜 / 白痴",
+                "B) n. 复合物 / 混合物 / 化合物 / 复合词",
+                "C) adj. 战争的，尚武的 / 好战的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "comprise / 美[kəm'praɪz]  / 英[kəm'praɪz] ",
+            "options": [
+                "A) n. 大屠杀（尤指种族灭绝）",
+                "B) v. 由…组成 / 构成 / 包含",
+                "C) n. 监狱 / 监牢 / 拘留所"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compulsory / 美[kəm'pʌlsərɪ]  / 英[kəm'pʌlsərɪ] ",
+            "options": [
+                "A) adj. 必须做的 / 规定的 / 义务的 / 必修的",
+                "B) n. 咨询 / 辅导 / 建议",
+                "C) n. 歌剧 / 歌剧院 / <乐>作品（opus 的复数）"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "concrete / 美['kɑːŋkriːt]  / 英['kɒŋkriːt] ",
+            "options": [
+                "A) n. 混凝土 / 具体物 / 凝结物",
+                "B) v. 认为…很有可能 / 预期 / 先于…行动",
+                "C) n. 天赋 / 科 / 院 / 全体教员"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confess / 美[kən'fes]  / 英[kən'fes] ",
+            "options": [
+                "A) n. 一组镜头 / 尺码 / 长度 / 英尺长度",
+                "B) v. 认罪 / 承认 / 坦白 / 忏悔",
+                "C) n. 涉及范围 / 适用范围 / 覆盖 / 新闻报道"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confusion / 美[kən'fjuːʒn]  / 英[kən'fjuːʒ(ə)n] ",
+            "options": [
+                "A) n. 不确定 / 疑惑 / 慌张 / 困惑",
+                "B) adj. 极好的 / 极吸引人的",
+                "C) n. 遗产"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consequently / 美['kɑːnsɪkwentlɪ]  / 英['kɒnsɪkwəntlɪ] ",
+            "options": [
+                "A) adv. 因此 / 结果 / 所以",
+                "B) n. 桌面 / 台式机",
+                "C) n. <常贬或幽默>知名人士 / 杰出人物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conservation / 美[ˌkɑːnsər'veɪʃn]  / 英[kɒnsə'veɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 强壮的 / 活跃的 / 运动员的 / 体育的",
+                "B) n. 保护 / 保存 / 修复 / 节约",
+                "C) v. 奋斗 / 声称 / 竞争 / 争论"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "considerable / 美[kən'sɪdərəbl]  / 英[kən'sɪd(ə)rəb(ə)l] ",
+            "options": [
+                "A) n. 修正 / 修正案 / 改善 / 修正条款",
+                "B) adj. 相当大的 / 相当多的 / 相当重要的 / 显要的",
+                "C) n. 设备 / 复杂结构 / 注释 / 器官"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "considerably / 美[kənˈsɪd(ə)rəbli]  / 英[kənˈsɪd(ə)rəbli] ",
+            "options": [
+                "A) adv. 相当多地",
+                "B) n. 辞职 / 辞呈 / <棋>认输 / 放弃",
+                "C) n. 警察 / <爱尔兰>精明 / 管纱"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consistently / 美[kənˈsɪstəntli]  / 英[kənˈsɪst(ə)ntli] ",
+            "options": [
+                "A) n. 限制 / 限定 / 约束 / 束缚",
+                "B) v. 支持 / 支撑 / 维持 / 鼓励",
+                "C) adv. 一贯地 / 始终如一地 / 不断地 / 始终 / 连贯一致地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conspiracy / 美[kən'spɪrəsɪ]  / 英[kən'spɪrəsɪ] ",
+            "options": [
+                "A) n. 辞职 / 辞呈 / <棋>认输 / 放弃",
+                "B) n. 感觉 / 知觉 / 轰动 / 觉察",
+                "C) n. 阴谋，密谋 / 共谋"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consult / 美[kən'sʌlt]  / 英[kən'sʌlt] ",
+            "options": [
+                "A) n. 范围 / 视野 / 眼界 / 导弹射程",
+                "B) n. 朋客摇滚乐 / 废物 / 小阿飞 / 年轻无知的人",
+                "C) v. 请教 / 向咨询 / 和…商量 / 查阅"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consultant / 美[kən'sʌltənt]  / 英[kən'sʌltənt] ",
+            "options": [
+                "A) v. 挨饿 / 饿死 / 使匮乏 / 渴望",
+                "B) n. 关押",
+                "C) n. 顾问 / 会诊医师 / 咨询者 / 会诊医生"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consumption / 美[kən'sʌmpʃn]  / 英[kən'sʌm(p)ʃ(ə)n] ",
+            "options": [
+                "A) v. 支持 / 支撑 / 维持 / 鼓励",
+                "B) n. 身体耗损 / 消费 / 消耗",
+                "C) n. 巧合 / 符合 / 同时发生 / 一致"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "controversial / 美[ˌkɑːntrə'vɜːrʃl]  / 英[kɒntrə'vɜːʃ(ə)l] ",
+            "options": [
+                "A) adj. 引起争论的 / 有争议的 / 有争论的",
+                "B) n. 名人 / 要人",
+                "C) v. 补偿 / 抵消 / 校正 / 平衡"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "controversy / 美['kɑːntrəvɜːrsɪ]  / 英['kɒntrəvɜːsɪ;kən'trɒvəsɪ] ",
+            "options": [
+                "A) n. 崭露头角 / 初次登台 / 开张 / 初涉社交",
+                "B) n. 转变 / <律>侵权行为 / 兑换 / 改变信仰",
+                "C) n. 争论 / 争吵 / 论战 / 辩论"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "convenience / 美[kən'viːnɪəns]  / 英[kən'viːnɪəns] ",
+            "options": [
+                "A) n. 方便 / 便利设施 / 便利 / 厕所",
+                "B) n. 大陆 / 本土",
+                "C) n. 计算 / 评估 / 估定 / 估计"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "convention / 美[kən'venʃn]  / 英[kən'venʃ(ə)n] ",
+            "options": [
+                "A) n. 新闻工作 / 新闻业 / 报章杂志 / 新闻报道",
+                "B) n. 行为规则 / 惯例 / 大会 / 习俗",
+                "C) n. 专利 / 专利证 / 专利权 / 执照"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conventional / 美[kən'venʃənl]  / 英[kən'venʃ(ə)n(ə)l] ",
+            "options": [
+                "A) adj. 传统的 / 常规的 / 常见的 / 惯例的",
+                "B) n. 咨询 / 辅导 / 建议",
+                "C) n. 氧符号：O / <化学>氧气"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "convey / 美[kən'veɪ]  / 英[kən'veɪ] ",
+            "options": [
+                "A) n. 男主持 / 修道院院长",
+                "B) v. 表达 / 传递 / 运输 / 让与",
+                "C) n. 铜色的 / 铜币 / 铜 / 警察"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "convincing / 美[kən'vɪnsɪŋ]  / 英[kən'vɪnsɪŋ] ",
+            "options": [
+                "A) n. 饥饿 / 饥荒 / 渴望",
+                "B) adv. 而且 / 加之 / 再者 / 更有甚者",
+                "C) adj. 有说服力的 / 令人信服的 / 绝对的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cop / 美[kɑːp]  / 英[kɒp] ",
+            "options": [
+                "A) n. 环线 / 环行 / <电子>电路，回路 / 一圈",
+                "B) n. 困境 / 难题 / 两刀论法 / 进退两难",
+                "C) n. 警察 / <爱尔兰>精明 / 管纱"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cope / 美[koʊp]  / 英[kəʊp] ",
+            "options": [
+                "A) n. 不同 / 优秀 / 特性 / 荣誉、勋章",
+                "B) n. 优雅 / 恩典 / 期限 / 大人",
+                "C) n. 斗篷式长袍 / 法衣 / <文>斗篷状物 / 长袍"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "corporation / 美[ˌkɔːrpə'reɪʃn]  / 英[kɔːpə'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 涉及范围 / 适用范围 / 覆盖 / 新闻报道",
+                "B) n. 公司 / 法人 / 社团",
+                "C) adj. 光荣的 / 壮观的 / 辉煌的 / 极好的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "corridor / 美['kɔːrɪdɔːr]  / 英['kɒrɪdɔː] ",
+            "options": [
+                "A) n. 争论 / 争辩 / 争执 / 争夺",
+                "B) v. 背叛 / 出卖 / 泄露 / 露出…迹象",
+                "C) n. 走廊 / 过道 / 连接地 / 地带"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "counter / 美['kaʊntər]  / 英['kaʊntə] ",
+            "options": [
+                "A) n. 租金 / 租赁 / <北美>租用的房或车",
+                "B) n. 柜台 / 计算器 / 对立面",
+                "C) adj. 困难的 / 棘手的 / 尴尬的 / 笨拙的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coverage / 美['kʌvərɪdʒ]  / 英['kʌvərɪdʒ] ",
+            "options": [
+                "A) n. 涉及范围 / 适用范围 / 覆盖 / 新闻报道",
+                "B) v. 成为无效 / 终止 / 死亡 / 呼气",
+                "C) n. 小派别 / 小集团 / 派别 / 纪实小说"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cowboy / 美['kaʊbɔɪ]  / 英['kaʊbɔɪ] ",
+            "options": [
+                "A) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位",
+                "B) n. 牛仔 / <非正式>不诚实的人 / 莽撞的人 / 牧童",
+                "C) n. 透明，透明性，透明度 / 幻灯片"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "crack / 美[kræk]  / 英[kræk] ",
+            "options": [
+                "A) v. 授权 / 批准",
+                "B) n. 胜利 / 伟绩 / 喜悦 / 欢欣",
+                "C) n. 裂缝 / 爆裂声 / 俏皮话 / 噼啪声"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "craft / 美[kræft]  / 英[krɑːft] ",
+            "options": [
+                "A) n. 工艺 / 手艺 / 船 / 艇",
+                "B) n. 摘录 / 引文 / 提取物",
+                "C) n. 人群 / 暴民 / 乌合之众 / 民众"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "creativity / 美[ˌkrieɪˈtɪvədi]  / 英[ˌkriːeɪˈtɪvɪti] ",
+            "options": [
+                "A) n. 地球 / 世界 / 球状物 / 球体",
+                "B) n. 创造性",
+                "C) adj. 凶残的 / 恶毒的 / 堕落的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "critically / 美[ˈkrɪdəkli]  / 英[ˈkrɪtɪkli] ",
+            "options": [
+                "A) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "B) v. 坚持 / 执意 / 持续 / 延续",
+                "C) adv. 批判性地 / 极其 / 危重地 / 审慎地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cruise / 美[kruːz]  / 英[kruːz] ",
+            "options": [
+                "A) n. 航游 / 游弋 / 巡航 / 乘船游览",
+                "B) n. 哲学家 / 哲人",
+                "C) n. 改善 / 复兴 / 苏醒 / 再生效"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cue / 美[kjuː]  / 英[kjuː] ",
+            "options": [
+                "A) adv. 向前 / 露出 / 以后 / 自…以后",
+                "B) n. 适应 / 改编成的电影 / 适应性变化过程 / 改编",
+                "C) n. 提示 / 暗示 / 线索 / 行动信号"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "curious / 美['kjʊrɪəs]  / 英['kjʊərɪəs] ",
+            "options": [
+                "A) n. 船 / 舰 / 容器 / 血管",
+                "B) n. 肿瘤，肿块",
+                "C) adj. 好奇的 / 好求知的 / 奇特的 / 离奇古怪的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "curriculum / 美[kə'rɪkjələm]  / 英[kʌ'rɪkjʊləm] ",
+            "options": [
+                "A) n. 全部课程 / 课程",
+                "B) adv. 必然地 / 不可避免地 / 不出所料地",
+                "C) n. 擦 / 抹布 / 划变 / 擦拭"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cute / 美[kjuːt]  / 英[kjuːt] ",
+            "options": [
+                "A) n. 大学一年级学生 / 新手",
+                "B) adj. 漂亮的 / 可爱的 / 聪明的",
+                "C) n. 性别状态 / 性 / 性别 / 性交"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dairy / 美['derɪ]  / 英['deərɪ] ",
+            "options": [
+                "A) n. 乳品店 / 奶制品 / 乳品厂",
+                "B) n. 岸 / 滨 / 沿海国家 / 支柱",
+                "C) n. 可取的东西 / 合意的人 / 合意的人或事物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dare / 美[der]  / 英[deə] ",
+            "options": [
+                "A) n. 观点 / 见地 / 立场 / 视角",
+                "B) n. 挑战 / 挑动",
+                "C) n. <罕>颠覆 / 翻转 / 革命 / 破灭"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "darkness / 美['dɑːrknəs]  / 英['dɑːknəs] ",
+            "options": [
+                "A) n. 黑暗 / 邪恶 / 夜晚 / 阴郁",
+                "B) n. <律>遗赠不动产的条款 / 遗赠",
+                "C) adj. 意识形态的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "database / 美['deɪtəbeɪs]  / 英['deɪtəbeɪs] ",
+            "options": [
+                "A) v. 建造 / 搭建 / 竖立 / 创立",
+                "B) n. 重音符 / acute accent 的简称",
+                "C) n. 数据库"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deadline / 美['dedlaɪn]  / 英['dedlaɪn] ",
+            "options": [
+                "A) v. 计算 / 估计 / 依靠 / 确信",
+                "B) n. 旋律 / 主旋律 / 悦耳的音乐 / 悦耳",
+                "C) n. 最终期限 / <史>死线 / 截止期限，最后期限"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deadly / 美['dedlɪ]  / 英['dedlɪ] ",
+            "options": [
+                "A) adj. 刺耳的 / 严酷的 / 粗糙的",
+                "B) adj. 致命的 / 非常的 / 死一般的",
+                "C) adv. 极度地 / 非常 / 如死一般地"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "dealer / 美['diːlər]  / 英['diːlə] ",
+            "options": [
+                "A) n. 经销商 / 发牌者 / 交易员 / 商人",
+                "B) v. 获得 / 实现 / 达到 / 到达",
+                "C) v. 发生 / 使成为法律 / 扮演 / 颁布"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deck / 美[dek]  / 英[dek] ",
+            "options": [
+                "A) n. 官僚制度 / 官僚机构 / 官僚国家 / 官僚阶层",
+                "B) n. 捕食者 / 食肉动物 / 掠夺者",
+                "C) n. 甲板 / 放音装置 / 行李仓 / 露天平台"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "defender / 美[dɪ'fendər]  / 英[dɪ'fendə(r)] ",
+            "options": [
+                "A) adv. 严重地 / 严厉地 / 苛刻地 / 简朴地 / 严肃地 / 极度",
+                "B) n. 保卫者 / 辩护者 / 拥护者 / 卫冕者",
+                "C) n. 奖牌 / 奖章 / 勋章 / 纪念章"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "delete / 美[dɪ'liːt]  / 英[dɪ'liːt] ",
+            "options": [
+                "A) n. 室内 / 里面 / 内部 / 本质",
+                "B) n. 删除命令 / 删除键",
+                "C) adj. 金色的 / 金制的 / 含金的 / 非常珍贵的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "delighted / 美[dɪ'laɪtɪd]  / 英[dɪ'laɪtɪd] ",
+            "options": [
+                "A) adj. 愉快的 / 欣喜的 / 高兴的",
+                "B) adv. 现 / 现今 / 时下",
+                "C) n. <北美>人行道"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "democracy / 美[dɪ'mɑːkrəsɪ]  / 英[dɪ'mɒkrəsɪ] ",
+            "options": [
+                "A) n. 专利 / 专利证 / 专利权 / 执照",
+                "B) n. 民主主义 / 民主制度 / 民主制国家 / 民主",
+                "C) n. 自由 / 自由的化身 / 许可 / 冒失"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "democratic / 美[ˌdemə'krætɪk]  / 英[demə'krætɪk] ",
+            "options": [
+                "A) adj. 民主的 / 民主党的 / 大众的 / 主张平等的",
+                "B) adv. 非同寻常地",
+                "C) n. 不足额 / 赤字 / 亏损 / 失分数"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "demonstration / 美[ˌdemən'streɪʃn]  / 英[demən'streɪʃ(ə)n] ",
+            "options": [
+                "A) n. 现场演奏会 / 旋转物 / 鱼叉 / 临时工作",
+                "B) n. 证明 / 示威集会 / 示范 / 感情流露",
+                "C) n. 决定 / 解决 / 分辨率 / 决议"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "depart / 美[dɪ'pɑːrt]  / 英[dɪ'pɑːt] ",
+            "options": [
+                "A) n. 订婚 / 预约 / 约会 / 诺言",
+                "B) v. 背离 / 出发 / 去世",
+                "C) n. 长裂缝 / 裂口 / 偷窃 / 冒牌货"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dependent / 美[dɪ'pendənt]  / 英[dɪ'pendənt] ",
+            "options": [
+                "A) v. 容纳 / 为…提供膳宿 / 迎合 / 使适应",
+                "B) n. 家眷 / 侍从 / 食客 / 受赡养者",
+                "C) adj. 悲惨的 / 可悲的 / 悲痛的 / 悲剧作品的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deposit / 美[dɪ'pɑːzɪt]  / 英[dɪ'pɒzɪt] ",
+            "options": [
+                "A) n. 棕榈树 / 棕榈叶 / 手掌 / 掌状物",
+                "B) v. 推迟 / 使…延期 / 把…放在次要地位 / 把…放在后面",
+                "C) n. 存款 / 沉积物 / 放置 / 押金"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "depression / 美[dɪ'preʃn]  / 英[dɪ'preʃ(ə)n] ",
+            "options": [
+                "A) n. 沮丧 / 抑郁 / 萧条 / 不景气",
+                "B) n. 残疾 / 无资格 / 无能 / 不利条件",
+                "C) n. 外出 / 缺席 / 不存在 / 不注意"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "derive / 美[dɪ'raɪv]  / 英[dɪ'raɪv] ",
+            "options": [
+                "A) adj. 无数的 / 数不清的",
+                "B) n. 抗议者",
+                "C) v. 从…中获得 / 源自 / 由……派生"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "destruction / 美[dɪ'strʌkʃn]  / 英[dɪ'strʌkʃ(ə)n] ",
+            "options": [
+                "A) n. 摧毁 / 杀伤 / 被杀伤 / 终结",
+                "B) n. 着迷，上瘾",
+                "C) v. 明确说明 / 具体指定"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "determination / 美[dɪˌtɜːrmɪ'neɪʃn]  / 英[dɪˌtɜːmɪ'neɪʃ(ə)n] ",
+            "options": [
+                "A) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "B) n. 罗 / 144个 / 毛利 / 总收入",
+                "C) n. 坚定不移 / 测定 / 决心 / 果断"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "devote / 美[dɪ'voʊt]  / 英[dɪ'vəʊt] ",
+            "options": [
+                "A) v. 澄清 / 讲清 / 烧熔以清除杂质 / 阐明",
+                "B) adj. 及时的 / 适时的",
+                "C) v. 将用于上 / 尽心竭力于… / 致力于 / 奉献"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "differ / 美['dɪfər]  / 英['dɪfə] ",
+            "options": [
+                "A) n. 加强的 / 集中的 / 透彻的 / 加强语气的",
+                "B) n. 忧虑 / 紧张 / <精神病学>焦虑症 / 渴望",
+                "C) v. 不同 / 意见不同 / 使…相异 / 使…不同"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dime / 美[daɪm]  / 英[daɪm] ",
+            "options": [
+                "A) v. 加强 / 使坚强 / 变强 / 巩固",
+                "B) adj. 声名狼藉的 / 无耻的 / 邪恶的 / 不名誉的",
+                "C) n. 一角硬币 / <非正式>小钱"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disability / 美[ˌdɪsə'bɪlətɪ]  / 英[dɪsə'bɪlɪtɪ] ",
+            "options": [
+                "A) n. 同情 / 可惜 / 遗憾",
+                "B) n. 偏见 / 偏袒 / 斜裁 / <滚木球>偏重心球形",
+                "C) n. 残疾 / 无资格 / 无能 / 不利条件"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disabled / 美[dɪs'eɪbld]  / 英[dɪs'eɪbld] ",
+            "options": [
+                "A) n. 经济学家，经济专家",
+                "B) adj. 有身体上的残障的 / 与残疾人有关的 / 残废的",
+                "C) v. 配备 / 装备 / 使做好思想准备 / 使有所准备"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disagreement / 美[ˌdɪsə'ɡriːmənt]  / 英[ˌdɪsə'ɡriːmənt] ",
+            "options": [
+                "A) n. 意见不一 / 不同意 / 争论 / 意见不同",
+                "B) n. 认识 / 识别 / 承认 / 赏识",
+                "C) n. 优点 / 人才 / 资产 / 有价值的人或物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disappoint / 美[ˌdɪsə'pɔɪnt]  / 英[dɪsə'pɔɪnt] ",
+            "options": [
+                "A) adj. 基本的 / 初级的 / 简单的 / 单元素的",
+                "B) v. 使失望 / 使破灭",
+                "C) n. 统治 / 控制 / 管理 / 支配"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disappointment / 美[ˌdɪsə'pɔɪntmənt]  / 英[dɪsə'pɔɪntm(ə)nt] ",
+            "options": [
+                "A) n. 失望 / 沮丧 / 令人失望的人",
+                "B) n. 混乱 / <物理>混沌 / <希腊神话>原始生命",
+                "C) n. 外国人 / 外侨 / 外星人 / 外国引进品种"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "discourage / 美[dɪs'kɜːrɪdʒ]  / 英[dɪs'kʌrɪdʒ] ",
+            "options": [
+                "A) adj. 数学的 / 数学般精确的 / 精确的",
+                "B) n. 订婚 / 预约 / 约会 / 诺言",
+                "C) v. 使灰心 / 阻止 / 使气馁"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disorder / 美[dɪs'ɔːrdər]  / 英[dɪs'ɔːdə] ",
+            "options": [
+                "A) n. 铁匠铺 / 锻铁炉 / 锻造车间 / 铁工厂",
+                "B) n. 混乱 / 骚乱 / 疾病 / 异常",
+                "C) v. 使改道 / 转移"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distant / 美['dɪstənt]  / 英['dɪstənt] ",
+            "options": [
+                "A) v. 推测 / 假定 / 擅自",
+                "B) adj. 遥远的 / 不亲密的 / 矜持的 / 冷淡的",
+                "C) n. 城堡 / 宅邸 / 车 / 象棋中的车"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distinct / 美[dɪ'stɪŋkt]  / 英[dɪ'stɪŋkt] ",
+            "options": [
+                "A) n. 修改 / 改型 / 改变",
+                "B) n. 肿瘤，肿块",
+                "C) adj. 可辨别的 / 有区别的 / 分开的 / 独特的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distinguish / 美[dɪ'stɪŋɡwɪʃ]  / 英[dɪ'stɪŋɡwɪʃ] ",
+            "options": [
+                "A) n. 招募 / 补充 / 征募新兵 / <生态>增长",
+                "B) v. 识别 / 区分 / 辨别出 / 辨别出",
+                "C) n. 环线 / 环行 / <电子>电路，回路 / 一圈"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distract / 美[dɪ'strækt]  / 英[dɪ'strækt] ",
+            "options": [
+                "A) v. 使分心 / 转移 / 分心 / <古>使困惑",
+                "B) n. 同一品种 / 属 / 类型",
+                "C) n. 礼貌 / 有礼貌的话语 / 好意 / 恩惠"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disturb / 美[dɪ'stɜːrb]  / 英[dɪ'stɜːb] ",
+            "options": [
+                "A) v. 打扰 / 弄醒 / 使不安 / 使恼怒",
+                "B) n. 桶 / 枪管 / 笔杆 / 躯干",
+                "C) n. 论述 / 谈话 / 演讲"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dive / 美[daɪv]  / 英[daɪv] ",
+            "options": [
+                "A) n. 不公正 / 不讲道义",
+                "B) n. 跳水 / 潜泳 / 潜水 / 俯冲",
+                "C) v. 超过 / 胜过"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diverse / 美[daɪ'vɜːrs]  / 英[daɪ'vɜːs;'daɪvɜːs] ",
+            "options": [
+                "A) n. 无能，无能为力，不能",
+                "B) adj. 多样的 / 相异的 / 不同的 / 多种多样的",
+                "C) n. 处罚 / 刑罚 / 不利后果 / 劣势"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diversity / 美[daɪ'vɜːrsətɪ]  / 英[daɪ'vɜːsɪtɪ;dɪ-] ",
+            "options": [
+                "A) n. 差异 / 不同 / 多样性",
+                "B) n. 播音员",
+                "C) n. 交易 / 办理 / 交流 / 议事录"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "divorce / 美[dɪ'vɔːrs]  / 英[dɪ'vɔːs] ",
+            "options": [
+                "A) adv. 仅仅 / 只不过 / 纯粹是 / 只是",
+                "B) n. 离婚 / 离婚判决 / 分离",
+                "C) v. 凝视 / 沉思 / 注视 / 思忖"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dominant / 美['dɑːmɪnənt]  / 英['dɒmɪnənt] ",
+            "options": [
+                "A) adv. 尽管如此，仍然",
+                "B) n. 后果 / <农>再生草 / 余波",
+                "C) n. 占优势的物体 / <遗传>显性性状 / <乐>属音 / 显性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "donation / 美[doʊ'neɪʃn]  / 英[də(ʊ)'neɪʃ(ə)n] ",
+            "options": [
+                "A) n. 恶魔 / 精力充沛的人 / 邪恶的事物 / 高手",
+                "B) n. 毁灭 / 毁坏 / 崩溃 / 灭亡",
+                "C) n. 捐赠物（尤指捐款）"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dot / 美[dɑːt]  / 英[dɒt] ",
+            "options": [
+                "A) n. 歌剧 / 歌剧院 / <乐>作品（opus 的复数）",
+                "B) n. 意识",
+                "C) n. 点 / 小圆点 / 微小的东西 / 嫁妆"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dramatically / 美[drəˈmædəkli]  / 英[drəˈmatɪkli] ",
+            "options": [
+                "A) v. 辞职 / 顺从 / 放弃 / 委托",
+                "B) adv. 从戏剧角度 / 戏剧性地 / 激动人心地 / 突发惊人地",
+                "C) n. 摩擦 / 碾磨 / 苦差事 / 磨"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "drought / 美[draʊt]  / 英[draʊt] ",
+            "options": [
+                "A) n. 杆 / 竿 / 棒",
+                "B) adj. 过多的 / 过分的",
+                "C) n. 长期干旱 / 旱灾 / 干旱 / 缺乏"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dull / 美[dʌl]  / 英[dʌl] ",
+            "options": [
+                "A) adj. 乏味的 / 不鲜明的 / 迟钝的 / 无趣的",
+                "B) v. 使乏味 / 使迟钝 / 使阴暗 / 缓和",
+                "C) pron. 到底是谁"
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "dump / 美[dʌmp]  / 英[dʌmp] ",
+            "options": [
+                "A) n. <英>微弱多数席位 / 岸边水生植物",
+                "B) n. 航游 / 游弋 / 巡航 / 乘船游览",
+                "C) n. 垃圾场 / <计算机>转储 / 仓库 / 无秩序地累积"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "duration / 美[dʊ'reɪʃn]  / 英[djʊ'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 环 / 循环过程 / 翻筋斗 / 圈",
+                "B) n. 持续时间 / 期间",
+                "C) n. 解放 / 解脱"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dynamic / 美[daɪ'næmɪk]  / 英[daɪ'næmɪk] ",
+            "options": [
+                "A) n. 赠品 / 捐赠物品 / 提供 / 祭品",
+                "B) adj. 毕生的，终生的",
+                "C) n. 动力 / <乐>同 dynamics / 动态"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "eager / 美['iːɡər]  / 英['iːɡə] ",
+            "options": [
+                "A) n. 砍 / 排骨 / 削球 / 品牌",
+                "B) adj. 渴望的 / 亲切的 / 热切的 / 热心的",
+                "C) n. 工作 / 占领 / 职业 / 占有"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "economics / 美[ˌiːkə'nɑːmɪks]  / 英[iːkə'nɒmɪks;ek-] ",
+            "options": [
+                "A) n. 陪审团 / 评判团 / 评审委员会 / 评判委员会",
+                "B) v. 使更容易 / 推动 / 便于 / 促进",
+                "C) npl. 经济学 / 经济情况"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "economist / 美[ɪ'kɑːnəmɪst]  / 英[ɪ'kɒnəmɪst] ",
+            "options": [
+                "A) n. 自夸 / 夸耀 / 值得夸耀的事物",
+                "B) n. 经济学家，经济专家",
+                "C) v. 使遭受 / 造成 / 给予 / 将强加于"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "editorial / 美[ˌedɪ'tɔːrɪəl]  / 英[edɪ'tɔːrɪəl] ",
+            "options": [
+                "A) adj. 持续的 / 正在进行的",
+                "B) n. 诉讼（案）",
+                "C) n. 社论 / 报刊的非广告部分"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "efficiently / 美[əˈfɪʃəntli]  / 英[ɪˈfɪʃ(ə)ntli] ",
+            "options": [
+                "A) adj. 有名望的 / 享有声望的",
+                "B) n. 偶尔做某事的人 / 临时工 / 便装",
+                "C) adv. 效率高地 / 收效大地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "elbow / 美['elboʊ]  / 英['elbəʊ] ",
+            "options": [
+                "A) v. 背离 / 出发 / 去世",
+                "B) n. 争论 / 争辩 / 争执 / 争夺",
+                "C) n. 肘 / 肘部 / 肘状物 / 弯头"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "electronics / 美[ɪˌlek'trɑːnɪks]  / 英[ɪlek'trɒnɪks;el-] ",
+            "options": [
+                "A) n. 可恶的人 / 缓慢发展 / 爬行 / 毛骨悚然的感觉",
+                "B) adj. 有身体上的残障的 / 与残疾人有关的 / 残废的",
+                "C) npl. 电子学 / 电路 / 电子器件"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "elegant / 美['elɪɡənt]  / 英['elɪɡənt] ",
+            "options": [
+                "A) n. 警察队长 / 司令官 / 指挥官",
+                "B) n. 手写本 / 打字稿 / 手稿 / 原稿",
+                "C) adj. 优雅的 / 雅致的 / 讲究的 / 简洁的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "elementary / 美[ˌelɪ'mentrɪ]  / 英[elɪ'ment(ə)rɪ] ",
+            "options": [
+                "A) n. 提示 / 暗示 / 线索 / 行动信号",
+                "B) adj. 基本的 / 初级的 / 简单的 / 单元素的",
+                "C) adj. 生物体的 / 有机体的 / 组织的 / 器官的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "eliminate / 美[ɪ'lɪmɪneɪt]  / 英[ɪ'lɪmɪneɪt] ",
+            "options": [
+                "A) adj. 狂怒的 / 有力的 / 狂暴的 / 猛烈的",
+                "B) adj. 魔法的 / 有魔力的 / 美妙的 / 似魔法的",
+                "C) v. 消除 / 根除 / 不加考虑 / 杀死"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "embrace / 美[ɪm'breɪs]  / 英[ɪm'breɪs;em-] ",
+            "options": [
+                "A) n. 拥抱 / 怀抱 / 庇护",
+                "B) n. 走廊 / 过道 / 连接地 / 地带",
+                "C) n. 和声 / 和谐 / 和睦"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "emission / 美[ɪ'mɪʃn]  / 英[ɪ'mɪʃ(ə)n] ",
+            "options": [
+                "A) n. 散发 / 排放 / 喷射 / 发行",
+                "B) n. 灰 / 骨灰 / 矿物质成分 / 奖杯",
+                "C) n. 蒸汽 / 蒸气膨胀力 / 蒸汽机车 / 精力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "emotionally / 美[əˈmoʊʃ(ə)nəli]  / 英[ɪˈməʊʃ(ə)nəli] ",
+            "options": [
+                "A) adv. 情绪上 / 感情上 / 激动地",
+                "B) adj. 有名望的 / 享有声望的",
+                "C) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "empire / 美['empaɪər]  / 英['empaɪə] ",
+            "options": [
+                "A) adj. 数学的 / 数学般精确的 / 精确的",
+                "B) n. 人质 / 抵押品",
+                "C) n. 帝国 / 大企业 / 企业集团 / 广泛活动"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enjoyable / 美[ɪn'dʒɔɪəbl]  / 英[ɪn'dʒɔɪəb(ə)l;en-] ",
+            "options": [
+                "A) adv. 每年",
+                "B) adj. 令人愉快的 / 有乐趣的 / 快乐的",
+                "C) n. 栖息地 / 产地 / 喜欢的环境"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "entertaining / 美[ˌentər'teɪnɪŋ]  / 英[entə'teɪnɪŋ] ",
+            "options": [
+                "A) n. 锦标赛 / 强力支持 / 极力保护 / 冠军称号",
+                "B) n. 发生率 / 税务负担 / 影响 / 影响范围",
+                "C) adj. 令人愉快的，娱乐性的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "entrepreneur / 美[ˌɑːntrəprə'nɜːr]  / 英[ˌɒntrəprə'nɜː] ",
+            "options": [
+                "A) n. 奉献 / 全身心投入 / 供奉 / 献身",
+                "B) n. 企业家 / 承包人 / 主办者",
+                "C) v. 先于 / 处在…的前面 / 走在…的前面 / 领先"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "envelope / 美['envəloʊp]  / 英['envələʊp;'ɒnvələʊp] ",
+            "options": [
+                "A) adv. 不久 / 一会儿 / 目前",
+                "B) n. 信封 / 外表 / 包裹物 / 包膜",
+                "C) n. 制造业"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "equip / 美[ɪ'kwɪp]  / 英[ɪ'kwɪp] ",
+            "options": [
+                "A) n. 乐观 / <哲>乐观主义",
+                "B) n. 文本 / 成绩单 / 抄本 / 文字记录",
+                "C) v. 配备 / 装备 / 使做好思想准备 / 使有所准备"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "equivalent / 美[ɪ'kwɪvələnt]  / 英[ɪ'kwɪvələnt] ",
+            "options": [
+                "A) n. 对等的人 / 对应的人 / <化>当量 / 等价物",
+                "B) adv. 相同地 / 相似地 / 同等对待地 / 类似于",
+                "C) n. 合作社 / 集体企业 / 集团 / 集合体"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "era / 美['ɪrə]  / 英['ɪərə] ",
+            "options": [
+                "A) n. 时代 / 年代 / 纪元 / <地质>代",
+                "B) adj. 磁的 / 有磁性的 / 有吸引力的 / 可磁化的",
+                "C) n. 摧毁 / 杀伤 / 被杀伤 / 终结"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "erupt / 美[ɪ'rʌpt]  / 英[ɪ'rʌpt] ",
+            "options": [
+                "A) adj. 复杂的 / 精密的 / 精致的 / 久经世故的",
+                "B) n. 领土 / 地方 / 范围 / 地域",
+                "C) v. 爆发 / 喷发 / 发疹"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "essentially / 美[ɪ'senʃəlɪ]  / 英[ɪ'senʃəlɪ] ",
+            "options": [
+                "A) n. 对峙 / 敌对 / 冲突 / 面对",
+                "B) n. 能力 / 计算机性能 / 力量 / 性能",
+                "C) adv. 基本上，本质上"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ethic / 美['eθɪk]  / 英['eθɪk] ",
+            "options": [
+                "A) adj. 有立法权的 / 立法的 / 法律的 / 立法机关的",
+                "B) v. 代替 / 放回 / 更换 / 把…放回原处",
+                "C) n. 道德规范，伦理标准"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ethnic / 美['eθnɪk]  / 英['eθnɪk] ",
+            "options": [
+                "A) n. <北美>少数民族成员",
+                "B) adj. 合格的 / 有能力的 / 能干的 / 足够的",
+                "C) n. 伤亡人数 / 通行费 / 代价 / 钟声"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "evaluation / 美[əˌvæljəˈweɪʃ(ə)n]  / 英[ɪˌvaljʊˈeɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 怪诞的，古怪的，奇形怪状的",
+                "B) n. 鼠 / <北美>常客 / <美>女用发垫 / 卑鄙小人",
+                "C) n. 评估"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "evolution / 美[ˌiːvə'luːʃn]  / 英[ˌiːvə'luːʃ(ə)n;'ev-] ",
+            "options": [
+                "A) n. 进化 / 演变 / 进展",
+                "B) n. 混凝土 / 具体物 / 凝结物",
+                "C) v. 使减少到最小量 / 低估 / 轻视 / 使减到最少"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "evolve / 美[ɪ'vɑːlv]  / 英[ɪ'vɒlv] ",
+            "options": [
+                "A) prep. 在旁边 / 与…合作 / 同时 / 在……旁边",
+                "B) abbr. for 爱达荷 / 身份证件",
+                "C) v. 逐步发展 / 演变 / 发展 / 进化"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exceed / 美[ɪk'siːd]  / 英[ɪk'siːd;ek-] ",
+            "options": [
+                "A) v. 超过 / 胜过",
+                "B) n. 额外给予的报酬 / <英>余利 / 好处 / 奖金",
+                "C) adj. 赞同的 / 称赞的 / 有利的 / 促进的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exception / 美[ɪk'sepʃn]  / 英[ɪk'sepʃ(ə)n;ek-] ",
+            "options": [
+                "A) n. 解放 / 解脱",
+                "B) n. 隐隐出现 / 织布机 / 若隐若现的景象 / 暗影",
+                "C) n. 例外 / 异议"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "excessive / 美[ɪk'sesɪv]  / 英[ɪk'sesɪv;ek-] ",
+            "options": [
+                "A) adj. 过多的 / 过分的",
+                "B) n. 打击 / 中风 / 轻抚",
+                "C) n. 不公正 / 不讲道义"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exclude / 美[ɪk'skluːd]  / 英[ɪk'skluːd;ek-] ",
+            "options": [
+                "A) n. 一组镜头 / 尺码 / 长度 / 英尺长度",
+                "B) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "C) "
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exotic / 美[ɪɡ'zɑːtɪk]  / 英[ɪɡ'zɒtɪk;eɡ-] ",
+            "options": [
+                "A) n. 抒情诗 / 歌词",
+                "B) adj. 使人心烦的",
+                "C) n. 外来植物 / 外来动物 / 外国种"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "expansion / 美[ɪk'spænʃn]  / 英[ɪk'spænʃ(ə)n;ek-] ",
+            "options": [
+                "A) n. 一生 / 存在期 / 有效期 / 寿命",
+                "B) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的",
+                "C) n. 扩展部分 / 扩大物 / 扩张"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "expedition / 美[ˌekspə'dɪʃn]  / 英[ekspɪ'dɪʃ(ə)n] ",
+            "options": [
+                "A) n. 旅行 / 出行 / 探险队 / 远征",
+                "B) n. 财富 / 珠宝 / 珍品 / 财宝",
+                "C) n. 全球化"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "expertise / 美[ˌekspɜːr'tiːz]  / 英[ˌekspɜː'tiːz] ",
+            "options": [
+                "A) n. 专门技能 / 专门知识",
+                "B) adj. 广阔的 / 广大的 / 粗放的 / 规模大的",
+                "C) v. 忍耐 / 继续存在 / 持久 / 容忍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exploit / 美[ɪk'splɔɪt]  / 英[ɪk'splɔɪt] ",
+            "options": [
+                "A) n. 大胆的表演 / 不凡的身手 / 勋绩 / 功绩",
+                "B) n. 偷窃 / 盗窃罪 / 盗窃 / 偷",
+                "C) v. 估计 / 计算"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exposure / 美[ɪk'spoʊʒər]  / 英[ɪk'spəʊʒə;ek-] ",
+            "options": [
+                "A) adj. 必须做的 / 规定的 / 义务的 / 必修的",
+                "B) n. 暴露 / 朝向 / 曝光 / 揭露",
+                "C) adv. 纯粹地 / 完全地 / 专门地 / 贞淑地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "extension / 美[ɪk'stenʃn]  / 英[ɪk'stenʃ(ə)n;ek-] ",
+            "options": [
+                "A) adv. 在附近",
+                "B) n. 延长 / 扩大 / 伸展 / 电话分机",
+                "C) adj. 热情的 / 感情强烈的 / 热烈的 / 易怒的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "extensive / 美[ɪk'stensɪv]  / 英[ɪk'stensɪv;ek-] ",
+            "options": [
+                "A) n. 制造 / 形成 / 生产 / 利润",
+                "B) v. 计算 / 估计 / 依靠 / 确信",
+                "C) adj. 广阔的 / 广大的 / 粗放的 / 规模大的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "extensively / 美[ɪkˈstɛnsəvli]  / 英[ɪkˈstɛnsɪvli] ",
+            "options": [
+                "A) n. 医生 / 内科医生 / 医治者 / 抚慰者",
+                "B) adv. 到处 / 多产地 / 大量地 / 广泛地 / 全面地 / 大面积地",
+                "C) adj. 即将来临的 / 将可得到的 / 随要随有的 / 愿意透露消息的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "extract / 美['ekstrækt]  / 英['ekstrækt] ",
+            "options": [
+                "A) n. 手写本 / 打字稿 / 手稿 / 原稿",
+                "B) n. 罪犯 / 祸害",
+                "C) n. 摘录 / 引文 / 提取物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fabric / 美['fæbrɪk]  / 英['fæbrɪk] ",
+            "options": [
+                "A) n. 贸易，交易，经商，交换",
+                "B) n. 织物 / 建筑物构筑 / 组织 / 构造",
+                "C) n. 壁龛 / 合适的职业 / 有利可图的市场"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fabulous / 美['fæbjələs]  / 英['fæbjʊləs] ",
+            "options": [
+                "A) adj. 非凡的 / 难以置信的 / 传说的 / 极好的",
+                "B) n. 汽车 / 自动 / automatic 的简称",
+                "C) v. 揭去面纱 / 揭开蒙布 / 使公之于众 / 揭幕"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "faculty / 美['fækltɪ]  / 英['fæk(ə)ltɪ] ",
+            "options": [
+                "A) n. 天赋 / 科 / 院 / 全体教员",
+                "B) n. 碰撞 / <计算机>冲突 / 抵触 / 多点传送",
+                "C) adj. 极有趣的 / 欢闹的 / 非常滑稽的 / 喜不自禁的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "failed / 美[feɪld]  / 英[feɪld] ",
+            "options": [
+                "A) n. 彻底的改变 / 转换 / 改革 / 变形",
+                "B) adj. 未实现的 / 不持久的 / 失败的 / 有故障的",
+                "C) n. 冲突 / 颜色搭配不当 / 刺耳的金属碰撞声 / 不和"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fake / 美[feɪk]  / 英[feɪk] ",
+            "options": [
+                "A) n. 流放 / 流亡 / 放逐 / 流亡者",
+                "B) v. 关押 / 监禁 / 使…下狱",
+                "C) n. 假货 / 冒充者 / 骗子 / 骗人的把戏"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fame / 美[feɪm]  / 英[feɪm] ",
+            "options": [
+                "A) n. 公墓 / 墓地",
+                "B) n. 名望 / 名声 / 传闻",
+                "C) adv. 某个时候 / 从前 / 改天 / 在某一时候"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fantasy / 美['fæntəsɪ]  / 英['fæntəsɪ;-zɪ] ",
+            "options": [
+                "A) n. 幻想 / 幻想曲 / 期望 / 白日梦",
+                "B) n. 发言人（不指出性别，中性词）",
+                "C) adv. 以某种方式 / 用某种方法 / 以某种方法 / 莫名其妙地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fare / 美[fer]  / 英[feə] ",
+            "options": [
+                "A) n. 肢体 / 翼 / 枝干",
+                "B) n. 票价 / 费用 / 旅客 / 食物",
+                "C) n. 基础结构，基础设施"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "firefighter / 美['faɪərfaɪtər]  / 英['faɪəfaɪtə] ",
+            "options": [
+                "A) n. 消防（队）员",
+                "B) n. 标识，标志",
+                "C) n. 旅行 / 出行 / 探险队 / 远征"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "firework / 美['faɪərwɜːrk]  / 英['faɪəwɜːk] ",
+            "options": [
+                "A) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "B) adv. 公开地 / 坦白地 / 公然",
+                "C) n. 焰火 / 喷涌 / 展现 / 烟火"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "firm / 美[fɜːrm]  / 英[fɜːm] ",
+            "options": [
+                "A) v. 传送 / 发射 / 传染 / 传播",
+                "B) n. 爆炸气浪 / 一阵强风 / 吼鸣声 / 热闹的聚会",
+                "C) n. 公司 / 商行 / 事务所 / 医务工作组"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "firmly / 美[ˈfərmli]  / 英[ˈfəːmli] ",
+            "options": [
+                "A) adv. 密实地 / 强有力地 / 牢固地 / 稳固地 / 坚定地 / 坚决地 / 严格地",
+                "B) adj. 悲惨的 / 小得可怜的 / 痛苦的 / 卑鄙的",
+                "C) n. 露齿的笑 / 露齿笑"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flavor / 美['fleɪvər]  / 英['fleɪvə] ",
+            "options": [
+                "A) n. 口味 / 韵味 / 香味 / 滋味",
+                "B) n. 首相 / 总理 / <澳>州总理",
+                "C) n. 颅骨，头骨"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fond / 美[fɑːnd]  / 英[fɒnd] ",
+            "options": [
+                "A) adj. 喜爱的 / 爱慕的 / 喜欢的 / 温柔的",
+                "B) n. 公司 / 法人 / 社团",
+                "C) v. 成为无效 / 终止 / 死亡 / 呼气"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fool / 美[fuːl]  / 英[fuːl] ",
+            "options": [
+                "A) n. 叠化 / 淡入淡出 / 叠化画面 / 画面的溶暗",
+                "B) n. 傻子 / 傻瓜 / 愚人 / 受骗者",
+                "C) adj. 较少的 / 次要的 / 更小的 / 条件或档次较低的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "forbid / 美[fər'bɪd]  / 英[fə'bɪd] ",
+            "options": [
+                "A) n. <逻>前提 / 假定 / 上述各项 / 房屋连地基",
+                "B) v. 禁止 / 不允许 / 〈正式〉严禁",
+                "C) n. 追逐 / 追捕 / 追求 / 特定活动"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "forecast / 美['fɔːrkæst]  / 英['fɔːkɑːst] ",
+            "options": [
+                "A) adj. 邻近的",
+                "B) n. 目录 / 图书馆藏书目录 / 待售商品目录 / 艺术展品目录",
+                "C) n. 预报 / 预测 / 预想"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "format / 美['fɔːrmæt]  / 英['fɔːmæt] ",
+            "options": [
+                "A) n. 安排 / 设计 / 样式 / 格式",
+                "B) n. 甲板 / 放音装置 / 行李仓 / 露天平台",
+                "C) n. 螺旋形物体 / 拐弯处 / 扭曲 / 扭伤"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "formation / 美[fɔːr'meɪʃn]  / 英[fɔː'meɪʃ(ə)n] ",
+            "options": [
+                "A) v. 突然不见 / 逐渐消失 / 消失 / 成为零",
+                "B) n. 组成 / 结构 / 构造 / 编队",
+                "C) n. 定 / 结论 / 意见 / 判断"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "formerly / 美['fɔːrmərlɪ]  / 英['fɔːməlɪ] ",
+            "options": [
+                "A) adv. 在过去 / 从前 / 以前 / 原来",
+                "B) n. 战场",
+                "C) n. 指示物 / <化>指示剂 / 指示种群 / 指标"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fortunate / 美['fɔːrtʃənət]  / 英['fɔːtʃənət] ",
+            "options": [
+                "A) n. 隔离 / 孤立 / 脱离 / 分离",
+                "B) n. 移居 / 迁徙 / 洄游 / 转移",
+                "C) adj. 好运的 / 有利的 / 物质上富裕的 / 幸运的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "forum / 美['fɔːrəm]  / 英['fɔːrəm] ",
+            "options": [
+                "A) n. 论坛 / 讨论会 / 法庭 / 公开讨论的广场",
+                "B) n. 评估",
+                "C) n. 罪犯 / 祸害"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fossil / 美['fɑːsl]  / 英['fɒs(ə)l;-sɪl] ",
+            "options": [
+                "A) n. 痕迹 / 微量 / 描记线 / 缰绳",
+                "B) n. 怀孕 / 受精 / 观点 / 概念",
+                "C) n. 化石 / 僵化的人 / 僵化的事物 / 顽固不化的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "foundation / 美[faʊn'deɪʃn]  / 英[faʊn'deɪʃ(ə)n] ",
+            "options": [
+                "A) n. 基础 / 基金会 / 创立 / 根据",
+                "B) adj. 全国范围的 / 全国性的",
+                "C) n. 传播 / 播出的节目"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "founder / 美['faʊndər]  / 英['faʊndə] ",
+            "options": [
+                "A) n. <北美>蹄叶炎 / 创始人 / 翻沙工 / 创建者",
+                "B) v. 注册 / 卷起 / 入学 / 使入会",
+                "C) adj. 合法的 / 正当的 / 合理的 / 正统的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fraction / 美['frækʃn]  / 英['frækʃ(ə)n] ",
+            "options": [
+                "A) adj. 光荣的 / 壮观的 / 辉煌的 / 极好的",
+                "B) n. 插图 / 艺术品 / 美术品",
+                "C) n. 分数 / 部分 / 小部分 / 稍微"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fragment / 美['fræɡmənt]  / 英['fræɡm(ə)nt] ",
+            "options": [
+                "A) n. 敌对行为 / 不友善 / 反对",
+                "B) adj. 永恒的 / 永存的 / 本质不变的 / 上帝",
+                "C) n. 碎片 / 碎块 / 片断 / 不完整的部分"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "framework / 美['freɪmwɜːrk]  / 英['freɪmwɜːk] ",
+            "options": [
+                "A) n. 已被宣判有罪的人 / 囚犯 / 罪犯",
+                "B) n. 构架 / 框架 / 结构",
+                "C) n. 保护 / 保存 / 修复 / 节约"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fraud / 美[frɔːd]  / 英[frɔːd] ",
+            "options": [
+                "A) n. 擦 / 抹布 / 划变 / 擦拭",
+                "B) adv. 必然地 / 不可避免地 / 不出所料地",
+                "C) n. 欺骗 / 诡计 / 骗局 / 骗子"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "freely / 美['friːlɪ]  / 英['friːlɪ] ",
+            "options": [
+                "A) v. 认为…很有可能 / 预期 / 先于…行动",
+                "B) n. 幼儿园 / 学前班 / 幼稚园",
+                "C) adv. 自由地 / 随心所欲地 / 大量地 / 直爽地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "frequent / 美['friːkwənt]  / 英['friːkw(ə)nt] ",
+            "options": [
+                "A) v. 常到 / 常出入于 / 时常出入于",
+                "B) n. 好奇心 / 求知欲 / 奇物 / 奇事",
+                "C) adj. 频繁的 / 惯常的 / <古>间隔很近的 / 时常发生的"
+            ],
+            "answer": [
+                "C",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "fulfill / 美[fʊl'fɪl]  / 英[fʊl'fɪl] ",
+            "options": [
+                "A) n. 来回运行 / 循环 / 传播 / 发行量",
+                "B) n. 贪污 / 出错 / 讹误 / 堕落",
+                "C) v. 完成 / 实现 / 执行 / 履行"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fundamentally / 美[ˌfʌndə'mentəlɪ]  / 英[ˌfʌndə'mentəlɪ] ",
+            "options": [
+                "A) n. 勇士 / 经验丰富的战士 / 武士 / 鼓吹战争的人",
+                "B) adv. 基本地，根本地",
+                "C) n. 不幸的人 / <古>不道德的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "furious / 美['fjʊrɪəs]  / 英['fjʊərɪəs] ",
+            "options": [
+                "A) adj. 狂怒的 / 有力的 / 狂暴的 / 猛烈的",
+                "B) n. 团结 / 统一 / 协调",
+                "C) n. 限制 / 拘谨 / 低调处理 / 约束"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gallon / 美['ɡælən]  / 英['ɡælən] ",
+            "options": [
+                "A) n. 加仑 / <英>相当于4.55升",
+                "B) n. 理由 / 辩解 / 齐行",
+                "C) n. 意识"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gaming / 美[ˈɡeɪmɪŋ]  / 英[ˈɡeɪmɪŋ] ",
+            "options": [
+                "A) n. 玩电脑游戏",
+                "B) n. 捆绑 / 困境 / 讨厌的事情 / 植物的藤蔓",
+                "C) adj. 意识形态的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gay / 美[ɡeɪ]  / 英[ɡeɪ] ",
+            "options": [
+                "A) v. 挨饿 / 饿死 / 使匮乏 / 渴望",
+                "B) n. 可能成功的人 / 有希望成功的人",
+                "C) n. 同性恋者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gender / 美['dʒendər]  / 英['dʒendə] ",
+            "options": [
+                "A) n. 同情 / 怜悯",
+                "B) n. 性别状态 / 性 / 性别 / 性交",
+                "C) n. 瞬间 / 立即 / 片刻"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gene / 美[dʒiːn]  / 英[dʒiːn] ",
+            "options": [
+                "A) n. <生>",
+                "B) n. 纪念建筑 / 纪念碑 / 纪念馆 / 纪念仪式",
+                "C) n. <化>碳原子 / 炭棒 / 复写纸"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "genetic / 美[dʒə'netɪk]  / 英[dʒɪ'netɪk] ",
+            "options": [
+                "A) adj. 基因的 / 遗传的 / 起源的 / 有共同起源的",
+                "B) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬",
+                "C) n. 粘核桃"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "genius / 美['dʒiːnɪəs]  / 英['dʒiːnɪəs] ",
+            "options": [
+                "A) n. 意识",
+                "B) n. 坚定不移 / 测定 / 决心 / 果断",
+                "C) n. 天才 / 非凡创造力 / 守护神 / 精神"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "genuine / 美['dʒenjʊɪn]  / 英['dʒenjʊɪn] ",
+            "options": [
+                "A) n. 界限 / 限制 / 范围 / 跳跃",
+                "B) n. 老手 / 退伍军人 / 老兵 / 老运动员",
+                "C) adj. 真的 / 非伪造的 / 真诚的 / 诚恳的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "genuinely / 美[ˈdʒɛnjuənli]  / 英[ˈdʒɛnjʊɪnli] ",
+            "options": [
+                "A) adj. 认识的 / 认知的",
+                "B) n. 假定 / 设想 / 承担 / 采取",
+                "C) adv. 真正地 / 真实地 / 真诚地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gesture / 美['dʒestʃər]  / 英['dʒestʃə] ",
+            "options": [
+                "A) n. 示意动作 / 手势 / 姿态",
+                "B) adv. 据宣称",
+                "C) n. 斗篷式长袍 / 法衣 / <文>斗篷状物 / 长袍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "globalization / 美[ˌɡloʊbələˈzeɪʃən]  / 英[ɡləʊb(ə)lʌɪˈzeɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 值得纪念的 / 难忘的",
+                "B) v. 同时发生 / 在同一地点同一时间在场 / 一致 / 重合",
+                "C) n. 全球化"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "globe / 美[ɡloʊb]  / 英[ɡləʊb] ",
+            "options": [
+                "A) n. 敬神 / 拜神 / 崇拜 / 爱慕",
+                "B) n. 地球 / 世界 / 球状物 / 球体",
+                "C) n. 低音 / 鲈鱼 / 男低音 / 椴树"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "golden / 美['ɡoʊldən]  / 英['ɡəʊldən] ",
+            "options": [
+                "A) v. 把…分类 / 将定为机密 / 分类 / 分等",
+                "B) adj. 金色的 / 金制的 / 含金的 / 非常珍贵的",
+                "C) n. 和声 / 和谐 / 和睦"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "goodness / 美['ɡʊdnəs]  / 英['ɡʊdnɪs] ",
+            "options": [
+                "A) n. 好 / 德行 / 美德 / 有益成分",
+                "B) n. 放映 / 播放 / 评估 / 检查",
+                "C) n. 自由 / 自由的化身 / 许可 / 冒失"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gorgeous / 美['ɡɔːrdʒəs]  / 英['ɡɔːdʒəs] ",
+            "options": [
+                "A) n. 指导 / 导向 / 制导 / 领导",
+                "B) adj. 美丽的 / 非常吸引人的 / <非正式>非常令人愉快的 / 极好的",
+                "C) n. 含义 / 牵连 / 可能的后果 / 暗示"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "graphic / 美['ɡræfɪk]  / 英['ɡræfɪk] ",
+            "options": [
+                "A) n. 农民 / 小农 / 雇农 / 乡下人",
+                "B) n. <计算机>图表",
+                "C) n. 密度 / 不透性 / 暗度 / <计算机>信息密度"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "graphics / 美['ɡræfɪks]  / 英['ɡræfɪks] ",
+            "options": [
+                "A) n. <英>微弱多数席位 / 岸边水生植物",
+                "B) adj. 随后的 / 紧接的 / <地质>后成的",
+                "C) n. 图形 / 图表算法 / 制图学 / 制图法"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "greatly / 美['ɡreɪtlɪ]  / 英['ɡreɪtlɪ] ",
+            "options": [
+                "A) adv. 大大地 / 非常",
+                "B) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待",
+                "C) n. 浪漫气氛 / 传奇性 / 风流韵事 / 冒险故事"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "guideline / 美['ɡaɪdlaɪn]  / 英['ɡaɪdlaɪn] ",
+            "options": [
+                "A) n. 指导方针，准则",
+                "B) n. 重罪",
+                "C) n. 盛怒 / 愤慨 / 暴行 / 侮辱"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "habitat / 美['hæbɪtæt]  / 英['hæbɪtæt] ",
+            "options": [
+                "A) n. 巧合 / 符合 / 同时发生 / 一致",
+                "B) n. 栖息地 / 产地 / 喜欢的环境",
+                "C) adv. 效率高地 / 收效大地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "harbor / 美['hɑːrbər]  / 英['hɑːbə] ",
+            "options": [
+                "A) n. 海港 / <喻>避难所 / 安全港湾 / 同 harbor",
+                "B) n. 观察者 / 观察家 / 侦察兵 / 遵守者",
+                "C) adj. 必须做的 / 规定的 / 义务的 / 必修的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "headquarters / 美['hedkwɔːrtərz]  / 英[hed'kwɔːtəz] ",
+            "options": [
+                "A) n. 司令部 / 指挥部 / 总部",
+                "B) n. 基督画像 / 圣人画像 / 图标 / 偶像",
+                "C) adj. 即将来临的 / 将可得到的 / 随要随有的 / 愿意透露消息的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "heal / 美[hiːl]  / 英[hiːl] ",
+            "options": [
+                "A) v. 治好 / 恢复 / 减轻 / 和解",
+                "B) n. 甲板 / 放音装置 / 行李仓 / 露天平台",
+                "C) n. 肉 / 蔬菜嫩部 / 脂肪 / 肉体"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "helmet / 美['helmɪt]  / 英['helmɪt] ",
+            "options": [
+                "A) n. 运河 / 灌溉水渠 / 管",
+                "B) n. 头盔 / <植>花冠盔瓣 / 外颚叶",
+                "C) n. 罪犯 / 祸害"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hence / 美[hens]  / 英[hens] ",
+            "options": [
+                "A) n. 阴谋，密谋 / 共谋",
+                "B) adv. 一贯地 / 始终如一地 / 不断地 / 始终 / 连贯一致地",
+                "C) adv. 所以 / …之后 / 因此 / 今后"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "herb / 美[ɜːrb]  / 英[hɜːb] ",
+            "options": [
+                "A) n. <北美>人行道",
+                "B) n. 芳草植物 / <植>草本植物 / 香草",
+                "C) n. 观点 / 见地 / 立场 / 视角"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hidden / 美['hɪdn]  / 英['hɪdn] ",
+            "options": [
+                "A) v. 遮掩（hide 的过去分词）",
+                "B) adj. 隐秘的 / 隐藏的",
+                "C) v. 授权于 / 允许 / 使能够 / 增强的力量和信心"
+            ],
+            "answer": [
+                "B",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "hilarious / 美[hɪ'lerɪəs]  / 英[hɪ'leərɪəs] ",
+            "options": [
+                "A) n. 加强的 / 集中的 / 透彻的 / 加强语气的",
+                "B) adj. 极有趣的 / 欢闹的 / 非常滑稽的 / 喜不自禁的",
+                "C) n. 计算 / 评估 / 估定 / 估计"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hip / 美[hɪp]  / 英[hɪp] ",
+            "options": [
+                "A) n. 教科书",
+                "B) n. 臀部 / 屋脊 / 蔷薇果 / 忧郁",
+                "C) n. 陈规 / 铅版 / 陈腔滥调 / 旧框框"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "historian / 美[hɪ'stɔːrɪən]  / 英[hɪ'stɔːrɪən] ",
+            "options": [
+                "A) n. 历史学家",
+                "B) n. 掷 / 掷硬币 / 投掷 / 摇荡",
+                "C) n. 贪污 / 出错 / 讹误 / 堕落"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "homeless / 美['hoʊmləs]  / 英['həʊmlɪs] ",
+            "options": [
+                "A) adj. （人）无家可归的，流浪街头的",
+                "B) adj. 泰然自若的 / 哲学的 / 冷静的",
+                "C) n. 杂草 / 野草 / 水生植物 / 菸草"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "honesty / 美['ɑːnəstɪ]  / 英['ɒnɪstɪ] ",
+            "options": [
+                "A) v. 容许 / 不干预 / 宽恕 / 有耐力",
+                "B) adv. 不经常 / 很少",
+                "C) n. 诚实 / 老实 / 真诚 / 缎花属植物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "honey / 美['hʌnɪ]  / 英['hʌnɪ] ",
+            "options": [
+                "A) n. 蜂蜜 / 黄褐色 / 宝贝 / 甜蜜",
+                "B) adj. 广阔的 / 广大的 / 粗放的 / 规模大的",
+                "C) n. 排斥 / 排除 / 驱逐 / 被排除在外的事物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hook / 美[hʊk]  / 英[hʊk] ",
+            "options": [
+                "A) n. 钩子 / 挂钩 / 弧形切割工具 / 钩拳",
+                "B) adj. 有特定形状的",
+                "C) n. 警察队长 / 司令官 / 指挥官"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hopefully / 美['hoʊpfəlɪ]  / 英['həʊpfʊlɪ;-f(ə)lɪ] ",
+            "options": [
+                "A) v. 辞职 / 顺从 / 放弃 / 委托",
+                "B) n. 独立存在物 / 实体",
+                "C) adv. 满怀希望地，有希望地 / 有望"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hunger / 美['hʌŋɡər]  / 英['hʌŋɡə] ",
+            "options": [
+                "A) n. 饥饿 / 饥荒 / 渴望",
+                "B) n. 掷 / 掷硬币 / 投掷 / 摇荡",
+                "C) n. 墓穴 / 死亡 / 堆积处"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hypothesis / 美[haɪ'pɑːθəsɪs]  / 英[haɪ'pɒθɪsɪs] ",
+            "options": [
+                "A) n. 假设 / <哲>前提",
+                "B) n. 关押"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "icon / 美['aɪkɑːn]  / 英['aɪkɒn;-k(ə)n] ",
+            "options": [
+                "A) npl. 电子学 / 电路 / 电子器件",
+                "B) n. 基督画像 / 圣人画像 / 图标 / 偶像",
+                "C) n. 透明，透明性，透明度 / 幻灯片"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ID / 美[ˌaɪ 'diː]  / 英[ˌaɪ 'diː] ",
+            "options": [
+                "A) adv. 完全地",
+                "B) n. 障碍 / 妨害物",
+                "C) abbr. for 爱达荷 / 身份证件"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "identical / 美[aɪ'dentɪkl]  / 英[aɪ'dentɪk(ə)l] ",
+            "options": [
+                "A) adj. 完全相同的 / <数>恒等的 / 同卵的 / 同一的",
+                "B) n. 捕食者 / 食肉动物 / 掠夺者",
+                "C) n. 私有化"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "illusion / 美[ɪ'luːʒn]  / 英[ɪ'l(j)uːʒ(ə)n] ",
+            "options": [
+                "A) adj. 官能的 / <数>函数的 / 功能的",
+                "B) adj. 多样的 / 相异的 / 不同的 / 多种多样的",
+                "C) n. 错误的观念 / 错误的理解 / 假象 / 幻觉"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "immigration / 美[ˌɪmɪ'ɡreɪʃn]  / 英[ˌɪmɪ'ɡreɪʃn] ",
+            "options": [
+                "A) n. 时机掌握 / 定时 / 调速 / 时间选择",
+                "B) n. 移居 / 边防检查站 / 外来移民",
+                "C) n. 通讯员 / 通讯记者 / 客户 / 代理商行"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "immune / 美[ɪ'mjuːn]  / 英[ɪ'mjuːn] ",
+            "options": [
+                "A) n. 音频信号 / 声音",
+                "B) n. 鼓励 / 催促 / 付款期限 / 提词",
+                "C) adj. 免疫的 / 免于......的 / 受保护的 / 不受影响的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "implement / 美['ɪmplɪmənt]  / 英['ɪmplɪm(ə)nt] ",
+            "options": [
+                "A) v. 先于 / 处在…的前面 / 走在…的前面 / 领先",
+                "B) v. 断言 / 提出…作为理由",
+                "C) n. 工具 / 手段"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "implication / 美[ˌɪmplɪ'keɪʃn]  / 英[ɪmplɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) n. 介入 / 调停 / 妨碍",
+                "B) adj. 令人愉快的，娱乐性的",
+                "C) n. 含义 / 牵连 / 可能的后果 / 暗示"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "incentive / 美[ɪn'sentɪv]  / 英[ɪn'sentɪv] ",
+            "options": [
+                "A) n. 怀孕 / 受精 / 观点 / 概念",
+                "B) adv. 在全国",
+                "C) n. 鼓励 / 动机 / 刺激 / 让利"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "incorporate / 美[ɪn'kɔːrpəreɪt]  / 英[ɪn'kɔːpəreɪt] ",
+            "options": [
+                "A) adj. 合并的 / 文>具体化的 / 一体化的 / 组成公司的",
+                "B) n. 摘要 / 履历",
+                "C) v. 纳入 / 使组成公司"
+            ],
+            "answer": [
+                "C",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "incorrect / 美[ˌɪnkə'rekt]  / 英[ɪnkə'rekt] ",
+            "options": [
+                "A) n. 化学方程式 / 方程式",
+                "B) n. 表示感激的行动 / 礼物 / <史>贡税",
+                "C) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "independence / 美[ˌɪndɪ'pendəns]  / 英[ɪndɪ'pend(ə)ns] ",
+            "options": [
+                "A) n. 交易 / 办理 / 交流 / 议事录",
+                "B) adj. 文学的 / 文学语言的 / 书面的 / 精通文学的",
+                "C) n. 独立 / 自主 / 自立"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "index / 美['ɪndeks]  / 英['ɪndeks] ",
+            "options": [
+                "A) n. 索引 / 指示 / 标志 / 指标",
+                "B) n. 优秀品质 / 优点 / 价值 / 功绩",
+                "C) n. 往左偏 / 淡出"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "indication / 美[ˌɪndɪ'keɪʃn]  / 英[ɪndɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) n. 废话 / 愚蠢的行为 / 胡说 / 语言诙谐幽默",
+                "B) n. 指示 / 标志 / 暗示 / 迹象",
+                "C) n. 参加"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inevitable / 美[ɪn'evɪtəbl]  / 英[ɪn'evɪtəb(ə)l] ",
+            "options": [
+                "A) n. 不可避免的情形",
+                "B) n. 工艺 / 手艺 / 船 / 艇",
+                "C) n. <语法>动词性单词 / 动词的非谓语形式"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inevitably / 美[ɪn'ɛvɪtəbli]  / 英[ɪ'nevɪtəblɪ;ɪn'evɪtəblɪ] ",
+            "options": [
+                "A) n. 任命 / 提名 / 提名权 / 被提名的人",
+                "B) adv. 必然地 / 不可避免地 / 不出所料地",
+                "C) n. 强制实施 / 强制执行 / 加强 / 强迫"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "infer / 美[ɪn'fɜːr]  / 英[ɪn'fɜː] ",
+            "options": [
+                "A) v. 推断 / 推论",
+                "B) adj. 狂怒的 / 有力的 / 狂暴的 / 猛烈的",
+                "C) n. 滥用 / 虐待 / 凌辱 / 辱骂"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inflation / 美[ɪn'fleɪʃn]  / 英[ɪn'fleɪʃ(ə)n] ",
+            "options": [
+                "A) n. 不平等 / 不同 / 不平均 / 不规则",
+                "B) n. 公民身份",
+                "C) n. 增长 / 膨胀 / 夸张 / 自命不凡"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "info / 美['ɪnfoʊ]  / 英['ɪnfəʊ] ",
+            "options": [
+                "A) ",
+                "B) n. 至交 / 密友 / 知己",
+                "C) n. <非正式>信息，资料，情报"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "infrastructure / 美['ɪnfrəstrʌktʃər]  / 英['ɪnfrəstrʌktʃə] ",
+            "options": [
+                "A) n. 王冠 / 顶部 / 王权 / 顶点",
+                "B) n. 基础结构，基础设施",
+                "C) v. 操作 / 使用 / 控制 / 编辑"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inhabitant / 美[ɪn'hæbɪtənt]  / 英[ɪn'hæbɪtənt] ",
+            "options": [
+                "A) n. 居民 / 栖居的动物 / <美>取得居住权的人 / 居住者",
+                "B) n. 水坝 / 坝 / 障碍",
+                "C) n. 安排 / 设计 / 样式 / 格式"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inherit / 美[ɪn'herɪt]  / 英[ɪn'herɪt] ",
+            "options": [
+                "A) v. 认为…很有可能 / 预期 / 先于…行动",
+                "B) n. 竞争者",
+                "C) v. 继承 / 遗传而得 / 接手 / <北美>获得"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ink / 美[ɪŋk]  / 英[ɪŋk] ",
+            "options": [
+                "A) n. 大学本科生 / 大学肄业生 / 大学生",
+                "B) n. 偏爱 / <律>优先偿还权 / 优先权",
+                "C) n. 墨水 / 油墨 / 颜料 / <动>墨汁"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "innovation / 美[ˌɪnə'veɪʃn]  / 英[ɪnə'veɪʃ(ə)n] ",
+            "options": [
+                "A) n. 导师 / 指导者 / 师傅",
+                "B) n. 摘要 / 抽象艺术作品 / 抽象 / 理论思考",
+                "C) n. 革新 / 变革 / 新方法 / 新产品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "innovative / 美['ɪnəveɪtɪv]  / 英['ɪnəvətɪv] ",
+            "options": [
+                "A) adj. 革新的 / 创新的 / 新颖的 / 有创新精神的",
+                "B) n. 旅行 / 出行 / 探险队 / 远征",
+                "C) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "input / 美['ɪnpʊt]  / 英['ɪnpʊt] ",
+            "options": [
+                "A) n. 放入物 / 被操作物 / 投入 / 输入电路",
+                "B) adj. 共有的 / 与有关的 / 类的 / 非商标的",
+                "C) n. 纪念物 / 纪念碑 / 历史遗迹 / 不朽的作品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "insert / 美[ɪn'sɜːrt]  / 英[ɪn'sɜːt] ",
+            "options": [
+                "A) n. 插入物 / 插页",
+                "B) n. 初步做法 / 起始行为 / 预备性事务 / 预赛",
+                "C) n. 幼儿 / 婴儿 / <英>五至七岁的学童 / <律>未成年人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inspector / 美[ɪn'spektər]  / 英[ɪn'spektə] ",
+            "options": [
+                "A) n. 巡视员 / 巡官 / <英>检票员 / 检查员",
+                "B) n. 发生率 / 税务负担 / 影响 / 影响范围",
+                "C) n. 检查 / 审查 / 检阅 / 巡视"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "installation / 美[ˌɪnstə'leɪʃn]  / 英[ɪnstə'leɪʃ(ə)n] ",
+            "options": [
+                "A) n. 播音员",
+                "B) n. 排斥 / 排除 / 驱逐 / 被排除在外的事物",
+                "C) n. 就任 / 安顿 / 安装 / 就职"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "instant / 美['ɪnstənt]  / 英['ɪnstənt] ",
+            "options": [
+                "A) n. 瞬间 / 立即 / 片刻",
+                "B) n. 庄严仪式 / 惯例 / 礼制 / 老规矩",
+                "C) adj. 可信的 / 真正的 / <乐>正格的 / 逼真的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "instantly / 美['ɪnstəntlɪ]  / 英['ɪnstəntlɪ] ",
+            "options": [
+                "A) n. 虫 / 蜗杆 / 螺纹 / 小人物",
+                "B) adv. 立即 / 坚持地 / 立即地 / 马上地",
+                "C) n. 平民"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "integrate / 美['ɪntɪɡreɪt]  / 英['ɪntɪɡreɪt] ",
+            "options": [
+                "A) n. 海港 / <喻>避难所 / 安全港湾 / 同 harbor",
+                "B) v. 使…完整 / 使…成整体 / 表示…的总和",
+                "C) n. 爱好者 / 狂热者 / 热心家"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intellectual / 美[ˌɪntə'lektʃʊəl]  / 英[ˌɪntə'lektʃʊəl;-tjʊəl] ",
+            "options": [
+                "A) n. 识字 / 读写能力 / 精通文学 / 能力",
+                "B) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "C) n. 接合点 / 关节 / 接缝"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interact / 美[ˌɪntər'ækt]  / 英[ɪntər'ækt] ",
+            "options": [
+                "A) adj. 决定性的 / 果断的",
+                "B) v. 互相作用 / 互相影响",
+                "C) n. 示意动作 / 手势 / 姿态"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interaction / 美[ˌɪntər'ækʃn]  / 英[ɪntər'ækʃ(ə)n] ",
+            "options": [
+                "A) n. 相互作用 / 相互影响 / <物理>交互作用",
+                "B) n. 收件人 / 接收器 / 接受者 / 收款员",
+                "C) n. 高智力者 / 知识分子 / 凭理智做事者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interpretation / 美[ɪnˌtɜːrprə'teɪʃn]  / 英[ɪntɜːprɪ'teɪʃ(ə)n] ",
+            "options": [
+                "A) n. 上帝的祝福 / 祝福 / 赐福 / 祷告",
+                "B) n. <非正式>令人不快的人 / 有害的人 / 恐怖电视 / 令人不快的事物",
+                "C) n. 解释 / 阐明 / 翻译 / 演出"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interval / 美['ɪntərvl]  / 英['ɪntəv(ə)l] ",
+            "options": [
+                "A) v. 描述…的特性 / 成为…的特征 / 描绘…的特性 / 具有…的特征",
+                "B) v. 使分心 / 转移 / 分心 / <古>使困惑",
+                "C) n. 间隔 / 中止 / 差距 / 间距"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "invade / 美[ɪn'veɪd]  / 英[ɪn'veɪd] ",
+            "options": [
+                "A) n. 螺旋形物体 / 拐弯处 / 扭曲 / 扭伤",
+                "B) n. 存款 / 沉积物 / 放置 / 押金",
+                "C) v. 入侵 / 侵占 / 传入 / 涌入"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "invasion / 美[ɪn'veɪʒn]  / 英[ɪn'veɪʒ(ə)n] ",
+            "options": [
+                "A) adj. 精巧的 / 复杂的 / 详尽的 / 精心设计的",
+                "B) n. 导师 / 指导者 / 师傅",
+                "C) n. 侵略 / 涌入 / 侵犯 / 干预"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "investor / 美[ɪnˈvɛstər]  / 英[ɪnˈvɛstə] ",
+            "options": [
+                "A) adv. 暂时地 / 临时地",
+                "B) n. 赌场",
+                "C) n. 投资者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "isolate / 美['aɪsəleɪt]  / 英['aɪsəleɪt] ",
+            "options": [
+                "A) n. 被隔离的人 / <生>分离菌 / 隔离群",
+                "B) adj. 相关的 / 适用的 / 可适用的 / 可应用的",
+                "C) n. 方法学 / 方法论 / 系统方法"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "isolated / 美['aɪsəleɪtɪd]  / 英['aɪsəleɪtɪd] ",
+            "options": [
+                "A) adj. 远离的 / 遥远的 / 孤立的 / 分离的",
+                "B) n. 本质 / <哲>本质 / 香精 / 精华"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "jail / 美[dʒeɪl]  / 英[dʒeɪl] ",
+            "options": [
+                "A) n. 监狱 / 监牢 / 拘留所",
+                "B) n. 头盔 / <植>花冠盔瓣 / 外颚叶",
+                "C) n. 激进分子"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "jet / 美[dʒet]  / 英[dʒet] ",
+            "options": [
+                "A) n. 膜拜 / 膜拜仪式 / 祭仪 / 狂热信徒",
+                "B) n. 喷射流 / 喷气式飞机 / 喷嘴 / 喷气发动机",
+                "C) n. 配置 / 构造 / 布局 / 外形"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "joint / 美[dʒɔɪnt]  / 英[dʒɔɪnt] ",
+            "options": [
+                "A) adv. 粗暴地 / 凶暴地 / 粗糙地 / 大体上",
+                "B) n. 接合点 / 关节 / 接缝",
+                "C) adj. 数学的 / 数学般精确的 / 精确的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "journalism / 美['dʒɜːrnəlɪzəm]  / 英['dʒɜːnəlɪzəm] ",
+            "options": [
+                "A) adj. 愉快的 / 欣喜的 / 高兴的",
+                "B) n. 新闻工作 / 新闻业 / 报章杂志 / 新闻报道",
+                "C) v. 制订 / 规划 / 用公式表示 / 明确地表达"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "jury / 美['dʒʊrɪ]  / 英['dʒʊərɪ] ",
+            "options": [
+                "A) adj. 远离的 / 遥远的 / 孤立的 / 分离的",
+                "B) n. 筐 / <篮球>篮 / 投篮得分 / 篮子",
+                "C) n. 陪审团 / 评判团 / 评审委员会 / 评判委员会"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "kindergarten / 美['kɪndərɡɑːrtn]  / 英['kɪndəˌɡɑːt(ə)n] ",
+            "options": [
+                "A) n. 信封 / 外表 / 包裹物 / 包膜",
+                "B) n. 幼儿园 / 学前班 / 幼稚园",
+                "C) adv. 讽刺地 / 说反话地 / 令人啼笑皆非地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "kit / 美[kɪt]  / 英[kɪt] ",
+            "options": [
+                "A) n. 偷窃 / 盗窃罪 / 盗窃 / 偷",
+                "B) n. 一套工具 / 包 / 箱子 / 幼崽",
+                "C) adv. 真正地 / 真实地 / 真诚地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "landing / 美['lændɪŋ]  / 英['lændɪŋ] ",
+            "options": [
+                "A) n. <语法>双数词 / <数>对偶定理 / 双数",
+                "B) n. 修改 / 修订 / 修订本 / 订正版",
+                "C) n. 登陆处 / 卸货处 / 登陆 / 码头"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lane / 美[leɪn]  / 英[leɪn] ",
+            "options": [
+                "A) v. 动员 / 使可移动 / 鼓动 / 利用",
+                "B) adj. 谦虚的 / 适中的 / 有限的 / 端庄的",
+                "C) n. 小路 / 车道 / 巷 / 航线"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lately / 美['leɪtlɪ]  / 英['leɪtlɪ] ",
+            "options": [
+                "A) n. 外国人 / 陌生人",
+                "B) n. 农民 / 小农 / 雇农 / 乡下人",
+                "C) adv. 最近 / 不久前"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legend / 美['ledʒənd]  / 英['ledʒənd] ",
+            "options": [
+                "A) n. 传说 / 著名人物 / 图例 / 刻印文字",
+                "B) v. 证明 / 核实 / 证实 / 查证",
+                "C) [构词成分] 有⋯形状的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lens / 美[lenz]  / 英[lenz] ",
+            "options": [
+                "A) n. 天赋 / 科 / 院 / 全体教员",
+                "B) n. 透镜 / 镜片 / 镜头",
+                "C) n. 相交 / 交叉 / 十字路口 / 交集"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lifetime / 美['laɪftaɪm]  / 英['laɪftaɪm] ",
+            "options": [
+                "A) n. 经过 / 消逝 / 死亡 / 及格",
+                "B) n. 使复杂化的情况 / 困难 / 复杂 / 混乱",
+                "C) n. 一生 / 存在期 / 有效期 / 寿命"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lighting / 美['laɪtɪŋ]  / 英['laɪtɪŋ] ",
+            "options": [
+                "A) n. 开业者 / 从业者 / 执业医生",
+                "B) v. 详尽阐述 / 发挥 / 精心制作 / 详细阐述",
+                "C) n. 照明设备"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "likewise / 美['laɪkwaɪz]  / 英['laɪkwaɪz] ",
+            "options": [
+                "A) adv. 同样 / 亦 / 同样地 / 也",
+                "B) adv. 适度地 / 相当地 / 讲道理地 / 合理地",
+                "C) cardinal number 一万亿 / 一百万兆 / <旧><英>一万亿兆"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "limitation / 美[ˌlɪmɪ'teɪʃn]  / 英[lɪmɪ'teɪʃ(ə)n] ",
+            "options": [
+                "A) n. 傻子 / 傻瓜 / 愚人 / 受骗者",
+                "B) n. 限制 / 限度",
+                "C) "
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "literally / 美['lɪtərəlɪ]  / 英['lɪtərəlɪ] ",
+            "options": [
+                "A) adv. 按照字面地 / 逐字地",
+                "B) n. 名声 / 宣传 / 公开 / 广告",
+                "C) n. 海啸"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "literary / 美['lɪtərerɪ]  / 英['lɪtərərɪ] ",
+            "options": [
+                "A) n. 流放 / 流亡 / 放逐 / 流亡者",
+                "B) n. 漏洞 / 渗漏 / 漏电 / 泄密",
+                "C) adj. 文学的 / 文学语言的 / 书面的 / 精通文学的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "litter / 美['lɪtər]  / 英['lɪtə] ",
+            "options": [
+                "A) adj. 完全相同的 / <数>恒等的 / 同卵的 / 同一的",
+                "B) n. 垃圾 / 一窝 / 铺垫物",
+                "C) n. 技工 / <古>劳工 / 工匠"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "logo / 美['loʊɡoʊ]  / 英['lɒɡəʊ;'ləʊɡəʊ] ",
+            "options": [
+                "A) adj. 战争的，尚武的 / 好战的",
+                "B) n. 登陆处 / 卸货处 / 登陆 / 码头",
+                "C) n. 标识，标志"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lottery / 美['lɑːtərɪ]  / 英['lɒtərɪ] ",
+            "options": [
+                "A) v. 忍耐 / 继续存在 / 持久 / 容忍",
+                "B) n. 抽彩给奖法 / 彩票 / 碰运气的事 / 难算计的事",
+                "C) v. 将用于上 / 尽心竭力于… / 致力于 / 奉献"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "loyal / 美['lɔɪəl]  / 英['lɔɪəl] ",
+            "options": [
+                "A) adj. 忠诚的 / 忠贞的",
+                "B) n. 确实性 / 自信的神态 / 必然",
+                "C) n. 化学方程式 / 方程式"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lyric / 美['lɪrɪk]  / 英['lɪrɪk] ",
+            "options": [
+                "A) n. 抒情诗 / 歌词",
+                "B) n. 强烈 / 强烈情况 / <物理>强度 / 紧张",
+                "C) n. 岸 / 滨 / 沿海国家 / 支柱"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "making / 美['meɪkɪŋ]  / 英['meɪkɪŋ] ",
+            "options": [
+                "A) n. 护理职业 / 护理工作",
+                "B) n. 制造 / 形成 / 生产 / 利润",
+                "C) n. 郊区 / 边缘"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "manufacture / 美[ˌmænjʊ'fæktʃər]  / 英[mænjʊ'fæktʃə] ",
+            "options": [
+                "A) n. 生产 / 制造 / 制造业 / 制成品",
+                "B) n. 识字 / 读写能力 / 精通文学 / 能力",
+                "C) n. 赌场"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "manufacturing / 美[ˌmænəˈfæktʃərɪŋ]  / 英[manjuːˈfaktʃərɪŋ] ",
+            "options": [
+                "A) n. 制造业",
+                "B) adj. 最小的 / 最低限度的 / 可略而不计的 / <艺术>极简抽象艺术的",
+                "C) n. 准确 / <技>准确度"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "marathon / 美['mærəθɑːn]  / 英['mærəθən] ",
+            "options": [
+                "A) n. 马拉松赛跑 / 马拉松式的任务或行动 / 耐力的考验",
+                "B) n. （尤指法官的）裁决，裁定",
+                "C) n. 明智 / 智慧 / 学识 / 至理名言"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "margin / 美['mɑːrdʒɪn]  / 英['mɑːdʒɪn] ",
+            "options": [
+                "A) v. 管理 / 分发 / 实施 / 主持仪式",
+                "B) adj. 频繁的 / 惯常的 / <古>间隔很近的 / 时常发生的",
+                "C) n. 边缘 / 数量 / 盈余 / 页边的空白"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "marker / 美['mɑːrkər]  / 英['mɑːkə] ",
+            "options": [
+                "A) n. 标志 / 指示 / 记号笔 / 打分员",
+                "B) n. 观点 / 见地 / 立场 / 视角",
+                "C) n. 栏杆 / 铁轨 / 扶手 / 围栏"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "martial / 美['mɑːrʃl]  / 英['mɑːʃ(ə)l] ",
+            "options": [
+                "A) adj. 战争的，尚武的 / 好战的",
+                "B) n. 激活 / 启动 / 触发 / 活化",
+                "C) adv. 到一半 / 在中途 / 一定程度上 / 部分地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mate / 美[meɪt]  / 英[meɪt] ",
+            "options": [
+                "A) adj. <旧>不常见的 / 不经常的",
+                "B) n. 伴侣 / 配偶 / 助手 / 老兄",
+                "C) n. 颖悟力 / 机智 / 风趣 / 解决实际问题的智慧"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mechanic / 美[mə'kænɪk]  / 英[mɪ'kænɪk] ",
+            "options": [
+                "A) adv. 据推测 / 大概 / 可能 / 推测起来",
+                "B) n. 游击队员",
+                "C) n. 技工 / <古>劳工 / 工匠"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mechanical / 美[mə'kænɪkl]  / 英[mɪ'kænɪk(ə)l] ",
+            "options": [
+                "A) n. 无形进出口",
+                "B) n. 机械部件 / <古>工人",
+                "C) adj. 附近的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mechanism / 美['mekənɪzəm]  / 英['mekənɪzəm] ",
+            "options": [
+                "A) n. 备用品 / 二击全倒 / 剩余 / 备用零件",
+                "B) n. 机械装置 / 机制 / 机理",
+                "C) n. 大厅 / （身体或器官内的）室 / 房间 / 会所"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "medal / 美['medl]  / 英['med(ə)l] ",
+            "options": [
+                "A) n. 奖牌 / 奖章 / 勋章 / 纪念章",
+                "B) v. 执行 / 创作 / 表演 / 处死",
+                "C) v. 禁止 / 不允许 / 〈正式〉严禁"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "medication / 美[ˌmedɪ'keɪʃn]  / 英[medɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) n. 药，药物",
+                "B) v. 开药 / 为…开处方 / 推荐 / 规定",
+                "C) n. 开拓者 / 开发者 / 倡导者 / 先锋"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "membership / 美['membərʃɪp]  / 英['membəʃɪp] ",
+            "options": [
+                "A) n. 大厅 / （身体或器官内的）室 / 房间 / 会所",
+                "B) n. 无学 / 无知 / 不知，不懂",
+                "C) n. 会员身份 / 会员数 / 全体会员 / 资格"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "memorable / 美['memərəbl]  / 英['mem(ə)rəb(ə)l] ",
+            "options": [
+                "A) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药",
+                "B) adj. 值得纪念的 / 难忘的",
+                "C) n. 关闭 / 封锁 / 辩论终止提付表决 / 解脱"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "metaphor / 美['metəfər]  / 英['metəfə;-fɔː] ",
+            "options": [
+                "A) n. 标志 / 指示 / 记号笔 / 打分员",
+                "B) adj. 可比作…的 / 相似的 / 相当的 / 比得上的",
+                "C) n. 隐喻 / 比喻说法 / 代表物 / 象征物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "miner / 美['maɪnər]  / 英['maɪnə] ",
+            "options": [
+                "A) n. 矿工 / 矿吸蜜鸟 / 南美掘穴雀 / 开矿机",
+                "B) n. 插图 / 艺术品 / 美术品",
+                "C) n. 密度 / 不透性 / 暗度 / <计算机>信息密度"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "miserable / 美['mɪzrəbl]  / 英['mɪz(ə)rəb(ə)l] ",
+            "options": [
+                "A) n. 抢劫 / 盗窃 / 敲竹杠 / 抢掠",
+                "B) n. 机械部件 / <古>工人",
+                "C) adj. 悲惨的 / 小得可怜的 / 痛苦的 / 卑鄙的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mode / 美[moʊd]  / 英[məʊd] ",
+            "options": [
+                "A) n. 打击 / 中风 / 轻抚",
+                "B) adj. 行为的，行为上的，强调行为的",
+                "C) n. 方法 / 模式 / 时尚"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "modest / 美['mɑːdɪst]  / 英['mɒdɪst] ",
+            "options": [
+                "A) adj. 谦虚的 / 适中的 / 有限的 / 端庄的",
+                "B) n. 争论 / 争辩 / 争执 / 争夺",
+                "C) n. 全部课程 / 课程"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "monster / 美['mɑːnstər]  / 英['mɒnstə] ",
+            "options": [
+                "A) adv. 讽刺地 / 说反话地 / 令人啼笑皆非地",
+                "B) n. 怪物 / 恶魔 / 残酷无情的人 / 残忍的人",
+                "C) v. 扰乱 / 干涉 / 性骚扰 / 妨碍"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "monthly /  / ",
+            "options": [
+                "A) "
+            ],
+            "answer": [
+                "A",
+                "A",
+                "A"
+            ],
+            "flag": "answers amount: 3 "
+        },
+        {
+            "title": "monument / 美['mɑːnjʊmənt]  / 英['mɒnjʊmənt] ",
+            "options": [
+                "A) n. 犯罪 / 过失 / 内疚 / 不安",
+                "B) n. <地质>包体 / 包含 / 内含物 / 成员",
+                "C) n. 纪念物 / 纪念碑 / 历史遗迹 / 不朽的作品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mortgage /  / ",
+            "options": [
+                "A) n. 三人组 / 三件套 / 三重唱 / 三重奏曲",
+                "B) ",
+                "C) n. 开拓者 / 开发者 / 倡导者 / 先锋"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mosque / 美[mɔːr'oʊvər]  / 英[mɔːr'əʊvə] ",
+            "options": [
+                "A) n. 逮捕证 / 证明 / 正当理由",
+                "B) adv. 而且 / 加之 / 再者 / 更有甚者",
+                "C) n. 祖先 / 原种 / 原型 / 被继承人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mosquito /  / ",
+            "options": [
+                "A) adj. 好运的 / 有利的 / 物质上富裕的 / 幸运的",
+                "B) ",
+                "C) n. 道德规范，伦理标准"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "motion / 美[mə'skiːtoʊ]  / 英[mɒ'skiːtəʊ] ",
+            "options": [
+                "A) n. 蚊子",
+                "B) n. 欺骗 / 诡计 / 骗局 / 骗子",
+                "C) n. 尊严 / 高贵 / 自尊 / 高位"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "motivate /  / ",
+            "options": [
+                "A) n. 产量 / 生产过程 / 输出功率 / 出产",
+                "B) n. 诱拐 / 绑架",
+                "C) "
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "motivation / 美['moʊtɪveɪt]  / 英['məʊtɪveɪt] ",
+            "options": [
+                "A) n. 肘 / 肘部 / 肘状物 / 弯头",
+                "B) v. 使产生动机 / 激发积极性 / 刺激 / 使有动机",
+                "C) n. 捐献者 / 投稿者 / 捐助者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "moving /  / ",
+            "options": [
+                "A) n. 保护 / 保养 / 保存",
+                "B) ",
+                "C) n. 传记 / 专题学术论文 / 回忆录 / 研究报告"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "myth / 美['muːvɪŋ]  / 英['muːvɪŋ] ",
+            "options": [
+                "A) n. 殖民地当地人 / 殖民地居民 / 殖民地时期式样的房屋",
+                "B) adj. 行进的 / 活动的 / 动人的，感人的",
+                "C) n. 一致 / 符合 / 浓度 / 相容性"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "naked / 美['neɪkɪd]  / 英['neɪkɪd] ",
+            "options": [
+                "A) n. 方法 / 模式 / 时尚",
+                "B) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的",
+                "C) adj. 可比作…的 / 相似的 / 相当的 / 比得上的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nasty / 美['næstɪ]  / 英['nɑːstɪ] ",
+            "options": [
+                "A) adv. 在过去 / 从前 / 以前 / 原来",
+                "B) n. 外出游玩 / 外出 / 远足 / 短途旅游",
+                "C) n. <非正式>令人不快的人 / 有害的人 / 恐怖电视 / 令人不快的事物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "navigation / 美[ˌnævɪ'ɡeɪʃn]  / 英[nævɪ'ɡeɪʃ(ə)n] ",
+            "options": [
+                "A) n. 声明 / 公告 / 宣言 / 申诉书",
+                "B) adj. 神圣的 / 宗教的 / 神的 / 庄严的",
+                "C) n. 航行 / 航海 / 航空 / <方>内河水道"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nearby / 美[ˌnɪr'baɪ]  / 英[ˌnɪə'baɪ] ",
+            "options": [
+                "A) adj. 附近的",
+                "B) adj. （尤指时间）过长的，冗长的",
+                "C) adv. 在附近"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "necessity / 美[nə'sesətɪ]  / 英[nɪ'sesɪtɪ] ",
+            "options": [
+                "A) n. 必要 / 必需品 / <哲>必然性 / 需要",
+                "B) v. 把…分类 / 将定为机密 / 分类 / 分等",
+                "C) n. 划伤 / 擦伤 / 抓痕 / 刮擦声"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "negotiate / 美[nɪ'ɡoʊʃɪeɪt]  / 英[nɪ'ɡəʊʃɪeɪt] ",
+            "options": [
+                "A) n. 自夸 / 夸耀 / 值得夸耀的事物",
+                "B) n. 宣称 / 指控 / 假说 / 陈述",
+                "C) v. 协商 / 顺利通过 / 成功地越过 / 转让"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "negotiation / 美[nɪˌɡoʊʃɪ'eɪʃn]  / 英[nɪɡəʊʃɪ'eɪʃ(ə)n] ",
+            "options": [
+                "A) n. 安排 / 处理 / 支配 / 清理",
+                "B) n. 谈判，洽谈",
+                "C) n. 管道 / 大浪的空心部分 / 输油管 / 传递途径"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "neutral / 美['nuːtrəl]  / 英['njuːtrəl] ",
+            "options": [
+                "A) n. 水井 / 油井 / 天然气井 / 井",
+                "B) n. 生产 / 制造 / 制造业 / 制成品",
+                "C) n. 中立者 / 非彩色 / 空挡 / 中立国"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "newly / 美['nuːlɪ]  / 英['njuːlɪ] ",
+            "options": [
+                "A) n. 社论 / 报刊的非广告部分",
+                "B) n. 登记 / 注册 / 挂号 / <英>牌照号码",
+                "C) adv. 新近 / 重新 / 全新地 / 最近"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nickel / 美['nɪkl]  / 英['nɪk(ə)l] ",
+            "options": [
+                "A) n. 撤退 / 退却 / 撤退信号 / 静居处",
+                "B) n. 宗教团体 / 理事会 / 审议机构 / 圣会会众",
+                "C) n. 镍 / 5分钱 / 镍币 / 五分镍币"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "norm / 美[nɔːrm]  / 英[nɔːm] ",
+            "options": [
+                "A) n. 临时结合 / 联合 / 联盟 / 合并",
+                "B) n. 外出游玩 / 外出 / 远足 / 短途旅游",
+                "C) n. 惯例 / 模方 / 准则 / 范数"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "notebook / 美['noʊtbʊk]  / 英['nəʊtbʊk] ",
+            "options": [
+                "A) n. 航游 / 游弋 / 巡航 / 乘船游览",
+                "B) n. 笔记本 / 笔记本电脑 / 手册",
+                "C) n. 狼 / 残忍的东西 / 狼音 / 色狼"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "novelist / 美['nɑːvəlɪst]  / 英['nɒvəlɪst] ",
+            "options": [
+                "A) n. 移民 / 拓荒者 / 移居者 / 殖民者",
+                "B) n. 小说家",
+                "C) n. 拥抱 / 怀抱 / 庇护"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nowadays / 美['naʊədeɪz]  / 英['naʊədeɪz] ",
+            "options": [
+                "A) n. 和声 / 和谐 / 和睦",
+                "B) n. 目录 / 图书馆藏书目录 / 待售商品目录 / 艺术展品目录",
+                "C) adv. 现 / 现今 / 时下"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nursing / 美['nɜːrsɪŋ]  / 英['nɜːsɪŋ] ",
+            "options": [
+                "A) n. 垄断 / 专卖 / 完全控制 / 垄断者",
+                "B) n. 私有化",
+                "C) n. 护理职业 / 护理工作"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nutrition / 美[nʊ'trɪʃn]  / 英[njʊ'trɪʃ(ə)n] ",
+            "options": [
+                "A) n. 养料的供给 / 养料的摄取 / 食物 / 营养物",
+                "B) n. 队列，成直线 / 正确排放 / 结盟",
+                "C) n. 成就 / 成绩 / 技艺 / 才能"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "obesity / 美[oʊˈbisədi]  / 英[ə(ʊ)ˈbiːsɪti] ",
+            "options": [
+                "A) n. 肥胖",
+                "B) n. 贮藏橱 / 陈列柜 / 内阁 / <古>私人小房间",
+                "C) adj. 无数的 / 数不清的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "observer / 美[əb'zɜːrvər]  / 英[əb'zɜːvə] ",
+            "options": [
+                "A) n. 观察者 / 观察家 / 侦察兵 / 遵守者",
+                "B) n. 假货 / 冒充者 / 骗子 / 骗人的把戏",
+                "C) n. 无形进出口"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "obstacle / 美['ɑːbstəkl]  / 英['ɒbstək(ə)l] ",
+            "options": [
+                "A) n. 良知 / 道德心",
+                "B) n. 棕榈树 / 棕榈叶 / 手掌 / 掌状物",
+                "C) n. 障碍 / 妨害物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "occupation / 美[ˌɑːkjʊ'peɪʃn]  / 英[ɒkjʊ'peɪʃ(ə)n] ",
+            "options": [
+                "A) n. 饥饿 / 饥荒 / 渴望",
+                "B) n. 工作 / 占领 / 职业 / 占有",
+                "C) adj. 愤世嫉俗的 / 极端利己而不讲道义的 / 冷嘲的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "offender / 美[əˈfɛndər]  / 英[əˈfɛndə] ",
+            "options": [
+                "A) n. 罪犯 / 祸害",
+                "B) v. 集合，聚集 / 装配部件 / 使聚集 / 调集",
+                "C) n. 恶意 / 害人之心 / 不顾 / 怨恨"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ongoing / 美['ɑːnɡoʊɪŋ]  / 英['ɒnɡəʊɪŋ] ",
+            "options": [
+                "A) adj. 持续的 / 正在进行的",
+                "B) n. 拥抱 / 怀抱 / 庇护",
+                "C) v. 突然不见 / 逐渐消失 / 消失 / 成为零"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "openly / 美['oʊpənlɪ]  / 英['əʊpənlɪ] ",
+            "options": [
+                "A) adv. 公开地 / 坦白地 / 公然",
+                "B) adj. 不恰当的，不相宜的",
+                "C) n. 容忍 / 耐心 / 耐性 / <英>单人纸牌戏"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "opera / 美['ɑːprə]  / 英['ɒp(ə)rə] ",
+            "options": [
+                "A) n. 歌剧 / 歌剧院 / <乐>作品（opus 的复数）",
+                "B) n. 敬神 / 拜神 / 崇拜 / 爱慕",
+                "C) n. 革新 / 变革 / 新方法 / 新产品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "operator / 美['ɑːpəreɪtər]  / 英['ɒpəreɪtə] ",
+            "options": [
+                "A) adv. 完全地 / 通通 / 全部 / 统统",
+                "B) n. 操作员 / 经营者 / <数>运算符号 / 接线员",
+                "C) n. 移民 / 拓荒者 / 移居者 / 殖民者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "optimistic / 美[ˌɑːptɪ'mɪstɪk]  / 英[ɒptɪ'mɪstɪk] ",
+            "options": [
+                "A) adj. 乐观的 / 过于乐观的 / 高估的 / 乐观主义的",
+                "B) n. 商标，牌号",
+                "C) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "orchestra / 美['ɔːrkɪstrə]  / 英['ɔːkɪstrə] ",
+            "options": [
+                "A) adv. 彻底地 / 完全地 / 总共 / 总而言之",
+                "B) n. 低音 / 鲈鱼 / 男低音 / 椴树",
+                "C) n. 管弦乐队 / 乐池 / 古希腊剧场舞台前部半圆形的表演区 / 乐队演奏处"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "organic / 美[ɔːr'ɡænɪk]  / 英[ɔː'ɡænɪk] ",
+            "options": [
+                "A) n. 处方 / 权威推荐 / 规定",
+                "B) adj. 生物体的 / 有机体的 / 组织的 / 器官的",
+                "C) n. 垂直线 / 垂直面 / 垂直物 / 竖杆"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outfit / 美['aʊtfɪt]  / 英['aʊtfɪt] ",
+            "options": [
+                "A) adj. 残忍的 / 野蛮的 / 令人不快的 / 苛刻的",
+                "B) n. 全套服装 / 机构 / 用具 / 全套装备",
+                "C) n. 巡视员 / 巡官 / <英>检票员 / 检查员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "output / 美['aʊtpʊt]  / 英['aʊtpʊt] ",
+            "options": [
+                "A) n. 流体 / 气体 / 液体",
+                "B) n. 鼠 / <北美>常客 / <美>女用发垫 / 卑鄙小人",
+                "C) n. 产量 / 生产过程 / 输出功率 / 出产"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outstanding / 美[aʊt'stændɪŋ]  / 英[aʊt'stændɪŋ] ",
+            "options": [
+                "A) n. 一丛 / 一群 / <天文>星团 / <语言学>辅音群",
+                "B) adj. 杰出的 / 未解决的",
+                "C) n. 保证 / 抵押"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overcome / 美[ˌoʊvər'kʌm]  / 英[əʊvə'kʌm] ",
+            "options": [
+                "A) n. 黑体字 / 粗体字 / 博尔德",
+                "B) v. 解决 / 克服 / 压倒 / 胜过",
+                "C) n. 部分 / 份额 / 体积 / 比例"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overnight / 美[ˌoʊvər'naɪt]  / 英[əʊvə'naɪt] ",
+            "options": [
+                "A) n. 一夜的逗留 / 头天晚上",
+                "B) adj. 声名狼藉的 / 众所周知的",
+                "C) n. 条约 / 协定 / 谈判"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ownership / 美['onɚʃɪp]  / 英['əʊnəʃɪp] ",
+            "options": [
+                "A) v. 加强 / 使坚强 / 变强 / 巩固",
+                "B) n. 所有权",
+                "C) adj. 压倒性多数的 / 极其强烈的 / 压倒性的 / 势不可挡的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "oxygen / 美['ɑːksɪdʒən]  / 英['ɒksɪdʒən] ",
+            "options": [
+                "A) n. 氧符号：O / <化学>氧气",
+                "B) n. 证实 / 确定 / 批准 / 坚信礼",
+                "C) n. 机械装置 / 机制 / 机理"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "packet / 美['pækɪt]  / 英['pækɪt] ",
+            "options": [
+                "A) n. 纸盒 / 硬纸盒 / <旧>定期邮轮 / 数据包",
+                "B) n. 盛怒 / 愤慨 / 暴行 / 侮辱",
+                "C) n. 外国人 / 陌生人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "palm / 美[pɑːm]  / 英[pɑːm] ",
+            "options": [
+                "A) n. 棕榈树 / 棕榈叶 / 手掌 / 掌状物",
+                "B) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待",
+                "C) n. 拥抱 / 怀抱 / 庇护"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "panic / 美['pænɪk]  / 英['pænɪk] ",
+            "options": [
+                "A) n. 废话 / 愚蠢的行为 / 胡说 / 语言诙谐幽默",
+                "B) adj. 广大的 / 无边无际的 / 非常好的",
+                "C) n. 恐慌 / 经济恐慌 / 粟"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "parade / 美[pə'reɪd]  / 英[pə'reɪd] ",
+            "options": [
+                "A) n. 游行 / 阅兵 / 炫耀 / 行进",
+                "B) n. 教科书",
+                "C) adj. 足够的 / 充分的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "parallel / 美['pærəlel]  / 英['pærəlel] ",
+            "options": [
+                "A) n. 纬线 / 平行圈 / 对应线 / 平行线",
+                "B) adv. 某个时候 / 从前 / 改天 / 在某一时候",
+                "C) n. 错误的观念 / 错误的理解 / 假象 / 幻觉"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "participation / 美[pɑrˌtɪsəˈpeɪʃ(ə)n]  / 英[pɑːˌtɪsɪˈpeɪʃn] ",
+            "options": [
+                "A) n. 人群 / 暴民 / 乌合之众 / 民众",
+                "B) n. 参加",
+                "C) n. 长凳 / 工作台 / 法官职位 / 替补队员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "partnership / 美['pɑːrtnərʃɪp]  / 英['pɑːtnəʃɪp] ",
+            "options": [
+                "A) n. 伙伴 / 合作 / 合伙 / [经管] 合伙企业",
+                "B) n. 伤亡人数 / 通行费 / 代价 / 钟声"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "part-time / 美[ˌpɑːrt 'taɪm]  / 英[ˌpɑːt 'taɪm] ",
+            "options": [
+                "A) n. 租金 / 租赁 / <北美>租用的房或车",
+                "B) adv. 兼职地 / 用部分时间地",
+                "C) adj. 非全日的 / 兼职的 / 部分时间的"
+            ],
+            "answer": [
+                "C",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "passionate / 美['pæʃənət]  / 英['pæʃənət] ",
+            "options": [
+                "A) adj. 不充足的 / 不胜任的 / 不会生活的",
+                "B) n. 持续时间 / 期间",
+                "C) adj. 热情的 / 感情强烈的 / 热烈的 / 易怒的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "password / 美['pæswɜːrd]  / 英['pɑːswɜːd] ",
+            "options": [
+                "A) npl. 牛 / 家牛",
+                "B) v. 相似 / 相符 / 一致 / 联系",
+                "C) n. 密码 / 口令"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "patch / 美[pætʃ]  / 英[pætʃ] ",
+            "options": [
+                "A) n. 徽章 / 证章 / 奖章 / 标志",
+                "B) n. 碰撞 / <计算机>冲突 / 抵触 / 多点传送",
+                "C) n. 补丁 / 碎片 / 小块土地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "patience / 美['peɪʃns]  / 英['peɪʃ(ə)ns] ",
+            "options": [
+                "A) n. 出价 / 投标 / 努力 / 叫牌",
+                "B) n. 容忍 / 耐心 / 耐性 / <英>单人纸牌戏",
+                "C) n. 鸡尾酒 / 开胃冷菜 / 开胃食品 / 混合因素"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pause / 美[pɔːz]  / 英[pɔːz] ",
+            "options": [
+                "A) n. 暂停 / 停顿 / 暂停键 / 间歇",
+                "B) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "C) n. 侮辱 / 冒犯 / 侮辱物 / 凌辱"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "peer / 美[pɪr]  / 英[pɪə] ",
+            "options": [
+                "A) n. 同辈 / 同龄人 / 贵族 / 同等的人",
+                "B) n. 机械装置 / 机制 / 机理",
+                "C) v. 容许 / 不干预 / 宽恕 / 有耐力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "penalty / 美['penəltɪ]  / 英['penəltɪ] ",
+            "options": [
+                "A) adv. 厉害地 / 非常 / 可怕地 / 极度地",
+                "B) n. 处罚 / 刑罚 / 不利后果 / 劣势",
+                "C) n. 摄入量 / 纳入人员 / 入口 / 引入口"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "perceive / 美[pər'siːv]  / 英[pə'siːv] ",
+            "options": [
+                "A) n. 着迷，上瘾",
+                "B) n. 毯子 / <印刷>橡皮布 / <喻>覆盖物 / 毯状物",
+                "C) v. 认识到 / 理解 / 把看作 / 察觉"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "perception / 美[pər'sepʃn]  / 英[pə'sepʃ(ə)n] ",
+            "options": [
+                "A) n. 悲剧性事件 / 惨案 / 悲剧作品 / 悲剧",
+                "B) n. 钱 / 雄鹿 / 年轻的印第安人或黑人",
+                "C) n. 知觉 / 感觉 / 看法 / 洞察力"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "permanently / 美['pɝmənəntli]  / 英['pɜːm(ə)nəntlɪ] ",
+            "options": [
+                "A) n. 激光器 / 激光",
+                "B) adv. 永久地",
+                "C) n. 队列，成直线 / 正确排放 / 结盟"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pharmacy / 美['fɑːrməsɪ]  / 英['fɑːməsɪ] ",
+            "options": [
+                "A) n. 药店 / 配药学 / 制药业 / 一批备用药品",
+                "B) n. 隐喻 / 比喻说法 / 代表物 / 象征物",
+                "C) n. 安排 / 处理 / 支配 / 清理"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "physician / 美[fɪ'zɪʃn]  / 英[fɪ'zɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 过多的 / 过分的",
+                "B) n. 摆放 / 布置 / 定位球 / 人员配置",
+                "C) n. 医生 / 内科医生 / 医治者 / 抚慰者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pill / 美[pɪl]  / 英[pɪl] ",
+            "options": [
+                "A) n. 帝国 / 大企业 / 企业集团 / 广泛活动",
+                "B) v. 发生 / 使成为法律 / 扮演 / 颁布",
+                "C) n. 药片 / 丸剂"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pity / 美['pɪtɪ]  / 英['pɪtɪ] ",
+            "options": [
+                "A) v. 授权 / 批准",
+                "B) n. 同情 / 可惜 / 遗憾",
+                "C) n. 墓穴 / 死亡 / 堆积处"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "placement / 美['pleɪsmənt]  / 英['pleɪsmənt] ",
+            "options": [
+                "A) n. 旋转 / 转动 / 轮流 / <林>轮伐期",
+                "B) n. 专门院校 / 研究院 / <旧>学校 / 学院",
+                "C) n. 摆放 / 布置 / 定位球 / 人员配置"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "portion / 美['pɔːrʃn]  / 英['pɔːʃ(ə)n] ",
+            "options": [
+                "A) n. 铁匠铺 / 锻铁炉 / 锻造车间 / 铁工厂",
+                "B) n. 一部分 / 一定数量 / 一节 / 一片",
+                "C) n. 黑暗 / 邪恶 / 夜晚 / 阴郁"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "potentially / 美[pəˈtɛn(t)ʃəli]  / 英[pəˈtɛnʃ(ə)li] ",
+            "options": [
+                "A) n. 摘录 / 引文 / 提取物",
+                "B) adv. 潜在地",
+                "C) v. 改善 / 改善土壤结构或肥力 / 修改 / 改进"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "precede / 美[prɪ'siːd]  / 英[prɪ'siːd] ",
+            "options": [
+                "A) n. 支配权 / 影响力 / 优势 / 统治",
+                "B) v. 先于 / 处在…的前面 / 走在…的前面 / 领先",
+                "C) n. 杆 / 竿 / 棒"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "precious / 美['preʃəs]  / 英['preʃəs] ",
+            "options": [
+                "A) n. 宝贝 / 亲爱的 / 普雷舍丝",
+                "B) adv. 完全地 / 通通 / 全部 / 统统",
+                "C) v. 经受 / 遭受 / 忍受"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "precise / 美[prɪ'saɪs]  / 英[prɪ'saɪs] ",
+            "options": [
+                "A) adv. 合适地",
+                "B) adj. 确切的 / 精密的 / 严格的 / 正好的",
+                "C) "
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "precisely / 美[prɪ'saɪslɪ]  / 英[prɪ'saɪslɪ] ",
+            "options": [
+                "A) adv. 毫不含糊地 / 精确地 / 恰恰",
+                "B) v. 发育成熟 / 长大 / 到期 / 变得可食用",
+                "C) n. 出席 / 在场人数 / 到场 / 出席人数"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "predictable / 美[prɪ'dɪktəbl]  / 英[prɪ'dɪktəb(ə)l] ",
+            "options": [
+                "A) n. 为了的利益 / 为了维护 / 代表 / 利益",
+                "B) n. 有效性 / 引人注目",
+                "C) adj. 可预言的 / 易于判断或猜透的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "preference / 美['prefrəns]  / 英['pref(ə)r(ə)ns] ",
+            "options": [
+                "A) n. 过量 / 过度 / 无节制 / 超过部分",
+                "B) n. 工艺 / 手艺 / 船 / 艇",
+                "C) n. 偏爱 / <律>优先偿还权 / 优先权"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "presidential / 美[ˌprɛzəˈdɛn(t)ʃ(ə)l]  / 英[prɛzɪˈdɛnʃ(ə)l] ",
+            "options": [
+                "A) adj. 总统的",
+                "B) n. 头盔 / <植>花冠盔瓣 / 外颚叶",
+                "C) n. 运载 / 运输 / 经过 / <北美>公共交通客运"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pride / 美[praɪd]  / 英[praɪd] ",
+            "options": [
+                "A) v. 公开赞同 / 背书 / 签署 / 认可",
+                "B) n. 工作 / 占领 / 职业 / 占有",
+                "C) n. 骄傲 / 得意 / 狮群 / 自尊心"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "primarily / 美[praɪ'merəlɪ]  / 英['praɪm(ə)rɪlɪ;praɪ'mer-] ",
+            "options": [
+                "A) adj. 有意义的 / 意味深长的 / 严肃的 / 重要的",
+                "B) v. 为…的成分 / 构成 / 建立 / 任命",
+                "C) adv. 通常 / 主要地 / 首先"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prior / 美['praɪər]  / 英['praɪə(r)] ",
+            "options": [
+                "A) n. 男主持 / 修道院院长",
+                "B) v. 通知 / 指导 / 命令 / 教授",
+                "C) n. 保险费 / 加付款 / 加价 / 奖品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "probability / 美[ˌprɑːbə'bɪlətɪ]  / 英[prɒbə'bɪlɪtɪ] ",
+            "options": [
+                "A) n. 可能性 / 或然性 / 可能的事 / 机率",
+                "B) n. 特许状 / 凭照 / 宪章 / 执照",
+                "C) n. 垃圾 / 一窝 / 铺垫物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "probable / 美['prɑːbəbl]  / 英['prɒbəb(ə)l] ",
+            "options": [
+                "A) adv. 大体地 / 宽阔地 / 明显地 / 粗鄙地",
+                "B) n. 有希望入选的人 / 可能被击落的飞机 / 很可能的事 / 大有希望的候选者",
+                "C) n. 兄弟，姊妹，同胞"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "proceed / 美[proʊ'siːd]  / 英[prə'siːd] ",
+            "options": [
+                "A) n. 碰撞 / <计算机>冲突 / 抵触 / 多点传送",
+                "B) v. 开始行动 / 开展 / 发生 / 行进",
+                "C) v. 发源 / 创造 / 引起 / 创作"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "programming / 美['proʊɡræmɪŋ]  / 英['prəʊɡræmɪŋ] ",
+            "options": [
+                "A) n. 脸颊 / 鲁莽 / 无礼 / 臀部",
+                "B) n. 编制程序 / 节目安排 / 设计 / 规划",
+                "C) n. <非正式>备忘录"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "progressive / 美[prə'ɡresɪv]  / 英[prə'ɡresɪv] ",
+            "options": [
+                "A) n. 疼痛 / 痛苦",
+                "B) n. 进步分子 / 支持进步政策者 / 改革派人士 / 改革论者",
+                "C) n. 偷窃 / 盗窃罪 / 盗窃 / 偷"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prohibit / 美[prə'hɪbɪt]  / 英[prə(ʊ)'hɪbɪt] ",
+            "options": [
+                "A) adj. 外交的 / 外交活动的 / 老练的",
+                "B) n. 天使 / 纯洁善良的人 / 天使货币 / 善人",
+                "C) v. 禁止 / 阻止 / 使不可能"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "promising / 美['prɑːmɪsɪŋ]  / 英['prɒmɪsɪŋ] ",
+            "options": [
+                "A) n. 回声 / 回音 / 回波 / 效仿",
+                "B) adj. 有指望的 / 有出息的 / 有希望的",
+                "C) n. 构架 / 框架 / 结构"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "promotion / 美[prə'moʊʃn]  / 英[prə'məʊʃn] ",
+            "options": [
+                "A) v. 通知 / 指导 / 命令 / 教授",
+                "B) adv. 效率高地 / 收效大地",
+                "C) n. 促进 / 提倡 / 提拔 / 推销"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prompt / 美[prɑːmpt]  / 英[prɒmpt] ",
+            "options": [
+                "A) n. 鼓励 / 催促 / 付款期限 / 提词",
+                "B) n. 退休 / 退职 / 退役 / 退隐",
+                "C) adj. 视觉的 / <物理>可见光谱区的 / 有助于视力的 / 光学的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "proportion / 美[prə'pɔːrʃn]  / 英[prə'pɔːʃ(ə)n] ",
+            "options": [
+                "A) adj. 及时的 / 适时的",
+                "B) n. 人道主义者 / 慈善家 / 博爱主义者 / 基督凡人论者",
+                "C) n. 部分 / 份额 / 体积 / 比例"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "protein / 美['proʊtiːn]  / 英['prəʊtiːn] ",
+            "options": [
+                "A) n. 流行 / 流行程度",
+                "B) n. 航游 / 游弋 / 巡航 / 乘船游览",
+                "C) n. 蛋白质 / 朊"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "protester / 美[ˈproʊˌtɛstər]  / 英[prəˈtɛstə] ",
+            "options": [
+                "A) n. 扳机 / 启动装置 / 触发因素 / 制滑机",
+                "B) n. 趋势 / 倾向 / 政治社团 / 癖好",
+                "C) n. 抗议者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "psychological / 美[ˌsaɪkə'lɑːdʒɪkl]  / 英[saɪkə'lɒdʒɪk(ə)l] ",
+            "options": [
+                "A) adj. 心理的 / 精神的 / 心理学的 / 精神上的",
+                "B) n. 明智 / 智慧 / 学识 / 至理名言",
+                "C) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "publicity / 美[pʌb'lɪsətɪ]  / 英[pʌb'lɪsɪtɪ] ",
+            "options": [
+                "A) n. 革命者",
+                "B) n. 名声 / 宣传 / 公开 / 广告",
+                "C) adj. 神圣的 / 宗教的 / 神的 / 庄严的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "publishing / 美['pʌblɪʃɪŋ]  / 英['pʌblɪʃɪŋ] ",
+            "options": [
+                "A) n. 复杂 / 复杂性 / 复杂因素 / 复杂情况",
+                "B) n. 难民 / 避难人 / 流亡者",
+                "C) n. 出版业 / 发行业 / 出版活动"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "punk / 美[pʌŋk]  / 英[pʌŋk] ",
+            "options": [
+                "A) n. 朋客摇滚乐 / 废物 / 小阿飞 / 年轻无知的人",
+                "B) v. 抓住 / 夺取 / 理解 / 逮捕",
+                "C) n. 同一品种 / 属 / 类型"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "purely / 美['pjʊrlɪ]  / 英['pjʊəlɪ] ",
+            "options": [
+                "A) adv. 纯粹地 / 完全地 / 专门地 / 贞淑地",
+                "B) n. 产量 / 生产过程 / 输出功率 / 出产",
+                "C) adj. 引起争论的 / 有争议的 / 有争论的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pursuit / 美[pər'suːt]  / 英[pə'sjuːt] ",
+            "options": [
+                "A) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的",
+                "B) n. 追逐 / 追捕 / 追求 / 特定活动",
+                "C) n. 幼儿房 / 托儿所 / 苗圃 / 动物养殖场"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "puzzle / 美['pʌzl]  / 英['pʌz(ə)l] ",
+            "options": [
+                "A) v. 部署 / 配置 / 展开 / 使疏开",
+                "B) adv. 充分地 / 足够地 / 合适地",
+                "C) n. 测验智力的游戏 / 难题 / 谜 / 迷惑"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "racial / 美['reɪʃl]  / 英['reɪʃ(ə)l] ",
+            "options": [
+                "A) adj. 种族的 / 民族的 / 种族差异引起的 / 人种的",
+                "B) adj. 有缺陷的 / 有瑕疵的 / 受损的 / 有裂纹的",
+                "C) n. 中立者 / 非彩色 / 空挡 / 中立国"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "racism / 美['reɪsɪzəm]  / 英['reɪsɪzəm] ",
+            "options": [
+                "A) n. 种族主义 / 种族歧视 / 人种偏见",
+                "B) n. 联系 / 关联 / 相互关系 / <统计>相关数",
+                "C) n. 论题 / 毕业论文 / 正题 / 论文"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "racist / 美[ˈreɪsəst]  / 英[ˈreɪsɪst] ",
+            "options": [
+                "A) adj. 生物学的 / 生物体的 / 生物的 / 加酶的",
+                "B) n. 动力 / <乐>同 dynamics / 动态",
+                "C) n. 种族主义分子"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "radiation / 美[ˌreɪdɪ'eɪʃn]  / 英[reɪdɪ'eɪʃ(ə)n] ",
+            "options": [
+                "A) n. <物理>辐射 / 辐射作用 / 放射线 / 放射物",
+                "B) n. 保险费 / 加付款 / 加价 / 奖品",
+                "C) n. 公民身份"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rail / 美[reɪl]  / 英[reɪl] ",
+            "options": [
+                "A) n. 栏杆 / 铁轨 / 扶手 / 围栏",
+                "B) n. 敏感 / 敏锐 / 敏感性 / 过敏",
+                "C) n. 开拓者 / 开发者 / 倡导者 / 先锋"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "random / 美['rændəm]  / 英['rændəm] ",
+            "options": [
+                "A) n. 协定 / <英>交易 / 特价商品 / 契约",
+                "B) n. <物理>动量 / 冲量 / 冲力 / 势头",
+                "C) adj. 无一定之规的 / 任意选取的 / 任意的 / 胡乱的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rat / 美[ræt]  / 英[ræt] ",
+            "options": [
+                "A) n. 鼠 / <北美>常客 / <美>女用发垫 / 卑鄙小人",
+                "B) n. 家眷 / 侍从 / 食客 / 受赡养者",
+                "C) v. 不同 / 意见不同 / 使…相异 / 使…不同"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rating / 美['reɪtɪŋ]  / 英['reɪtɪŋ] ",
+            "options": [
+                "A) v. 征服 / 攻占 / 成功地攀登 / 破除",
+                "B) n. 品级 / 级别 / <英>水兵 / 普通海员",
+                "C) n. 悲剧性事件 / 惨案 / 悲剧作品 / 悲剧"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reasonably / 美['riːznəblɪ]  / 英['riːznəblɪ] ",
+            "options": [
+                "A) n. 挑战 / 挑动",
+                "B) adv. 适度地 / 相当地 / 讲道理地 / 合理地",
+                "C) n. 齿轮 / 变速装置 / 挡 / 传动装置"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rebuild / 美[ˌriː'bɪld]  / 英[riː'bɪld] ",
+            "options": [
+                "A) n. 重新组装 / 改装的机器",
+                "B) adj. 临床的 / 冷静能干的 / 冷淡疏远的 / 诊所的",
+                "C) n. 指示物 / <化>指示剂 / 指示种群 / 指标"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "receiver / 美[rɪ'siːvər]  / 英[rɪ'siːvə] ",
+            "options": [
+                "A) n. 修改 / 改型 / 改变",
+                "B) n. 收件人 / 接收器 / 接受者 / 收款员",
+                "C) n. 特许状 / 凭照 / 宪章 / 执照"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "recession / 美[rɪ'seʃn]  / 英[rɪ'seʃ(ə)n] ",
+            "options": [
+                "A) adj. 被扰乱的，混乱的",
+                "B) n. 衰退 / 不景气 / 后退 / 凹处",
+                "C) n. 下摆 / 一圈 / 膝盖 / 山坳"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reckon / 美['rekən]  / 英['rekən] ",
+            "options": [
+                "A) n. 陷阱 / 抛靶器 / 困境 / 存水弯",
+                "B) adv. 在全国",
+                "C) v. 计算 / 估计 / 依靠 / 确信"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "recognition / 美[ˌrekəɡ'nɪʃn]  / 英[rekəɡ'nɪʃ(ə)n] ",
+            "options": [
+                "A) n. 全球化",
+                "B) v. 授权于 / 允许 / 使能够 / 增强的力量和信心",
+                "C) n. 认识 / 识别 / 承认 / 赏识"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "recovery / 美[rɪ'kʌvərɪ]  / 英[rɪ'kʌvərɪ] ",
+            "options": [
+                "A) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "B) n. 游行 / 阅兵 / 炫耀 / 行进",
+                "C) n. 痊愈 / 重新拥有 / 收回 / 回收修理"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "recruit / 美[rɪ'kruːt]  / 英[rɪ'kruːt] ",
+            "options": [
+                "A) n. 铁匠铺 / 锻铁炉 / 锻造车间 / 铁工厂",
+                "B) n. 新兵",
+                "C) n. 拘留 / 延迟 / 挽留 / 课后留校"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "referee / 美[ˌrefə'riː]  / 英[refə'riː] ",
+            "options": [
+                "A) n. 拥护者 / 辩护者 / / 律师",
+                "B) adv. 足够地 / 充分地",
+                "C) n. 裁判 / 推荐人 / 证明人 / 审阅人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "refugee / 美[ˌrefjʊ'dʒiː]  / 英[refjʊ'dʒiː] ",
+            "options": [
+                "A) adj. 传说的 / 声名远播的",
+                "B) n. 难民 / 避难人 / 流亡者",
+                "C) v. 再生产 / 仿造 / 复制 / 再生"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "registration / 美[ˌredʒɪ'streɪʃn]  / 英[redʒɪ'streɪʃ(ə)n] ",
+            "options": [
+                "A) n. <律>指控 / 控诉物 / 起诉书 / 控告",
+                "B) adj. 革新的 / 创新的 / 新颖的 / 有创新精神的",
+                "C) n. 登记 / 注册 / 挂号 / <英>牌照号码"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "regulate / 美['reɡjʊleɪt]  / 英['reɡjʊleɪt] ",
+            "options": [
+                "A) n. <北美>居高临下的位置 / 从高处能看到的景色 / 忽视 / 眺望",
+                "B) v. 控制 / 调节 / 调整 / 校准",
+                "C) n. 庄严仪式 / 惯例 / 礼制 / 老规矩"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reinforce / 美[ˌriːɪn'fɔːrs]  / 英[riːɪn'fɔːs] ",
+            "options": [
+                "A) n. 部分 / 份额 / 体积 / 比例",
+                "B) v. 加强 / 加固 / 增进 / 加深",
+                "C) n. 肢体 / 翼 / 枝干"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "relieve / 美[rɪ'liːv]  / 英[rɪ'liːv] ",
+            "options": [
+                "A) v. 常到 / 常出入于 / 时常出入于",
+                "B) n. 诊所 / 门诊部 / 短期课程 / 临床",
+                "C) v. 缓解 / 解除 / 使放心"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "relieved / 美[rəˈlivd]  / 英[rɪˈliːvd] ",
+            "options": [
+                "A) adv. 此外 / 而且",
+                "B) n. 先例，前例",
+                "C) adj. 感到宽慰的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "remarkable / 美[rɪ'mɑːrkəbl]  / 英[rɪ'mɑːkəb(ə)l] ",
+            "options": [
+                "A) n. 改善 / 复兴 / 苏醒 / 再生效",
+                "B) n. 焦虑 / 悲伤 / 痛苦 / 危难",
+                "C) adj. 引人注目的 / 显著的 / 卓越的 / 值得注意的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "remarkably / 美[rəˈmɑrkəbli]  / 英[rɪˈmɑːkəbli] ",
+            "options": [
+                "A) adv. 非同寻常地",
+                "B) n. 论题 / 毕业论文 / 正题 / 论文",
+                "C) n. 氢"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rental / 美['rentl]  / 英['rent(ə)l] ",
+            "options": [
+                "A) n. 租金 / 租赁 / <北美>租用的房或车",
+                "B) v. 开药 / 为…开处方 / 推荐 / 规定",
+                "C) n. 罪犯 / 祸害"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reporting / 美[rəˈpɔrdɪŋ]  / 英[rɪˈpɔːtɪŋ] ",
+            "options": [
+                "A) n. 报道",
+                "B) n. 重新组装 / 改装的机器",
+                "C) n. 天赋 / 科 / 院 / 全体教员"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "resign / 美[rɪ'zaɪn]  / 英[rɪ'zaɪn] ",
+            "options": [
+                "A) v. 授权于 / 允许 / 使能够 / 增强的力量和信心",
+                "B) v. 辞职 / 顺从 / 放弃 / 委托",
+                "C) adj. 战争的，尚武的 / 好战的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "resolution / 美[ˌrezə'luːʃn]  / 英[rezə'luːʃ(ə)n] ",
+            "options": [
+                "A) adj. 相关的 / 适用的 / 可适用的 / 可应用的",
+                "B) n. 解释 / 阐明 / 翻译 / 演出",
+                "C) n. 决定 / 解决 / 分辨率 / 决议"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "restore / 美[rɪ'stɔːr]  / 英[rɪ'stɔː] ",
+            "options": [
+                "A) adj. 附近的",
+                "B) n. 王冠 / 顶部 / 王权 / 顶点",
+                "C) v. 恢复 / 使复位 / 使复职 / 归还"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "restrict / 美[rɪ'strɪkt]  / 英[rɪ'strɪkt] ",
+            "options": [
+                "A) v. 限制 / 控制 / 封锁 / 约束",
+                "B) adv. 不经常 / 很少",
+                "C) adv. 适度地 / 相当地 / 讲道理地 / 合理地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "restriction / 美[rɪ'strɪkʃn]  / 英[rɪ'strɪkʃ(ə)n] ",
+            "options": [
+                "A) n. <非正式>令人不快的人 / 有害的人 / 恐怖电视 / 令人不快的事物",
+                "B) n. 限制 / 限定 / 约束 / 束缚",
+                "C) n. 露齿的笑 / 露齿笑"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "résumé / 美[ˈrɛzəˌmeɪ]  / 英['rezjʊmeɪ] ",
+            "options": [
+                "A) n. 摘要，概要 / <北美>简历，履历",
+                "B) n. 环线 / 环行 / <电子>电路，回路 / 一圈",
+                "C) n. 成就 / 成绩 / 技艺 / 才能"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "retail / 美[<adv>'riːteɪl;<v>rɪ'teɪl]  / 英[<adv>'riːteɪl;<v>rɪ'teɪl] ",
+            "options": [
+                "A) n. 零售",
+                "B) n. 民主主义 / 民主制度 / 民主制国家 / 民主",
+                "C) n. 表示感激的行动 / 礼物 / <史>贡税"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "retirement / 美[rɪ'taɪərmənt]  / 英[rɪ'taɪəmənt] ",
+            "options": [
+                "A) pron. <古>无论什么，不管什么",
+                "B) n. 栖息地 / 产地 / 喜欢的环境",
+                "C) n. 退休 / 退职 / 退役 / 退隐"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "revenue / 美['revənuː]  / 英['revənjuː] ",
+            "options": [
+                "A) n. 铝 / <美>同 aluminium",
+                "B) adj. 有意义的 / 意味深长的 / 严肃的 / 重要的",
+                "C) n. 收入 / 收益 / 税收 / 税务局"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "revision / 美[rɪ'vɪʒn]  / 英[rɪ'vɪʒ(ə)n] ",
+            "options": [
+                "A) n. 修改 / 修订 / 修订本 / 订正版",
+                "B) ",
+                "C) n. 无能，无能为力，不能"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ridiculous / 美[rɪ'dɪkjələs]  / 英[rɪ'dɪkjʊləs] ",
+            "options": [
+                "A) adj. 可笑的 / 引人嘲笑的 / 荒谬的",
+                "B) n. 爆发 / 发作",
+                "C) n. 民主主义 / 民主制度 / 民主制国家 / 民主"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "risky / 美['rɪskɪ]  / 英['rɪskɪ] ",
+            "options": [
+                "A) n. 帝国 / 大企业 / 企业集团 / 广泛活动",
+                "B) adj. 危险的 / 冒险的 / 有风险的 / 有伤风化的",
+                "C) v. 下降 / 是…的后裔 / 遗传 / 屈尊"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rival / 美['raɪvl]  / 英['raɪv(ə)l] ",
+            "options": [
+                "A) n. 民主主义 / 民主制度 / 民主制国家 / 民主",
+                "B) n. 竞争对手 / 可与…匹敌的人 / 对手 / 竞争者",
+                "C) n. 移动能力 / 灵活性 / 流动性 / 移动性"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rob / 美[rɑːb]  / 英[rɒb] ",
+            "options": [
+                "A) n. 重击 / 震惊 / 失望 / 开花",
+                "B) v. 抢劫 / 使丧失 / 使…丧失 / 非法剥夺",
+                "C) n. 保险费 / 加付款 / 加价 / 奖品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "robbery / 美['rɑːbərɪ]  / 英['rɒbərɪ] ",
+            "options": [
+                "A) adj. 致命的 / 有害的 / 极准的",
+                "B) n. 抢劫 / 盗窃 / 敲竹杠 / 抢掠",
+                "C) v. 承认 / 退让 / 给予 / 容许"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rocket / 美['rɑːkɪt]  / 英['rɒkɪt] ",
+            "options": [
+                "A) n. 火箭",
+                "B) n. 间隔 / 中止 / 差距 / 间距",
+                "C) n. 触摸 / 处理方式 / 管理 / 处理 / 操纵 / 手续费 / 运输 / 运费"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "romance / 美['roʊmæns]  / 英[rə(ʊ)'mæns;'rəʊmæns] ",
+            "options": [
+                "A) n. 浪漫气氛 / 传奇性 / 风流韵事 / 冒险故事",
+                "B) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "C) n. 评论 / 批评 / 评论文章"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rose / 美[roʊz]  / 英[rəʊz] ",
+            "options": [
+                "A) n. 玫瑰 / 蔷薇 / 粉红色",
+                "B) n. 灰 / 骨灰 / 矿物质成分 / 奖杯",
+                "C) v. 断言 / 提出…作为理由"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "roughly / 美['rʌflɪ]  / 英['rʌflɪ] ",
+            "options": [
+                "A) adv. 粗暴地 / 凶暴地 / 粗糙地 / 大体上",
+                "B) n. 支持 / 帮助 / 支持者 / 衬背",
+                "C) n. 痛苦 / 恼怒 / 挫折"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ruin / 美['ruːɪn]  / 英['ruːɪn] ",
+            "options": [
+                "A) n. 活动雕塑 / 活动装饰物 / 手机 / 移动电话",
+                "B) n. 毁灭 / 毁坏 / 崩溃 / 灭亡",
+                "C) v. 剥夺对某物的所有 / <古>革职 / 使丧失"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "satisfaction / 美[ˌsætɪs'fækʃn]  / 英[sætɪs'fækʃ(ə)n] ",
+            "options": [
+                "A) n. 满意 / 履行 / 赔偿 / 乐事",
+                "B) n. 联系 / 关联 / 相互关系 / <统计>相关数",
+                "C) n. 英亩 / 土地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scandal / 美['skændl]  / 英['skænd(ə)l] ",
+            "options": [
+                "A) n. 丑闻 / 反感 / 流言飞语",
+                "B) adj. 遥远的 / 不亲密的 / 矜持的 / 冷淡的",
+                "C) adj. 数学的 / 数学般精确的 / 精确的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scare / 美[sker]  / 英[skeə] ",
+            "options": [
+                "A) n. 陪审团 / 评判团 / 评审委员会 / 评判委员会",
+                "B) n. 大小 / 重要性 / 震级",
+                "C) n. 害怕 / 惊吓 / 恐慌 / 惊恐"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scenario / 美[sə'nærɪoʊ]  / 英[sɪ'nɑːrɪəʊ] ",
+            "options": [
+                "A) n. 割下的东西 / 路堑 / 河道 / 剪辑",
+                "B) n. 可恶的人 / 缓慢发展 / 爬行 / 毛骨悚然的感觉",
+                "C) n. 梗概 / 方案 / 情节 / 剧本"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scholar / 美['skɑːlər]  / 英['skɒlə] ",
+            "options": [
+                "A) n. 协调 / <化>络合 / 配位 / 对等",
+                "B) n. 学者 / 有学习天分的人 / 大学奖学金获得者 / 奖学金获得者",
+                "C) adv. 以某种方式 / 用某种方法 / 以某种方法 / 莫名其妙地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scholarship / 美['skɑːlərʃɪp]  / 英['skɒləʃɪp] ",
+            "options": [
+                "A) n. 动机 / 缘由 / 艺术思想 / 主题",
+                "B) n. 学术研究 / 学术成就 / 学问 / 奖学金",
+                "C) n. 部署 / 有效利用"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scratch / 美[skrætʃ]  / 英[skrætʃ] ",
+            "options": [
+                "A) adv. 随后",
+                "B) n. 划伤 / 擦伤 / 抓痕 / 刮擦声",
+                "C) adj. 足够的 / 充分的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "screening / 美['skriːnɪŋ]  / 英['skriːnɪŋz] ",
+            "options": [
+                "A) n. 交易 / 办理 / 交流 / 议事录",
+                "B) n. 放映 / 播放 / 评估 / 检查",
+                "C) n. 间歇 / 过渡时期 / 暂定"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "seeker / 美[ˈsikər]  / 英[ˈsiːkə] ",
+            "options": [
+                "A) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的",
+                "B) adj. 谦虚的 / 适中的 / 有限的 / 端庄的",
+                "C) n. 探求者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "seminar / 美['semɪnɑːr]  / 英['semɪnɑː] ",
+            "options": [
+                "A) npl. 经济学 / 经济情况",
+                "B) n. 药片 / 丸剂",
+                "C) n. 研讨会 / 专题讨论课 / 研讨班"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "settler / 美['setlər]  / 英['setlə] ",
+            "options": [
+                "A) n. <正式>衣服 / 教会法衣上的绣花装饰",
+                "B) n. 移民 / 拓荒者 / 移居者 / 殖民者",
+                "C) adj. 杰出的 / 未解决的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "severely / 美[sə'vɪrli]  / 英[sɪ'vɪəlɪ] ",
+            "options": [
+                "A) adj. 内在的 / <律>属于...的 / 固有的 / 与生俱来的",
+                "B) n. （主要作商业用语）饮料",
+                "C) adv. 严重地 / 严厉地 / 苛刻地 / 简朴地 / 严肃地 / 极度"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sexy / 美['seksɪ]  / 英['seksɪ] ",
+            "options": [
+                "A) adj. 性感的 / 引起性欲的 / 色情的",
+                "B) adj. 试验性的 / 尝试性的 / 经验上的 / 实验的",
+                "C) prep. 除…以外 / 除…之外"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shaped / 美[ʃeɪpt]  / 英[ʃeɪpt] ",
+            "options": [
+                "A) [构词成分] 有⋯形状的",
+                "B) v. 加强 / 加固 / 增进 / 加深",
+                "C) adj. 有特定形状的"
+            ],
+            "answer": [
+                "C",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "shocking / 美['ʃɑːkɪŋ]  / 英['ʃɒkɪŋ] ",
+            "options": [
+                "A) v. 汇编 / 编辑 / 收集 / 编制",
+                "B) n. 郊区 / 边缘",
+                "C) adj. 引起义愤的 / 令人憎恶的 / 讨厌的 / 令人震惊的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shore / 美[ʃɔːr]  / 英[ʃɔː(r)] ",
+            "options": [
+                "A) n. 岸 / 滨 / 沿海国家 / 支柱",
+                "B) n. 垄断 / 专卖 / 完全控制 / 垄断者",
+                "C) n. 柜台 / 计算器 / 对立面"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shortage / 美['ʃɔːrtɪdʒ]  / 英['ʃɔːtɪdʒ] ",
+            "options": [
+                "A) adv. 密实地 / 强有力地 / 牢固地 / 稳固地 / 坚定地 / 坚决地 / 严格地",
+                "B) n. 入住者 / 同院病人 / 同狱犯人 / 同被收容者",
+                "C) n. 不足 / 缺少"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shortly / 美['ʃɔːrtlɪ]  / 英['ʃɔːtlɪ] ",
+            "options": [
+                "A) adv. 立刻 / 不久 / 简短地 / 扼要地",
+                "B) n. 公式 / 惯用语句 / 配方 / 赛车等级",
+                "C) n. 政治避难 / <旧>精神病院 / 庇护 / 收容所"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "short-term / 美[ˌʃɔːrt 'tɜːrm]  / 英[ˌʃɔːt 'tɜːm] ",
+            "options": [
+                "A) n. 本堂牧师 / 牧师 / 见 rosy pastor",
+                "B) n. 镍 / 5分钱 / 镍币 / 五分镍币",
+                "C) adj. 短期的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sibling / 美['sɪblɪŋ]  / 英['sɪblɪŋ] ",
+            "options": [
+                "A) n. 兄弟，姊妹，同胞",
+                "B) n. 示意动作 / 手势 / 姿态",
+                "C) v. 主持 / 领奏 / 主管某地 / 掌管"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sidewalk / 美['saɪdwɔːk]  / 英['saɪdwɔːk] ",
+            "options": [
+                "A) v. 变紧 / 绷紧 / 变得更严格 / 使变紧",
+                "B) n. 筐 / <篮球>篮 / 投篮得分 / 篮子",
+                "C) n. <北美>人行道"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "skilled / 美[skɪld]  / 英[skɪld] ",
+            "options": [
+                "A) adj. 有技能的 / 有技巧的 / 熟练的 / 显示技巧的",
+                "B) v. 使更容易 / 推动 / 便于 / 促进",
+                "C) adj. 较少的 / 次要的 / 更小的 / 条件或档次较低的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "skull / 美[skʌl]  / 英[skʌl] ",
+            "options": [
+                "A) n. 颅骨，头骨",
+                "B) n. 锚 / 主持人 / 顶梁柱 / 抛锚停泊",
+                "C) n. 墓穴 / 死亡 / 堆积处"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "slogan / 美['sloʊɡən]  / 英['sləʊɡən] ",
+            "options": [
+                "A) n. 中心语句 / 广告口号 / 标语 / 呐喊声",
+                "B) n. 摘要，概要 / <北美>简历，履历",
+                "C) n. 组织 / 薄纸 / 纸巾 / 薄纱"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "so-called / 美[ˌsoʊ 'kɔːld]  / 英[ˌsəʊ 'kɔːld] ",
+            "options": [
+                "A) n. 专门技能 / 专门知识",
+                "B) adj. 如此称呼的 / 所谓的 / 号称的",
+                "C) n. 假设 / <哲>前提"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "somehow / 美['sʌmhaʊ]  / 英['sʌmhaʊ] ",
+            "options": [
+                "A) n. 活动雕塑 / 活动装饰物 / 手机 / 移动电话",
+                "B) adv. 立刻 / 不久 / 简短地 / 扼要地",
+                "C) adv. 以某种方式 / 用某种方法 / 以某种方法 / 莫名其妙地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sometime / 美['sʌmtaɪm]  / 英['sʌmtaɪm] ",
+            "options": [
+                "A) adv. 某个时候 / 从前 / 改天 / 在某一时候",
+                "B) n. 幼儿园 / 学前班 / 幼稚园",
+                "C) adj. 以前的 / <北美>偶尔的 / 某一时间的"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "sophisticated / 美[sə'fɪstɪkeɪtɪd]  / 英[sə'fɪstɪkeɪtɪd] ",
+            "options": [
+                "A) v. 下降 / 是…的后裔 / 遗传 / 屈尊",
+                "B) adj. 复杂的 / 精密的 / 精致的 / 久经世故的",
+                "C) n. 视平线 / 视野 / 眼界 / 范围"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spare / 美[sper]  / 英[speə] ",
+            "options": [
+                "A) n. <律>遗赠不动产的条款 / 遗赠",
+                "B) adv. 额外 / 此外 / 又",
+                "C) n. 备用品 / 二击全倒 / 剩余 / 备用零件"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "specialize / 美['speʃəlaɪz]  / 英['speʃəlaɪz] ",
+            "options": [
+                "A) n. 经过 / 消逝 / 死亡 / 及格",
+                "B) v. 专门研究 / 成为专家 / 专营",
+                "C) n. 注射剂 / 注射 / 充血 / 射入轨道"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "specify / 美['spesɪfaɪ]  / 英['spesɪfaɪ] ",
+            "options": [
+                "A) npl. 工资 / 收入 / 收益 / 赢利",
+                "B) v. 明确说明 / 具体指定",
+                "C) n. 忧虑 / 紧张 / <精神病学>焦虑症 / 渴望"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spectacular / 美[spek'tækjələr]  / 英[spek'tækjʊlə] ",
+            "options": [
+                "A) n. 时机掌握 / 定时 / 调速 / 时间选择",
+                "B) n. 场面恢宏的事件",
+                "C) n. 涉及范围 / 适用范围 / 覆盖 / 新闻报道"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spectator / 美['spekteɪtər]  / 英[spek'teɪtə] ",
+            "options": [
+                "A) v. 耕地 / 培养 / 种植 / 陶冶",
+                "B) n. 回声 / 回音 / 回波 / 效仿",
+                "C) n. 观众 / 旁观者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "speculate / 美['spekjʊleɪt]  / 英['spekjʊleɪt] ",
+            "options": [
+                "A) n. 捐赠者 / 供者 / 赠送人 / 献血者",
+                "B) adj. 令人愉快的 / 有乐趣的 / 快乐的",
+                "C) v. 推测 / 做投机买卖 / 投机 / 思索"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "speculation / 美[ˌspɛkjəˈleɪʃ(ə)n]  / 英[ˌspɛkjʊˈleɪʃn] ",
+            "options": [
+                "A) n. 猜测 / 投机",
+                "B) n. 性别状态 / 性 / 性别 / 性交",
+                "C) n. 青少年"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spice / 美[spaɪs]  / 英[spaɪs] ",
+            "options": [
+                "A) n. 牛仔 / <非正式>不诚实的人 / 莽撞的人 / 牧童",
+                "B) n. 香料 / 调味料 / 赤褐色 / 情趣",
+                "C) n. 堵塞物 / 插头 / 口嚼烟草块 / 塞子"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spill / 美[spɪl]  / 英[spɪl] ",
+            "options": [
+                "A) v. 辞职 / 顺从 / 放弃 / 委托",
+                "B) n. 可恶的人 / 缓慢发展 / 爬行 / 毛骨悚然的感觉",
+                "C) n. 溢出液 / 溢出 / 摔下 / 小塞子"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spite / 美[spaɪt]  / 英[spaɪt] ",
+            "options": [
+                "A) n. 狼 / 残忍的东西 / 狼音 / 色狼",
+                "B) n. 能力 / 称职 / 知识范围 / 权限",
+                "C) n. 恶意 / 害人之心 / 不顾 / 怨恨"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spoil / 美[spɔɪl]  / 英[spɔɪl] ",
+            "options": [
+                "A) n. 赃物 / 掠夺物 / 废土 / 奖品",
+                "B) n. 不确定性 / 不确信 / 不确定 / 靠不住",
+                "C) n. 容忍 / 耐心 / 耐性 / <英>单人纸牌戏"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spokesman / 美['spoʊksmən]  / 英['spəʊksmən] ",
+            "options": [
+                "A) v. 淹死 / 浸没 / 掩盖 / 淹没",
+                "B) n. 发言人 / 代言人",
+                "C) n. 仓库 / 货栈 / 批发商店 / 大商店"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spokesperson / 美['spoʊkspɜːrsn]  / 英['spəʊkspɜːs(ə)n] ",
+            "options": [
+                "A) n. 目的 / 利益 / 理由 / 日本米酒",
+                "B) n. 发言人（不指出性别，中性词）",
+                "C) adj. 有身体上的残障的 / 与残疾人有关的 / 残废的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "spokeswoman / 美['spoʊkswʊmən]  / 英['spəʊkswʊmən] ",
+            "options": [
+                "A) n. 女发言人",
+                "B) n. 范围 / 视野 / 眼界 / 导弹射程",
+                "C) adj. 各自的 / 分别的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sponsorship / 美[ˈspɑn(t)sərˌʃɪp]  / 英[ˈspɒnsəʃɪp] ",
+            "options": [
+                "A) n. 资助 / 支持 / 赞助 / 倡议 / 担保",
+                "B) adv. 连续地 / 反复地",
+                "C) n. 航天探测器 / 调查 / 探针"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "stall / 美[stɔːl]  / 英[stɔːl] ",
+            "options": [
+                "A) n. 独立存在物 / 实体",
+                "B) n. 摘录 / 引文 / 提取物",
+                "C) n. 货摊 / 牧师专座 / 畜栏 / 托辞"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "stance / 美[stæns]  / 英[stɑːns;stæns] ",
+            "options": [
+                "A) n. 领域 / 域名 / 产业 / 地产",
+                "B) n. 姿态 / 击球姿势 / 摊位 / 出租汽车停车处",
+                "C) adj. 邻近的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "starve / 美[stɑːrv]  / 英[stɑːv] ",
+            "options": [
+                "A) n. 拇指 / 第一指 / 拇指部分",
+                "B) n. 能力 / 计算机性能 / 力量 / 性能",
+                "C) v. 挨饿 / 饿死 / 使匮乏 / 渴望"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "steadily / 美['stɛdəli]  / 英['stedɪlɪ] ",
+            "options": [
+                "A) v. 禁止 / 不允许 / 〈正式〉严禁",
+                "B) v. 抽回 / 移开 / 撤退 / 戒毒",
+                "C) adv. 逐步地 / 越来越 / 均匀地 / 有规律地 / 持续地 / 平静地 / 平稳地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "steam / 美[stiːm]  / 英[stiːm] ",
+            "options": [
+                "A) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的",
+                "B) n. 城镇标志性建筑 / 重要事件 / 纪念碑",
+                "C) n. 蒸汽 / 蒸气膨胀力 / 蒸汽机车 / 精力"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "stimulate / 美['stɪmjʊleɪt]  / 英['stɪmjʊleɪt] ",
+            "options": [
+                "A) n. 酷刑 / 刑讯 / 折磨 / 忧虑",
+                "B) n. <常贬或幽默>知名人士 / 杰出人物",
+                "C) v. 使兴奋 / 刺激 / 激励 / 促使"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "strengthen / 美['streŋθn]  / 英['streŋθ(ə)n;-ŋkθ(ə)n] ",
+            "options": [
+                "A) n. 加强的 / 集中的 / 透彻的 / 加强语气的",
+                "B) n. 限制 / 局限 / 拘束 / 强制",
+                "C) v. 加强 / 使坚强 / 变强 / 巩固"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "strictly / 美['strɪktlɪ]  / 英['strɪktlɪ] ",
+            "options": [
+                "A) adv. 严格地 / 精确地 / 完全地 / 确实地",
+                "B) n. 隔离 / 孤立 / 脱离 / 分离",
+                "C) n. 决定 / 解决 / 分辨率 / 决议"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "stroke / 美[stroʊk]  / 英[strəʊk] ",
+            "options": [
+                "A) n. 容易 / 安适 / 轻松 / 安逸",
+                "B) adv. 向前 / 露出 / 以后 / 自…以后",
+                "C) n. 打击 / 中风 / 轻抚"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "stunning / 美['stʌnɪŋ]  / 英['stʌnɪŋ] ",
+            "options": [
+                "A) adj. 极好的 / 极吸引人的",
+                "B) adj. 隐秘的 / 隐藏的",
+                "C) v. 把...打晕（stun 的现在分词）"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "subsequent / 美['sʌbsɪkwənt]  / 英['sʌbsɪkwənt] ",
+            "options": [
+                "A) adj. 随后的 / 紧接的 / <地质>后成的",
+                "B) n. 骚扰 / 烦扰",
+                "C) n. 敬神 / 拜神 / 崇拜 / 爱慕"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "subsequently / 美['sʌbsɪkwəntli]  / 英['sʌbsɪkwəntlɪ] ",
+            "options": [
+                "A) adv. 每年",
+                "B) adv. 随后",
+                "C) n. 配置 / 构造 / 布局 / 外形"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "suburb / 美['sʌbɜːrb]  / 英['sʌbɜːb] ",
+            "options": [
+                "A) n. 郊区 / 边缘",
+                "B) n. 轰炸 / 炸弹袭击",
+                "C) n. 假定 / 设想 / 承担 / 采取"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "suffering / 美['sʌfərɪŋ]  / 英['sʌf(ə)rɪŋ] ",
+            "options": [
+                "A) n. 一组镜头 / 尺码 / 长度 / 英尺长度",
+                "B) adj. 迷人的，有吸引力的",
+                "C) n. 疼痛 / 痛苦"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sufficient / 美[sə'fɪʃnt]  / 英[sə'fɪʃ(ə)nt] ",
+            "options": [
+                "A) v. 注册 / 卷起 / 入学 / 使入会",
+                "B) det. 足够的 / 充足的",
+                "C) adj. 足够的 / 充分的"
+            ],
+            "answer": [
+                "C",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "sufficiently / 美[sə'fɪʃəntlɪ]  / 英[sə'fɪʃəntlɪ] ",
+            "options": [
+                "A) n. 顾问 / 议员 / 政务会委员 / 参赞",
+                "B) n. 擦 / 抹布 / 划变 / 擦拭",
+                "C) adv. 足够地 / 充分地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "super / 美['suːpər]  / 英['suːpə;'sjuː-] ",
+            "options": [
+                "A) adj. 实行的 / 使用的 / 日常业务的 / 操作的",
+                "B) n. 上司 / 过磷酸盐 / 极好的织品 / 临时雇员",
+                "C) n. 流血 / <印刷>出血版 / 液体逸出 / 渗色"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "surgeon / 美['sɜːrdʒən]  / 英['sɜːdʒən] ",
+            "options": [
+                "A) n. 外科医生 / 海军的医生",
+                "B) adj. 防卫用的 / 百般辩解的 / 自卫的 / 防守的",
+                "C) n. 辞职 / 辞呈 / <棋>认输 / 放弃"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "survival / 美[sər'vaɪvl]  / 英[sə'vaɪv(ə)l] ",
+            "options": [
+                "A) n. 公式 / 惯用语句 / 配方 / 赛车等级",
+                "B) n. 名声 / 宣传 / 公开 / 广告",
+                "C) n. 幸存 / 残存物 / 残存习俗"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "survivor / 美[sər'vaɪvər]  / 英[sə'vaɪvə] ",
+            "options": [
+                "A) n. 慈悲 / 怜悯 / 宽容 / 解脱",
+                "B) adj. 决定性的 / 果断的",
+                "C) n. 幸存者 / 残存物 / 善于生存的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "suspend / 美[sə'spend]  / 英[sə'spend] ",
+            "options": [
+                "A) n. 中断 / 扰乱",
+                "B) v. 暂不实行 / 暂停 / 悬浮 / <乐>延留",
+                "C) n. 航游 / 游弋 / 巡航 / 乘船游览"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sustainable / 美[sə'steɪnəbl]  / 英[sə'steɪnəb(ə)l] ",
+            "options": [
+                "A) adj. 可以忍受的 / 足可支撑的 / 养得起的 / 可持续的",
+                "B) n. 流行音乐 / 汽水 / 砰然声 / 枪击",
+                "C) n. 赠品 / 捐赠物品 / 提供 / 祭品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "swallow / 美['swɑːloʊ]  / 英['swɒləʊ] ",
+            "options": [
+                "A) n. 燕子 / 吞 / 咽 / 一次吞咽的量",
+                "B) adj. 及时的 / 适时的",
+                "C) adj. 逗笑的 / 供人消遣的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sympathetic / 美[ˌsɪmpə'θetɪk]  / 英[sɪmpə'θetɪk] ",
+            "options": [
+                "A) adj. 同情的 / 表达同情的 / 令人愉快的 / 共鸣的",
+                "B) adv. 毫无疑问地",
+                "C) n. 柜台 / 计算器 / 对立面"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tackle / 美['tækl]  / 英['tæk(ə)l] ",
+            "options": [
+                "A) n. 钩子 / 挂钩 / 弧形切割工具 / 钩拳",
+                "B) adj. 沿直线的 / 线形的 / 连续的",
+                "C) n. 用具 / 装备 / 轱辘 / 滑车"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tag / 美[tæɡ]  / 英[tæɡ] ",
+            "options": [
+                "A) n. 脸颊 / 鲁莽 / 无礼 / 臀部",
+                "B) adj. 可预言的 / 易于判断或猜透的",
+                "C) n. 标签 / 名称 / 结束语 / 附属物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tap / 美[tæp]  / 英[tæp] ",
+            "options": [
+                "A) v. 承认 / 退让 / 给予 / 容许",
+                "B) n. 龙头 / 阀门 / 螺丝攻 / 轻打",
+                "C) adj. 进化的 / 演变的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "technological / 美[ˌteknə'lɑːdʒɪkl]  / 英[teknə'lɒdʒɪk(ə)l] ",
+            "options": [
+                "A) n. 偶尔做某事的人 / 临时工 / 便装",
+                "B) n. 传记 / 专题学术论文 / 回忆录 / 研究报告",
+                "C) adj. 技术（学）的，工艺（学）的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "teen / 美[tiːn]  / 英[tiːn] ",
+            "options": [
+                "A) n. 壮举，功绩",
+                "B) n. 青少年",
+                "C) v. 减少 / 降低 / 使减少 / 使变小"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "temple / 美['templ]  / 英['temp(ə)l] ",
+            "options": [
+                "A) adj. 无一定之规的 / 任意选取的 / 任意的 / 胡乱的",
+                "B) n. 庙宇 / 寺院 / 神殿 / 太阳穴",
+                "C) v. 拘留 / 扣押 / 留住 / 耽搁"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "temporarily / 美[ˈtɛmpəˌrɛrəli]  / 英[ˈtɛmp(ə)r(ər)ɪli] ",
+            "options": [
+                "A) n. 锻炼，训练",
+                "B) adv. 暂时地 / 临时地",
+                "C) v. 吸收 / 使全神贯注 / 吞并 / 占用"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tendency / 美['tendənsɪ]  / 英['tendənsɪ] ",
+            "options": [
+                "A) v. 耕地 / 培养 / 种植 / 陶冶",
+                "B) n. 趋势 / 倾向 / 政治社团 / 癖好",
+                "C) n. 诚实 / 正直 / 完整 / 集成度"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tension / 美['tenʃn]  / 英['tenʃ(ə)n] ",
+            "options": [
+                "A) n. 罪犯 / 祸害",
+                "B) n. 拉紧 / 绷紧 / 紧张 / 电压",
+                "C) n. 投票 / 投票用纸 / 投票总数"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terminal / 美['tɜːrmɪnl]  / 英['tɜːmɪn(ə)l] ",
+            "options": [
+                "A) n. 溢出液 / 溢出 / 摔下 / 小塞子",
+                "B) n. 末端 / 极限 / 终端 / 终点",
+                "C) n. 良知 / 道德心"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terms / 美[tɜːrm]  / 英[tɜːm] ",
+            "options": [
+                "A) n. 任期 / 术语 / 学期 / 条款",
+                "B) n. 农民 / 小农 / 雇农 / 乡下人",
+                "C) adj. 必须做的 / 规定的 / 义务的 / 必修的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terribly / 美['terəblɪ]  / 英['terɪblɪ] ",
+            "options": [
+                "A) n. 爱好者 / 狂热者 / 热心家",
+                "B) adv. 厉害地 / 非常 / 可怕地 / 极度地",
+                "C) n. 砖 / 砖形物 / <英>积木 / 心肠好的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terrify / 美['terɪfaɪ]  / 英['terɪfaɪ] ",
+            "options": [
+                "A) adv. 公开地 / 坦白地 / 公然",
+                "B) v. 汇编 / 编辑 / 收集 / 编制",
+                "C) v. 使害怕 / 使惊吓 / 恐吓 / 使恐怖"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "territory / 美['terətɔːrɪ]  / 英['terɪt(ə)rɪ] ",
+            "options": [
+                "A) n. 露齿的笑 / 露齿笑",
+                "B) n. 旋律 / 主旋律 / 悦耳的音乐 / 悦耳",
+                "C) n. 领土 / 地方 / 范围 / 地域"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terror / 美['terər]  / 英['terə] ",
+            "options": [
+                "A) n. <古>中央 / 当中",
+                "B) n. 收养 / 采用 / 接受",
+                "C) n. 恐怖 / 恐怖行动 / 恐怖时期 / 可怕的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terrorism / 美['terərɪzəm]  / 英['terərɪzəm] ",
+            "options": [
+                "A) v. 突然不见 / 逐渐消失 / 消失 / 成为零",
+                "B) n. 恐怖主义",
+                "C) n. <旧>保健散步 / 健身散步"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "terrorist / 美['terərɪst]  / 英['terərɪst] ",
+            "options": [
+                "A) n. 表示感激的行动 / 礼物 / <史>贡税",
+                "B) n. 自夸 / 夸耀 / 值得夸耀的事物",
+                "C) n. 恐怖分子"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "testing / 美[ˈtɛstɪŋ]  / 英[ˈtɛstɪŋ] ",
+            "options": [
+                "A) v. 主持 / 领奏 / 主管某地 / 掌管",
+                "B) n. 数据库",
+                "C) n. 检测"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "textbook / 美['tekstbʊk]  / 英['tekstbʊk] ",
+            "options": [
+                "A) adj. 邻近的",
+                "B) n. 教科书",
+                "C) n. 评论 / 批评 / 评论文章"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "theft / 美[θeft]  / 英[θeft] ",
+            "options": [
+                "A) v. 团结 / 联合 / / 统一",
+                "B) n. 偷窃 / 盗窃罪 / 盗窃 / 偷",
+                "C) v. 知照 / 申报 / 通告 / 公布"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "therapist / 美[ˈθɛrəpəst]  / 英[ˈθɛrəpɪst] ",
+            "options": [
+                "A) n. 治疗专家 / 心理治疗师",
+                "B) n. 放入物 / 被操作物 / 投入 / 输入电路",
+                "C) n. 柜台 / 计算器 / 对立面"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "thesis / 美['θiːsɪs]  / 英['θiːsɪs] ",
+            "options": [
+                "A) n. 收获 / 收成 / 产量 / 结果",
+                "B) n. 论题 / 毕业论文 / 正题 / 论文",
+                "C) adv. 基本地，根本地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "thorough / 美['θɜːroʊ]  / 英['θʌrə] ",
+            "options": [
+                "A) adj. 可信的 / 真正的 / <乐>正格的 / 逼真的",
+                "B) adj. 彻底的 / 全面的 / 缜密的 / 尽心尽力的",
+                "C) n. 复杂 / 复杂性 / 复杂因素 / 复杂情况"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "thumb / 美[θʌm]  / 英[θʌm] ",
+            "options": [
+                "A) n. 蜂蜜 / 黄褐色 / 宝贝 / 甜蜜",
+                "B) n. 子女 / 幼仔 / <喻>产物 / 结果",
+                "C) n. 拇指 / 第一指 / 拇指部分"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "timing / 美['taɪmɪŋ]  / 英['taɪmɪŋ] ",
+            "options": [
+                "A) n. 时机掌握 / 定时 / 调速 / 时间选择",
+                "B) n. 被任命者 / 被提名者 / 登记者 / 代名人",
+                "C) v. 认识到 / 理解 / 把看作 / 察觉"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tissue / 美['tɪʃuː]  / 英['tɪʃuː;'tɪsjuː] ",
+            "options": [
+                "A) n. 组织 / 薄纸 / 纸巾 / 薄纱",
+                "B) n. 监护 / 保管 / 拘留 / 抚养权",
+                "C) v. 变紧 / 绷紧 / 变得更严格 / 使变紧"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tournament / 美['tʊrnəmənt]  / 英['tʊənəm(ə)nt] ",
+            "options": [
+                "A) n. 痛苦 / 恼怒 / 挫折",
+                "B) v. 授予 / 商议 / 讨论 / 交流意见",
+                "C) n. 比赛 / 锦标赛 / 骑士马上比武大会 / 阅兵式"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trace / 美[treɪs]  / 英[treɪs] ",
+            "options": [
+                "A) n. 衬垫 / 护具 / 便笺簿 / 填补",
+                "B) n. 一夜的逗留 / 头天晚上",
+                "C) n. 痕迹 / 微量 / 描记线 / 缰绳"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trading / 美['treɪdɪŋ]  / 英['treɪdɪŋ] ",
+            "options": [
+                "A) n. 支配权 / 影响力 / 优势 / 统治",
+                "B) n. 贸易，交易，经商，交换",
+                "C) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tragedy / 美['trædʒədɪ]  / 英['trædʒɪdɪ] ",
+            "options": [
+                "A) n. <旧>保健散步 / 健身散步",
+                "B) n. 教育工作者",
+                "C) n. 悲剧性事件 / 惨案 / 悲剧作品 / 悲剧"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tragic / 美['trædʒɪk]  / 英['trædʒɪk] ",
+            "options": [
+                "A) v. 下降 / 是…的后裔 / 遗传 / 屈尊",
+                "B) adj. 声名狼藉的 / 众所周知的",
+                "C) adj. 悲惨的 / 可悲的 / 悲痛的 / 悲剧作品的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trait / 美[treɪt]  / 英[treɪ;treɪt] ",
+            "options": [
+                "A) n. 海港 / <喻>避难所 / 安全港湾 / 同 harbor",
+                "B) n. 外出 / 缺席 / 不存在 / 不注意",
+                "C) n. （尤指人的）特征，特点"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transmit / 美[trænz'mɪt]  / 英[trænz'mɪt;træns'mɪt] ",
+            "options": [
+                "A) n. 值勤人员表 / 值勤登记表 / 花名册",
+                "B) v. 传送 / 发射 / 传染 / 传播",
+                "C) n. 桌面 / 台式机"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trap / 美[træp]  / 英[træp] ",
+            "options": [
+                "A) n. 重击 / 震惊 / 失望 / 开花",
+                "B) n. 陷阱 / 抛靶器 / 困境 / 存水弯",
+                "C) n. 组件 / 模件 / 预制件 / 组成单元"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "treasure / 美['treʒər]  / 英['treʒə] ",
+            "options": [
+                "A) n. 清楚 / 透明 / 清澈 / 清澈度",
+                "B) n. 财富 / 珠宝 / 珍品 / 财宝",
+                "C) n. 怀孕 / 受精 / 观点 / 概念"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tribe / 美[traɪb]  / 英[traɪb] ",
+            "options": [
+                "A) n. 歧视 / 辨别 / 区别 / 判断力",
+                "B) n. 部落 / 宗族 / 行政部门 / 一伙",
+                "C) v. 挨饿 / 饿死 / 使匮乏 / 渴望"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trigger / 美['trɪɡər]  / 英['trɪɡə] ",
+            "options": [
+                "A) n. 扳机 / 启动装置 / 触发因素 / 制滑机",
+                "B) n. 头盔 / <植>花冠盔瓣 / 外颚叶",
+                "C) v. 等待 / 等着 / 期待"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trillion / 美['trɪljən]  / 英['trɪljən] ",
+            "options": [
+                "A) cardinal number 一万亿 / 一百万兆 / <旧><英>一万亿兆",
+                "B) n. 跳水 / 潜泳 / 潜水 / 俯冲",
+                "C) n. 反对 / 异议 / 反对的理由 / 妨碍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "troop / 美[truːp]  / 英[truːp] ",
+            "options": [
+                "A) n. 指导方针，准则",
+                "B) n. <英>秋季 / 秋天 / 成熟期 / 渐衰期",
+                "C) n. 军队 / 一群人 / 骑兵连 / 炮兵装甲连"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tsunami / 美[tsuː'nɑːmɪ]  / 英[tsuː'nɑːmɪ] ",
+            "options": [
+                "A) n. <北美>居高临下的位置 / 从高处能看到的景色 / 忽视 / 眺望",
+                "B) n. 叠化 / 淡入淡出 / 叠化画面 / 画面的溶暗",
+                "C) n. 海啸"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ultimate / 美['ʌltɪmət]  / 英['ʌltɪmət] ",
+            "options": [
+                "A) n. 必要 / 必需品 / <哲>必然性 / 需要",
+                "B) n. 最好的事物 / 最终的事物 / 最终的事实 / 终极",
+                "C) n. 抒情诗 / 歌词"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unacceptable / 美[ˌʌnək'septəbl]  / 英[ʌnək'septəb(ə)l] ",
+            "options": [
+                "A) v. 将用于上 / 尽心竭力于… / 致力于 / 奉献",
+                "B) adj. 悲惨的 / 小得可怜的 / 痛苦的 / 卑鄙的",
+                "C) adj. 不能接受的 / 不令人满意的 / 不合意的 / 不受欢迎的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "uncertainty / 美[ʌn'sɜːrtntɪ]  / 英[ʌn'sɜːt(ə)ntɪ;-tɪntɪ] ",
+            "options": [
+                "A) n. 不确定性 / 不确信 / 不确定 / 靠不住",
+                "B) n. 衬垫 / 护具 / 便笺簿 / 填补",
+                "C) n. 开拓者 / 开发者 / 倡导者 / 先锋"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "undergo / 美[ˌʌndər'ɡoʊ]  / 英[ʌndə'ɡəʊ] ",
+            "options": [
+                "A) v. 经受 / 遭受 / 忍受",
+                "B) n. 魅力 / 项链的坠饰 / 魔咒 / 魔力",
+                "C) n. 祖先 / 原种 / 原型 / 被继承人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "undertake / 美[ˌʌndər'teɪk]  / 英[ʌndə'teɪk] ",
+            "options": [
+                "A) v. 着手做 / 从事 / 承担，保证 / 接受",
+                "B) n. 教科书",
+                "C) n. 优点 / 人才 / 资产 / 有价值的人或物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unfold / 美[ʌn'foʊld]  / 英[ʌn'fəʊld] ",
+            "options": [
+                "A) n. 一部分 / 一定数量 / 一节 / 一片",
+                "B) v. 展开 / 摊开 / 透露 / 展现",
+                "C) adv. 逐步地 / 越来越 / 均匀地 / 有规律地 / 持续地 / 平静地 / 平稳地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unfortunate / 美[ʌn'fɔːrtʃənət]  / 英[ʌn'fɔːtʃənət] ",
+            "options": [
+                "A) n. 破裂 / 崩溃 / 故障 / 分解",
+                "B) v. 卷入 / 沉迷于 / 满足 / 纵容",
+                "C) n. 不幸的人 / <古>不道德的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unite / 美[jʊ'naɪt]  / 英[juː'naɪt] ",
+            "options": [
+                "A) n. 尝试 / 尽力 / 勤奋 / 事业",
+                "B) adj. 随后的 / 紧接的 / <地质>后成的",
+                "C) v. 团结 / 联合 / / 统一"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unity / 美['juːnətɪ]  / 英['juːnɪtɪ] ",
+            "options": [
+                "A) n. 帮助 / 补助 / 协助 / 辅助设备",
+                "B) v. 巩固 / 使坚强 / 使结实 / 联合",
+                "C) n. 团结 / 统一 / 协调"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "universal / 美[ˌjuːnɪ'vɜːrsl]  / 英[juːnɪ'vɜːs(ə)l] ",
+            "options": [
+                "A) n. 青少年",
+                "B) n. 咨询 / 辅导 / 建议",
+                "C) n. 具有普遍行为模式的人 / 普遍 / 一般概念 / 普通性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "urgent / 美['ɜːrdʒənt]  / 英['ɜːdʒənt] ",
+            "options": [
+                "A) n. 残疾 / 无资格 / 无能 / 不利条件",
+                "B) n. 流血 / <印刷>出血版 / 液体逸出 / 渗色",
+                "C) adj. 急迫的 / 紧要的 / 紧急的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "usage / 美['juːsɪdʒ]  / 英['juːsɪdʒ] ",
+            "options": [
+                "A) n. <板球>三柱门上的横木 / 栏杆 / 保释 / 杓",
+                "B) n. 肝脏 / 猪肝色 / 生活者 / 居民",
+                "C) n. 使用 / 惯用法 / 正确用法 / 常规做法"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "useless / 美['juːsləs]  / 英['juːslɪs] ",
+            "options": [
+                "A) adj. 激发兴趣的 / 引人注目的 / 令人赞赏的 / 强制的",
+                "B) adj. 无用的 / 无效的 / 没有技能的",
+                "C) v. 辞职 / 顺从 / 放弃 / 委托"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "valid / 美['vælɪd]  / 英['vælɪd] ",
+            "options": [
+                "A) adj. 有效的 / 确凿的 / 令人信服的 / 具有法律效力的",
+                "B) n. 评论 / 解说 / 注释 / 说明",
+                "C) adv. <爱尔兰>非常 / 极其"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "variation / 美[ˌverɪ'eɪʃn]  / 英[veərɪ'eɪʃ(ə)n] ",
+            "options": [
+                "A) n. 辞职 / 辞呈 / <棋>认输 / 放弃",
+                "B) n. 预报 / 预测 / 预想",
+                "C) n. 变化 / 变动 / 变异 / <天文>变差"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vertical / 美['vɜːrtɪkl]  / 英['vɜːtɪk(ə)l] ",
+            "options": [
+                "A) n. <英>特殊教区 / 特权 / 特有财产",
+                "B) v. 遭受 / 招致 / 蒙受",
+                "C) n. 垂直线 / 垂直面 / 垂直物 / 竖杆"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "viewpoint / 美['vjuːpɔɪnt]  / 英['vjuːpɔɪnt] ",
+            "options": [
+                "A) n. 观点 / 见地 / 立场 / 视角",
+                "B) npl. 人员 / 人事部门",
+                "C) n. 私有化"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "visa / 美['viːzə]  / 英['viːzə] ",
+            "options": [
+                "A) n. 签证",
+                "B) n. 摆放 / 布置 / 定位球 / 人员配置",
+                "C) v. 挨饿 / 饿死 / 使匮乏 / 渴望"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "visible / 美['vɪzəbl]  / 英['vɪzɪb(ə)l] ",
+            "options": [
+                "A) adj. 残忍的 / 野蛮的 / 令人不快的 / 苛刻的",
+                "B) n. 有形进出口货物 / 可见物 / 进出口贸易中的有形项目",
+                "C) n. 诚实 / 老实 / 真诚 / 缎花属植物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "voluntary / 美['vɑːlənterɪ]  / 英['vɒlənt(ə)rɪ] ",
+            "options": [
+                "A) v. 合并 / 使合并 / 吞没 / 融合",
+                "B) n. 自选表演 / 即兴曲 / 自由调 / 志愿者",
+                "C) n. 最好的事物 / 最终的事物 / 最终的事实 / 终极"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "voting / 美[ˈvoʊdɪŋ]  / 英[ˈvəʊtɪŋ] ",
+            "options": [
+                "A) n. 沉思 / 冥想",
+                "B) n. 投票",
+                "C) n. 巡逻 / 巡逻队 / 巡查 / 侦察队"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wander / 美['wɑːndər]  / 英['wɒndə] ",
+            "options": [
+                "A) n. 摆放 / 布置 / 定位球 / 人员配置",
+                "B) n. 漫游 / 溜达 / 万德",
+                "C) adj. 如此称呼的 / 所谓的 / 号称的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "warming / 美[ˈwɔrmɪŋ]  / 英[ˈwɔːmɪŋ] ",
+            "options": [
+                "A) n. 变暖",
+                "B) adj. 灾难性的 / <非正式>非常失败的 / 损失惨重的 / 悲伤的",
+                "C) v. 打扰 / 弄醒 / 使不安 / 使恼怒"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "weekly / 美['wiːklɪ]  / 英['wiːklɪ] ",
+            "options": [
+                "A) n. 周报 / 周刊",
+                "B) v. 开始行动 / 开展 / 发生 / 行进",
+                "C) adj. 视觉的 / <物理>可见光谱区的 / 有助于视力的 / 光学的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "weird / 美[wɪrd]  / 英[wɪəd] ",
+            "options": [
+                "A) v. 布道 / 说教 / 鼓吹 / 反复灌输",
+                "B) adj. 技术（学）的，工艺（学）的",
+                "C) n. <古><苏格兰>命运，宿命"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "welfare / 美['welfer]  / 英['welfeə] ",
+            "options": [
+                "A) n. 健康 / 福利 / 幸福 / <北美>救济",
+                "B) v. 使复活 / 使重振活力 / 苏醒 / 恢复精神",
+                "C) n. 硬设备 / 硬件 / 五金器具 / 计算机硬件"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wheat / 美[wiːt]  / 英[wiːt] ",
+            "options": [
+                "A) v. 继承 / 遗传而得 / 接手 / <北美>获得",
+                "B) n. 小麦 / 小麦粒 / 小麦色",
+                "C) n. 兄弟，姊妹，同胞"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "whoever / 美[huː'evər]  / 英[huː'evə] ",
+            "options": [
+                "A) pron. 到底是谁",
+                "B) n. 药片 / 丸剂",
+                "C) v. 授权于 / 允许 / 使能够 / 增强的力量和信心"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "widespread / 美['waɪdspred]  / 英['waɪdspred;-'spred] ",
+            "options": [
+                "A) n. 痛苦 / 恼怒 / 挫折",
+                "B) adj. 分布广的 / 普遍的",
+                "C) n. 导师 / 指导者 / 师傅"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wisdom / 美['wɪzdəm]  / 英['wɪzdəm] ",
+            "options": [
+                "A) v. 阻碍 / 防止 / 抑制 / 禁止",
+                "B) n. 农学 / 农业 / 农艺 / 农耕",
+                "C) n. 明智 / 智慧 / 学识 / 至理名言"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "withdraw / 美[wɪð'drɔː]  / 英[wɪð'drɔː] ",
+            "options": [
+                "A) n. 敏感 / 敏锐 / 敏感性 / 过敏",
+                "B) n. 流行 / 流行程度",
+                "C) v. 抽回 / 移开 / 撤退 / 戒毒"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wolf / 美[wʊlf]  / 英[wʊlf] ",
+            "options": [
+                "A) adv. 过度地",
+                "B) n. 摩擦 / 碾磨 / 苦差事 / 磨",
+                "C) n. 狼 / 残忍的东西 / 狼音 / 色狼"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "workforce / 美['wɜːrkfɔːrs]  / 英['wɜːkfɔːs] ",
+            "options": [
+                "A) n. 纪念建筑 / 纪念碑 / 纪念馆 / 纪念仪式",
+                "B) n. 杆 / 竿 / 棒",
+                "C) n. 职工总数 / 劳动大军 / 劳动力"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "workplace / 美['wɜːrkpleɪs]  / 英['wɜːkpleɪs] ",
+            "options": [
+                "A) v. 把…分类 / 将定为机密 / 分类 / 分等",
+                "B) n. 规划 / 布局 / 设计 / 安排",
+                "C) n. 工作场所 / 车间"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "workshop / 美['wɜːrkʃɑːp]  / 英['wɜːkʃɒp] ",
+            "options": [
+                "A) n. 暴行 / 恶行 / 凶恶",
+                "B) n. 声明 / 公告 / 宣言 / 申诉书",
+                "C) n. 车间 / 作坊 / 研讨会 / 工场"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "worm / 美[wɜːrm]  / 英[wɜːm] ",
+            "options": [
+                "A) n. 虫 / 蜗杆 / 螺纹 / 小人物",
+                "B) n. 比赛 / 锦标赛 / 骑士马上比武大会 / 阅兵式",
+                "C) v. 停止 / 使结束 / 终了"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wrist / 美[rɪst]  / 英[rɪst] ",
+            "options": [
+                "A) n. 腕 / 膝关节 / 翅膀 / 手腕",
+                "B) v. 背离 / 出发 / 去世",
+                "C) n. 下沉 / 倾斜 / 浸渍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "abolish / 美[ə'bɑːlɪʃ]  / 英[ə'bɒlɪʃ] ",
+            "options": [
+                "A) n. 计划 / 事业 / 企业 / 进取心",
+                "B) v. 废除 / 取消 / 革除",
+                "C) v. 区别 / <技>变异 / <数>求…的微分 / 区分"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "abortion / 美[ə'bɔːrʃn]  / 英[ə'bɔːʃ(ə)n] ",
+            "options": [
+                "A) v. 下降 / 是…的后裔 / 遗传 / 屈尊",
+                "B) v. 操作 / 使用 / 控制 / 编辑",
+                "C) n. 流产 / 中途失败的事物 / <生>停止发育 / 流产的胎儿"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "absence / 美['æbsəns]  / 英['æbsəns] ",
+            "options": [
+                "A) n. 教义 / 信条 / 主义 / 学说",
+                "B) n. 等级制度 / 分等级的组织 / 层级 / 神职人员",
+                "C) n. 外出 / 缺席 / 不存在 / 不注意"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "absent / 美['æbsənt]  / 英['æbsənt] ",
+            "options": [
+                "A) adj. 狂怒的 / 有力的 / 狂暴的 / 猛烈的",
+                "B) adj. 缺席的 / 走神的 / 缺少的 / 心不在焉的",
+                "C) v. 避开 / 使缺席"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "absurd / 美[əb'sɜːrd]  / 英[əb'sɜːd] ",
+            "options": [
+                "A) n. 小说 / 小说书",
+                "B) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待",
+                "C) n. 荒诞 / 荒诞作品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "abuse / 美[ə'bjuːs]  / 英[ə'bjuːs] ",
+            "options": [
+                "A) n. 滥用 / 虐待 / 凌辱 / 辱骂",
+                "B) v. <英>提供饮食 / 提供所需物 / 考虑 / 迎合",
+                "C) n. 新闻工作 / 新闻业 / 报章杂志 / 新闻报道"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "academy / 美[ə'kædəmɪ]  / 英[ə'kædəmɪ] ",
+            "options": [
+                "A) v. 操作 / 使用 / 控制 / 编辑",
+                "B) n. 栏杆 / 铁轨 / 扶手 / 围栏",
+                "C) n. 专门院校 / 研究院 / <旧>学校 / 学院"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accelerate / 美[ək'seləreɪt]  / 英[ək'seləreɪt] ",
+            "options": [
+                "A) n. 采矿（业）",
+                "B) v. 加速 / 增加 / <物理>变速 / 使加速",
+                "C) v. 相似 / 相符 / 一致 / 联系"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "acceptance / 美[ək'septəns]  / 英[ək'septəns] ",
+            "options": [
+                "A) adj. 令人愉快的，娱乐性的",
+                "B) n. 接受 / 接收 / 容忍 / 认可",
+                "C) n. 检查 / 审查 / 检阅 / 巡视"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accessible / 美[ək'sesəbl]  / 英[ək'sesɪb(ə)l] ",
+            "options": [
+                "A) adj. 可理解的 / 可进入的 / 平易近人的 / 易得到的",
+                "B) v. 抽回 / 移开 / 撤退 / 戒毒",
+                "C) n. 知觉 / 感觉 / 看法 / 洞察力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accomplishment / 美[ə'kɑːmplɪʃmənt]  / 英[ə'kʌmplɪʃm(ə)nt;ə'kɒm-] ",
+            "options": [
+                "A) n. 天然货物 / 农产品 / 日用品",
+                "B) n. 爆炸 / 猝发 / 迸发 / 爆发",
+                "C) n. 成就 / 成绩 / 技艺 / 才能"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accountability / 美[əˌkaʊn(t)əˈbɪlədi]  / 英[əˌkaʊntəˈbɪlɪti] ",
+            "options": [
+                "A) adj. 不相干的 / 不中肯的 / 离题的",
+                "B) adj. 足够的 / 充足的 / 适当的 / 胜任的",
+                "C) n. 负有责任 / 问责性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accountable / 美[ə'kaʊntəbl]  / 英[ə'kaʊntəb(ə)l] ",
+            "options": [
+                "A) adj. 可解释的 / 有责任的 / 可理解的",
+                "B) v. 断言 / 提出…作为理由",
+                "C) n. 受益人 / 封臣"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accumulate / 美[ə'kjuːmjəleɪt]  / 英[ə'kjuːmjʊleɪt] ",
+            "options": [
+                "A) v. 聚集 / 积累 / 积聚 / 堆积",
+                "B) n. 球拍 / 蝙蝠 / 球棒 / 批处理文件的扩展名",
+                "C) adj. 共有的 / 与有关的 / 类的 / 非商标的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accumulation / 美[əˌkjuːmjə'leɪʃn]  / 英[əkjuːmjʊ'leɪʃ(ə)n] ",
+            "options": [
+                "A) n. 积累 / 堆积 / 堆积物 / 资本增益",
+                "B) n. 同辈 / 同龄人 / 贵族 / 同等的人",
+                "C) n. 诚实 / 正直 / 完整 / 集成度"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accusation / 美[ˌækjʊ'zeɪʃn]  / 英[ækjʊ'zeɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 即将发生的 / <古>悬垂的 / 即将来临的",
+                "B) v. 谴责 / 反对 / 判刑 / 宣告不适用",
+                "C) n. 指控 / 指责"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "accused / 美[ə'kjuːzd]  / 英[ə'kjuːzd] ",
+            "options": [
+                "A) n. （尤指法官的）裁决，裁定",
+                "B) n. 被告",
+                "C) n. 赃物 / 掠夺物 / 废土 / 奖品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "acid / 美['æsɪd]  / 英['æsɪd] ",
+            "options": [
+                "A) n. 回声 / 回音 / 回波 / 效仿",
+                "B) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药",
+                "C) n. 放映 / 播放 / 评估 / 检查"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "acquisition / 美[ˌækwɪ'zɪʃn]  / 英[ˌækwɪ'zɪʃ(ə)n] ",
+            "options": [
+                "A) n. 资产 / 习得 / 收购 / 资产购置",
+                "B) v. 动员 / 使可移动 / 鼓动 / 利用",
+                "C) n. 恐慌 / 经济恐慌 / 粟"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "activation / 美[ˌæktɪˈveɪʃ(ə)n]  / 英[aktɪˈveɪʃ(ə)n] ",
+            "options": [
+                "A) n. 军队 / 一群人 / 骑兵连 / 炮兵装甲连",
+                "B) n. 差异 / 不同 / 多样性",
+                "C) n. 激活 / 启动 / 触发 / 活化"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "activist / 美[ˈæktɪvəst]  / 英[ˈaktɪvɪst] ",
+            "options": [
+                "A) n. 激进分子",
+                "B) n. 招募 / 补充 / 征募新兵 / <生态>增长",
+                "C) adj. 中途的 / 不彻底的 / 一定程度上 / 部分地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "acute / 美[ə'kjuːt]  / 英[ə'kjuːt] ",
+            "options": [
+                "A) n. 发言机会 / 发言权 / 决策权",
+                "B) n. 一致 / 舆论 / 合意",
+                "C) n. 重音符 / acute accent 的简称"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adaptation / 美[ˌædæp'teɪʃn]  / 英[ædəp'teɪʃ(ə)n] ",
+            "options": [
+                "A) n. 适应 / 改编成的电影 / 适应性变化过程 / 改编",
+                "B) v. 汇编 / 编辑 / 收集 / 编制",
+                "C) n. 沉思 / 冥想"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adhere / 美[əd'hɪr]  / 英[əd'hɪə] ",
+            "options": [
+                "A) v. 追随 / 坚持 / 依附 / 粘着",
+                "B) n. 管弦乐队 / 乐池 / 古希腊剧场舞台前部半圆形的表演区 / 乐队演奏处",
+                "C) n. 跳水 / 潜泳 / 潜水 / 俯冲"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adjacent / 美[ə'dʒeɪsnt]  / 英[ə'dʒeɪs(ə)nt] ",
+            "options": [
+                "A) adj. 近的 / 毗连的 / <几何>相邻的",
+                "B) n. 大厅 / （身体或器官内的）室 / 房间 / 会所",
+                "C) n. 资本家"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adjustment / 美[ə'dʒʌstmənt]  / 英[ə'dʒʌs(t)m(ə)nt] ",
+            "options": [
+                "A) n. 仇恨 / 恶意 / 憎恨 / 敌意",
+                "B) n. 调整 / 适应",
+                "C) n. 桌面 / 台式机"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "administer / 美[əd'mɪnɪstər]  / 英[əd'mɪnɪstə] ",
+            "options": [
+                "A) adj. 非常兴奋的",
+                "B) v. 管理 / 分发 / 实施 / 主持仪式",
+                "C) n. 承认 / 准入 / 录用"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "administrative / 美[əd'mɪnɪstreɪtɪv]  / 英[əd'mɪnɪstrətɪv] ",
+            "options": [
+                "A) adj. 企业（或组织等）管理的",
+                "B) adj. 有特定形状的",
+                "C) adj. 足够的 / 充分的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "administrator / 美[əd'mɪnɪstreɪtər]  / 英[əd'mɪnɪstreɪtə] ",
+            "options": [
+                "A) n. 犯罪 / 过失 / 内疚 / 不安",
+                "B) n. <非正式>备忘录",
+                "C) n. 管理者 / 行政官 / <律>遗产管理人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "admission / 美[əd'mɪʃn]  / 英[əd'mɪʃ(ə)n] ",
+            "options": [
+                "A) n. 地主 / 房东",
+                "B) n. 砖 / 砖形物 / <英>积木 / 心肠好的人",
+                "C) n. 承认 / 准入 / 录用"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adolescent / 美[ˌædə'lesnt]  / 英[ædə'les(ə)nt] ",
+            "options": [
+                "A) n. 喜剧演员 / 连环漫画 / 滑稽人物",
+                "B) n. 青少年",
+                "C) n. 研讨会 / 专题讨论课 / 研讨班"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adoption / 美[ə'dɑːpʃn]  / 英[ə'dɒpʃ(ə)n] ",
+            "options": [
+                "A) n. 计算 / 评估 / 估定 / 估计",
+                "B) n. 走廊 / 过道 / 连接地 / 地带",
+                "C) n. 收养 / 采用 / 接受"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "adverse / 美['ædvɜːrs]  / 英['ædvɜːs] ",
+            "options": [
+                "A) n. 透镜 / 镜片 / 镜头",
+                "B) adj. 行进的 / 活动的 / 动人的，感人的",
+                "C) adj. 不利的 / 阻碍成功的 / 有害的 / 相反的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "advocate / 美['ædvəkeɪt]  / 英[ædvəkeɪt] ",
+            "options": [
+                "A) n. 拥护者 / 辩护者 / / 律师",
+                "B) n. 动力 / <乐>同 dynamics / 动态",
+                "C) adj. 广阔的 / 广大的 / 粗放的 / 规模大的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aesthetic / 美[es'θetɪk]  / 英[iːs'θetɪk;es-] ",
+            "options": [
+                "A) n. 归还 / 恢复 / 恢复原有地位 / 王政复辟",
+                "B) n. <计算机>图表",
+                "C) n. 美学原则"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "affection / 美[ə'fekʃn]  / 英[ə'fekʃ(ə)n] ",
+            "options": [
+                "A) v. 使合法化，使正当化",
+                "B) n. 前任 / 前辈 / 原有事物 / 前身",
+                "C) n. 喜欢 / 疾患 / 感情 / 感染"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aftermath / 美['æftərmæθ]  / 英['ɑːftəmæθ] ",
+            "options": [
+                "A) n. 使用 / 惯用法 / 正确用法 / 常规做法",
+                "B) adj. 生物体的 / 有机体的 / 组织的 / 器官的",
+                "C) n. 后果 / <农>再生草 / 余波"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aggression / 美[ə'ɡreʃn]  / 英[ə'ɡreʃ(ə)n] ",
+            "options": [
+                "A) n. 侵犯 / 挑衅 / 侵略 / 进攻",
+                "B) n. <英>特殊教区 / 特权 / 特有财产",
+                "C) v. 卑躬屈膝 / 彻底击败 / 使谦恭 / 低声下气"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "agricultural / 美[ˌæɡrɪ'kʌltʃərəl]  / 英[ˌæɡrɪ'kʌltʃərəl] ",
+            "options": [
+                "A) n. （主要作商业用语）饮料",
+                "B) adj. 可笑的 / 引人嘲笑的 / 荒谬的",
+                "C) adj. 农业的 / <英>笨拙的 / 农艺的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aide / 美[eɪd]  / 英[eɪd] ",
+            "options": [
+                "A) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待",
+                "B) n. 助手 / 副官 / 侍从武官",
+                "C) adv. 兼职地 / 用部分时间地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alert / 美[ə'lɜːrt]  / 英[ə'lɜːt] ",
+            "options": [
+                "A) n. 警惕 / 警报 / 警戒期 / 提示信号",
+                "B) n. 不足额 / 赤字 / 亏损 / 失分数",
+                "C) adj. 极有趣的 / 欢闹的 / 非常滑稽的 / 喜不自禁的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alien / 美['eɪlɪən]  / 英['eɪlɪən] ",
+            "options": [
+                "A) v. 动员 / 使可移动 / 鼓动 / 利用",
+                "B) n. 花费 / 支出 / 经费 / 费用",
+                "C) n. 外国人 / 外侨 / 外星人 / 外国引进品种"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "align / 美[ə'laɪn]  / 英[ə'laɪn] ",
+            "options": [
+                "A) v. 使排列成行 / 支持 / 使结盟 / 匹配",
+                "B) v. 泄漏 / 透露 / 暴露 / 公开",
+                "C) n. 证书 / 执照"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alignment / 美[ə'laɪnmənt]  / 英[ə'laɪnmənt] ",
+            "options": [
+                "A) n. 排水沟 / 排水管 / 排水器",
+                "B) n. 队列，成直线 / 正确排放 / 结盟",
+                "C) adj. 破坏的 / 毁灭的 / 否定的 / 诋毁的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alike / 美[ə'laɪk]  / 英[ə'laɪk] ",
+            "options": [
+                "A) adj. 彼此相似的 / 相似的 / 相同的",
+                "B) adv. 相同地 / 相似地 / 同等对待地 / 类似于",
+                "C) adj. 遥远的 / 不亲密的 / 矜持的 / 冷淡的"
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "allegation / 美[ˌælə'ɡeɪʃn]  / 英[ælɪ'ɡeɪʃ(ə)n] ",
+            "options": [
+                "A) n. 外国人 / 陌生人",
+                "B) n. 宣称 / 指控 / 假说 / 陈述",
+                "C) n. 爆炸气浪 / 一阵强风 / 吼鸣声 / 热闹的聚会"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "allege / 美[ə'ledʒ]  / 英[ə'ledʒ] ",
+            "options": [
+                "A) n. 诊断 / 判断 / 特征简介",
+                "B) v. 断言 / 提出…作为理由",
+                "C) n. 变化 / 变动 / 变异 / <天文>变差"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "allegedly / 美[əˈlɛdʒədli]  / 英[əˈlɛdʒɪdli] ",
+            "options": [
+                "A) adv. 据宣称",
+                "B) n. 匍匐前进 / 自由泳 / 爬行",
+                "C) adj. 以前的 / <北美>偶尔的 / 某一时间的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "alliance / 美[ə'laɪəns]  / 英[ə'laɪəns] ",
+            "options": [
+                "A) n. 播音员",
+                "B) n. 删除命令 / 删除键",
+                "C) n. 联合 / 联盟 / 联姻"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "allocate / 美['æləkeɪt]  / 英['æləkeɪt] ",
+            "options": [
+                "A) v. 分配 / 分派 / 拨出 / 使坐落于",
+                "B) n. 完成 / 完满 / 填写表格 / 实现",
+                "C) n. 有序的安排 / 排列 / 大批"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "allocation / 美[ˌælə'keɪʃn]  / 英[ælə'keɪʃ(ə)n] ",
+            "options": [
+                "A) n. 存货清单 / 存货盘存 / 财产目录 / 建筑物内部部件清单",
+                "B) n. 分配 / 共享 / 配给物 / 安置",
+                "C) n. <板球>三柱门上的横木 / 栏杆 / 保释 / 杓"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "allowance / 美[ə'laʊəns]  / 英[ə'laʊəns] ",
+            "options": [
+                "A) adv. 密实地 / 强有力地 / 牢固地 / 稳固地 / 坚定地 / 坚决地 / 严格地",
+                "B) n. 足数 / 补足物 / 补语 / 余角",
+                "C) n. 容许量 / 津贴，零用钱 / <北美>零花钱 / 补助"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ally / 美['ælaɪ]  / 英['ælɪ] ",
+            "options": [
+                "A) n. 结盟 / 同盟者 / 协约国 / 伙伴",
+                "B) exclam. 了不起啊 / 得了",
+                "C) adj. 生物学的 / 生物体的 / 生物的 / 加酶的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aluminum / 美[ə'luːmɪnəm]  / 英[ə'luːmɪnəm] ",
+            "options": [
+                "A) n. 铝 / <美>同 aluminium",
+                "B) n. 意识",
+                "C) v. 使害怕 / 使惊吓 / 恐吓 / 使恐怖"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "amateur / 美['æmətər]  / 英[æmətə;-tʃə] ",
+            "options": [
+                "A) n. 起缓冲作用的人 / <化>缓冲剂 / 减震器",
+                "B) n. 业余爱好者 / 外行 / 爱好者",
+                "C) n. 宪法 / 政体 / 成分 / 建立，组成"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ambassador / 美[æm'bæsədər]  / 英[æm'bæsədə] ",
+            "options": [
+                "A) n. 荒诞 / 荒诞作品",
+                "B) n. 零售",
+                "C) n. 大使 / 代表 / 使者 / 使节"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "amend / 美[ə'mend]  / 英[ə'mend] ",
+            "options": [
+                "A) n. 提示 / 暗示 / 线索 / 行动信号",
+                "B) v. 改善 / 改善土壤结构或肥力 / 修改 / 改进",
+                "C) n. 回声 / 回音 / 回波 / 效仿"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "amendment / 美[ə'mendmənt]  / 英[ə'mendmənt] ",
+            "options": [
+                "A) n. 修正 / 修正案 / 改善 / 修正条款",
+                "B) v. 称做… / 定名为… / 使…有权利",
+                "C) adj. 基因的 / 遗传的 / 起源的 / 有共同起源的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "amid / 美[ə'mɪd]  / 英[ə'mɪd] ",
+            "options": [
+                "A) prep. 在…之中",
+                "B) v. 解决 / 克服 / 压倒 / 胜过",
+                "C) n. 回声 / 回音 / 回波 / 效仿"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "analogy / 美[ə'nælədʒɪ]  / 英[ə'nælədʒɪ] ",
+            "options": [
+                "A) n. 侵略 / 涌入 / 侵犯 / 干预",
+                "B) n. 背景 / 背景幕 / 交流声",
+                "C) n. 类比 / 可类比物 / <语言学>类推法 / 类似"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "anchor / 美['æŋkər]  / 英['æŋkə] ",
+            "options": [
+                "A) n. 锚 / 主持人 / 顶梁柱 / 抛锚停泊",
+                "B) v. 下降 / 是…的后裔 / 遗传 / 屈尊",
+                "C) n. 破产"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "angel / 美['eɪndʒl]  / 英['eɪndʒ(ə)l] ",
+            "options": [
+                "A) n. 天使 / 纯洁善良的人 / 天使货币 / 善人",
+                "B) adj. 父母的",
+                "C) n. 锻炼，训练"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "anonymous / 美[ə'nɑːnɪməs]  / 英[ə'nɒnɪməs] ",
+            "options": [
+                "A) adj. 技术（学）的，工艺（学）的",
+                "B) adj. 匿名的 / 无个性特征的 / 平淡的 / 无特色的",
+                "C) n. 摆放 / 布置 / 定位球 / 人员配置"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "apparatus / 美[ˌæpə'rætəs]  / 英[ˌæpə'reɪtəs] ",
+            "options": [
+                "A) n. 设备 / 复杂结构 / 注释 / 器官",
+                "B) n. 舰队 / 海军 / 港湾 / 小河",
+                "C) n. 资本主义"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "apparel / 美[ə'pærəl]  / 英[ə'pærəl] ",
+            "options": [
+                "A) n. <正式>衣服 / 教会法衣上的绣花装饰",
+                "B) n. 维持 / 保持 / 供养 / 维护",
+                "C) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "appealing / 美[ə'piːlɪŋ]  / 英[ə'piːlɪŋ] ",
+            "options": [
+                "A) adj. 吸引人的 / 求助的 / 动人的 / 恳求似的",
+                "B) n. 知觉 / 清醒 / 感觉 / 意识",
+                "C) n. 命令 / 原则 / 标准 / 指示"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "appetite / 美['æpɪtaɪt]  / 英['æpɪtaɪt] ",
+            "options": [
+                "A) n. 残留物 / 残渣 / 剩余 / 滤渣",
+                "B) n. 自夸 / 夸耀 / 值得夸耀的事物",
+                "C) n. 食欲 / 满足人体需要的欲望 / 对…的渴望 / 嗜好"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "applaud / 美[ə'plɔːd]  / 英[ə'plɔːd] ",
+            "options": [
+                "A) n. 环 / 循环过程 / 翻筋斗 / 圈",
+                "B) v. 公然反抗 / 藐视 / 挑衅 / 使落空",
+                "C) v. 鼓掌表同意 / 向…喝彩 / 赞扬"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "applicable / 美['æplɪkəbl]  / 英[ə'plɪkəb(ə)l;'æplɪk-] ",
+            "options": [
+                "A) adj. 相关的 / 适用的 / 可适用的 / 可应用的",
+                "B) n. 解释 / 阐明 / 翻译 / 演出",
+                "C) n. 蛋白质 / 朊"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "appoint / 美[ə'pɔɪnt]  / 英[ə'pɔɪnt] ",
+            "options": [
+                "A) v. 任命 / 约定 / <律>受权处置 / 指定",
+                "B) v. 突然不见 / 逐渐消失 / 消失 / 成为零",
+                "C) adj. 频繁的 / 惯常的 / <古>间隔很近的 / 时常发生的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "appreciation / 美[əˌpriːʃɪ'eɪʃn]  / 英[əpriːʃɪ'eɪʃ(ə)n;-sɪ-] ",
+            "options": [
+                "A) n. 不同 / 优秀 / 特性 / 荣誉、勋章",
+                "B) n. 捕食者 / 食肉动物 / 掠夺者",
+                "C) n. 欣赏，鉴别 / 感谢 / 货币增值"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "arbitrary / 美['ɑːrbətrerɪ]  / 英['ɑːbɪtrərɪ] ",
+            "options": [
+                "A) n. <逻>前提 / 假定 / 上述各项 / 房屋连地基",
+                "B) adj. 随机选择的 / 无理由的 / 武断的 / 专制的",
+                "C) v. 推迟 / 使…延期 / 把…放在次要地位 / 把…放在后面"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "architectural / 美[ɑrkɪˈtɛktʃərəl]  / 英[ɑːkɪˈtɛktʃ(ə)r(ə)l] ",
+            "options": [
+                "A) adj. 彼此相似的 / 相似的 / 相同的",
+                "B) adj. 建筑的 / 建筑学的",
+                "C) n. 重新组装 / 改装的机器"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "archive / 美['ɑːrkaɪv]  / 英['ɑːkaɪv] ",
+            "options": [
+                "A) n. 历史档案 / 档案馆 / 档案文件 / 归档数据",
+                "B) n. 观察者 / 观察家 / 侦察兵 / 遵守者",
+                "C) n. 种族主义 / 种族歧视 / 人种偏见"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "arena / 美[ə'riːnə]  / 英[ə'riːnə] ",
+            "options": [
+                "A) v. 逐步发展 / 演变 / 发展 / 进化",
+                "B) n. 场地 / 舞台 / 竞技场 / 冲突场所",
+                "C) n. 成分的性质 / 组成方式 / 结构 / 作品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "arm / 美[ɑːrm]  / 英[ɑːm] ",
+            "options": [
+                "A) n. 手臂 / 像手臂的东西 / 部门 / 武器",
+                "B) n. 平民",
+                "C) v. 使减少到最小量 / 低估 / 轻视 / 使减到最少"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "array / 美[ə'reɪ]  / 英[ə'reɪ] ",
+            "options": [
+                "A) n. 动力 / <乐>同 dynamics / 动态",
+                "B) n. 历史学家",
+                "C) n. 有序的安排 / 排列 / 大批"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "articulate / 美[ɑːr'tɪkjʊleɪt]  / 英[ɑː'tɪkjʊleɪt] ",
+            "options": [
+                "A) n. 方面 / 特征 / 维",
+                "B) v. 流利连贯地表达 / 形成关节 / 清晰地发 / 使相互连贯",
+                "C) adj. 流利连贯的 / 有关节的 / 发音清晰的 / 口才好的"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "ash / 美[æʃ]  / 英[æʃ] ",
+            "options": [
+                "A) n. 灰 / 骨灰 / 矿物质成分 / 奖杯",
+                "B) n. 梁 / 横梁 / 光线 / 笑容",
+                "C) adv. 以某种方式 / 用某种方法 / 以某种方法 / 莫名其妙地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "aspiration / 美[ˌæspə'reɪʃn]  / 英[æspə'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 民兵组织 / 自卫队 / 义勇军 / 国民军",
+                "B) n. 愿望 / 发送气音 / 抱负 / 吸气",
+                "C) adj. <动>以种名命名的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assassination / 美[əˌsæsnˈeɪʃ(ə)n]  / 英[əˌsasɪˈneɪʃn] ",
+            "options": [
+                "A) n. 恶意 / 害人之心 / 不顾 / 怨恨",
+                "B) pron. <古>无论什么，不管什么",
+                "C) n. 暗杀"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assault / 美[ə'sɔːlt]  / 英[ə'sɔːlt;ə'sɒlt] ",
+            "options": [
+                "A) n. 所有权",
+                "B) n. 誓言 / 发誓 / 许愿",
+                "C) n. 武力攻击 / 军事攻击 / 攻击 / 袭击"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assemble / 美[ə'sembl]  / 英[ə'semb(ə)l] ",
+            "options": [
+                "A) n. 酷刑 / 刑讯 / 折磨 / 忧虑",
+                "B) n. 运河 / 灌溉水渠 / 管",
+                "C) v. 集合，聚集 / 装配部件 / 使聚集 / 调集"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assembly / 美[ə'semblɪ]  / 英[ə'semblɪ] ",
+            "options": [
+                "A) n. 集合 / 组装 / 议会 / 装配",
+                "B) n. 恐怖分子",
+                "C) adj. 致命的 / 非常的 / 死一般的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assert / 美[ə'sɜːrt]  / 英[ə'sɜːt] ",
+            "options": [
+                "A) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的",
+                "B) v. 断言 / 主张 / 声称 / 果断地行事",
+                "C) n. 拇指 / 第一指 / 拇指部分"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assertion / 美[ə'sɜːrʃn]  / 英[ə'sɜːʃ(ə)n] ",
+            "options": [
+                "A) n. 收养 / 采用 / 接受",
+                "B) n. 断言 / 主张 / 坚持 / 认定",
+                "C) n. 公司 / 商行 / 事务所 / 医务工作组"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "assurance / 美[ə'ʃʊrəns]  / 英[ə'ʃʊərəns] ",
+            "options": [
+                "A) adj. 喜爱的 / 爱慕的 / 喜欢的 / 温柔的",
+                "B) n. 保证 / <英>保险 / 确信 / 断言",
+                "C) v. 揭去面纱 / 揭开蒙布 / 使公之于众 / 揭幕"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "asylum / 美[ə'saɪləm]  / 英[ə'saɪləm] ",
+            "options": [
+                "A) n. 动机 / 缘由 / 艺术思想 / 主题",
+                "B) n. 大小 / 重要性 / 震级",
+                "C) n. 政治避难 / <旧>精神病院 / 庇护 / 收容所"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "atrocity / 美[ə'trɑːsətɪ]  / 英[ə'trɒsɪtɪ] ",
+            "options": [
+                "A) adj. 长存的，长期的",
+                "B) n. 增长 / 膨胀 / 夸张 / 自命不凡",
+                "C) n. 暴行 / 恶行 / 凶恶"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "attain / 美[ə'teɪn]  / 英[ə'teɪn] ",
+            "options": [
+                "A) adv. 彻底地 / 完全地 / 总共 / 总而言之",
+                "B) n. 巡视员 / 巡官 / <英>检票员 / 检查员",
+                "C) v. 获得 / 实现 / 达到 / 到达"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "attendance / 美[ə'tendəns]  / 英[ə'tendəns] ",
+            "options": [
+                "A) v. 断言 / 提出…作为理由",
+                "B) n. 忠诚 / 忠心 / 忠贞 / 忠实",
+                "C) n. 出席 / 在场人数 / 到场 / 出席人数"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "attribute / 美[ə'trɪbjuːt]  / 英[ə'trɪbjuːt] ",
+            "options": [
+                "A) n. 虫 / 蜗杆 / 螺纹 / 小人物",
+                "B) n. 特性 / 品质 / 象征 / <语法>定语",
+                "C) n. 家眷 / 侍从 / 食客 / 受赡养者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "auction / 美['ɔːkʃn]  / 英['ɔːkʃ(ə)n] ",
+            "options": [
+                "A) n. 女权主义者 / 女权运动者",
+                "B) n. 拍卖 / 拍卖活动 / <桥牌>叫牌 / 叫牌阶段",
+                "C) n. 游击队员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "audit / 美['ɔːdɪt]  / 英['ɔːdɪt] ",
+            "options": [
+                "A) adj. 组织的 / 组织上的 / 机构的",
+                "B) n. 查账 / 审计",
+                "C) v. 揭去面纱 / 揭开蒙布 / 使公之于众 / 揭幕"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "authentic / 美[ɔː'θentɪk]  / 英[ɔː'θentɪk] ",
+            "options": [
+                "A) adj. 可信的 / 真正的 / <乐>正格的 / 逼真的",
+                "B) n. 船舶 / 船舶吨数 / 海运 / 运送",
+                "C) n. 重罪"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "authorize / 美['ɔːθəraɪz]  / 英['ɔːθəraɪz] ",
+            "options": [
+                "A) v. 授权 / 批准",
+                "B) n. 无学 / 无知 / 不知，不懂",
+                "C) n. 不平等 / 不同 / 不平均 / 不规则"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "auto / 美['ɔːtoʊ]  / 英['ɔːtəʊ] ",
+            "options": [
+                "A) n. 指示 / 标志 / 暗示 / 迹象",
+                "B) n. 汽车 / 自动 / automatic 的简称",
+                "C) n. 相交 / 交叉 / 十字路口 / 交集"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "autonomy / 美[ɔː'tɑːnəmɪ]  / 英[ɔː'tɒnəmɪ] ",
+            "options": [
+                "A) n. 不予考虑 / 解雇 / 撤职 / 驳回",
+                "B) n. 自治权 / 自治 / 自治国 / 自治地区",
+                "C) n. 间隔 / 中止 / 差距 / 间距"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "autumn / 美['ɔːtəm]  / 英['ɔːtəm] ",
+            "options": [
+                "A) 位于...之下 / 成为...的基础",
+                "B) n. 纬线 / 平行圈 / 对应线 / 平行线",
+                "C) n. <英>秋季 / 秋天 / 成熟期 / 渐衰期"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "availability / 美[ə,velə'bɪləti]  / 英[ə,veɪlə'bɪlətɪ] ",
+            "options": [
+                "A) n. 方便 / 便利设施 / 便利 / 厕所",
+                "B) n. 政治避难 / <旧>精神病院 / 庇护 / 收容所",
+                "C) n. 可利用性 / 可获得性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "await / 美[ə'weɪt]  / 英[ə'weɪt] ",
+            "options": [
+                "A) n. 鼓励 / 催促 / 付款期限 / 提词",
+                "B) v. 等待 / 等着 / 期待",
+                "C) n. 偶尔做某事的人 / 临时工 / 便装"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "backdrop / 美['bækdrɑːp]  / 英['bækdrɒp] ",
+            "options": [
+                "A) n. 匍匐前进 / 自由泳 / 爬行",
+                "B) n. 背景 / 背景幕 / 交流声",
+                "C) n. 焦虑 / 悲伤 / 痛苦 / 危难"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "backing / 美['bækɪŋ]  / 英['bækɪŋ] ",
+            "options": [
+                "A) n. 药片 / 丸剂",
+                "B) n. 支持 / 帮助 / 支持者 / 衬背",
+                "C) n. 诱拐 / 绑架"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "backup / 美[ˈbækˌəp]  / 英[ˈbakʌp] ",
+            "options": [
+                "A) n. 操作员 / 经营者 / <数>运算符号 / 接线员",
+                "B) n. 猜测 / 投机",
+                "C) n. 支持 / 增援 / 备用物品 / 后备人员 / 备份"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bail / 美[beɪl]  / 英[beɪl] ",
+            "options": [
+                "A) n. <板球>三柱门上的横木 / 栏杆 / 保释 / 杓",
+                "B) n. 灵感 / 吸气 / 吸入 / 鼓舞",
+                "C) adj. 数学的 / 数学般精确的 / 精确的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ballot / 美['bælət]  / 英['bælət] ",
+            "options": [
+                "A) n. 敬神 / 拜神 / 崇拜 / 爱慕",
+                "B) n. 投票 / 投票用纸 / 投票总数",
+                "C) n. 天才 / 非凡创造力 / 守护神 / 精神"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bankruptcy / 美['bæŋkrʌptsɪ]  / 英['bæŋkrʌptsɪ] ",
+            "options": [
+                "A) n. <文>海洋 / 心灵深处",
+                "B) n. 破产",
+                "C) n. 使复杂化的情况 / 困难 / 复杂 / 混乱"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "banner / 美['bænər]  / 英['bænə] ",
+            "options": [
+                "A) n. 决定 / 解决 / 分辨率 / 决议",
+                "B) n. 一丛 / 一群 / <天文>星团 / <语言学>辅音群",
+                "C) n. 旗帜 / 横幅 / 旗号 / 名义"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bare / 美[ber]  / 英[beə] ",
+            "options": [
+                "A) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "B) adj. 赤裸的 / 不加修饰的 / 基本的 / 空荡荡的",
+                "C) v. 使裸露 / 露出"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "barrel / 美['bærəl]  / 英['bærəl] ",
+            "options": [
+                "A) n. 外国人 / 外侨 / 外星人 / 外国引进品种",
+                "B) n. 桶 / 枪管 / 笔杆 / 躯干",
+                "C) n. 增长 / 膨胀 / 夸张 / 自命不凡"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bass / 美[beɪs;bæs]  / 英[bæs] ",
+            "options": [
+                "A) n. 低音 / 鲈鱼 / 男低音 / 椴树",
+                "B) n. 指控 / 指责",
+                "C) v. 通知 / 指导 / 命令 / 教授"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bat / 美[bæt]  / 英[bæt] ",
+            "options": [
+                "A) n. 庄严仪式 / 惯例 / 礼制 / 老规矩",
+                "B) n. 水坝 / 坝 / 障碍",
+                "C) n. 球拍 / 蝙蝠 / 球棒 / 批处理文件的扩展名"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "battlefield / 美['bætlfiːld]  / 英['bæt(ə)lfiːld] ",
+            "options": [
+                "A) n. 战场",
+                "B) n. 碎片，残骸",
+                "C) n. 不可避免的情形"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bay / 美[beɪ]  / 英[beɪ] ",
+            "options": [
+                "A) n. 海湾 / 低凹处 / 狗吠声 / 月桂",
+                "B) adj. 危险的 / 冒险的 / 有风险的 / 有伤风化的",
+                "C) cardinal number 一万亿 / 一百万兆 / <旧><英>一万亿兆"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beam / 美[biːm]  / 英[biːm] ",
+            "options": [
+                "A) n. 行进 / 行军 / 抗议游行 / 边境",
+                "B) n. 梁 / 横梁 / 光线 / 笑容",
+                "C) adv. 不久 / 一会儿 / 目前"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beast / 美[biːst]  / 英[biːst] ",
+            "options": [
+                "A) n. 统治 / 控制 / 管理 / 支配",
+                "B) n. （尤指印度次大陆的）部落民",
+                "C) n. 兽 / 家畜 / 兽性的人 / 恶棍"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "behalf / 美[bɪ'hæf]  / 英[bɪ'hɑːf] ",
+            "options": [
+                "A) adv. 表面上 / 显得 / 好像 / 看来似乎",
+                "B) n. 为了的利益 / 为了维护 / 代表 / 利益",
+                "C) n. 合作社 / 集体企业 / 集团 / 集合体"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "behavioral / 美[bɪ'heɪvjərəl]  / 英[bɪ'heɪvjər(ə)l] ",
+            "options": [
+                "A) v. 获得 / 实现 / 达到 / 到达",
+                "B) v. 限制 / 控制 / 封锁 / 约束",
+                "C) adj. 行为的，行为上的，强调行为的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beloved / 美[bɪ'lʌvd]  / 英[bɪ'lʌvɪd;-'lʌvd] ",
+            "options": [
+                "A) n. 钟爱的人 / 心爱的人 / 亲爱的教友",
+                "B) n. 下沉 / 倾斜 / 浸渍",
+                "C) n. 对等的人 / 对应的人 / <化>当量 / 等价物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bench / 美[bentʃ]  / 英[bentʃ] ",
+            "options": [
+                "A) n. 讽刺 / 反语 / 具有讽刺意味的事",
+                "B) n. 长凳 / 工作台 / 法官职位 / 替补队员",
+                "C) v. 抓住 / 夺取 / 理解 / 逮捕"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "benchmark / 美['bentʃmɑːrk]  / 英['bentʃmɑːk] ",
+            "options": [
+                "A) n. 基准 / 水准基点 / 标准检查程序 / 基准问题",
+                "B) v. 公然反抗 / 藐视 / 挑衅 / 使落空",
+                "C) v. 巩固 / 使坚强 / 使结实 / 联合"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beneath / 美[bɪ'niːθ]  / 英[bɪ'niːθ] ",
+            "options": [
+                "A) prep. 在…下方 / 在…的里层 / 在…掩藏下 / 在…的背后",
+                "B) n. 前景 / 展望 / 景色",
+                "C) adv. 在下方 / 在下层 / 在背后 / 在里面"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "beneficiary / 美[ˌbenɪ'fɪʃɪerɪ]  / 英[benɪ'fɪʃ(ə)rɪ] ",
+            "options": [
+                "A) n. 受益人 / 封臣",
+                "B) n. 肘 / 肘部 / 肘状物 / 弯头",
+                "C) n. 方法 / 模式 / 时尚"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "betray / 美[bɪ'treɪ]  / 英[bɪ'treɪ] ",
+            "options": [
+                "A) n. 革新 / 变革 / 新方法 / 新产品",
+                "B) v. 背叛 / 出卖 / 泄露 / 露出…迹象",
+                "C) adv. 仅仅 / 只不过 / 纯粹是 / 只是"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "beverage / 美['bevərɪdʒ]  / 英['bevərɪdʒ] ",
+            "options": [
+                "A) n. （主要作商业用语）饮料",
+                "B) n. 提升 / 升级 / 上升 / 上坡",
+                "C) adj. 激发兴趣的 / 引人注目的 / 令人赞赏的 / 强制的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bind / 美[baɪnd]  / 英[baɪnd] ",
+            "options": [
+                "A) n. 乐观 / <哲>乐观主义",
+                "B) n. 捆绑 / 困境 / 讨厌的事情 / 植物的藤蔓",
+                "C) n. 勇士 / 经验丰富的战士 / 武士 / 鼓吹战争的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "biography / 美[baɪ'ɑːɡrəfɪ]  / 英[baɪ'ɒɡrəfɪ] ",
+            "options": [
+                "A) adj. 致命的 / 灾难性的 / 重大的 / 毁灭性的",
+                "B) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "C) adj. 有指望的 / 有出息的 / 有希望的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bishop / 美['bɪʃəp]  / 英['bɪʃəp] ",
+            "options": [
+                "A) n. 主教 / （国际象棋的）象",
+                "B) n. 幼儿园 / 学前班 / 幼稚园",
+                "C) adj. 愉快的 / 欣喜的 / 高兴的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bizarre / 美[bɪ'zɑːr]  / 英[bɪ'zɑː] ",
+            "options": [
+                "A) adj. 使人产生误解的 / 导致错误印象的",
+                "B) adj. 怪诞的，古怪的，奇形怪状的",
+                "C) n. 能力 / 计算机性能 / 力量 / 性能"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "blade / 美[bleɪd]  / 英[bleɪd] ",
+            "options": [
+                "A) n. 刀片，刀锋 / 叶片状物 / 剑",
+                "B) adj. 困难的 / 棘手的 / 尴尬的 / 笨拙的",
+                "C) n. 帝国 / 大企业 / 企业集团 / 广泛活动"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "blast / 美[blæst]  / 英[blɑːst] ",
+            "options": [
+                "A) n. 铜色的 / 铜币 / 铜 / 警察",
+                "B) adj. 确切的 / 精密的 / 严格的 / 正好的",
+                "C) n. 爆炸气浪 / 一阵强风 / 吼鸣声 / 热闹的聚会"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bleed / 美[bliːd]  / 英[bliːd] ",
+            "options": [
+                "A) adj. 便宜的 / 价格合理的",
+                "B) n. 文件夹 / 投资组合 / 部长职位 / 公文包",
+                "C) n. 流血 / <印刷>出血版 / 液体逸出 / 渗色"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "blend / 美[blend]  / 英[blend] ",
+            "options": [
+                "A) n. 混合物 / 混杂的人群 / 缩合词 / 混合",
+                "B) n. 浪漫气氛 / 传奇性 / 风流韵事 / 冒险故事",
+                "C) adj. 光荣的 / 壮观的 / 辉煌的 / 极好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bless / 美[bles]  / 英[bles] ",
+            "options": [
+                "A) n. 产量 / 生产过程 / 输出功率 / 出产",
+                "B) v. 怀感激之心 / 祝福 / 保佑 / 赞美",
+                "C) n. 任命 / 提名 / 提名权 / 被提名的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "blessing / 美['blesɪŋ]  / 英['blesɪŋ] ",
+            "options": [
+                "A) n. 识字 / 读写能力 / 精通文学 / 能力",
+                "B) adj. 无一定之规的 / 任意选取的 / 任意的 / 胡乱的",
+                "C) n. 上帝的祝福 / 祝福 / 赐福 / 祷告"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "boast / 美[boʊst]  / 英[bəʊst] ",
+            "options": [
+                "A) n. 自夸 / 夸耀 / 值得夸耀的事物",
+                "B) n. 观察者 / 观察家 / 侦察兵 / 遵守者",
+                "C) n. 乐观 / <哲>乐观主义"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bonus / 美['boʊnəs]  / 英['bəʊnəs] ",
+            "options": [
+                "A) n. 额外给予的报酬 / <英>余利 / 好处 / 奖金",
+                "B) n. 介入 / 调停 / 妨碍",
+                "C) n. 好奇心 / 求知欲 / 奇物 / 奇事"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "booking / 美['bʊkɪŋ]  / 英['bʊkɪŋ] ",
+            "options": [
+                "A) n. 诊断 / 判断 / 特征简介",
+                "B) n. 预订 / 预约 / 演出契约 / <足球>警告",
+                "C) adj. 非全日的 / 兼职的 / 部分时间的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "boom / 美[buːm]  / 英[buːm] ",
+            "options": [
+                "A) n. 摘要，概要 / <北美>简历，履历",
+                "B) v. 刻画 / 描绘 / 扮演 / 表现",
+                "C) n. 低沉有回响的声音 / 隆隆声 / 迅速增长 / 繁荣"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bounce / 美[baʊns]  / 英[baʊns] ",
+            "options": [
+                "A) n. 否认 / 拒绝 / 否认陈述 / 背弃",
+                "B) n. 上扬 / 跳 / 弹力 / 活力",
+                "C) n. 前任 / 前辈 / 原有事物 / 前身"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "boundary / 美['baʊndrɪ]  / 英['baʊnd(ə)rɪ] ",
+            "options": [
+                "A) adj. 坚持不懈的 / 执意的 / <植><动>宿存的 / 持久稳固的",
+                "B) n. 分界线 / <喻>界限 / 边界 / 范围",
+                "C) v. 加强 / 加固 / 增进 / 加深"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bow / 美[<v>baʊ;<n>boʊ]  / 英[<v>baʊ;<n>bəʊ] ",
+            "options": [
+                "A) adv. 到处 / 多产地 / 大量地 / 广泛地 / 全面地 / 大面积地",
+                "B) n. 上帝的祝福 / 祝福 / 赐福 / 祷告",
+                "C) n. 蝴蝶结 / 环状装饰结 / 弓 / 弧状物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "breach / 美[briːtʃ]  / 英[briːtʃ] ",
+            "options": [
+                "A) v. 控制 / 调节 / 调整 / 校准",
+                "B) n. 违反 / 破坏 / 缺口 / 不履行",
+                "C) v. 发生 / 使成为法律 / 扮演 / 颁布"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "breakdown / 美['breɪkdaʊn]  / 英['breɪkdaʊn] ",
+            "options": [
+                "A) n. 破裂 / 崩溃 / 故障 / 分解",
+                "B) n. <古>检察官 / 财政官员 / 伯牢鸟 / 菲斯卡尔",
+                "C) v. 恶化，不断变坏"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "breakthrough / 美['breɪkθruː]  / 英['breɪkθruː] ",
+            "options": [
+                "A) n. 重大成就 / 突破性进展 / 突破点 / 突破",
+                "B) n. 车间 / 作坊 / 研讨会 / 工场",
+                "C) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "breed / 美[briːd]  / 英[briːd] ",
+            "options": [
+                "A) n. 同一品种 / 属 / 类型",
+                "B) v. 抓住 / 夺取 / 理解 / 逮捕",
+                "C) n. 纤维 / 光纤 / <美>同 fibre"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "broadband / 美['brɔːdbænd]  / 英['brɔːdbænd] ",
+            "options": [
+                "A) n. 宽带输送信号",
+                "B) v. 扰乱 / 干涉 / 性骚扰 / 妨碍",
+                "C) n. 间歇 / 过渡时期 / 暂定"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "browser / 美['braʊzər]  / 英['braʊzə] ",
+            "options": [
+                "A) n. 摄入量 / 纳入人员 / 入口 / 引入口",
+                "B) n. 一致 / 舆论 / 合意",
+                "C) n. 浏览者 / 浏览器 / 吃嫩叶的动物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "brutal / 美['bruːtl]  / 英['bruːt(ə)l] ",
+            "options": [
+                "A) adj. 残忍的 / 野蛮的 / 令人不快的 / 苛刻的",
+                "B) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位",
+                "C) n. 种族主义分子"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "buffer / 美['bʌfər]  / 英['bʌfə] ",
+            "options": [
+                "A) n. 放出物 / 卸货 / 排放 / 解雇",
+                "B) v. 诊断 / 判断所存在问题的性质 / 确定治疗状况 / 断定",
+                "C) n. 起缓冲作用的人 / <化>缓冲剂 / 减震器"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bulk / 美[bʌlk]  / 英[bʌlk] ",
+            "options": [
+                "A) n. 呼叫鼓劲声 / 喝彩声 / 欢呼 / 令人愉快的事",
+                "B) n. 体积 / 大多数 / 大块",
+                "C) n. 产量 / 生产过程 / 输出功率 / 出产"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "burden / 美['bɜːrdn]  / 英['bɜːd(ə)n] ",
+            "options": [
+                "A) n. 拥挤的人群 / 迷恋 / 粉碎 / 压榨",
+                "B) n. 负担 / 责任 / 任务 / 载重量",
+                "C) n. 依赖 / 信任 / 酒瘾 / 毒瘾"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "bureaucracy / 美[bjʊ'rɑːkrəsɪ]  / 英[ˌbjʊ(ə)'rɒkrəsɪ] ",
+            "options": [
+                "A) n. 美学原则",
+                "B) n. 不确定 / 疑惑 / 慌张 / 困惑",
+                "C) n. 官僚制度 / 官僚机构 / 官僚国家 / 官僚阶层"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "burial / 美['berɪəl]  / 英['berɪəl] ",
+            "options": [
+                "A) v. 澄清 / 讲清 / 烧熔以清除杂质 / 阐明",
+                "B) n. 葬礼 / <考古>坟墓 / 埋葬 / 弃绝",
+                "C) n. 衰退 / 不景气 / 后退 / 凹处"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "burst / 美[bɜːrst]  / 英[bɜːst] ",
+            "options": [
+                "A) adv. 按照字面地 / 逐字地",
+                "B) n. 爆炸 / 猝发 / 迸发 / 爆发",
+                "C) adj. 各自的 / 分别的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cabinet / 美['kæbɪnət]  / 英['kæbɪnɪt] ",
+            "options": [
+                "A) adj. （与）海岸（有关）的 / 沿海岸的",
+                "B) n. <古><苏格兰>命运，宿命",
+                "C) n. 贮藏橱 / 陈列柜 / 内阁 / <古>私人小房间"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "calculation / 美[ˌkælkjʊ'leɪʃn]  / 英[kælkjʊ'leɪʃ(ə)n] ",
+            "options": [
+                "A) n. 奇迹 / 令人惊叹的产品 / 惊人事例 / 惊人的事例",
+                "B) n. 尴尬 / 局促不安 / 使人为难的人或事物 / 拮据",
+                "C) n. 计算 / 评估 / 估定 / 估计"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "canvas / 美['kænvəs]  / 英['kænvəs] ",
+            "options": [
+                "A) n. 准许 / 批准 / 制裁 / 支持",
+                "B) n. 帆布 / 油画布 / 油画 / 拳击台地面",
+                "C) npl. 工资 / 收入 / 收益 / 赢利"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "capability / 美[ˌkeɪpə'bɪlətɪ]  / 英[keɪpə'bɪlɪtɪ] ",
+            "options": [
+                "A) n. 能力 / 计算机性能 / 力量 / 性能",
+                "B) n. 激光器 / 激光",
+                "C) n. 外国人 / 外侨 / 外星人 / 外国引进品种"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "capitalism / 美['kæpɪtəlɪzəm]  / 英['kæpɪtəlɪzəm] ",
+            "options": [
+                "A) n. 人质 / 抵押品",
+                "B) n. 盛怒 / 愤慨 / 暴行 / 侮辱",
+                "C) n. 资本主义"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "capitalist / 美['kæpɪtəlɪst]  / 英['kæpɪtəlɪst] ",
+            "options": [
+                "A) n. 药片 / 丸剂",
+                "B) n. 资本家",
+                "C) n. 魔鬼 / 恶棍 / 淘气鬼"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cargo / 美['kɑːrɡoʊ]  / 英['kɑːɡəʊ] ",
+            "options": [
+                "A) n. 工艺 / 手艺 / 船 / 艇",
+                "B) adj. 喜爱的 / 爱慕的 / 喜欢的 / 温柔的",
+                "C) n. 货物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "carriage / 美['kærɪdʒ]  / 英['kærɪdʒ] ",
+            "options": [
+                "A) n. 贸易 / 商业 / <旧>社交 / 商务",
+                "B) n. <英>货运 / 运输 / 四轮马车 / 客车厢",
+                "C) v. 埋没 / 淹没 / 彻底击败 / 受打击"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "carve / 美[kɑːrv]  / 英[kɑːv] ",
+            "options": [
+                "A) adj. 可预言的 / 易于判断或猜透的",
+                "B) n. 痕迹 / 微量 / 描记线 / 缰绳",
+                "C) v. 雕刻 / 刻 / 切 / 开启"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "casino / 美[kə'siːnoʊ]  / 英[kə'siːnəʊ] ",
+            "options": [
+                "A) n. 赌场",
+                "B) adj. 遥远的 / 不亲密的 / 矜持的 / 冷淡的",
+                "C) n. 魅力 / 项链的坠饰 / 魔咒 / 魔力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "casualty / 美['kæʒʊəltɪ]  / 英['kæʒjʊəltɪ;-zj-] ",
+            "options": [
+                "A) adv. 同样 / 亦 / 同样地 / 也",
+                "B) n. 上扬 / 跳 / 弹力 / 活力",
+                "C) n. 伤亡者 / 意外事故 / 急诊室 / <喻>受害者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "catalog / 美['kætəlɔːɡ]  / 英['kætəlɒɡ] ",
+            "options": [
+                "A) v. 取代 / 移动…的位置 / 罢免",
+                "B) n. 目录 / 图书馆藏书目录 / 待售商品目录 / 艺术展品目录",
+                "C) v. 违反 / 扰乱 / 侵犯 / 亵渎"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cater / 美['keɪtər]  / 英['keɪtə] ",
+            "options": [
+                "A) n. 失望 / 沮丧 / 令人失望的人",
+                "B) v. <英>提供饮食 / 提供所需物 / 考虑 / 迎合",
+                "C) n. 提示 / 暗示 / 线索 / 行动信号"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cattle / 美['kætl]  / 英['kæt(ə)l] ",
+            "options": [
+                "A) npl. 牛 / 家牛",
+                "B) n. 不公正 / 不讲道义",
+                "C) n. 驾驶"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "caution / 美['kɔːʃn]  / 英['kɔːʃ(ə)n] ",
+            "options": [
+                "A) n. 范围 / 视野 / 眼界 / 导弹射程",
+                "B) n. 谨慎 / <英>警告 / 告诫",
+                "C) n. 立法者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cautious / 美['kɔːʃəs]  / 英['kɔːʃəs] ",
+            "options": [
+                "A) n. 垃圾场 / <计算机>转储 / 仓库 / 无秩序地累积",
+                "B) adj. 小心的 / 慎重的 / 谨慎的 / 十分小心的",
+                "C) n. 假货 / 冒充者 / 骗子 / 骗人的把戏"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cease / 美[siːs]  / 英[siːs] ",
+            "options": [
+                "A) adj. 致命的 / 有害的 / 极准的",
+                "B) n. 滥用 / 虐待 / 凌辱 / 辱骂",
+                "C) v. 停止 / 使结束 / 终了"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cemetery / 美['seməterɪ]  / 英['semɪtrɪ] ",
+            "options": [
+                "A) n. 公墓 / 墓地",
+                "B) n. 变暖",
+                "C) n. 小径 / 路 / 途径"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "chamber / 美['tʃeɪmbər]  / 英['tʃeɪmbə] ",
+            "options": [
+                "A) v. 同时发生 / 在同一地点同一时间在场 / 一致 / 重合",
+                "B) n. 桶 / 枪管 / 笔杆 / 躯干",
+                "C) n. 大厅 / （身体或器官内的）室 / 房间 / 会所"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "chaos / 美['keɪɑːs]  / 英['keɪɒs] ",
+            "options": [
+                "A) n. 混乱 / <物理>混沌 / <希腊神话>原始生命",
+                "B) adj. 不经常的 / 临时准备的 / 偶然的 / 特殊场合的",
+                "C) adv. 明确地 / 坦率地 / 生动地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "characterize / 美['kærəktəraɪz]  / 英['kærəktəraɪz] ",
+            "options": [
+                "A) n. 难民 / 避难人 / 流亡者",
+                "B) v. 描述…的特性 / 成为…的特征 / 描绘…的特性 / 具有…的特征",
+                "C) adj. 有名望的 / 享有声望的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "charm / 美[tʃɑːrm]  / 英[tʃɑːm] ",
+            "options": [
+                "A) n. 魅力 / 项链的坠饰 / 魔咒 / 魔力",
+                "B) n. 领土 / 地方 / 范围 / 地域",
+                "C) n. 芳草植物 / <植>草本植物 / 香草"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "charter / 美['tʃɑːrtər]  / 英['tʃɑːtə] ",
+            "options": [
+                "A) n. 特许状 / 凭照 / 宪章 / 执照",
+                "B) n. <乐>分音",
+                "C) n. 鼠 / <北美>常客 / <美>女用发垫 / 卑鄙小人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "choir / 美['kwaɪər]  / 英['kwaɪə] ",
+            "options": [
+                "A) n. 合唱团 / 唱诗班 / 声部 / 教士席位",
+                "B) v. 推测 / 做投机买卖 / 投机 / 思索",
+                "C) n. 偏见 / 偏袒 / 斜裁 / <滚木球>偏重心球形"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "chronic / 美['krɑːnɪk]  / 英['krɒnɪk] ",
+            "options": [
+                "A) adv. 据推测 / 大概 / 可能 / 推测起来",
+                "B) n. 法律顾问 / 参赞 / 辅导员 / <美><爱尔兰>律师",
+                "C) adj. 长期的 / 经常复发的 / 慢性的 / 习惯性的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "chunk / 美[tʃʌŋk]  / 英[tʃʌŋk] ",
+            "options": [
+                "A) n. 厚块",
+                "B) adv. 精确地 / 正好 / 仅仅 / 简直",
+                "C) adj. 相关的 / 相似的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "circulate / 美['sɜːrkjəleɪt]  / 英['sɜːkjʊleɪt] ",
+            "options": [
+                "A) n. 往左偏 / 淡出",
+                "B) v. 循环 / 环流 / 流通 / 在社交场合四处走动",
+                "C) n. <非正式>精致的织物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "circulation / 美[ˌsɜːrkjə'leɪʃn]  / 英[sɜːkjʊ'leɪʃ(ə)n] ",
+            "options": [
+                "A) v. 通知 / 指导 / 命令 / 教授",
+                "B) v. 合并 / 使合并 / 吞没 / 融合",
+                "C) n. 来回运行 / 循环 / 传播 / 发行量"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "citizenship / 美[ˈsɪdɪzənˌʃɪp]  / 英[ˈsɪtɪzənˌʃɪp] ",
+            "options": [
+                "A) n. 公民身份",
+                "B) n. <数>坐标 / 配套服装 / 同等的人或物",
+                "C) n. 对峙 / 敌对 / 冲突 / 面对"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "civic / 美['sɪvɪk]  / 英['sɪvɪk] ",
+            "options": [
+                "A) adj. 相关的 / 适用的 / 可适用的 / 可应用的",
+                "B) n. （尤指法官的）裁决，裁定",
+                "C) n. <非正式>黑人居住区内与当地政府有关、经选举设在社区的机构"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "civilian / 美[sə'vɪlɪən]  / 英[sɪ'vɪlj(ə)n] ",
+            "options": [
+                "A) n. 放出物 / 卸货 / 排放 / 解雇",
+                "B) n. 支持 / 增援 / 备用物品 / 后备人员 / 备份",
+                "C) n. 平民"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "clarity / 美['klærətɪ]  / 英['klærɪtɪ] ",
+            "options": [
+                "A) n. 清楚 / 透明 / 清澈 / 清澈度",
+                "B) n. 机器，机械 / 机械部件",
+                "C) n. 投票"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "clash / 美[klæʃ]  / 英[klæʃ] ",
+            "options": [
+                "A) n. 咨询 / 辅导 / 建议",
+                "B) n. 冲突 / 颜色搭配不当 / 刺耳的金属碰撞声 / 不和",
+                "C) n. 退休 / 退职 / 退役 / 退隐"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "classification / 美[ˌklæsɪfɪ'keɪʃn]  / 英[ˌklæsɪfɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) v. 因而产生 / 接着发生 / 继起",
+                "B) n. 分类 / 同 taxonomy / 种类 / 类别，等级",
+                "C) v. 着手做 / 从事 / 承担，保证 / 接受"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cling / 美[klɪŋ]  / 英[klɪŋ] ",
+            "options": [
+                "A) n. <古><苏格兰>命运，宿命",
+                "B) n. 颖悟力 / 机智 / 风趣 / 解决实际问题的智慧",
+                "C) n. 粘核桃"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "clinical / 美['klɪnɪkl]  / 英['klɪnɪk(ə)l] ",
+            "options": [
+                "A) adj. 临床的 / 冷静能干的 / 冷淡疏远的 / 诊所的",
+                "B) v. <正式>认为 / 视作 / 相信",
+                "C) n. 体积 / 大多数 / 大块"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "closure / 美['kloʊʒər]  / 英['kləʊʒə] ",
+            "options": [
+                "A) n. 垂直线 / 垂直面 / 垂直物 / 竖杆",
+                "B) n. 关闭 / 封锁 / 辩论终止提付表决 / 解脱",
+                "C) n. 蒸汽 / 蒸气膨胀力 / 蒸汽机车 / 精力"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cluster / 美['klʌstər]  / 英['klʌstə] ",
+            "options": [
+                "A) n. 一丛 / 一群 / <天文>星团 / <语言学>辅音群",
+                "B) n. 分界线 / <喻>界限 / 边界 / 范围",
+                "C) prep. 在…之中"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coalition / 美[ˌkoʊə'lɪʃn]  / 英[ˌkəʊə'lɪʃ(ə)n] ",
+            "options": [
+                "A) n. 不足 / 缺少",
+                "B) v. 刻画 / 描绘 / 扮演 / 表现",
+                "C) n. 临时结合 / 联合 / 联盟 / 合并"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coastal / 美['koʊstl]  / 英['kəʊstl] ",
+            "options": [
+                "A) adj. （与）海岸（有关）的 / 沿海岸的",
+                "B) adj. 官能的 / <数>函数的 / 功能的",
+                "C) v. 推断 / 推论"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cocktail / 美['kɑːkteɪl]  / 英['kɒkteɪl] ",
+            "options": [
+                "A) adj. 文学的 / 文学语言的 / 书面的 / 精通文学的",
+                "B) n. 鸡尾酒 / 开胃冷菜 / 开胃食品 / 混合因素",
+                "C) v. 为…的成分 / 构成 / 建立 / 任命"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cognitive / 美['kɑːɡnətɪv]  / 英['kɒɡnɪtɪv] ",
+            "options": [
+                "A) n. 摘录 / 引文 / 提取物",
+                "B) n. <非正式>备忘录",
+                "C) adj. 认识的 / 认知的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coincide / 美[ˌkoʊɪn'saɪd]  / 英[ˌkəʊɪn'saɪd] ",
+            "options": [
+                "A) n. 漫游 / 溜达 / 万德",
+                "B) v. 同时发生 / 在同一地点同一时间在场 / 一致 / 重合",
+                "C) n. 容忍 / 耐心 / 耐性 / <英>单人纸牌戏"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "collaborate / 美[kə'læbəreɪt]  / 英[kə'læbəreɪt] ",
+            "options": [
+                "A) n. 修道士 / 僧侣 / 和尚",
+                "B) v. 合作 / 协作 / 勾结 / 通敌",
+                "C) adj. 后面的 / 最后阶段的 / 最近的 / 较后的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "collaboration / 美[kəˌlæbə'reɪʃn]  / 英[kəˌlæbə'reɪʃn] ",
+            "options": [
+                "A) n. 铝 / <美>同 aluminium",
+                "B) n. 勾结 / 合作 / 叛国通敌 / 通敌",
+                "C) n. 比较级 / 对手"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "collective / 美[kə'lektɪv]  / 英[kə'lektɪv] ",
+            "options": [
+                "A) n. 论坛 / 讨论会 / 法庭 / 公开讨论的广场",
+                "B) n. 合作社 / 集体企业 / 集团 / 集合体",
+                "C) n. 本堂牧师 / 牧师 / 见 rosy pastor"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "collision / 美[kə'lɪʒn]  / 英[kə'lɪʒ(ə)n] ",
+            "options": [
+                "A) n. 碰撞 / <计算机>冲突 / 抵触 / 多点传送",
+                "B) adj. 可笑的 / 引人嘲笑的 / 荒谬的",
+                "C) n. 誓言 / 发誓 / 许愿"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "colonial / 美[kə'loʊnɪəl]  / 英[kə'ləʊnɪəl] ",
+            "options": [
+                "A) n. 殖民地当地人 / 殖民地居民 / 殖民地时期式样的房屋",
+                "B) adj. 生物学的 / 生物体的 / 生物的 / 加酶的",
+                "C) n. 兄弟，姊妹，同胞"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "columnist / 美['kɑːləmnɪst]  / 英['kɒləmnɪst] ",
+            "options": [
+                "A) n. 专栏作家",
+                "B) n. 找回 / <古>恢复的可能性 / 检索 / 恢复",
+                "C) n. 声明 / 公告 / 宣言 / 申诉书"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "combat / 美['kɑːmbæt]  / 英['kɒmbæt;'kʌm-] ",
+            "options": [
+                "A) n. 战斗 / 格斗 / 斗争 / 反对",
+                "B) n. 收入 / 收益 / 税收 / 税务局",
+                "C) n. 制造业"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commence / 美[kə'mens]  / 英[kə'mens] ",
+            "options": [
+                "A) n. 咨询 / 磋商 / 请教 / 会诊",
+                "B) adj. 激发兴趣的 / 引人注目的 / 令人赞赏的 / 强制的",
+                "C) v. 开始 / 着手 / <英>获得学位"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commentary / 美['kɑːmənterɪ]  / 英['kɒmənt(ə)rɪ] ",
+            "options": [
+                "A) n. 幼儿园 / 学前班 / 幼稚园",
+                "B) n. 评论 / 解说 / 注释 / 说明",
+                "C) n. 道德准则 / 道德观 / 美德 / 道德"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commentator / 美['kɑːmənteɪtər]  / 英['kɒmənteɪtə] ",
+            "options": [
+                "A) n. 分配 / 共享 / 配给物 / 安置",
+                "B) n. 时事评论员 / 解说员 / 实况播音员",
+                "C) n. 地极区域 / 极 / 极点 / 杆"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commerce / 美['kɑːmɜːrs]  / 英['kɒmɜːs] ",
+            "options": [
+                "A) n. 贸易 / 商业 / <旧>社交 / 商务",
+                "B) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药",
+                "C) adj. 认识的 / 认知的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commissioner / 美[kə'mɪʃənər]  / 英[kə'mɪʃ(ə)nə] ",
+            "options": [
+                "A) n. 不平等 / 不同 / 不平均 / 不规则",
+                "B) n. 帆布 / 油画布 / 油画 / 拳击台地面",
+                "C) n. 委员 / 受委托的人 / 特派员 / 地区最高代表"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "commodity / 美[kə'mɑːdətɪ]  / 英[kə'mɒdɪtɪ] ",
+            "options": [
+                "A) n. 天然货物 / 农产品 / 日用品",
+                "B) v. 认罪 / 承认 / 坦白 / 忏悔",
+                "C) v. 使虚弱 / 减弱 / 变弱 / 减少"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "communist / 美[kɑmjʊnɪst]  / 英['kɒmjʊnɪst] ",
+            "options": [
+                "A) v. 再生产 / 仿造 / 复制 / 再生",
+                "B) n. 共产主义者",
+                "C) n. 海湾 / 低凹处 / 狗吠声 / 月桂"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "companion / 美[kəm'pænɪən]  / 英[kəm'pænjən] ",
+            "options": [
+                "A) n. 伴侣 / 成对物之一 / 同伴 / 朋友",
+                "B) adj. 小心的 / 慎重的 / 谨慎的 / 十分小心的",
+                "C) v. 使减少到最小量 / 低估 / 轻视 / 使减到最少"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "comparable / 美['kɑːmpərəbl]  / 英['kɒmp(ə)rəb(ə)l] ",
+            "options": [
+                "A) n. 紧握 / 柄 / 旅行包",
+                "B) adj. 可比作…的 / 相似的 / 相当的 / 比得上的",
+                "C) n. <非正式>精致的织物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compassion / 美[kəm'pæʃn]  / 英[kəm'pæʃ(ə)n] ",
+            "options": [
+                "A) n. 同情 / 怜悯",
+                "B) n. 腹部 / 毅力 / 肠线 / 狭道",
+                "C) v. 恶化，不断变坏"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compel / 美[kəm'pel]  / 英[kəm'pel] ",
+            "options": [
+                "A) v. 强迫 / 引起 / 强使发生 / <文>驱赶",
+                "B) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的",
+                "C) adj. 美丽的 / 非常吸引人的 / <非正式>非常令人愉快的 / 极好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compelling / 美[kəm'pelɪŋ]  / 英[kəm'pelɪŋ] ",
+            "options": [
+                "A) n. 同情 / 可惜 / 遗憾",
+                "B) adj. 激发兴趣的 / 引人注目的 / 令人赞赏的 / 强制的",
+                "C) n. 废话 / 愚蠢的行为 / 胡说 / 语言诙谐幽默"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compensate / 美['kɑːmpenseɪt]  / 英['kɒmpenseɪt] ",
+            "options": [
+                "A) n. 兴旺 / 茂盛 / 炫耀",
+                "B) v. 认识到 / 理解 / 把看作 / 察觉",
+                "C) v. 补偿 / 抵消 / 校正 / 平衡"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "competence / 美['kɑːmpɪtəns]  / 英['kɒmpɪtəns] ",
+            "options": [
+                "A) n. 定位 / 适应 / 方向",
+                "B) n. 能力 / 称职 / 知识范围 / 权限",
+                "C) v. 授权于 / 允许 / 使能够 / 增强的力量和信心"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "competent / 美['kɑːmpɪtənt]  / 英['kɒmpɪtənt] ",
+            "options": [
+                "A) n. 幼儿园 / 学前班 / 幼稚园",
+                "B) adj. 中途的 / 不彻底的 / 一定程度上 / 部分地",
+                "C) adj. 合格的 / 有能力的 / 能干的 / 足够的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compile / 美[kəm'paɪl]  / 英[kəm'paɪl] ",
+            "options": [
+                "A) n. 爆炸 / 猝发 / 迸发 / 爆发",
+                "B) n. 轰炸 / 炸弹袭击",
+                "C) v. 汇编 / 编辑 / 收集 / 编制"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "complement / 美['kɑːmplɪment]  / 英['kɒmplɪm(ə)nt] ",
+            "options": [
+                "A) n. 慈悲 / 怜悯 / 宽容 / 解脱",
+                "B) n. 足数 / 补足物 / 补语 / 余角",
+                "C) n. 原油 / 天然的物质"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "complexity / 美[kəm'pleksətɪ]  / 英[kəm'pleksətɪ] ",
+            "options": [
+                "A) adj. 令人愉快的 / 有乐趣的 / 快乐的",
+                "B) n. 复杂 / 复杂性 / 复杂因素 / 复杂情况",
+                "C) n. 大屠杀 / 惨败"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compliance / 美[kəm'plaɪəns]  / 英[kəm'plaɪəns] ",
+            "options": [
+                "A) n. 服从 / <物理>可塑性 / 柔量 / 承诺",
+                "B) adj. 附近的",
+                "C) n. 机械部件 / <古>工人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "complication / 美[ˌkɑːmplɪ'keɪʃn]  / 英[kɒmplɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 激发兴趣的 / 引人注目的 / 令人赞赏的 / 强制的",
+                "B) n. 使复杂化的情况 / 困难 / 复杂 / 混乱",
+                "C) adj. 彻底的 / 全面的 / 缜密的 / 尽心尽力的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "comply / 美[kəm'plaɪ]  / 英[kəm'plaɪ] ",
+            "options": [
+                "A) v. 遵从 / 符合特定标准 / 遵守 / 答应",
+                "B) n. 涉及范围 / 适用范围 / 覆盖 / 新闻报道",
+                "C) n. 教义 / 信条 / 主义 / 学说"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "composition / 美[ˌkɑːmpə'zɪʃn]  / 英[kɒmpə'zɪʃ(ə)n] ",
+            "options": [
+                "A) n. 地下室 / <地质>基底杂岩 / 地窖",
+                "B) v. 估计 / 计算",
+                "C) n. 成分的性质 / 组成方式 / 结构 / 作品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compromise / 美['kɑːmprəmaɪz]  / 英['kɒmprəmaɪz] ",
+            "options": [
+                "A) n. 玩电脑游戏",
+                "B) n. 制造业",
+                "C) n. 妥协 / 和解 / 折中 / 降低标准"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "compute / 美[kəm'pjuːt]  / 英[kəm'pjuːt] ",
+            "options": [
+                "A) v. 估计 / 计算",
+                "B) n. 相互作用 / 相互影响 / <物理>交互作用",
+                "C) n. 发现 / 侦查 / 察觉"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conceal / 美[kən'siːl]  / 英[kən'siːl] ",
+            "options": [
+                "A) v. 提名 / 确定 / 指定 / 任命",
+                "B) v. 隐藏 / 掩盖 / 隐瞒",
+                "C) v. 授予 / 商议 / 讨论 / 交流意见"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "concede / 美[kən'siːd]  / 英[kən'siːd] ",
+            "options": [
+                "A) adj. 优雅的 / 雅致的 / 讲究的 / 简洁的",
+                "B) v. 承认 / 退让 / 给予 / 容许",
+                "C) n. 圣人 / 至善的人 / 圣 / 圣徒"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conceive / 美[kən'siːv]  / 英[kən'siːv] ",
+            "options": [
+                "A) v. 使产生动机 / 激发积极性 / 刺激 / 使有动机",
+                "B) n. 承认 / 准入 / 录用",
+                "C) v. 受孕 / 想出 / 构思 / 认为"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conception / 美[kən'sepʃn]  / 英[kən'sepʃ(ə)n] ",
+            "options": [
+                "A) n. 跳入 / 扎入 / 骤然下跌 / 投入",
+                "B) n. 不可避免的情形",
+                "C) n. 怀孕 / 受精 / 观点 / 概念"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "concession / 美[kən'seʃn]  / 英[kən'seʃ(ə)n] ",
+            "options": [
+                "A) v. 扰乱 / 干涉 / 性骚扰 / 妨碍",
+                "B) n. 争论 / 争辩 / 争执 / 争夺",
+                "C) n. 让步 / 特许权 / 承认 / 退位"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "condemn / 美[kən'dem]  / 英[kən'dem] ",
+            "options": [
+                "A) n. 独立存在物 / 实体",
+                "B) v. 谴责 / 反对 / 判刑 / 宣告不适用",
+                "C) n. 扩展部分 / 扩大物 / 扩张"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confer / 美[kən'fɜːr]  / 英[kən'fɜː] ",
+            "options": [
+                "A) v. 授予 / 商议 / 讨论 / 交流意见",
+                "B) adj. 被扰乱的，混乱的",
+                "C) v. 断言 / 主张 / 声称 / 果断地行事"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confession / 美[kən'feʃn]  / 英[kən'feʃ(ə)n] ",
+            "options": [
+                "A) n. 供状 / 信仰声明 / 忏悔 / 表白",
+                "B) n. 停止 / <英>小站 / 立定 / 休息",
+                "C) n. 壮举，功绩"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "configuration / 美[kənˌfɪɡjə'reɪʃn]  / 英[kənˌfɪɡə'reɪʃ(ə)n;-ɡjʊ-] ",
+            "options": [
+                "A) n. 论述 / 谈话 / 演讲",
+                "B) n. 离婚 / 离婚判决 / 分离",
+                "C) n. 配置 / 构造 / 布局 / 外形"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confine / 美[kən'faɪn]  / 英[kən'faɪn] ",
+            "options": [
+                "A) n. 肾脏 / 腰子 / 脾气 / 类型",
+                "B) adv. 大大地 / 非常",
+                "C) n. 界限 / 范围 / 约束 / 限制"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confirmation / 美[ˌkɑːnfər'meɪʃn]  / 英[kɒnfə'meɪʃ(ə)n] ",
+            "options": [
+                "A) n. 匍匐前进 / 自由泳 / 爬行",
+                "B) n. 棚式建筑 / 货棚 / 牲口棚 / 工作棚",
+                "C) n. 证实 / 确定 / 批准 / 坚信礼"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confront / 美[kən'frʌnt]  / 英[kən'frʌnt] ",
+            "options": [
+                "A) n. 特殊开支项目 / 超常的学生",
+                "B) adj. 声名狼藉的 / 无耻的 / 邪恶的 / 不名誉的",
+                "C) v. 面对 / 对抗 / 遭遇 / 比较"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "confrontation / 美[ˌkɑːnfrən'teɪʃn]  / 英[ˌkɒnfrʌn'teɪʃn] ",
+            "options": [
+                "A) n. 临时结合 / 联合 / 联盟 / 合并",
+                "B) n. 对峙 / 敌对 / 冲突 / 面对",
+                "C) adj. 金色的 / 金制的 / 含金的 / 非常珍贵的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "congratulate / 美[kən'ɡrætʃʊleɪt]  / 英[kən'ɡrætjʊleɪt] ",
+            "options": [
+                "A) adv. 不经常 / 很少",
+                "B) v. 称赞 / 祝贺",
+                "C) n. 磨坊 / 制造厂 / 磨粉机"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "congregation / 美[ˌkɑːŋɡrɪ'ɡeɪʃn]  / 英[kɒŋɡrɪ'ɡeɪʃ(ə)n] ",
+            "options": [
+                "A) n. 宗教团体 / 理事会 / 审议机构 / 圣会会众",
+                "B) n. 工艺 / 手艺 / 船 / 艇",
+                "C) adv. 逐步地 / 越来越 / 均匀地 / 有规律地 / 持续地 / 平静地 / 平稳地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "congressional / 美[kənˈɡrɛʃ(ə)n(ə)l]  / 英[kənˈɡrɛʃ(ə)n(ə)l] ",
+            "options": [
+                "A) adj. 代表大会的 / 国会的",
+                "B) n. 收集人 / 收集物 / 集电极 / 收税员",
+                "C) n. 粘核桃"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conquer / 美['kɑːŋkər]  / 英['kɒŋkə] ",
+            "options": [
+                "A) adv. 暂时地 / 临时地",
+                "B) v. 征服 / 攻占 / 成功地攀登 / 破除",
+                "C) n. 彻底的改变 / 转换 / 改革 / 变形"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conscience / 美['kɑːnʃəns]  / 英['kɒnʃəns] ",
+            "options": [
+                "A) n. 人群 / 暴民 / 乌合之众 / 民众",
+                "B) n. 签证",
+                "C) n. 良知 / 道德心"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consciousness / 美['kɑːnʃəsnəs]  / 英['kɒnʃəsnɪs] ",
+            "options": [
+                "A) v. 变紧 / 绷紧 / 变得更严格 / 使变紧",
+                "B) n. 测验智力的游戏 / 难题 / 谜 / 迷惑",
+                "C) n. 知觉 / 清醒 / 感觉 / 意识"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consecutive / 美[kən'sekjətɪv]  / 英[kən'sekjʊtɪv] ",
+            "options": [
+                "A) adj. 连续的 / 按逻辑顺序的 / <语法>结果的",
+                "B) adj. 全国范围的 / 全国性的",
+                "C) n. 居民 / 栖居的动物 / <美>取得居住权的人 / 居住者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consensus / 美[kən'sensəs]  / 英[kən'sensəs] ",
+            "options": [
+                "A) n. 形象化的描述 / 像 / 意象",
+                "B) n. 幼儿房 / 托儿所 / 苗圃 / 动物养殖场",
+                "C) n. 一致 / 舆论 / 合意"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consent / 美[kən'sent]  / 英[kən'sent] ",
+            "options": [
+                "A) n. <正式>衣服 / 教会法衣上的绣花装饰",
+                "B) n. 赞成 / 准许 / 同意",
+                "C) v. 传送 / 发射 / 传染 / 传播"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conserve / 美[kən'sɜːrv]  / 英[kən'sɜːv] ",
+            "options": [
+                "A) n. 蜜饯 / 果脯 / 果酱",
+                "B) adj. 无数的 / 数不清的",
+                "C) adj. 确切的 / 精密的 / 严格的 / 正好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consistency / 美[kən'sɪstənsɪ]  / 英[kən'sɪstənsɪ] ",
+            "options": [
+                "A) n. 具有普遍行为模式的人 / 普遍 / 一般概念 / 普通性",
+                "B) adj. 以观察为依据的 / 经验主义的 / 实证的",
+                "C) n. 一致 / 符合 / 浓度 / 相容性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consolidate / 美[kən'sɑːlɪdeɪt]  / 英[kən'sɒlɪdeɪt] ",
+            "options": [
+                "A) n. 冒险旅行 / 冒险行动 / 企业 / 风险",
+                "B) n. 立法者",
+                "C) v. 巩固 / 使坚强 / 使结实 / 联合"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "constitute / 美['kɑːnstɪtuːt]  / 英['kɒnstɪtjuːt] ",
+            "options": [
+                "A) v. 为…的成分 / 构成 / 建立 / 任命",
+                "B) prep. 在…之中",
+                "C) adj. 挑战性的 / 考验能力的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "constitution / 美[ˌkɑːnstɪ'tuːʃn]  / 英[kɒnstɪ'tjuːʃ(ə)n] ",
+            "options": [
+                "A) n. 宪法 / 政体 / 成分 / 建立，组成",
+                "B) n. 调整 / 适应",
+                "C) n. 修道士 / 僧侣 / 和尚"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "constitutional / 美[ˌkɑːnstɪ'tuːʃənl]  / 英[kɒnstɪ'tjuːʃ(ə)n(ə)l] ",
+            "options": [
+                "A) n. <旧>保健散步 / 健身散步",
+                "B) n. 钩子 / 挂钩 / 弧形切割工具 / 钩拳",
+                "C) v. <正式>认为 / 视作 / 相信"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "constraint / 美[kən'streɪnt]  / 英[kən'streɪnt] ",
+            "options": [
+                "A) n. 限制 / 局限 / 拘束 / 强制",
+                "B) n. 产量 / 产物 / 利润 / 收益",
+                "C) n. 优秀 / 美德 / 长处"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "consultation / 美[ˌkɑːnsl'teɪʃn]  / 英[kɒnsəl'teɪʃ(ə)n] ",
+            "options": [
+                "A) n. 咨询 / 磋商 / 请教 / 会诊",
+                "B) v. 使充实 / 使肥沃 / 使富足",
+                "C) n. 处方 / 权威推荐 / 规定"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contemplate / 美['kɑːntəmpleɪt]  / 英['kɒntempleɪt;-təm-] ",
+            "options": [
+                "A) v. 补偿 / 抵消 / 校正 / 平衡",
+                "B) adj. 分散的 / 稀疏的",
+                "C) v. 凝视 / 沉思 / 注视 / 思忖"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contempt / 美[kən'tempt]  / 英[kən'tempt] ",
+            "options": [
+                "A) n. 轻视 / 轻蔑 / 耻辱",
+                "B) n. 后果 / <农>再生草 / 余波",
+                "C) n. 来回运行 / 循环 / 传播 / 发行量"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contend / 美[kən'tend]  / 英[kən'tend] ",
+            "options": [
+                "A) n. 水晶 / 晶制玻璃 / 结晶，晶体 / 水晶饰品",
+                "B) v. 恳求 / 为陈述 / 争辩 / <律>辩护",
+                "C) v. 奋斗 / 声称 / 竞争 / 争论"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contender / 美[kənˈtɛndər]  / 英[kənˈtɛndə] ",
+            "options": [
+                "A) n. 山峰 / 巅 / 尖顶 / 最高点",
+                "B) n. 竞争者",
+                "C) adj. 致命的 / 灾难性的 / 重大的 / 毁灭性的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "content / 美[<n>'kɑːntent;<adj>kən'tent]  / 英[<n>'kɒntent;<adj>kən'tent] ",
+            "options": [
+                "A) n. 螺钉 / 螺旋运动 / 螺丝钉 / 吝啬鬼",
+                "B) n. 满意 / 满足 / 投赞成票的贵族院议员 / 容量",
+                "C) n. 真空状态 / 空白 / 真空 / 空间"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contention / 美[kən'tenʃn]  / 英[kən'tenʃ(ə)n] ",
+            "options": [
+                "A) v. 明确说明 / 具体指定",
+                "B) n. 争论 / 争辩 / 争执 / 争夺",
+                "C) n. 资助 / 支持 / 赞助 / 倡议 / 担保"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "continually / 美[kənˈtɪnjuəli]  / 英[kənˈtɪnjʊəli] ",
+            "options": [
+                "A) n. 结盟 / 同盟者 / 协约国 / 伙伴",
+                "B) n. 离婚 / 离婚判决 / 分离",
+                "C) adv. 连续地 / 反复地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contractor / 美[kən'træktər]  / 英[kən'træktə] ",
+            "options": [
+                "A) n. 腕 / 膝关节 / 翅膀 / 手腕",
+                "B) n. 订约人 / 承包人 / 承包商",
+                "C) n. 零售"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contradiction / 美[ˌkɑːntrə'dɪkʃn]  / 英[kɒntrə'dɪkʃ(ə)n] ",
+            "options": [
+                "A) adj. 作住所用的 / 与居住有关的 / 提供寄宿的",
+                "B) v. 雕刻 / 刻 / 切 / 开启",
+                "C) n. 矛盾 / 抵触 / 反驳 / 否认"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contrary / 美[kɑːntrerɪ;kən'trerɪ]  / 英['kɒntrərɪ] ",
+            "options": [
+                "A) n. 关闭 / 封锁 / 辩论终止提付表决 / 解脱",
+                "B) adj. 生态的 / 生态学的",
+                "C) n. 相反 / 相反事物 / 反面 / 对立面"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "contributor / 美[kən'trɪbjətər]  / 英[kən'trɪbjʊtə] ",
+            "options": [
+                "A) n. 捐献者 / 投稿者 / 捐助者",
+                "B) n. 瞬间 / 立即 / 片刻",
+                "C) n. 证实 / 确定 / 批准 / 坚信礼"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conversion / 美[kən'vɜːrʒn]  / 英[kən'vɜːʃ(ə)n] ",
+            "options": [
+                "A) n. 转变 / <律>侵权行为 / 兑换 / 改变信仰",
+                "B) n. 紧抓 / 紧握 / 理解 / 控制",
+                "C) n. 有影响力的人 / 有势力的人 / 有影响力的人物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "convict / 美[kən'vɪkt]  / 英[kən'vɪkt] ",
+            "options": [
+                "A) n. 封条 / 密封 / 印章 / 海豹",
+                "B) n. 已被宣判有罪的人 / 囚犯 / 罪犯",
+                "C) n. 成分的性质 / 组成方式 / 结构 / 作品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "conviction / 美[kən'vɪkʃn]  / 英[kən'vɪkʃ(ə)n] ",
+            "options": [
+                "A) adv. 精确地 / 正好 / 仅仅 / 简直",
+                "B) adj. 有技能的 / 有技巧的 / 熟练的 / 显示技巧的",
+                "C) n. 判决 / 定罪 / 确信 / 证明有罪"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cooperate / 美[koʊ'ɑːpəreɪt]  / 英[kəʊ'ɒpəreɪt] ",
+            "options": [
+                "A) n. 农民 / 小农 / 雇农 / 乡下人",
+                "B) v. 合作 / 配合 / 协力",
+                "C) n. 操作 / 操纵 / 控制 / 篡改 / 推拿"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cooperative / 美[koʊ'ɑːpərətɪv]  / 英[kəʊ'ɒpərətɪv] ",
+            "options": [
+                "A) n. 合作农场 / 合作企业 / 合作社",
+                "B) adj. 选举的 / 选举人的",
+                "C) n. 最终期限 / <史>死线 / 截止期限，最后期限"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coordinate / 美[koʊ'ɔːrdɪneɪt]  / 英[kəʊ'ɔːdɪneɪt] ",
+            "options": [
+                "A) v. 下降 / 是…的后裔 / 遗传 / 屈尊",
+                "B) n. <数>坐标 / 配套服装 / 同等的人或物",
+                "C) n. <语法>动词性单词 / 动词的非谓语形式"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coordination / 美[koʊˌɔːrdɪ'neɪʃn]  / 英[kəʊˌɔːdɪ'neɪʃ(ə)n] ",
+            "options": [
+                "A) n. 协调 / <化>络合 / 配位 / 对等",
+                "B) n. 预订 / 预约 / 演出契约 / <足球>警告",
+                "C) v. 变紧 / 绷紧 / 变得更严格 / 使变紧"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coordinator / 美[koʊˈɔrdəneɪdər]  / 英[ˌkəʊˈɔːdɪneɪtə] ",
+            "options": [
+                "A) n. 协调人",
+                "B) n. 美学原则",
+                "C) n. 复印 / 繁育 / 复制品 / 复制"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "copper / 美['kɑːpər]  / 英['kɒpə] ",
+            "options": [
+                "A) v. 使排列成行 / 支持 / 使结盟 / 匹配",
+                "B) n. 铜色的 / 铜币 / 铜 / 警察",
+                "C) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "copyright / 美['kɑːpɪraɪt]  / 英['kɒpɪraɪt] ",
+            "options": [
+                "A) v. 面对 / 对抗 / 遭遇 / 比较",
+                "B) n. 版权",
+                "C) adj. （尤指时间）过长的，冗长的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "correction / 美[kə'rekʃn]  / 英[kə'rekʃ(ə)n] ",
+            "options": [
+                "A) cardinal number 一万亿 / 一百万兆 / <旧><英>一万亿兆",
+                "B) n. 改正 / 校正 / 上下浮动值 / <北美或旧>惩罚",
+                "C) adj. 专注的 / 献身的 / 专用的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "correlate / 美['kɔːrələt]  / 英['kɒrəleɪt;-rɪ-] ",
+            "options": [
+                "A) n. 悬崖 / 绝壁",
+                "B) ",
+                "C) n. 互相关联的事物 / 相辅相成的事物 / 相关物 / 相关联的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "correlation / 美[ˌkɔːrə'leɪʃn]  / 英[ˌkɒrə'leɪʃ(ə)n;-rɪ-] ",
+            "options": [
+                "A) n. 联系 / 关联 / 相互关系 / <统计>相关数",
+                "B) n. 错误的观念 / 错误的理解 / 假象 / 幻觉",
+                "C) n. 重击 / 震惊 / 失望 / 开花"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "correspond / 美[ˌkɔːrə'spɑːnd]  / 英[kɒrɪ'spɒnd] ",
+            "options": [
+                "A) v. 相似 / 相符 / 一致 / 联系",
+                "B) n. 伴侣 / 成对物之一 / 同伴 / 朋友",
+                "C) adv. 仅仅 / 只不过 / 纯粹是 / 只是"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "correspondence / 美[ˌkɔːrə'spɑːndəns]  / 英[kɒrɪ'spɒnd(ə)ns] ",
+            "options": [
+                "A) adv. 即 / 那就是 / 也就是 / 即是",
+                "B) adv. 不久 / 一会儿 / 目前",
+                "C) n. 类似 / 联系 / 通信 / 一致"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "correspondent / 美[ˌkɔːrə'spɑːndənt]  / 英[kɒrɪ'spɒnd(ə)nt] ",
+            "options": [
+                "A) n. 可恶的人 / 缓慢发展 / 爬行 / 毛骨悚然的感觉",
+                "B) n. 胜败比率 / 几率 / 不平等 / 差别",
+                "C) n. 通讯员 / 通讯记者 / 客户 / 代理商行"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "corresponding / 美[,kɔrə'spɑndɪŋ]  / 英[,kɒrɪ'spɒndɪŋ] ",
+            "options": [
+                "A) n. 骚乱 / 聚众闹事",
+                "B) adj. 相关的 / 相似的",
+                "C) n. 主流 / 主要倾向 / 主流派爵士乐"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "corruption / 美[kə'rʌpʃn]  / 英[kə'rʌpʃ(ə)n] ",
+            "options": [
+                "A) v. 停止 / 使结束 / 终了",
+                "B) adv. 连续地 / 反复地",
+                "C) n. 贪污 / 出错 / 讹误 / 堕落"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "costly / 美['kɔːstlɪ]  / 英['kɒstlɪ] ",
+            "options": [
+                "A) n. 识字 / 读写能力 / 精通文学 / 能力",
+                "B) n. 积累 / 堆积 / 堆积物 / 资本增益",
+                "C) adj. 贵重的 / 代价大的 / 损失惨重的 / 昂贵的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "councilor / 美['kaʊnsələr]  / 英['kaʊns(ə)lə] ",
+            "options": [
+                "A) adv. 每年",
+                "B) n. 肾脏 / 腰子 / 脾气 / 类型",
+                "C) n. 顾问 / 议员 / 政务会委员 / 参赞"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "counseling / 美['kaʊnsəlɪŋ]  / 英['kaʊnsəlɪŋ] ",
+            "options": [
+                "A) v. 抓住 / 夺取 / 理解 / 逮捕",
+                "B) n. 咨询 / 辅导 / 建议",
+                "C) adj. 生物体的 / 有机体的 / 组织的 / 器官的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "counselor / 美['kaʊnsələr]  / 英['kaʊns(ə)lə] ",
+            "options": [
+                "A) n. 法律顾问 / 参赞 / 辅导员 / <美><爱尔兰>律师",
+                "B) n. 营业额 / 成交量 / 人员更替率 / 酥饼",
+                "C) n. 郊区 / 边缘"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "counter / 美['kaʊntər]  / 英['kaʊntə] ",
+            "options": [
+                "A) n. 资产 / 习得 / 收购 / 资产购置",
+                "B) n. 变化 / 变动 / 变异 / <天文>变差",
+                "C) n. 柜台 / 计算器 / 对立面"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "counterpart / 美['kaʊntərpɑːrt]  / 英['kaʊntəpɑːt] ",
+            "options": [
+                "A) n. 对应的人 / 复本 / 配对物 / 极相似的人或物",
+                "B) n. 独裁者 / 录音机 / 支配的人 / 命令者",
+                "C) adj. 破坏的 / 毁灭的 / 否定的 / 诋毁的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "countless / 美['kaʊntləs]  / 英['kaʊntlɪs] ",
+            "options": [
+                "A) n. 争论 / 争辩 / 争执 / 争夺",
+                "B) adj. 无数的 / 数不清的",
+                "C) adj. 非全日的 / 兼职的 / 部分时间的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "coup / 美[kuː]  / 英[kuː] ",
+            "options": [
+                "A) adj. 声名狼藉的 / 众所周知的",
+                "B) n. 政变 / 巧妙的一举 / 成功的行动 / 砰然的一击",
+                "C) n. 宣称 / 指控 / 假说 / 陈述"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "courtesy / 美['kɜːrtəsɪ]  / 英['kɜːtɪsɪ] ",
+            "options": [
+                "A) n. 礼貌 / 有礼貌的话语 / 好意 / 恩惠",
+                "B) n. 部分 / 份额 / 体积 / 比例",
+                "C) adj. 确切的 / 精密的 / 严格的 / 正好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "craft / 美[kræft]  / 英[krɑːft] ",
+            "options": [
+                "A) v. 劝使 / 引诱 / 导致 / <医>引产",
+                "B) n. 工艺 / 手艺 / 船 / 艇",
+                "C) n. 露天集市"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "crawl / 美[krɔːl]  / 英[krɔːl] ",
+            "options": [
+                "A) n. 匍匐前进 / 自由泳 / 爬行",
+                "B) n. 城堡 / 宅邸 / 车 / 象棋中的车",
+                "C) n. 斗篷式长袍 / 法衣 / <文>斗篷状物 / 长袍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "creator / 美[krɪ'eɪtər]  / 英[kriː'eɪtə] ",
+            "options": [
+                "A) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "B) n. 创造者 / 创作者",
+                "C) n. 助手 / 副官 / 侍从武官"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "credibility / 美[ˌkredə'bɪlətɪ]  / 英[kredɪ'bɪlɪtɪ] ",
+            "options": [
+                "A) n. 信任 / 信誉 / 可信性 / 确实性",
+                "B) n. 旗帜 / 横幅 / 旗号 / 名义",
+                "C) adj. 极有趣的 / 欢闹的 / 非常滑稽的 / 喜不自禁的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "credible / 美['kredəbl]  / 英['kredɪb(ə)l] ",
+            "options": [
+                "A) n. 赌场",
+                "B) adj. 可信的 / 令人信服的",
+                "C) n. 小说家"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "creep / 美[kriːp]  / 英[kriːp] ",
+            "options": [
+                "A) n. 讽刺 / 反语 / 具有讽刺意味的事",
+                "B) n. 可恶的人 / 缓慢发展 / 爬行 / 毛骨悚然的感觉",
+                "C) n. 低沉有回响的声音 / 隆隆声 / 迅速增长 / 繁荣"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "critique / 美[krɪ'tiːk]  / 英[krɪ'tiːk] ",
+            "options": [
+                "A) n. 争论 / 争辩 / 争执 / 争夺",
+                "B) n. 评论 / 批评 / 评论文章",
+                "C) n. 可恶的人 / 缓慢发展 / 爬行 / 毛骨悚然的感觉"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "crown / 美[kraʊn]  / 英[kraʊn] ",
+            "options": [
+                "A) adj. 彻底的 / 全面的 / 缜密的 / 尽心尽力的",
+                "B) n. 王冠 / 顶部 / 王权 / 顶点",
+                "C) v. 断言 / 主张 / 声称 / 果断地行事"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "crude / 美[kruːd]  / 英[kruːd] ",
+            "options": [
+                "A) n. 任命 / 提名 / 提名权 / 被提名的人",
+                "B) n. 原油 / 天然的物质",
+                "C) adj. 谦卑的 / 简陋的 / 规模小的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "crush / 美[krʌʃ]  / 英[krʌʃ] ",
+            "options": [
+                "A) n. 拥挤的人群 / 迷恋 / 粉碎 / 压榨",
+                "B) n. 改善 / 复兴 / 苏醒 / 再生效",
+                "C) v. 使灰心 / 阻止 / 使气馁"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "crystal / 美['krɪstl]  / 英['krɪst(ə)l] ",
+            "options": [
+                "A) n. 水晶 / 晶制玻璃 / 结晶，晶体 / 水晶饰品",
+                "B) n. 相互作用 / 相互影响 / <物理>交互作用",
+                "C) n. 本堂牧师 / 牧师 / 见 rosy pastor"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cult / 美[kʌlt]  / 英[kʌlt] ",
+            "options": [
+                "A) n. 对等的人 / 对应的人 / <化>当量 / 等价物",
+                "B) adj. 过多的 / 过分的",
+                "C) n. 膜拜 / 膜拜仪式 / 祭仪 / 狂热信徒"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cultivate / 美['kʌltɪveɪt]  / 英['kʌltɪveɪt] ",
+            "options": [
+                "A) adv. 在附近",
+                "B) v. 耕地 / 培养 / 种植 / 陶冶",
+                "C) n. 混乱 / <物理>混沌 / <希腊神话>原始生命"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "curiosity / 美[ˌkjʊrɪ'ɑːsətɪ]  / 英[kjʊərɪ'ɒsɪtɪ] ",
+            "options": [
+                "A) n. 魔鬼 / 恶棍 / 淘气鬼",
+                "B) n. 香料 / 调味料 / 赤褐色 / 情趣",
+                "C) n. 好奇心 / 求知欲 / 奇物 / 奇事"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "custody / 美['kʌstədɪ]  / 英['kʌstədɪ] ",
+            "options": [
+                "A) n. 监护 / 保管 / 拘留 / 抚养权",
+                "B) n. 全部课程 / 课程",
+                "C) n. 衰退 / 不景气 / 后退 / 凹处"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cutting / 美['kʌtɪŋ]  / 英['kʌtɪŋ] ",
+            "options": [
+                "A) adj. 非凡的 / 难以置信的 / 传说的 / 极好的",
+                "B) n. 工艺 / 手艺 / 船 / 艇",
+                "C) n. 割下的东西 / 路堑 / 河道 / 剪辑"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "cynical / 美['sɪnɪkl]  / 英['sɪnɪk(ə)l] ",
+            "options": [
+                "A) n. 垄断 / 专卖 / 完全控制 / 垄断者",
+                "B) adj. 愤世嫉俗的 / 极端利己而不讲道义的 / 冷嘲的",
+                "C) n. 找回 / <古>恢复的可能性 / 检索 / 恢复"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dam / 美[dæm]  / 英[dæm] ",
+            "options": [
+                "A) adv. 自由地 / 随心所欲地 / 大量地 / 直爽地",
+                "B) n. 锻炼，训练",
+                "C) n. 水坝 / 坝 / 障碍"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "damaging / 美[ˈdæmɪdʒɪŋ]  / 英[ˈdamɪdʒɪŋ] ",
+            "options": [
+                "A) n. 意识",
+                "B) adj. 有害的 / 破坏性的",
+                "C) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dawn / 美[dɔːn]  / 英[dɔːn] ",
+            "options": [
+                "A) n. 锻炼，训练",
+                "B) n. 黎明 / <喻>开端",
+                "C) v. 把...打晕（stun 的现在分词）"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "debris / 美[də'briː]  / 英['debriː;'deɪbriː] ",
+            "options": [
+                "A) n. 碎片，残骸",
+                "B) v. 使产生动机 / 激发积极性 / 刺激 / 使有动机",
+                "C) adj. 生物学的 / 生物体的 / 生物的 / 加酶的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "debut / 美[deɪ'bjuː]  / 英['deɪbjuː;-buː] ",
+            "options": [
+                "A) npl. 经济学 / 经济情况",
+                "B) n. 崭露头角 / 初次登台 / 开张 / 初涉社交",
+                "C) n. 外来植物 / 外来动物 / 外国种"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "decisive / 美[dɪ'saɪsɪv]  / 英[dɪ'saɪsɪv] ",
+            "options": [
+                "A) adj. 决定性的 / 果断的",
+                "B) adj. 浓密的 / 稠密的 / 浓厚的 / 愚钝的",
+                "C) n. 宪法 / 政体 / 成分 / 建立，组成"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "declaration / 美[ˌdeklə'reɪʃn]  / 英[deklə'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 法律 / 立法",
+                "B) adj. 进化的 / 演变的",
+                "C) n. 声明 / 公告 / 宣言 / 申诉书"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dedicated / 美['dedɪkeɪtɪd]  / 英['dedɪkeɪtɪd] ",
+            "options": [
+                "A) adv. 严重地 / 严厉地 / 苛刻地 / 简朴地 / 严肃地 / 极度",
+                "B) adj. 专注的 / 献身的 / 专用的",
+                "C) adj. 有指望的 / 有出息的 / 有希望的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dedication / 美[ˌdedɪ'keɪʃn]  / 英[dedɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) n. 奉献 / 全身心投入 / 供奉 / 献身",
+                "B) n. 接合点 / 边缘区域 / 联系装置 / 交界面",
+                "C) n. 过量 / 过度 / 无节制 / 超过部分"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deed / 美[diːd]  / 英[diːd] ",
+            "options": [
+                "A) n. 一丛 / 一群 / <天文>星团 / <语言学>辅音群",
+                "B) n. 场面恢宏的事件",
+                "C) n. 行为 / 契约 / 行动 / 功绩"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deem / 美[diːm]  / 英[diːm] ",
+            "options": [
+                "A) v. <正式>认为 / 视作 / 相信",
+                "B) adj. 非全日的 / 兼职的 / 部分时间的",
+                "C) n. 伤亡人数 / 通行费 / 代价 / 钟声"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "default / 美[dɪ'fɔːlt]  / 英[dɪ'fɔːlt] ",
+            "options": [
+                "A) n. 颖悟力 / 机智 / 风趣 / 解决实际问题的智慧",
+                "B) n. 不履行 / 拖欠 / 违约 / 缺乏",
+                "C) n. 砍 / 排骨 / 削球 / 品牌"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "defect / 美['diːfekt]  / 英[dɪ'fekt] ",
+            "options": [
+                "A) n. 缺点 / 缺乏 / 不足之处",
+                "B) n. 王国 / 天国 / 界 / 领域",
+                "C) n. 场地 / 舞台 / 竞技场 / 冲突场所"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "defensive / 美[dɪ'fensɪv]  / 英[dɪ'fensɪv] ",
+            "options": [
+                "A) adj. 防卫用的 / 百般辩解的 / 自卫的 / 防守的",
+                "B) adj. 实行的 / 使用的 / 日常业务的 / 操作的",
+                "C) "
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deficiency / 美[dɪ'fɪʃnsɪ]  / 英[dɪ'fɪʃ(ə)nsɪ] ",
+            "options": [
+                "A) n. 缺乏 / 缺陷 / 赤字 / 不足的数额",
+                "B) ",
+                "C) n. 知觉 / 清醒 / 感觉 / 意识"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deficit / 美['defɪsɪt]  / 英['defɪsɪt;'diː-] ",
+            "options": [
+                "A) n. 范围 / 视野 / 眼界 / 导弹射程",
+                "B) n. 不足额 / 赤字 / 亏损 / 失分数",
+                "C) n. 蝴蝶结 / 环状装饰结 / 弓 / 弧状物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "defy / 美[dɪ'faɪ]  / 英[dɪ'faɪ] ",
+            "options": [
+                "A) v. 认识到 / 理解 / 把看作 / 察觉",
+                "B) v. 公然反抗 / 藐视 / 挑衅 / 使落空",
+                "C) n. 骄傲 / 得意 / 狮群 / 自尊心"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "delegate / 美['delɪɡət]  / 英['delɪɡət] ",
+            "options": [
+                "A) n. 流体 / 气体 / 液体",
+                "B) adj. 透明的 / 显然的 / 易察觉的 / <物理>可穿透的",
+                "C) n. 代表 / 会议代表 / 委员会成员"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "delegation / 美[ˌdelɪ'ɡeɪʃn]  / 英[delɪ'ɡeɪʃ(ə)n] ",
+            "options": [
+                "A) n. 代表团 / 代表 / 授权 / 委托",
+                "B) n. 任命 / 提名 / 提名权 / 被提名的人",
+                "C) n. 臀部 / 屋脊 / 蔷薇果 / 忧郁"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "delicate / 美['delɪkət]  / 英['delɪkət] ",
+            "options": [
+                "A) n. <非正式>精致的织物",
+                "B) v. 谴责 / 公开指责 / 告发 / 公然抨击",
+                "C) n. 备用品 / 二击全倒 / 剩余 / 备用零件"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "demon / 美['diːmən]  / 英['diːmən] ",
+            "options": [
+                "A) n. 恶魔 / 精力充沛的人 / 邪恶的事物 / 高手",
+                "B) n. 小派别 / 小集团 / 派别 / 纪实小说",
+                "C) n. 堵塞物 / 插头 / 口嚼烟草块 / 塞子"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "denial / 美[dɪ'naɪəl]  / 英[dɪ'naɪəl] ",
+            "options": [
+                "A) n. 业务通讯 / 时事通讯",
+                "B) n. 否认 / 拒绝 / 否认陈述 / 背弃",
+                "C) n. 优雅 / 恩典 / 期限 / 大人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "denounce / 美[dɪ'naʊns]  / 英[dɪ'naʊns] ",
+            "options": [
+                "A) n. 爱尔兰葬歌 / 痛哭",
+                "B) v. 谴责 / 公开指责 / 告发 / 公然抨击",
+                "C) n. 诱拐 / 绑架"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dense / 美[dens]  / 英[dens] ",
+            "options": [
+                "A) v. 实施 / 强制履行 / 强迫 / <古>竭力使人接受",
+                "B) n. 政治避难 / <旧>精神病院 / 庇护 / 收容所",
+                "C) adj. 浓密的 / 稠密的 / 浓厚的 / 愚钝的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "density / 美['densətɪ]  / 英['densɪtɪ] ",
+            "options": [
+                "A) n. 强烈 / 强烈情况 / <物理>强度 / 紧张",
+                "B) n. 家眷 / 侍从 / 食客 / 受赡养者",
+                "C) n. 密度 / 不透性 / 暗度 / <计算机>信息密度"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dependence / 美[dɪ'pendəns]  / 英[dɪ'pendəns] ",
+            "options": [
+                "A) v. 禁止 / 不允许 / 〈正式〉严禁",
+                "B) n. 独立存在物 / 实体",
+                "C) n. 依赖 / 信任 / 酒瘾 / 毒瘾"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "depict / 美[dɪ'pɪkt]  / 英[dɪ'pɪkt] ",
+            "options": [
+                "A) v. 使充实 / 使肥沃 / 使富足",
+                "B) adv. 靠那个 / 借以",
+                "C) v. 表现 / 描述"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deploy / 美[dɪ'plɔɪ]  / 英[dɪ'plɔɪ] ",
+            "options": [
+                "A) n. 镍 / 5分钱 / 镍币 / 五分镍币",
+                "B) n. 场面恢宏的事件",
+                "C) v. 部署 / 配置 / 展开 / 使疏开"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deployment / 美[dəˈplɔɪmənt]  / 英[dɪˈplɔɪm(ə)nt] ",
+            "options": [
+                "A) n. 部署 / 有效利用",
+                "B) adj. 后面的 / 最后阶段的 / 最近的 / 较后的",
+                "C) n. 残疾 / 无资格 / 无能 / 不利条件"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deprive / 美[dɪ'praɪv]  / 英[dɪ'praɪv] ",
+            "options": [
+                "A) ",
+                "B) v. 剥夺对某物的所有 / <古>革职 / 使丧失",
+                "C) n. 幻想 / 幻想曲 / 期望 / 白日梦"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deputy / 美['depjʊtɪ]  / 英['depjʊtɪ] ",
+            "options": [
+                "A) n. 副手 / 代理人 / 议会议员 / <英>矿区安全主任",
+                "B) adj. 不恰当的，不相宜的",
+                "C) adj. 引起争论的 / 有争议的 / 有争论的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "descend / 美[dɪ'send]  / 英[dɪ'send] ",
+            "options": [
+                "A) n. 撤消 / 提款 / 取消 / 退股",
+                "B) v. 下降 / 是…的后裔 / 遗传 / 屈尊",
+                "C) n. 偶尔做某事的人 / 临时工 / 便装"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "descent / 美[dɪ'sent]  / 英[dɪ'sent] ",
+            "options": [
+                "A) n. 下降 / 血统 / 家世 / 突袭",
+                "B) n. 伤亡者 / 意外事故 / 急诊室 / <喻>受害者",
+                "C) v. 制订 / 规划 / 用公式表示 / 明确地表达"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "designate / 美['dezɪɡneɪt]  / 英['dezɪɡneɪt] ",
+            "options": [
+                "A) adj. 候任的 / 指定的 / 选定的",
+                "B) n. 方法学 / 方法论 / 系统方法",
+                "C) v. 指派 / 任命"
+            ],
+            "answer": [
+                "C",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "desirable / 美[dɪ'zaɪərəbl]  / 英[dɪ'zaɪərəb(ə)l] ",
+            "options": [
+                "A) n. 壁龛 / 合适的职业 / 有利可图的市场",
+                "B) n. 可取的东西 / 合意的人 / 合意的人或事物",
+                "C) adj. 战争的，尚武的 / 好战的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "desktop / 美['desktɑːp]  / 英['desktɒp] ",
+            "options": [
+                "A) n. 桌面 / 台式机",
+                "B) n. 大学本科生 / 大学肄业生 / 大学生",
+                "C) n. 纸盒 / 硬纸盒 / <旧>定期邮轮 / 数据包"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "destructive / 美[dɪ'strʌktɪv]  / 英[dɪ'strʌktɪv] ",
+            "options": [
+                "A) adj. 破坏的 / 毁灭的 / 否定的 / 诋毁的",
+                "B) n. 抢劫 / 盗窃 / 敲竹杠 / 抢掠",
+                "C) adj. 免疫的 / 免于......的 / 受保护的 / 不受影响的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "detain / 美[dɪ'teɪn]  / 英[dɪ'teɪn] ",
+            "options": [
+                "A) n. 证书 / 执照",
+                "B) n. <北美>人行道",
+                "C) v. 拘留 / 扣押 / 留住 / 耽搁"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "detection / 美[dɪ'tekʃn]  / 英[dɪ'tekʃ(ə)n] ",
+            "options": [
+                "A) n. 发现 / 侦查 / 察觉",
+                "B) adj. 不充足的 / 不胜任的 / 不会生活的",
+                "C) n. 招募 / 补充 / 征募新兵 / <生态>增长"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "detention / 美[dɪ'tenʃn]  / 英[dɪ'tenʃ(ə)n] ",
+            "options": [
+                "A) npl. 工资 / 收入 / 收益 / 赢利",
+                "B) n. 拘留 / 延迟 / 挽留 / 课后留校",
+                "C) n. 鼓励 / 怂恿"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "deteriorate / 美[dɪ'tɪrɪəreɪt]  / 英[dɪ'tɪərɪəreɪt] ",
+            "options": [
+                "A) v. 恶化，不断变坏",
+                "B) adj. 邻近的",
+                "C) n. 行为 / 契约 / 行动 / 功绩"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "devil / 美['devl]  / 英['dev(ə)l] ",
+            "options": [
+                "A) n. 慈悲 / 怜悯 / 宽容 / 解脱",
+                "B) n. 魔鬼 / 恶棍 / 淘气鬼",
+                "C) n. 所有权"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "devise / 美[dɪ'vaɪz]  / 英[dɪ'vaɪz] ",
+            "options": [
+                "A) n. 织物 / 建筑物构筑 / 组织 / 构造",
+                "B) adv. 表面上 / 显得 / 好像 / 看来似乎",
+                "C) n. <律>遗赠不动产的条款 / 遗赠"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diagnose / 美[ˌdaɪəɡ'noʊs]  / 英['daɪəɡnəʊz;-'nəʊz] ",
+            "options": [
+                "A) v. 诊断 / 判断所存在问题的性质 / 确定治疗状况 / 断定",
+                "B) v. 限制 / 控制 / 封锁 / 约束",
+                "C) n. 人群 / 暴民 / 乌合之众 / 民众"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diagnosis / 美[ˌdaɪəɡ'noʊsɪs]  / 英[ˌdaɪəɡ'nəʊsɪs] ",
+            "options": [
+                "A) n. 诊断 / 判断 / 特征简介",
+                "B) n. 流血 / <印刷>出血版 / 液体逸出 / 渗色",
+                "C) n. 悲伤 / 麻烦 / 烦恼 / 不幸"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dictate / 美['dɪkteɪt]  / 英[dɪk'teɪt] ",
+            "options": [
+                "A) n. 音频信号 / 声音",
+                "B) n. 命令 / 原则 / 标准 / 指示",
+                "C) adj. 组织的 / 组织上的 / 机构的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dictator / 美['dɪkteɪtər]  / 英[dɪk'teɪtə] ",
+            "options": [
+                "A) n. 观众 / 旁观者",
+                "B) adv. 表面上 / 显得 / 好像 / 看来似乎",
+                "C) n. 独裁者 / 录音机 / 支配的人 / 命令者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "differentiate / 美[ˌdɪfə'renʃɪeɪt]  / 英[ˌdɪfə'renʃɪeɪt] ",
+            "options": [
+                "A) v. 区别 / <技>变异 / <数>求…的微分 / 区分",
+                "B) n. 统治 / 控制 / 管理 / 支配",
+                "C) adv. 完全地 / 通通 / 全部 / 统统"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dignity / 美['dɪɡnətɪ]  / 英['dɪɡnɪtɪ] ",
+            "options": [
+                "A) n. 摄入量 / 纳入人员 / 入口 / 引入口",
+                "B) adj. 行进的 / 活动的 / 动人的，感人的",
+                "C) n. 尊严 / 高贵 / 自尊 / 高位"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dilemma / 美[dɪ'lemə]  / 英[dɪ'lemə;daɪ'lemə] ",
+            "options": [
+                "A) n. 困境 / 难题 / 两刀论法 / 进退两难",
+                "B) n. 成问题之事",
+                "C) n. 伤亡人数 / 通行费 / 代价 / 钟声"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dimension / 美[daɪ'menʃn]  / 英[daɪˈmenʃn] ",
+            "options": [
+                "A) n. 伙伴 / 合作 / 合伙 / [经管] 合伙企业",
+                "B) n. 方面 / 特征 / 维",
+                "C) adv. 毫不含糊地 / 精确地 / 恰恰"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diminish / 美[dɪ'mɪnɪʃ]  / 英[dɪ'mɪnɪʃ] ",
+            "options": [
+                "A) v. 等待 / 等着 / 期待",
+                "B) v. 减少 / 降低 / 使减少 / 使变小",
+                "C) n. 透明，透明性，透明度 / 幻灯片"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dip / 美[dɪp]  / 英[dɪp] ",
+            "options": [
+                "A) v. 展开 / 摊开 / 透露 / 展现",
+                "B) n. 下沉 / 倾斜 / 浸渍",
+                "C) n. 传染病 / 流行病 / 风尚等的流行 / 猖獗"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diplomat / 美['dɪpləmæt]  / 英['dɪpləmæt] ",
+            "options": [
+                "A) n. 公式 / 惯用语句 / 配方 / 赛车等级",
+                "B) n. 外交官",
+                "C) adj. （人）无家可归的，流浪街头的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "diplomatic / 美[ˌdɪplə'mætɪk]  / 英[dɪplə'mætɪk] ",
+            "options": [
+                "A) n. 委员 / 受委托的人 / 特派员 / 地区最高代表",
+                "B) adj. 外交的 / 外交活动的 / 老练的",
+                "C) n. 王冠 / 顶部 / 王权 / 顶点"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "directory / 美[də'rektərɪ]  / 英[dɪ'rekt(ə)rɪ;daɪ-] ",
+            "options": [
+                "A) n. 人道主义者 / 慈善家 / 博爱主义者 / 基督凡人论者",
+                "B) v. 劝使 / 引诱 / 导致 / <医>引产",
+                "C) n. 目录 / 名录"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disastrous / 美[dɪ'zæstrəs]  / 英[dɪ'zɑːstrəs] ",
+            "options": [
+                "A) adv. 表面上 / 显得 / 好像 / 看来似乎",
+                "B) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位",
+                "C) adj. 灾难性的 / <非正式>非常失败的 / 损失惨重的 / 悲伤的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "discard / 美[dɪ'skɑːrd]  / 英[dɪ'skɑːd] ",
+            "options": [
+                "A) n. 焦虑 / 悲伤 / 痛苦 / 危难",
+                "B) adj. 悲惨的 / 小得可怜的 / 痛苦的 / 卑鄙的",
+                "C) n. 被抛弃的人 / 打出的不同花色的牌 / 抛弃 / 被丢弃的东西或人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "discharge / 美[dɪs'tʃɑːrdʒ]  / 英[dɪs'tʃɑːdʒ] ",
+            "options": [
+                "A) n. 放出物 / 卸货 / 排放 / 解雇",
+                "B) n. 纸盒 / 硬纸盒 / <旧>定期邮轮 / 数据包",
+                "C) adj. 赞同的 / 称赞的 / 有利的 / 促进的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disclose / 美[dɪs'kloʊz]  / 英[dɪs'kləʊz] ",
+            "options": [
+                "A) n. 骚扰 / 烦扰",
+                "B) v. 泄漏 / 透露 / 暴露 / 公开",
+                "C) n. 碎片 / 碎块 / 片断 / 不完整的部分"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disclosure / 美[dɪs'kloʊʒər]  / 英[dɪs'kləʊʒə] ",
+            "options": [
+                "A) n. 航行 / 航海 / 航空 / <方>内河水道",
+                "B) n. 被揭发出来的事情",
+                "C) n. 能力 / 计算机性能 / 力量 / 性能"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "discourse / 美['dɪskɔːrs]  / 英['dɪskɔːs] ",
+            "options": [
+                "A) n. 焦虑 / 悲伤 / 痛苦 / 危难",
+                "B) adj. 随机选择的 / 无理由的 / 武断的 / 专制的",
+                "C) n. 论述 / 谈话 / 演讲"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "discretion / 美[dɪ'skreʃn]  / 英[dɪ'skreʃ(ə)n] ",
+            "options": [
+                "A) n. 同情 / 怜悯",
+                "B) n. 谨慎 / 自由裁量权 / 判断力 / 考虑周到",
+                "C) adv. 永久地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "discrimination / 美[dɪˌskrɪmɪ'neɪʃn]  / 英[dɪˌskrɪmɪ'neɪʃ(ə)n] ",
+            "options": [
+                "A) n. 歧视 / 辨别 / 区别 / 判断力",
+                "B) adj. 致命的 / 灾难性的 / 重大的 / 毁灭性的",
+                "C) v. 改善 / 改善土壤结构或肥力 / 修改 / 改进"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dismissal / 美[ˌdɪsˈmɪs(ə)l]  / 英[dɪsˈmɪsl] ",
+            "options": [
+                "A) adv. 仅仅 / 专门地 / 单独地 / 专有地",
+                "B) n. 不予考虑 / 解雇 / 撤职 / 驳回",
+                "C) adv. 因此 / 结果 / 所以"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "displace / 美[dɪs'pleɪs]  / 英[dɪs'pleɪs] ",
+            "options": [
+                "A) v. 取代 / 移动…的位置 / 罢免",
+                "B) n. 指示 / 标志 / 暗示 / 迹象",
+                "C) n. 可能成功的人 / 有希望成功的人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disposal / 美[dɪ'spoʊzl]  / 英[dɪ'spəʊz(ə)l] ",
+            "options": [
+                "A) n. 安排 / 处理 / 支配 / 清理",
+                "B) adj. 浓密的 / 稠密的 / 浓厚的 / 愚钝的",
+                "C) n. 浪漫气氛 / 传奇性 / 风流韵事 / 冒险故事"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dispose / 美[dɪ'spoʊz]  / 英[dɪ'spəʊz] ",
+            "options": [
+                "A) n. 门槛 / 临界点 / 开端 / 极限",
+                "B) n. 分 / 刻 / <非正式>一会儿",
+                "C) v. 丢掉 / 处理 / 安置 / 安排"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dispute / 美[dɪ'spjuːt]  / 英[dɪ'spjuːt;'dɪspjuːt] ",
+            "options": [
+                "A) n. 辩论 / 纠纷 / 争吵",
+                "B) adj. 有效的 / 确凿的 / 令人信服的 / 具有法律效力的",
+                "C) adj. 海军的 / 海军中的 / 海军船舶的 / 军舰的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disrupt / 美[dɪs'rʌpt]  / 英[dɪs'rʌpt] ",
+            "options": [
+                "A) n. 革新 / 变革 / 新方法 / 新产品",
+                "B) n. 摧毁 / 杀伤 / 被杀伤 / 终结",
+                "C) v. 破坏 / 使瓦解 / 使中断 / 使陷于混乱"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disruption / 美[dɪsˈrəpʃ(ə)n]  / 英[dɪsˈrʌpʃn] ",
+            "options": [
+                "A) n. 中断 / 扰乱",
+                "B) n. 注射剂 / 注射 / 充血 / 射入轨道",
+                "C) n. 出价 / 投标 / 努力 / 叫牌"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dissolve / 美[dɪ'zɑːlv]  / 英[dɪ'zɒlv] ",
+            "options": [
+                "A) n. 舱单 / 旅客名单 / 货物清单 / 货运列车编组清单",
+                "B) n. 意识",
+                "C) n. 叠化 / 淡入淡出 / 叠化画面 / 画面的溶暗"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distinction / 美[dɪ'stɪŋkʃn]  / 英[dɪ'stɪŋ(k)ʃ(ə)n] ",
+            "options": [
+                "A) n. 不同 / 优秀 / 特性 / 荣誉、勋章",
+                "B) n. 岸 / 滨 / 沿海国家 / 支柱",
+                "C) n. 社论 / 报刊的非广告部分"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distinctive / 美[dɪ'stɪŋktɪv]  / 英[dɪ'stɪŋktɪv] ",
+            "options": [
+                "A) adj. 特有的 / 有特色的",
+                "B) n. 独家新闻 / 独家专文 / 独家经营的项目 / 排外者",
+                "C) adj. 不足的 / 不够的 / 不胜任的 / 缺乏能力的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distort / 美[dɪ'stɔːrt]  / 英[dɪ'stɔːt] ",
+            "options": [
+                "A) v. 扭曲 / 使变形 / 使失真 / 曲解",
+                "B) n. 优秀 / 美德 / 长处",
+                "C) adj. 美丽的 / 非常吸引人的 / <非正式>非常令人愉快的 / 极好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "distress / 美[dɪ'stres]  / 英[dɪ'stres] ",
+            "options": [
+                "A) n. 中立者 / 非彩色 / 空挡 / 中立国",
+                "B) n. 焦虑 / 悲伤 / 痛苦 / 危难",
+                "C) v. 使裸露 / 露出"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "disturbing / 美[dɪ'stɝbɪŋ]  / 英[dɪ'stɜːbɪŋ] ",
+            "options": [
+                "A) adj. 令人不安的",
+                "B) n. 场地 / 舞台 / 竞技场 / 冲突场所",
+                "C) n. 刀片，刀锋 / 叶片状物 / 剑"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "divert / 美[daɪ'vɜːrt]  / 英[daɪ'vɜːt;dɪ-] ",
+            "options": [
+                "A) v. 使改道 / 转移",
+                "B) abbr. 艾滋病，获得性免疫缺陷综合征",
+                "C) adj. 行进的 / 活动的 / 动人的，感人的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "divine / 美[dɪ'vaɪn]  / 英[dɪ'vaɪn] ",
+            "options": [
+                "A) adj. 沿直线的 / 线形的 / 连续的",
+                "B) n. <旧>牧师 / 神学家 / 天意 / 上帝",
+                "C) n. 诱拐 / 绑架"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "doctrine / 美['dɑːktrɪn]  / 英['dɒktrɪn] ",
+            "options": [
+                "A) n. 家眷 / 侍从 / 食客 / 受赡养者",
+                "B) adj. 吸引人的 / 求助的 / 动人的 / 恳求似的",
+                "C) n. 教义 / 信条 / 主义 / 学说"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "documentation / 美[ˌdɑːkjʊmen'teɪʃn]  / 英[ˌdɒkjʊmen'teɪʃ(ə)n] ",
+            "options": [
+                "A) v. 配备 / 装备 / 使做好思想准备 / 使有所准备",
+                "B) adv. 公开地 / 坦白地 / 公然",
+                "C) n. 文件 / 文献 / 分类 / 评注"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "domain / 美[doʊ'meɪn]  / 英[də(ʊ)'meɪn] ",
+            "options": [
+                "A) n. 领域 / 域名 / 产业 / 地产",
+                "B) n. 独立 / 自主 / 自立",
+                "C) adj. 远离的 / 遥远的 / 孤立的 / 分离的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dominance / 美['dɑːmɪnəns]  / 英['dɒmɪnəns] ",
+            "options": [
+                "A) v. 迷住 / 缠住 / 使...着迷 / 使...困扰",
+                "B) n. 产量 / 生产过程 / 输出功率 / 出产",
+                "C) n. 支配权 / 影响力 / 优势 / 统治"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "donor / 美['doʊnər]  / 英['dəʊnə;-nɔː] ",
+            "options": [
+                "A) n. 捐赠者 / 供者 / 赠送人 / 献血者",
+                "B) n. 能力 / 计算机性能 / 力量 / 性能",
+                "C) adv. 暂时地 / 临时地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dose / 美[doʊs]  / 英[dəʊs] ",
+            "options": [
+                "A) n. 剂量 / 一剂 / 一服 / 接受电离辐射的剂量",
+                "B) n. <数>坐标 / 配套服装 / 同等的人或物",
+                "C) v. 获得 / 实现 / 达到 / 到达"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "drain / 美[dreɪn]  / 英[dreɪn] ",
+            "options": [
+                "A) n. 药片 / 丸剂",
+                "B) n. 排水沟 / 排水管 / 排水器",
+                "C) n. 强烈 / 强烈情况 / <物理>强度 / 紧张"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "drift / 美[drɪft]  / 英[drɪft] ",
+            "options": [
+                "A) n. 主旨 / 吹积物 / 漂流物",
+                "B) n. 不足额 / 赤字 / 亏损 / 失分数",
+                "C) adv. 最近 / 不久前"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "driving / 美['draɪvɪŋ]  / 英['draɪvɪŋ] ",
+            "options": [
+                "A) n. 驾驶",
+                "B) n. 器乐曲 / <语法>工具格 / 工具格名词",
+                "C) adj. 较少的 / 次要的 / 更小的 / 条件或档次较低的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "drown / 美[draʊn]  / 英[draʊn] ",
+            "options": [
+                "A) n. 溢出液 / 溢出 / 摔下 / 小塞子",
+                "B) n. 分界线 / <喻>界限 / 边界 / 范围",
+                "C) v. 淹死 / 浸没 / 掩盖 / 淹没"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dual / 美['duːəl]  / 英['djuːəl] ",
+            "options": [
+                "A) n. <语法>双数词 / <数>对偶定理 / 双数",
+                "B) n. 玩电脑游戏",
+                "C) n. 暗杀"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dub / 美[dʌb]  / 英[dʌb] ",
+            "options": [
+                "A) n. 配入音响效果 / 混录音乐 / 笨蛋 / 鼓声",
+                "B) n. 跳入 / 扎入 / 骤然下跌 / 投入",
+                "C) n. 激进分子"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "duo / 美['duːoʊ]  / 英['djuːəʊ] ",
+            "options": [
+                "A) v. 使乏味 / 使迟钝 / 使阴暗 / 缓和",
+                "B) n. 杆 / 竿 / 棒",
+                "C) n. 二重奏 / 二重唱 / 二人组"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "dynamic / 美[daɪ'næmɪk]  / 英[daɪ'næmɪk] ",
+            "options": [
+                "A) n. 动力 / <乐>同 dynamics / 动态",
+                "B) adj. 性感的 / 引起性欲的 / 色情的",
+                "C) n. 背书 / 赞同 / 违章记录 / 票据签字"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "earnings / 美['ɜːrnɪŋz]  / 英['ɜːnɪŋz] ",
+            "options": [
+                "A) npl. 工资 / 收入 / 收益 / 赢利",
+                "B) n. 奇迹 / 令人惊叹的产品 / 惊人事例 / 惊人的事例",
+                "C) adj. 传说的 / 声名远播的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ease / 美[iːz]  / 英[iːz] ",
+            "options": [
+                "A) n. 德行 / 道德天使 / 美德 / 优点",
+                "B) n. 容易 / 安适 / 轻松 / 安逸",
+                "C) n. 排水沟 / 排水管 / 排水器"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "echo / 美['ekoʊ]  / 英['ekəʊ] ",
+            "options": [
+                "A) n. 支持 / 帮助 / 支持者 / 衬背",
+                "B) n. 伙伴 / 合作 / 合伙 / [经管] 合伙企业",
+                "C) n. 回声 / 回音 / 回波 / 效仿"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ecological / 美[ˌɛkəˈlɑdʒɪk(ə)l]  / 英[iːkəˈlɒdʒɪk(ə)l] ",
+            "options": [
+                "A) adj. 完全相同的 / <数>恒等的 / 同卵的 / 同一的",
+                "B) adj. 生态的 / 生态学的",
+                "C) n. 依赖 / 信任 / 酒瘾 / 毒瘾"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "educator / 美['ɛdʒə'ketɚ]  / 英['edʒʊkeɪtə] ",
+            "options": [
+                "A) n. 教育工作者",
+                "B) n. 反对 / 异议 / 反对的理由 / 妨碍",
+                "C) n. 烟草制品 / 烟草 / 抽烟"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "effectiveness / 美[ɪˈfɛktɪvnəs]  / 英[ɪˈfɛktɪvnəs] ",
+            "options": [
+                "A) n. 革命者",
+                "B) n. 有效性 / 引人注目",
+                "C) n. 遗产 / <古>特殊的所有物 / 继承物 / 继承权"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "efficiency / 美[ɪ'fɪʃnsɪ]  / 英[ɪ'fɪʃ(ə)nsɪ] ",
+            "options": [
+                "A) n. 能力 / 效力 / 提高效力 / 功效",
+                "B) n. 螺钉 / 螺旋运动 / 螺丝钉 / 吝啬鬼",
+                "C) n. 一致 / 舆论 / 合意"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ego / 美['iːɡoʊ]  / 英['iːɡəʊ;'e-] ",
+            "options": [
+                "A) n. 罗 / 144个 / 毛利 / 总收入",
+                "B) n. 自负 / 自尊心 / 自我 / 自我意识",
+                "C) adv. 公开地 / 坦白地 / 公然"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "elaborate / 美[ɪ'læbəreɪt]  / 英[ɪ'læb(ə)rət] ",
+            "options": [
+                "A) v. 详尽阐述 / 发挥 / 精心制作 / 详细阐述",
+                "B) v. 建造 / 搭建 / 竖立 / 创立",
+                "C) adj. 精巧的 / 复杂的 / 详尽的 / 精心设计的"
+            ],
+            "answer": [
+                "C",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "electoral / 美[ɪ'lektərəl]  / 英[ɪ'lektərəl] ",
+            "options": [
+                "A) v. 表达 / 传递 / 运输 / 让与",
+                "B) adj. 选举的 / 选举人的",
+                "C) adj. 好运的 / 有利的 / 物质上富裕的 / 幸运的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "elevate / 美['elɪveɪt]  / 英['elɪveɪt] ",
+            "options": [
+                "A) n. 定位 / 适应 / 方向",
+                "B) n. 大学本科生 / 大学肄业生 / 大学生",
+                "C) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "eligible / 美['elɪdʒəbl]  / 英['elɪdʒɪb(ə)l] ",
+            "options": [
+                "A) adv. 向前 / 露出 / 以后 / 自…以后",
+                "B) n. 正式协议 / 清账 / 解决 / 殖民",
+                "C) adj. 有资格做的 / 符合条件的 / 合适的 / 中意的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "elite / 美[eɪ'liːt]  / 英[eɪ'liːt;ɪ'liːt] ",
+            "options": [
+                "A) n. 文本 / 成绩单 / 抄本 / 文字记录",
+                "B) adv. 每年",
+                "C) n. 精英 / 精华 / 中坚分子"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "embark / 美[ɪm'bɑːrk]  / 英[ɪm'bɑːk;em-] ",
+            "options": [
+                "A) n. 低音 / 鲈鱼 / 男低音 / 椴树",
+                "B) adj. 选举的 / 选举人的",
+                "C) v. 上船 / 上飞机 / 从事"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "embarrassment / 美[ɪm'bærəsmənt]  / 英[ɪm'bærəsmənt;em-] ",
+            "options": [
+                "A) n. 尴尬 / 局促不安 / 使人为难的人或事物 / 拮据",
+                "B) adj. 悲惨的 / 可悲的 / 悲痛的 / 悲剧作品的",
+                "C) v. 遭受 / 招致 / 蒙受"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "embassy / 美['embəsɪ]  / 英['embəsɪ] ",
+            "options": [
+                "A) n. 大使馆 / <史>特别使团 / 大使馆全体人员",
+                "B) n. 住处 / 通融 / 调节 / 和解",
+                "C) adj. 即将来临的 / 将可得到的 / 随要随有的 / 愿意透露消息的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "embody / 美[ɪm'bɑːdɪ]  / 英[ɪm'bɒdɪ;em-] ",
+            "options": [
+                "A) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "B) n. 被隔离的人 / <生>分离菌 / 隔离群",
+                "C) v. 具体化 / 体现 / 包含 / 收录"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "emergence / 美[əˈmərdʒəns]  / 英[ɪˈməːdʒ(ə)ns] ",
+            "options": [
+                "A) n. 暗示 / 线索 / 细微迹象",
+                "B) n. 英亩 / 土地",
+                "C) n. 出现 / 形成"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "empirical / 美[ɪm'pɪrɪkl]  / 英[em'pɪrɪk(ə)l;ɪm-] ",
+            "options": [
+                "A) adv. 额外 / 此外 / 又",
+                "B) adj. 以观察为依据的 / 经验主义的 / 实证的",
+                "C) n. 敬神 / 拜神 / 崇拜 / 爱慕"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "empower / 美[ɪm'paʊər]  / 英[ɪm'paʊə;em-] ",
+            "options": [
+                "A) n. 就任 / 安顿 / 安装 / 就职",
+                "B) v. 授权于 / 允许 / 使能够 / 增强的力量和信心",
+                "C) n. 钩子 / 挂钩 / 弧形切割工具 / 钩拳"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enact / 美[ɪ'nækt]  / 英[ɪ'nækt;e-] ",
+            "options": [
+                "A) n. 柔韧性 / 灵活性",
+                "B) v. 发生 / 使成为法律 / 扮演 / 颁布",
+                "C) n. 伙伴 / 合作 / 合伙 / [经管] 合伙企业"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "encompass / 美[ɪn'kʌmpəs]  / 英[ɪn'kʌmpəs;en-] ",
+            "options": [
+                "A) v. 吸收 / 使全神贯注 / 吞并 / 占用",
+                "B) v. 环绕 / <古>促成 / 包围 / 完成",
+                "C) n. 革新 / 变革 / 新方法 / 新产品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "encouragement / 美[ɪn'kɝɪdʒmənt]  / 英[ɪn'kʌrɪdʒm(ə)nt] ",
+            "options": [
+                "A) n. 鼓励 / 怂恿",
+                "B) n. 争论 / 争吵 / 论战 / 辩论",
+                "C) v. 入侵 / 侵占 / 传入 / 涌入"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "encouraging / 美[ɛnˈkərɪdʒɪŋ]  / 英[ɛŋˈkʌrɪdʒɪŋ] ",
+            "options": [
+                "A) adj. 令人鼓舞的",
+                "B) n. 促进 / 提倡 / 提拔 / 推销",
+                "C) n. 代理人 / <律>同 assignee"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "endeavor / 美[ɪn'devər]  / 英[ɪn'devə;en-] ",
+            "options": [
+                "A) n. 差异 / 不同 / 多样性",
+                "B) n. 尝试 / 尽力 / 勤奋 / 事业",
+                "C) adj. 逗笑的 / 供人消遣的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "endless / 美['endləs]  / 英['endlɪs] ",
+            "options": [
+                "A) adv. 过度地",
+                "B) adj. 无穷尽的 / 无限的 / 不计其数的 / 漫无目的的",
+                "C) v. 操作 / 使用 / 控制 / 编辑"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "endorse / 美[ɪn'dɔːrs]  / 英[ɪn'dɔːs;en-] ",
+            "options": [
+                "A) v. 公开赞同 / 背书 / 签署 / 认可",
+                "B) n. 腕 / 膝关节 / 翅膀 / 手腕",
+                "C) n. 胜利 / 伟绩 / 喜悦 / 欢欣"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "endorsement / 美[ɪn'dɔːrsmənt]  / 英[ɪn'dɔːsm(ə)nt;en-] ",
+            "options": [
+                "A) n. 一角硬币 / <非正式>小钱",
+                "B) n. 恐怖分子",
+                "C) n. 背书 / 赞同 / 违章记录 / 票据签字"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "endure / 美[ɪn'dʊr]  / 英[ɪn'djʊə;en-] ",
+            "options": [
+                "A) adj. 真的 / 非伪造的 / 真诚的 / 诚恳的",
+                "B) n. 紧抓 / 紧握 / 理解 / 控制",
+                "C) v. 忍耐 / 继续存在 / 持久 / 容忍"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enforce / 美[ɪn'fɔːrs]  / 英[ɪn'fɔːs;en-] ",
+            "options": [
+                "A) adj. 值得纪念的 / 难忘的",
+                "B) n. 独裁者 / 录音机 / 支配的人 / 命令者",
+                "C) v. 实施 / 强制履行 / 强迫 / <古>竭力使人接受"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enforcement / 美[ənˈfɔrsmənt]  / 英[ɪnˈfɔːsm(ə)nt] ",
+            "options": [
+                "A) n. 争论 / 争吵 / 论战 / 辩论",
+                "B) n. 强制实施 / 强制执行 / 加强 / 强迫",
+                "C) n. 接合点 / 边缘区域 / 联系装置 / 交界面"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "engagement / 美[ɪn'ɡeɪdʒmənt]  / 英[ɪn'ɡeɪdʒm(ə)nt;en-] ",
+            "options": [
+                "A) adj. 致命的 / 灾难性的 / 重大的 / 毁灭性的",
+                "B) n. 准确 / <技>准确度",
+                "C) n. 订婚 / 预约 / 约会 / 诺言"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "engaging / 美[ɪn'ɡeɪdʒɪŋ]  / 英[ɪn'ɡeɪdʒɪŋ;en-] ",
+            "options": [
+                "A) n. 强烈 / 强烈情况 / <物理>强度 / 紧张",
+                "B) n. 解放 / 解脱",
+                "C) adj. 迷人的，有吸引力的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enrich / 美[ɪn'rɪtʃ]  / 英[ɪn'rɪtʃ;en-] ",
+            "options": [
+                "A) v. 使充实 / 使肥沃 / 使富足",
+                "B) n. 收入 / 收益 / 实收款项",
+                "C) adv. 严格地 / 精确地 / 完全地 / 确实地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enroll / 美[ɪn'roʊl]  / 英[ɪn'rəʊl;en-] ",
+            "options": [
+                "A) v. 注册 / 卷起 / 入学 / 使入会",
+                "B) adv. 新近 / 重新 / 全新地 / 最近",
+                "C) n. 崭露头角 / 初次登台 / 开张 / 初涉社交"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ensue / 美[ɪn'suː]  / 英[ɪn'sjuː;en-] ",
+            "options": [
+                "A) v. 询问 / 调查 / 查究 / 问明",
+                "B) v. 因而产生 / 接着发生 / 继起",
+                "C) n. 低音 / 鲈鱼 / 男低音 / 椴树"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enterprise / 美['entərpraɪz]  / 英['entəpraɪz] ",
+            "options": [
+                "A) n. 性别状态 / 性 / 性别 / 性交",
+                "B) n. 胜利 / 伟绩 / 喜悦 / 欢欣",
+                "C) n. 计划 / 事业 / 企业 / 进取心"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "enthusiast / 美[ɪn'θuːzɪæst]  / 英[ɪn'θjuːzɪæst;en-] ",
+            "options": [
+                "A) n. 爱好者 / 狂热者 / 热心家",
+                "B) adj. 内在的 / <律>属于...的 / 固有的 / 与生俱来的",
+                "C) n. 王国 / 天国 / 界 / 领域"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "entitle / 美[ɪn'taɪtl]  / 英[ɪn'taɪt(ə)l;en-] ",
+            "options": [
+                "A) n. 不平等 / 不同 / 不平均 / 不规则",
+                "B) n. 着迷",
+                "C) v. 称做… / 定名为… / 使…有权利"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "entity / 美['entətɪ]  / 英['entɪtɪ] ",
+            "options": [
+                "A) n. 独立存在物 / 实体",
+                "B) n. 腕 / 膝关节 / 翅膀 / 手腕",
+                "C) v. 禁止 / 阻止 / 使不可能"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "epidemic / 美[ˌepɪ'demɪk]  / 英[epɪ'demɪk] ",
+            "options": [
+                "A) n. 蒸汽 / 蒸气膨胀力 / 蒸汽机车 / 精力",
+                "B) n. 传染病 / 流行病 / 风尚等的流行 / 猖獗",
+                "C) v. 环绕 / <古>促成 / 包围 / 完成"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "equality / 美[ɪ'kwɑːlətɪ]  / 英[ɪ'kwɒlɪtɪ;iː-] ",
+            "options": [
+                "A) v. 改善 / 改善土壤结构或肥力 / 修改 / 改进",
+                "B) n. 海盗 / 剽窃者 / 非法无线电节目广播者 / 盗版",
+                "C) n. 相同 / 平等 / 均等 / <数>等式"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "equation / 美[ɪ'kweɪʒn]  / 英[ɪ'kweɪʒ(ə)n] ",
+            "options": [
+                "A) n. <旧>牧师 / 神学家 / 天意 / 上帝",
+                "B) n. 化学方程式 / 方程式",
+                "C) n. 拇指 / 第一指 / 拇指部分"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "erect / 美[ɪ'rekt]  / 英[ɪ'rekt] ",
+            "options": [
+                "A) n. 入住者 / 同院病人 / 同狱犯人 / 同被收容者",
+                "B) v. 建造 / 搭建 / 竖立 / 创立",
+                "C) adj. 竖直的 / 挺直的 / 勃起的 / 竖立的"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "escalate / 美['eskəleɪt]  / 英['eskəleɪt] ",
+            "options": [
+                "A) n. 堵塞物 / 插头 / 口嚼烟草块 / 塞子",
+                "B) v. 迅速增加 / 逐步增强 / 逐步升高",
+                "C) n. 欺骗 / 诡计 / 骗局 / 骗子"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "essence / 美['esns]  / 英['es(ə)ns] ",
+            "options": [
+                "A) n. 盖 / 顶部，顶端 / 上部",
+                "B) adj. 压倒性多数的 / 极其强烈的 / 压倒性的 / 势不可挡的",
+                "C) n. 本质 / <哲>本质 / 香精 / 精华"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "establishment / 美[ɪ'stæblɪʃmənt]  / 英[ɪ'stæblɪʃm(ə)nt;e-] ",
+            "options": [
+                "A) n. 子女 / 幼仔 / <喻>产物 / 结果",
+                "B) adv. 基本上，本质上",
+                "C) n. 企业 / 社会公共机构"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "eternal / 美[ɪ'tɜːrnl]  / 英[ɪ'tɜːn(ə)l;iː-] ",
+            "options": [
+                "A) n. 小屋 / 客舱 / 船舱",
+                "B) adj. 永恒的 / 永存的 / 本质不变的 / 上帝",
+                "C) n. 出版业 / 发行业 / 出版活动"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "evacuate / 美[ɪ'vækjʊeɪt]  / 英[ɪ'vækjʊeɪt] ",
+            "options": [
+                "A) n. 狼 / 残忍的东西 / 狼音 / 色狼",
+                "B) n. 军队 / 一群人 / 骑兵连 / 炮兵装甲连",
+                "C) v. 使撤离危险地带 / 疏散 / 排空 / 排泄"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "evoke / 美[ɪ'voʊk]  / 英[ɪ'vəʊk] ",
+            "options": [
+                "A) adj. 实行的 / 使用的 / 日常业务的 / 操作的",
+                "B) v. 唤起 / 使人想起 / 召 / 博得",
+                "C) n. 黑暗 / 邪恶 / 夜晚 / 阴郁"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "evolutionary / 美[ˌɛvəˈluʃəˌnɛri]  / 英[ˌiːvəˈluːʃ(ə)n(ə)ri] ",
+            "options": [
+                "A) v. 埋没 / 淹没 / 彻底击败 / 受打击",
+                "B) n. 收入 / 收益 / 实收款项",
+                "C) adj. 进化的 / 演变的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exaggerate / 美[ɪɡ'zædʒəreɪt]  / 英[ɪɡ'zædʒəreɪt;eɡ-] ",
+            "options": [
+                "A) n. 民主主义 / 民主制度 / 民主制国家 / 民主",
+                "B) v. 夸大 / 使大得异乎寻常 / 使扩大 / 使增大",
+                "C) cardinal number 一万亿 / 一百万兆 / <旧><英>一万亿兆"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "excellence / 美['eksələns]  / 英['eksələns] ",
+            "options": [
+                "A) n. 优秀 / 美德 / 长处",
+                "B) adv. 合适地",
+                "C) n. 独立存在物 / 实体"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exceptional / 美[ɪk'sepʃənl]  / 英[ɪk'sepʃ(ə)n(ə)l;ek-] ",
+            "options": [
+                "A) v. 协商 / 顺利通过 / 成功地越过 / 转让",
+                "B) n. 特殊开支项目 / 超常的学生",
+                "C) v. 关押 / 监禁 / 使…下狱"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "excess / 美[ɪk'ses]  / 英[ɪk'ses;ek-;'ekses] ",
+            "options": [
+                "A) n. 过量 / 过度 / 无节制 / 超过部分",
+                "B) n. 回声 / 回音 / 回波 / 效仿",
+                "C) adj. 引起义愤的 / 令人憎恶的 / 讨厌的 / 令人震惊的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exclusion / 美[ɪk'skluːʒn]  / 英[ɪk'skluːʒ(ə)n;ek-] ",
+            "options": [
+                "A) adj. 不能接受的 / 不令人满意的 / 不合意的 / 不受欢迎的",
+                "B) n. 排斥 / 排除 / 驱逐 / 被排除在外的事物",
+                "C) n. 方法 / 模式 / 时尚"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exclusive / 美[ɪk'skluːsɪv]  / 英[ɪk'skluːsɪv;ek-] ",
+            "options": [
+                "A) n. 独家新闻 / 独家专文 / 独家经营的项目 / 排外者",
+                "B) n. 鸡尾酒 / 开胃冷菜 / 开胃食品 / 混合因素",
+                "C) v. 开始行动 / 开展 / 发生 / 行进"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exclusively / 美[ɪk'skluːsɪvlɪ]  / 英[ɪk'skluːsɪvlɪ] ",
+            "options": [
+                "A) adj. 透明的 / 显然的 / 易察觉的 / <物理>可穿透的",
+                "B) adv. 仅仅 / 专门地 / 单独地 / 专有地",
+                "C) n. <地质>包体 / 包含 / 内含物 / 成员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "execute / 美['eksɪkjuːt]  / 英['eksɪkjuːt] ",
+            "options": [
+                "A) n. <地质>包体 / 包含 / 内含物 / 成员",
+                "B) v. 执行 / 创作 / 表演 / 处死",
+                "C) n. 海军陆战队员 / 海运业 / 舰队 / 水兵"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "execution / 美[ˌeksɪ'kjuːʃn]  / 英[ˌeksɪ'kjuːʃ(ə)n] ",
+            "options": [
+                "A) n. 实施 / 执行 / 完成 / 死刑",
+                "B) n. <非正式>黑人居住区内与当地政府有关、经选举设在社区的机构",
+                "C) n. 名望 / 名声 / 传闻"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exert / 美[ɪɡ'zɜːrt]  / 英[ɪɡ'zɜːt;eɡ-] ",
+            "options": [
+                "A) adv. 潜在地",
+                "B) n. 露天集市",
+                "C) v. 运用 / 施加 / 发挥 / 努力"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exile / 美['eksaɪl]  / 英['eksaɪl;'eɡzaɪl] ",
+            "options": [
+                "A) n. 重大成就 / 突破性进展 / 突破点 / 突破",
+                "B) n. 流放 / 流亡 / 放逐 / 流亡者",
+                "C) v. 使乏味 / 使迟钝 / 使阴暗 / 缓和"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "expenditure / 美[ɪk'spendɪtʃər]  / 英[ɪk'spendɪtʃə;ek-] ",
+            "options": [
+                "A) n. 申请人 / 请求者",
+                "B) n. 花费 / 支出 / 经费 / 费用",
+                "C) n. 食欲 / 满足人体需要的欲望 / 对…的渴望 / 嗜好"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "experimental / 美[ɪkˌsperɪ'mentl]  / 英[ɪkˌsperɪ'ment(ə)l;ek-] ",
+            "options": [
+                "A) adj. 试验性的 / 尝试性的 / 经验上的 / 实验的",
+                "B) n. 伴侣 / 成对物之一 / 同伴 / 朋友",
+                "C) v. 称赞 / 祝贺"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "expire / 美[ɪk'spaɪər]  / 英[ɪk'spaɪə;ek-] ",
+            "options": [
+                "A) v. 成为无效 / 终止 / 死亡 / 呼气",
+                "B) n. 防止 / 预防 / 妨碍 / 阻止",
+                "C) n. 哲学家 / 哲人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "explicit / 美[ɪk'splɪsɪt]  / 英[ɪk'splɪsɪt;ek-] ",
+            "options": [
+                "A) n. 结束语",
+                "B) n. 歧视 / 辨别 / 区别 / 判断力",
+                "C) adj. 杰出的 / 未解决的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "explicitly / 美[ɪkˈsplɪsɪtli]  / 英[ɛkˈsplɪsɪtli] ",
+            "options": [
+                "A) adv. 明确地 / 坦率地 / 生动地",
+                "B) n. 盛怒 / 愤慨 / 暴行 / 侮辱",
+                "C) n. <数>坐标 / 配套服装 / 同等的人或物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "exploitation / 美[ˌɛkˌsplɔɪˈteɪʃ(ə)n]  / 英[ɛksplɔɪˈteɪʃ(ə)n] ",
+            "options": [
+                "A) n. 接合点 / 关节 / 接缝",
+                "B) n. 利用 / 开发 / 剥削 / 利用",
+                "C) n. 纪念物 / 纪念碑 / 历史遗迹 / 不朽的作品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "explosive / 美[ɪk'sploʊsɪv]  / 英[ɪk'spləʊsɪv;ɪk'spləʊzɪv] ",
+            "options": [
+                "A) n. 消防（队）员",
+                "B) n. 归还 / 恢复 / 恢复原有地位 / 王政复辟",
+                "C) n. 爆炸物品 / 炸药 / 爆炸物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "extract / 美['ekstrækt]  / 英['ekstrækt] ",
+            "options": [
+                "A) n. 组件 / 模件 / 预制件 / 组成单元",
+                "B) adj. 海军的 / 海军中的 / 海军船舶的 / 军舰的",
+                "C) n. 摘录 / 引文 / 提取物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "extremist / 美[ɪk'striːmɪst]  / 英[ɪk'striːmɪst;ek-] ",
+            "options": [
+                "A) n. <贬>极端分子 / 极端主义者",
+                "B) n. 庙宇 / 寺院 / 神殿 / 太阳穴",
+                "C) n. 一致 / 舆论 / 合意"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "facilitate / 美[fə'sɪlɪteɪt]  / 英[fə'sɪlɪteɪt] ",
+            "options": [
+                "A) v. 使更容易 / 推动 / 便于 / 促进",
+                "B) n. 幸存者 / 残存物 / 善于生存的人",
+                "C) n. 驾驶"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "faction / 美['fækʃn]  / 英['fækʃ(ə)n] ",
+            "options": [
+                "A) n. 收集人 / 收集物 / 集电极 / 收税员",
+                "B) n. 小派别 / 小集团 / 派别 / 纪实小说",
+                "C) n. 混凝土 / 具体物 / 凝结物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fade / 美[feɪd]  / 英[feɪd] ",
+            "options": [
+                "A) n. 往左偏 / 淡出",
+                "B) adv. 额外 / 此外 / 又",
+                "C) adj. 中途的 / 不彻底的 / 一定程度上 / 部分地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fairness / 美[ˈfɛrnəs]  / 英[ˈfɛːnəs] ",
+            "options": [
+                "A) n. 范围 / 视野 / 眼界 / 导弹射程",
+                "B) n. 公正 / 白皙 / 浅色",
+                "C) n. 着迷，上瘾"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fatal / 美['feɪtl]  / 英['feɪt(ə)l] ",
+            "options": [
+                "A) adj. 强壮的 / 活跃的 / 运动员的 / 体育的",
+                "B) n. 方面 / 特征 / 维",
+                "C) adj. 致命的 / 灾难性的 / 重大的 / 毁灭性的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fate / 美[feɪt]  / 英[feɪt] ",
+            "options": [
+                "A) n. 命运 / 天数 / 结果 / 死亡",
+                "B) adj. 机构的 / 类似机构的 / 旨在营造声誉的 / 制度的",
+                "C) adj. 不经常的 / 临时准备的 / 偶然的 / 特殊场合的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "favorable / 美['feɪvərəbl]  / 英['feɪv(ə)rəb(ə)l] ",
+            "options": [
+                "A) adj. 赞同的 / 称赞的 / 有利的 / 促进的",
+                "B) n. 散发 / 排放 / 喷射 / 发行",
+                "C) n. 无能，无能为力，不能"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "feat / 美[fiːt]  / 英[fiːt] ",
+            "options": [
+                "A) n. 壮举，功绩",
+                "B) adj. 传统的 / 常规的 / 常见的 / 惯例的",
+                "C) n. 探求者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "felony / 美['felənɪ]  / 英['felənɪ] ",
+            "options": [
+                "A) n. 检查 / 审查 / 检阅 / 巡视",
+                "B) n. 重罪",
+                "C) n. 姿态 / 击球姿势 / 摊位 / 出租汽车停车处"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "feminist / 美['femənɪst]  / 英['femənɪst] ",
+            "options": [
+                "A) n. 女权主义者 / 女权运动者",
+                "B) n. 矛盾 / 抵触 / 反驳 / 否认",
+                "C) n. 钟爱的人 / 心爱的人 / 亲爱的教友"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fiber / 美['faɪbə]  / 英['faɪbə] ",
+            "options": [
+                "A) n. 骄傲 / 得意 / 狮群 / 自尊心",
+                "B) n. 纤维 / 光纤 / <美>同 fibre",
+                "C) n. 例外 / 异议"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fierce / 美[fɪrs]  / 英[fɪəs] ",
+            "options": [
+                "A) adj. 凶猛的 / 好斗的 / 凶残的 / 激烈的",
+                "B) adv. 大体地 / 宽阔地 / 明显地 / 粗鄙地",
+                "C) adv. <爱尔兰>非常 / 极其"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "filter / 美['fɪltər]  / 英['fɪltə] ",
+            "options": [
+                "A) n. 过滤器 / 滤波器 / 分流灯 / 筛选",
+                "B) adj. 使人心烦的",
+                "C) n. 护理职业 / 护理工作"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "firearm / 美['faɪərɑːrm]  / 英['faɪərɑːm] ",
+            "options": [
+                "A) v. 受孕 / 想出 / 构思 / 认为",
+                "B) n. （步枪、手枪等）便携枪",
+                "C) n. 类比 / 可类比物 / <语言学>类推法 / 类似"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fiscal / 美['fɪskl]  / 英['fɪsk(ə)l] ",
+            "options": [
+                "A) n. <北美>人行道",
+                "B) n. 值勤人员表 / 值勤登记表 / 花名册",
+                "C) n. <古>检察官 / 财政官员 / 伯牢鸟 / 菲斯卡尔"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fit / 美[fɪt]  / 英[fɪt] ",
+            "options": [
+                "A) n. 缺乏 / 缺陷 / 赤字 / 不足的数额",
+                "B) n. 合身 / 发作 / 痉挛",
+                "C) n. 表示感激的行动 / 礼物 / <史>贡税"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flaw / 美[flɔː]  / 英[flɔː] ",
+            "options": [
+                "A) n. 瑕疵 / 错误 / 一阵狂风 / 短暂的风暴",
+                "B) n. 性别状态 / 性 / 性别 / 性交",
+                "C) adj. 可比作…的 / 相似的 / 相当的 / 比得上的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flawed / 美[flɔːd]  / 英[flɔːd] ",
+            "options": [
+                "A) adj. 有缺陷的 / 有瑕疵的 / 受损的 / 有裂纹的",
+                "B) adj. <旧>不常见的 / 不经常的",
+                "C) n. 轰炸 / 炸弹袭击"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flee / 美[fliː]  / 英[fliː] ",
+            "options": [
+                "A) n. 自夸 / 夸耀 / 值得夸耀的事物",
+                "B) n. 含义 / 牵连 / 可能的后果 / 暗示",
+                "C) v. 逃离某处 / 摆脱危险处境 / 逃走 / 消失"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fleet / 美[fliːt]  / 英[fliːt] ",
+            "options": [
+                "A) n. 界限 / 限制 / 范围 / 跳跃",
+                "B) n. 擦 / 抹布 / 划变 / 擦拭",
+                "C) n. 舰队 / 海军 / 港湾 / 小河"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flesh / 美[fleʃ]  / 英[fleʃ] ",
+            "options": [
+                "A) n. 栅栏 / 网格 / 输电网 / 橄榄球赛",
+                "B) adj. 值得花时间的 / 有价值的",
+                "C) n. 肉 / 蔬菜嫩部 / 脂肪 / 肉体"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flexibility / 美[ˌflɛksəˈbɪlədi]  / 英[ˌflɛksɪˈbɪlɪti] ",
+            "options": [
+                "A) n. 柔韧性 / 灵活性",
+                "B) v. 传送 / 发射 / 传染 / 传播",
+                "C) n. 通讯员 / 通讯记者 / 客户 / 代理商行"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "flourish / 美['flɜːrɪʃ]  / 英['flʌrɪʃ] ",
+            "options": [
+                "A) n. 咨询 / 辅导 / 建议",
+                "B) n. 放映 / 播放 / 评估 / 检查",
+                "C) n. 兴旺 / 茂盛 / 炫耀"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fluid / 美['fluːɪd]  / 英['fluːɪd] ",
+            "options": [
+                "A) n. 工作场所 / 车间",
+                "B) n. 流体 / 气体 / 液体",
+                "C) v. 展开 / 摊开 / 透露 / 展现"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "footage / 美['fʊtɪdʒ]  / 英['fʊtɪdʒ] ",
+            "options": [
+                "A) n. 养老金 / 抚恤金 / 养老保险金 / 津贴",
+                "B) n. 一组镜头 / 尺码 / 长度 / 英尺长度",
+                "C) v. 选择，作出抉择"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "foreigner / 美['fɔːrənər]  / 英['fɒrɪnə] ",
+            "options": [
+                "A) n. 副手 / 代理人 / 议会议员 / <英>矿区安全主任",
+                "B) n. 外国人 / 陌生人",
+                "C) n. 教育工作者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "forge / 美[fɔːrdʒ]  / 英[fɔːdʒ] ",
+            "options": [
+                "A) n. 独家新闻 / 独家专文 / 独家经营的项目 / 排外者",
+                "B) n. <英>秋季 / 秋天 / 成熟期 / 渐衰期",
+                "C) n. 铁匠铺 / 锻铁炉 / 锻造车间 / 铁工厂"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "formula / 美['fɔːrmjələ]  / 英['fɔːmjʊlə] ",
+            "options": [
+                "A) n. 公式 / 惯用语句 / 配方 / 赛车等级",
+                "B) n. 警惕 / 警报 / 警戒期 / 提示信号",
+                "C) n. 临时结合 / 联合 / 联盟 / 合并"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "formulate / 美['fɔːrmjʊleɪt]  / 英['fɔːmjʊleɪt] ",
+            "options": [
+                "A) adj. 机构的 / 类似机构的 / 旨在营造声誉的 / 制度的",
+                "B) v. 制订 / 规划 / 用公式表示 / 明确地表达",
+                "C) n. 方法学 / 方法论 / 系统方法"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "forth / 美[fɔːrθ]  / 英[fɔːθ] ",
+            "options": [
+                "A) adv. 向前 / 露出 / 以后 / 自…以后",
+                "B) n. 代理人 / <律>同 assignee",
+                "C) n. 罪犯 / 祸害"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "forthcoming / 美[ˌfɔːrθ'kʌmɪŋ]  / 英[fɔːθ'kʌmɪŋ] ",
+            "options": [
+                "A) n. 积累 / 堆积 / 堆积物 / 资本增益",
+                "B) adj. 即将来临的 / 将可得到的 / 随要随有的 / 愿意透露消息的",
+                "C) adv. 因此 / 结果 / 所以"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "foster / 美['fɑːstər]  / 英['fɒstə] ",
+            "options": [
+                "A) v. 鼓励 / 促进 / 养育",
+                "B) n. 委员 / 受委托的人 / 特派员 / 地区最高代表",
+                "C) adv. 按照字面地 / 逐字地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "fragile / 美['frædʒl]  / 英['frædʒaɪl] ",
+            "options": [
+                "A) n. 资本家",
+                "B) adj. 易碎的 / 易损坏的 / 脆的 / 易被吓倒的",
+                "C) adj. 缺席的 / 走神的 / 缺少的 / 心不在焉的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "franchise / 美['fræntʃaɪz]  / 英['fræntʃaɪz] ",
+            "options": [
+                "A) n. 捐赠物（尤指捐款）",
+                "B) n. 特权 / 选举权 / 公民权 / 经销权",
+                "C) n. 罗网 / 网眼织物 / 圈套 / 网络"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "frankly / 美['fræŋklɪ]  / 英['fræŋklɪ] ",
+            "options": [
+                "A) adv. 坦白地 / 诚实地",
+                "B) n. 溢出液 / 溢出 / 摔下 / 小塞子",
+                "C) n. 思想开明的人 / 自由党支持者 / 自由党党员 / 自由主义者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "freshman / 美['freʃmən]  / 英['freʃmən] ",
+            "options": [
+                "A) n. 大学一年级学生 / 新手",
+                "B) adv. 尽管如此，仍然",
+                "C) n. 无能，无能为力，不能"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "frustrated / 美['frʌstreɪtɪd]  / 英[frʌ'streɪtɪd] ",
+            "options": [
+                "A) n. 咨询 / 磋商 / 请教 / 会诊",
+                "B) n. 恐怖分子",
+                "C) adj. 苦恼的 / 失意的 / 泄气的 / 被抑制的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "frustrating / 美[ˈfrəstreɪdɪŋ]  / 英[frʌˈstreɪtɪŋ] ",
+            "options": [
+                "A) adj. 使人心烦的",
+                "B) n. 备用品 / 二击全倒 / 剩余 / 备用零件",
+                "C) n. 分开 / 分居 / 辨别 / 离析"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "frustration / 美[frʌ'streɪʃn]  / 英[frʌ'streɪʃn] ",
+            "options": [
+                "A) adj. 有特定形状的",
+                "B) n. 凝视 / 特定视角 / 特定角度 / 注视",
+                "C) n. 痛苦 / 恼怒 / 挫折"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "functional / 美['fʌŋkʃənl]  / 英['fʌŋ(k)ʃ(ə)n(ə)l] ",
+            "options": [
+                "A) adj. 官能的 / <数>函数的 / 功能的",
+                "B) n. 贸易，交易，经商，交换"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "funeral / 美['fjuːnərəl]  / 英['fjuːnərəl] ",
+            "options": [
+                "A) n. 葬礼 / <美>葬礼上的布道 / 麻烦事",
+                "B) n. 不平等 / 不同 / 不平均 / 不规则",
+                "C) n. 通讯员 / 通讯记者 / 客户 / 代理商行"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gambling / 美[ˈɡæmblɪŋ]  / 英[ˈɡamblɪŋ] ",
+            "options": [
+                "A) n. 赌博",
+                "B) n. 代表团 / 代表 / 授权 / 委托",
+                "C) n. 不足 / 缺少"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gathering / 美['ɡæðərɪŋ]  / 英['ɡæðərɪŋ] ",
+            "options": [
+                "A) n. 箭 / 箭头符号 / 箭状物 / 箭头记号",
+                "B) n. 聚会 / 集会 / 聚集 / 收款",
+                "C) n. 互相关联的事物 / 相辅相成的事物 / 相关物 / 相关联的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gaze / 美[ɡeɪz]  / 英[ɡeɪz] ",
+            "options": [
+                "A) n. 假设 / <哲>前提",
+                "B) v. 表现 / 描述",
+                "C) n. 凝视 / 特定视角 / 特定角度 / 注视"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gear / 美[ɡɪr]  / 英[ɡɪə] ",
+            "options": [
+                "A) n. 齿轮 / 变速装置 / 挡 / 传动装置",
+                "B) n. 跳跃 / 剧涨 / 突然改变 / 越过处",
+                "C) n. 历史档案 / 档案馆 / 档案文件 / 归档数据"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "generic / 美[dʒə'nerɪk]  / 英[dʒɪ'nerɪk] ",
+            "options": [
+                "A) adj. 可解释的 / 有责任的 / 可理解的",
+                "B) v. 卑躬屈膝 / 彻底击败 / 使谦恭 / 低声下气",
+                "C) adj. 共有的 / 与有关的 / 类的 / 非商标的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "genocide / 美['dʒenəsaɪd]  / 英['dʒenəsaɪd] ",
+            "options": [
+                "A) adj. 不相干的 / 不中肯的 / 离题的",
+                "B) v. 认为…很有可能 / 预期 / 先于…行动",
+                "C) n. 大屠杀（尤指种族灭绝）"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gig / 美[ɡɪɡ]  / 英[ɡɪɡ;dʒɪɡ] ",
+            "options": [
+                "A) n. 现场演奏会 / 旋转物 / 鱼叉 / 临时工作",
+                "B) v. 鼓励 / 促进 / 养育",
+                "C) adj. 不经常的 / 临时准备的 / 偶然的 / 特殊场合的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "glance / 美[ɡlæns]  / 英[ɡlɑːns] ",
+            "options": [
+                "A) adv. 从戏剧角度 / 戏剧性地 / 激动人心地 / 突发惊人地",
+                "B) n. 订婚 / 预约 / 约会 / 诺言",
+                "C) n. 一瞥 / 一滑 / 闪光 / 硫化矿类"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "glimpse / 美[ɡlɪmps]  / 英[ɡlɪmps] ",
+            "options": [
+                "A) n. 梗概 / 方案 / 情节 / 剧本",
+                "B) adv. 即 / 那就是 / 也就是 / 即是",
+                "C) n. 一瞥"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "glorious / 美['ɡlɔːrɪəs]  / 英['ɡlɔːrɪəs] ",
+            "options": [
+                "A) adj. 光荣的 / 壮观的 / 辉煌的 / 极好的",
+                "B) adj. 极大的 / 可怕的 / 出色的 / 惊人的",
+                "C) n. 收入 / 收益 / 税收 / 税务局"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "glory / 美['ɡlɔːrɪ]  / 英['ɡlɔːrɪ] ",
+            "options": [
+                "A) n. 名望 / 宏伟 / 壮丽 / 光环",
+                "B) n. 观察者 / 观察家 / 侦察兵 / 遵守者",
+                "C) adv. 意外地 / 偶然地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "governance / 美['ɡʌvərnəns]  / 英['ɡʌvənəns] ",
+            "options": [
+                "A) n. 统治 / 控制 / 管理 / 支配",
+                "B) n. 改正 / 校正 / 上下浮动值 / <北美或旧>惩罚",
+                "C) n. 受托人 / 托管人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grace / 美[ɡreɪs]  / 英[ɡreɪs] ",
+            "options": [
+                "A) n. 优雅 / 恩典 / 期限 / 大人",
+                "B) n. 大胆的表演 / 不凡的身手 / 勋绩 / 功绩",
+                "C) n. 专利 / 专利证 / 专利权 / 执照"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grasp / 美[ɡræsp]  / 英[ɡrɑːsp] ",
+            "options": [
+                "A) n. 紧抓 / 紧握 / 理解 / 控制",
+                "B) adv. 每年",
+                "C) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grave / 美[ɡreɪv;ɡrɑːv]  / 英[ɡreɪv] ",
+            "options": [
+                "A) n. 裂缝 / 爆裂声 / 俏皮话 / 噼啪声",
+                "B) n. 墓穴 / 死亡 / 堆积处",
+                "C) v. 推测 / 假定 / 擅自"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gravity / 美['ɡrævətɪ]  / 英['ɡrævɪtɪ] ",
+            "options": [
+                "A) n. 地心吸力 / 重大 / 严重 / 重力",
+                "B) n. 退休 / 退职 / 退役 / 退隐",
+                "C) n. 家乡 / 祖国 / 国家 / 故乡"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grid / 美[ɡrɪd]  / 英[ɡrɪd] ",
+            "options": [
+                "A) n. 摘录 / 引文 / 提取物",
+                "B) n. 栅栏 / 网格 / 输电网 / 橄榄球赛",
+                "C) n. 健康 / 福利 / 幸福 / <北美>救济"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grief / 美[ɡriːf]  / 英[ɡriːf] ",
+            "options": [
+                "A) n. 货摊 / 牧师专座 / 畜栏 / 托辞",
+                "B) n. 悲伤 / 麻烦 / 烦恼 / 不幸",
+                "C) n. 受益人 / 封臣"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grin / 美[ɡrɪn]  / 英[ɡrɪn] ",
+            "options": [
+                "A) adj. 有意义的 / 意味深长的 / 严肃的 / 重要的",
+                "B) n. 硬设备 / 硬件 / 五金器具 / 计算机硬件",
+                "C) n. 露齿的笑 / 露齿笑"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grind / 美[ɡraɪnd]  / 英[ɡraɪnd] ",
+            "options": [
+                "A) n. 摩擦 / 碾磨 / 苦差事 / 磨",
+                "B) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位",
+                "C) adj. 非凡的 / 难以置信的 / 传说的 / 极好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "grip / 美[ɡrɪp]  / 英[ɡrɪp] ",
+            "options": [
+                "A) adj. 令人愉快的 / 有乐趣的 / 快乐的",
+                "B) n. 沮丧 / 抑郁 / 萧条 / 不景气",
+                "C) n. 紧握 / 柄 / 旅行包"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gross / 美[ɡroʊs]  / 英[ɡrəʊs] ",
+            "options": [
+                "A) adj. 缺席的 / 走神的 / 缺少的 / 心不在焉的",
+                "B) n. 罗 / 144个 / 毛利 / 总收入",
+                "C) n. 沉思 / 冥想"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "guerrilla / 美[ɡə'rɪlə]  / 英[ɡə'rɪlə] ",
+            "options": [
+                "A) n. 组成 / 结构 / 构造 / 编队",
+                "B) n. 游击队员",
+                "C) n. 插入 / 嵌入 / 塞入 / 插入物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "guidance / 美['ɡaɪdns]  / 英['ɡaɪd(ə)ns] ",
+            "options": [
+                "A) n. 隔离 / 孤立 / 脱离 / 分离",
+                "B) v. 主持 / 领奏 / 主管某地 / 掌管",
+                "C) n. 指导 / 导向 / 制导 / 领导"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "guilt / 美[ɡɪlt]  / 英[ɡɪlt] ",
+            "options": [
+                "A) n. 犯罪 / 过失 / 内疚 / 不安",
+                "B) n. 断言 / 主张 / 坚持 / 认定",
+                "C) n. 成分的性质 / 组成方式 / 结构 / 作品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "gut / 美[ɡʌt]  / 英[ɡʌt] ",
+            "options": [
+                "A) n. 腹部 / 毅力 / 肠线 / 狭道",
+                "B) n. 重音符 / acute accent 的简称",
+                "C) n. 收入 / 收益 / 税收 / 税务局"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hail / 美[heɪl]  / 英[heɪl] ",
+            "options": [
+                "A) n. 冰雹 / 一阵 / 致敬 / 招呼",
+                "B) n. 和声 / 和谐 / 和睦",
+                "C) n. 家眷 / 侍从 / 食客 / 受赡养者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "halfway / 美[ˌhæf'weɪ]  / 英[hɑːf'weɪ;'hɑːfweɪ] ",
+            "options": [
+                "A) adv. 到一半 / 在中途 / 一定程度上 / 部分地",
+                "B) n. 大厅 / （身体或器官内的）室 / 房间 / 会所",
+                "C) adj. 中途的 / 不彻底的 / 一定程度上 / 部分地"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "halt / 美[hɔːlt]  / 英[hɔːlt] ",
+            "options": [
+                "A) n. 反对 / 异议 / 反对的理由 / 妨碍",
+                "B) n. 大屠杀（尤指种族灭绝）",
+                "C) n. 停止 / <英>小站 / 立定 / 休息"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "handful / 美['hændfʊl]  / 英['hæn(d)fʊl;-f(ə)l] ",
+            "options": [
+                "A) n. 大屠杀 / 惨败",
+                "B) n. 条约 / 协定 / 谈判",
+                "C) n. 一把 / 难对付的人 / 少数 / 棘手事"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "handling / 美[ˈhændlɪŋ]  / 英[ˈhandlɪŋ] ",
+            "options": [
+                "A) n. 大使 / 代表 / 使者 / 使节",
+                "B) n. 触摸 / 处理方式 / 管理 / 处理 / 操纵 / 手续费 / 运输 / 运费",
+                "C) n. 代表 / 描述 / 陈述 / 表现"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "handy / 美['hændɪ]  / 英['hændɪ] ",
+            "options": [
+                "A) adj. 有用的 / 手边的 / 灵巧的 / 便利的",
+                "B) n. 强烈 / 强烈情况 / <物理>强度 / 紧张",
+                "C) n. 被抛弃的人 / 打出的不同花色的牌 / 抛弃 / 被丢弃的东西或人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "harassment / 美[həˈræsmənt]  / 英[ˈharəsm(ə)nt] ",
+            "options": [
+                "A) n. 牵连 / 参与 / 包含 / 混乱",
+                "B) n. 骚扰 / 烦扰",
+                "C) adv. 过度地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hardware / 美['hɑːrdwer]  / 英['hɑːdweə] ",
+            "options": [
+                "A) v. 成为无效 / 终止 / 死亡 / 呼气",
+                "B) n. 硬设备 / 硬件 / 五金器具 / 计算机硬件",
+                "C) v. <英>提供饮食 / 提供所需物 / 考虑 / 迎合"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "harmony / 美['hɑːrmənɪ]  / 英['hɑːmənɪ] ",
+            "options": [
+                "A) n. 玫瑰 / 蔷薇 / 粉红色",
+                "B) v. 鼓励 / 促进 / 养育",
+                "C) n. 和声 / 和谐 / 和睦"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "harsh / 美[hɑːrʃ]  / 英[hɑːʃ] ",
+            "options": [
+                "A) adj. 无数的 / 数不清的",
+                "B) n. 滥用 / 虐待 / 凌辱 / 辱骂",
+                "C) adj. 刺耳的 / 严酷的 / 粗糙的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "harvest / 美['hɑːrvɪst]  / 英['hɑːvɪst] ",
+            "options": [
+                "A) v. 使减少到最小量 / 低估 / 轻视 / 使减到最少",
+                "B) n. 收获 / 收成 / 产量 / 结果",
+                "C) adv. 真正地 / 真实地 / 真诚地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hatred / 美['heɪtrɪd]  / 英['heɪtrɪd] ",
+            "options": [
+                "A) v. 经受 / 遭受 / 忍受",
+                "B) n. 仇恨 / 恶意 / 憎恨 / 敌意",
+                "C) n. 自治权 / 自治 / 自治国 / 自治地区"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "haunt / 美[hɔːnt]  / 英[hɔːnt] ",
+            "options": [
+                "A) n. 票价 / 费用 / 旅客 / 食物",
+                "B) n. 经常拜访之地 / 栖息地 / 常去的地方",
+                "C) adj. 精巧的 / 复杂的 / 详尽的 / 精心设计的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "heighten / 美['haɪtn]  / 英['haɪt(ə)n] ",
+            "options": [
+                "A) n. 放出物 / 卸货 / 排放 / 解雇",
+                "B) n. 胸针 / 回纹针 / 修剪 / 剪报",
+                "C) v. 增强 / 提高 / 加强 / 使更显著"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "heritage / 美['herɪtɪdʒ]  / 英['herɪtɪdʒ] ",
+            "options": [
+                "A) n. 遗产 / <古>特殊的所有物 / 继承物 / 继承权",
+                "B) n. 预订 / 预约 / 演出契约 / <足球>警告",
+                "C) n. 慈悲 / 怜悯 / 宽容 / 解脱"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hierarchy / 美['haɪərɑːrkɪ]  / 英['haɪərɑːkɪ] ",
+            "options": [
+                "A) n. 前任 / 前辈 / 原有事物 / 前身",
+                "B) adj. 近的 / 毗连的 / <几何>相邻的",
+                "C) n. 等级制度 / 分等级的组织 / 层级 / 神职人员"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hint / 美[hɪnt]  / 英[hɪnt] ",
+            "options": [
+                "A) v. 推迟 / 使…延期 / 把…放在次要地位 / 把…放在后面",
+                "B) n. 暗示 / 线索 / 细微迹象",
+                "C) n. 收集人 / 收集物 / 集电极 / 收税员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "homeland / 美['hoʊmlænd]  / 英['həʊmlænd] ",
+            "options": [
+                "A) n. 瞬间 / 立即 / 片刻",
+                "B) n. 争论 / 争辩 / 争执 / 争夺",
+                "C) n. 家乡 / 祖国 / 国家 / 故乡"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hook / 美[hʊk]  / 英[hʊk] ",
+            "options": [
+                "A) n. 安排 / 设计 / 样式 / 格式",
+                "B) n. 体积 / 大多数 / 大块",
+                "C) n. 钩子 / 挂钩 / 弧形切割工具 / 钩拳"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hopeful / 美['hoʊpfl]  / 英['həʊpfʊl;-f(ə)l] ",
+            "options": [
+                "A) adj. 市的 / 市政府的 / 地方的 / 地方政府的",
+                "B) n. 一组镜头 / 尺码 / 长度 / 英尺长度",
+                "C) n. 可能成功的人 / 有希望成功的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "horizon / 美[hə'raɪzn]  / 英[hə'raɪz(ə)n] ",
+            "options": [
+                "A) n. 后果 / <农>再生草 / 余波",
+                "B) n. 视平线 / 视野 / 眼界 / 范围",
+                "C) v. 将用于上 / 尽心竭力于… / 致力于 / 奉献"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "horn / 美[hɔːrn]  / 英[hɔːn] ",
+            "options": [
+                "A) n. 角 / 角质物 / 角状物 / 号角",
+                "B) n. 标识，标志",
+                "C) n. 垂直线 / 垂直面 / 垂直物 / 竖杆"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hostage / 美['hɑːstɪdʒ]  / 英['hɒstɪdʒ] ",
+            "options": [
+                "A) n. 罗 / 144个 / 毛利 / 总收入",
+                "B) n. 人质 / 抵押品",
+                "C) n. 特殊开支项目 / 超常的学生"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hostile / 美['hɑːstl]  / 英['hɒstaɪl] ",
+            "options": [
+                "A) exclam. 了不起啊 / 得了",
+                "B) adj. 成熟的 / 充分考虑的 / 到期的 / 成年人的",
+                "C) adj. 不友善的 / 敌对的 / 敌军的 / 反对的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "hostility / 美[hɑː'stɪlətɪ]  / 英[hɒ'stɪlɪtɪ] ",
+            "options": [
+                "A) n. 方法 / 模式 / 时尚",
+                "B) adv. 每年",
+                "C) n. 敌对行为 / 不友善 / 反对"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "humanitarian / 美[hjuːˌmænɪ'terɪən]  / 英[hjʊˌmænɪ'teərɪən] ",
+            "options": [
+                "A) n. 组织 / 薄纸 / 纸巾 / 薄纱",
+                "B) n. 供状 / 信仰声明 / 忏悔 / 表白",
+                "C) n. 人道主义者 / 慈善家 / 博爱主义者 / 基督凡人论者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "humanity / 美[hjuː'mænətɪ]  / 英[hjʊ'mænɪtɪ] ",
+            "options": [
+                "A) adj. 长存的，长期的",
+                "B) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "C) n. 人 / 人类 / 人道 / 人文学科"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "humble / 美['hʌmbl]  / 英['hʌmb(ə)l] ",
+            "options": [
+                "A) n. 重新组装 / 改装的机器",
+                "B) adj. 谦卑的 / 简陋的 / 规模小的",
+                "C) v. 卑躬屈膝 / 彻底击败 / 使谦恭 / 低声下气"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "hydrogen / 美['haɪdrədʒən]  / 英['haɪdrədʒən] ",
+            "options": [
+                "A) n. 砖 / 砖形物 / <英>积木 / 心肠好的人",
+                "B) adj. 有指望的 / 有出息的 / 有希望的",
+                "C) n. 氢"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "identification / 美[aɪˌdentɪfɪ'keɪʃn]  / 英[aɪˌdentɪfɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) v. 辞职 / 顺从 / 放弃 / 委托",
+                "B) n. 识别 / 鉴定 / 身份证明 / 认同感",
+                "C) n. 管道 / 大浪的空心部分 / 输油管 / 传递途径"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ideological / 美[ˌaɪdiəˈlɑdʒəkəl]  / 英[ˌʌɪdɪəˈlɒdʒɪk(ə)l] ",
+            "options": [
+                "A) adj. 意识形态的",
+                "B) n. 粘核桃",
+                "C) adj. 真的 / 非伪造的 / 真诚的 / 诚恳的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ideology / 美[ˌaɪdɪ'ɑːlədʒɪ]  / 英[ˌaɪdɪ'ɒlədʒɪ;ɪd-] ",
+            "options": [
+                "A) n. 方法学 / 方法论 / 系统方法",
+                "B) n. 分数 / 部分 / 小部分 / 稍微",
+                "C) n. <古>观念学 / 思想体系 / 对观念起源性质的研究 / 意识形态"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "idiot / 美['ɪdɪət]  / 英['ɪdɪət] ",
+            "options": [
+                "A) n. 认识 / 识别 / 承认 / 赏识",
+                "B) n. 笨蛋，傻瓜 / 白痴",
+                "C) v. 使减少到最小量 / 低估 / 轻视 / 使减到最少"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ignorance / 美['ɪɡnərəns]  / 英['ɪɡnərəns] ",
+            "options": [
+                "A) v. 怀感激之心 / 祝福 / 保佑 / 赞美",
+                "B) n. 无学 / 无知 / 不知，不懂",
+                "C) v. 注册 / 卷起 / 入学 / 使入会"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "imagery / 美['ɪmɪdʒərɪ]  / 英['ɪmɪdʒərɪ] ",
+            "options": [
+                "A) n. 形象化的描述 / 像 / 意象",
+                "B) n. 起缓冲作用的人 / <化>缓冲剂 / 减震器",
+                "C) n. <贬>极端分子 / 极端主义者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "immense / 美[ɪ'mens]  / 英[ɪ'mens] ",
+            "options": [
+                "A) adj. 广大的 / 无边无际的 / 非常好的",
+                "B) n. 货摊 / 牧师专座 / 畜栏 / 托辞",
+                "C) n. 调查者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "imminent / 美['ɪmɪnənt]  / 英['ɪmɪnənt] ",
+            "options": [
+                "A) n. 蚊子",
+                "B) adj. 即将发生的 / <古>悬垂的 / 即将来临的",
+                "C) adj. 声名狼藉的 / 众所周知的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "implementation / 美[ˌɪmpləmənˈteɪʃ(ə)n]  / 英[ɪmplɪmɛnˈteɪʃ(ə)n] ",
+            "options": [
+                "A) n. 使复杂化的情况 / 困难 / 复杂 / 混乱",
+                "B) n. 实施 / 实践 / 执行",
+                "C) n. 可利用性 / 可获得性"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "imprison / 美[ɪm'prɪzn]  / 英[ɪm'prɪz(ə)n] ",
+            "options": [
+                "A) n. 全套服装 / 机构 / 用具 / 全套装备",
+                "B) v. 关押 / 监禁 / 使…下狱",
+                "C) n. 货摊 / 牧师专座 / 畜栏 / 托辞"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inability / 美[ˌɪnə'bɪlətɪ]  / 英[ɪnə'bɪlɪtɪ] ",
+            "options": [
+                "A) n. 同情 / 可惜 / 遗憾",
+                "B) n. 同辈 / 同龄人 / 贵族 / 同等的人",
+                "C) n. 无能，无能为力，不能"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inadequate / 美[ɪn'ædɪkwət]  / 英[ɪn'ædɪkwət] ",
+            "options": [
+                "A) n. 专利 / 专利证 / 专利权 / 执照",
+                "B) adj. 不充足的 / 不胜任的 / 不会生活的",
+                "C) v. 常到 / 常出入于 / 时常出入于"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inappropriate / 美[ˌɪnə'proʊprɪət]  / 英[ɪnə'prəʊprɪət] ",
+            "options": [
+                "A) n. 船舶 / 船舶吨数 / 海运 / 运送",
+                "B) v. 等待 / 等着 / 期待",
+                "C) adj. 不恰当的，不相宜的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "incarcerate / 美[ɪn'kɑːrsəreɪt]  / 英[ɪn'kɑːsəreɪt] ",
+            "options": [
+                "A) adj. 有用的 / 手边的 / 灵巧的 / 便利的",
+                "B) n. 低沉有回响的声音 / 隆隆声 / 迅速增长 / 繁荣",
+                "C) v. 监禁，关押"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "incarceration / 美[ɪnˌkɑrsəˈreɪʃ(ə)n]  / 英[ɪnˌkɑːsəˈreɪʃ(ə)n] ",
+            "options": [
+                "A) n. 上扬 / 跳 / 弹力 / 活力",
+                "B) n. 关押",
+                "C) n. 药店 / 配药学 / 制药业 / 一批备用药品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "incidence / 美['ɪnsɪdəns]  / 英['ɪnsɪdəns] ",
+            "options": [
+                "A) n. 发生率 / 税务负担 / 影响 / 影响范围",
+                "B) n. 有影响力的人 / 有势力的人 / 有影响力的人物",
+                "C) adj. 作住所用的 / 与居住有关的 / 提供寄宿的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inclusion / 美[ɪn'kluːʒn]  / 英[ɪn'kluːʒ(ə)n] ",
+            "options": [
+                "A) n. 打击 / 中风 / 轻抚",
+                "B) n. <地质>包体 / 包含 / 内含物 / 成员",
+                "C) n. 环线 / 环行 / <电子>电路，回路 / 一圈"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "incur / 美[ɪn'kɜːr]  / 英[ɪn'kɜː] ",
+            "options": [
+                "A) n. <古>观念学 / 思想体系 / 对观念起源性质的研究 / 意识形态",
+                "B) v. 遭受 / 招致 / 蒙受",
+                "C) n. 焦虑 / 悲伤 / 痛苦 / 危难"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "indicator / 美['ɪndɪkeɪtər]  / 英['ɪndɪkeɪtə] ",
+            "options": [
+                "A) n. 指示物 / <化>指示剂 / 指示种群 / 指标",
+                "B) n. 诚实 / 正直 / 完整 / 集成度",
+                "C) n. 工作场所 / 车间"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "indictment / 美[ɪn'daɪtmənt]  / 英[ɪn'daɪtmənt] ",
+            "options": [
+                "A) n. <律>指控 / 控诉物 / 起诉书 / 控告",
+                "B) n. 有效 / 正确 / 正当 / 有效",
+                "C) adj. 长存的，长期的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "indigenous / 美[ɪn'dɪdʒənəs]  / 英[ɪn'dɪdʒɪnəs] ",
+            "options": [
+                "A) n. 论述 / 谈话 / 演讲",
+                "B) adj. 本土的 / 土著的 / 国产的 / 固有的",
+                "C) n. 介入 / 调停 / 妨碍"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "induce / 美[ɪn'duːs]  / 英[ɪn'djuːs] ",
+            "options": [
+                "A) v. 劝使 / 引诱 / 导致 / <医>引产",
+                "B) n. 政变 / 巧妙的一举 / 成功的行动 / 砰然的一击",
+                "C) adj. 合格的 / 有能力的 / 能干的 / 足够的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "indulge / 美[ɪn'dʌldʒ]  / 英[ɪn'dʌldʒ] ",
+            "options": [
+                "A) v. 卷入 / 沉迷于 / 满足 / 纵容",
+                "B) v. 协商 / 顺利通过 / 成功地越过 / 转让",
+                "C) n. 罪犯 / 祸害"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inequality / 美[ˌɪnɪ'kwɑːlətɪ]  / 英[ɪnɪ'kwɒlɪtɪ] ",
+            "options": [
+                "A) n. 不平等 / 不同 / 不平均 / 不规则",
+                "B) n. 不足额 / 赤字 / 亏损 / 失分数",
+                "C) "
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "infamous / 美['ɪnfəməs]  / 英['ɪnfəməs] ",
+            "options": [
+                "A) adj. 声名狼藉的 / 无耻的 / 邪恶的 / 不名誉的",
+                "B) n. 特许状 / 凭照 / 宪章 / 执照",
+                "C) n. 水坝 / 坝 / 障碍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "infant / 美['ɪnfənt]  / 英['ɪnfənt] ",
+            "options": [
+                "A) n. 幼儿 / 婴儿 / <英>五至七岁的学童 / <律>未成年人",
+                "B) n. 名望 / 宏伟 / 壮丽 / 光环",
+                "C) adj. 随机选择的 / 无理由的 / 武断的 / 专制的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "infect / 美[ɪn'fekt]  / 英[ɪn'fekt] ",
+            "options": [
+                "A) n. 钱 / 雄鹿 / 年轻的印第安人或黑人",
+                "B) v. 感染 / 传染 / 污染 / <计算机>感染病毒",
+                "C) n. 教科书"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inflict / 美[ɪn'flɪkt]  / 英[ɪn'flɪkt] ",
+            "options": [
+                "A) adj. 各种各样的 / 形形色色的 / 多变的 / 杂色的",
+                "B) n. 好奇心 / 求知欲 / 奇物 / 奇事",
+                "C) v. 使遭受 / 造成 / 给予 / 将强加于"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "influential / 美[ˌɪnflʊ'enʃl]  / 英[ˌɪnflʊ'enʃ(ə)l] ",
+            "options": [
+                "A) n. 有影响力的人 / 有势力的人 / 有影响力的人物",
+                "B) n. 领土 / 地方 / 范围 / 地域",
+                "C) adj. 坚持不懈的 / 执意的 / <植><动>宿存的 / 持久稳固的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inherent / 美[ɪn'hɪrənt]  / 英[ɪn'hɪər(ə)nt;-'her(ə)nt] ",
+            "options": [
+                "A) n. 互相关联的事物 / 相辅相成的事物 / 相关物 / 相关联的人",
+                "B) adj. 内在的 / <律>属于...的 / 固有的 / 与生俱来的",
+                "C) adj. 魔法的 / 有魔力的 / 美妙的 / 似魔法的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inhibit / 美[ɪn'hɪbɪt]  / 英[ɪn'hɪbɪt] ",
+            "options": [
+                "A) n. 氧符号：O / <化学>氧气",
+                "B) adv. 表面上 / 显得 / 好像 / 看来似乎",
+                "C) v. 阻碍 / 防止 / 抑制 / 禁止"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "initiate / 美[ɪ'nɪʃɪeɪt]  / 英[ɪ'nɪʃɪeɪt] ",
+            "options": [
+                "A) n. 彻底的改变 / 转换 / 改革 / 变形",
+                "B) n. 奇迹 / 令人惊叹的产品 / 惊人事例 / 惊人的事例",
+                "C) n. 加入某组织者 / 开始 / 新加入者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inject / 美[ɪn'dʒekt]  / 英[ɪn'dʒekt] ",
+            "options": [
+                "A) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "B) v. 注射 / 插入 / 注入 / 使充满",
+                "C) n. 条约 / 协定 / 谈判"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "injection / 美[ɪn'dʒekʃn]  / 英[ɪn'dʒekʃ(ə)n] ",
+            "options": [
+                "A) n. 最终期限 / <史>死线 / 截止期限，最后期限",
+                "B) n. 门槛 / 临界点 / 开端 / 极限",
+                "C) n. 注射剂 / 注射 / 充血 / 射入轨道"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "injustice / 美[ɪn'dʒʌstɪs]  / 英[ɪn'dʒʌstɪs] ",
+            "options": [
+                "A) n. 商人 / 批发商 / 供应商 / 店主",
+                "B) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的",
+                "C) n. 不公正 / 不讲道义"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inmate / 美['ɪnmeɪt]  / 英['ɪnmeɪt] ",
+            "options": [
+                "A) adv. 明确地 / 坦率地 / 生动地",
+                "B) n. 登陆处 / 卸货处 / 登陆 / 码头",
+                "C) n. 入住者 / 同院病人 / 同狱犯人 / 同被收容者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inquire / 美[ɪn'kwaɪər]  / 英[ɪn'kwaɪə] ",
+            "options": [
+                "A) n. 总数",
+                "B) n. 织物 / 建筑物构筑 / 组织 / 构造",
+                "C) v. 询问 / 调查 / 查究 / 问明"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "insertion / 美[ɪn'sɜːrʃn]  / 英[ɪn'sɜːʃ(ə)n] ",
+            "options": [
+                "A) n. 混凝土 / 具体物 / 凝结物",
+                "B) v. 管理 / 分发 / 实施 / 主持仪式",
+                "C) n. 插入 / 嵌入 / 塞入 / 插入物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "insider / 美[ɪn'saɪdər]  / 英[ɪn'saɪdə] ",
+            "options": [
+                "A) n. 出席人数 / 出席者 / 全套车马 / 装束",
+                "B) n. 内部人士，知晓内情者",
+                "C) n. 一瞥 / 一滑 / 闪光 / 硫化矿类"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inspect / 美[ɪn'spekt]  / 英[ɪn'spekt] ",
+            "options": [
+                "A) n. 重罪",
+                "B) n. 结合 / 混合 / 取消隔离 / <数>求积分",
+                "C) v. 检查 / 审视 / 视察 / 检阅"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inspection / 美[ɪn'spɛkʃən]  / 英[ɪn'spekʃn] ",
+            "options": [
+                "A) n. 检查 / 审查 / 检阅 / 巡视",
+                "B) adj. 数学的 / 数学般精确的 / 精确的",
+                "C) v. 获得 / 实现 / 达到 / 到达"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inspiration / 美[ˌɪnspə'reɪʃn]  / 英[ɪnspɪ'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 灵感 / 吸气 / 吸入 / 鼓舞",
+                "B) n. 目的 / 利益 / 理由 / 日本米酒",
+                "C) n. 先入之见 / 偏见 / 反感 / 侵害"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "instinct / 美['ɪnstɪŋkt]  / 英['ɪnstɪŋkt] ",
+            "options": [
+                "A) n. 幼儿房 / 托儿所 / 苗圃 / 动物养殖场",
+                "B) n. 组件 / 模件 / 预制件 / 组成单元",
+                "C) n. 天性 / 本能 / 天赋 / 直觉"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "institutional / 美[ˌɪnstɪ'tuːʃənl]  / 英[ɪnstɪ'tjuːʃ(ə)n(ə)l] ",
+            "options": [
+                "A) adv. 情绪上 / 感情上 / 激动地",
+                "B) v. 使产生动机 / 激发积极性 / 刺激 / 使有动机",
+                "C) adj. 机构的 / 类似机构的 / 旨在营造声誉的 / 制度的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "instruct / 美[ɪn'strʌkt]  / 英[ɪn'strʌkt] ",
+            "options": [
+                "A) v. 通知 / 指导 / 命令 / 教授",
+                "B) v. 恶化，不断变坏",
+                "C) n. 棕榈树 / 棕榈叶 / 手掌 / 掌状物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "instrumental / 美[ˌɪnstrə'mentl]  / 英[ɪnstrʊ'ment(ə)l] ",
+            "options": [
+                "A) n. 总统职务 / 总统的职位 / 管辖 / 支配",
+                "B) n. 器乐曲 / <语法>工具格 / 工具格名词",
+                "C) n. 痕迹 / 微量 / 描记线 / 缰绳"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "insufficient / 美[ˌɪnsə'fɪʃnt]  / 英[ɪnsə'fɪʃ(ə)nt] ",
+            "options": [
+                "A) v. 授权于 / 允许 / 使能够 / 增强的力量和信心",
+                "B) v. 谴责 / 反对 / 判刑 / 宣告不适用",
+                "C) adj. 不足的 / 不够的 / 不胜任的 / 缺乏能力的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "insult / 美[ɪn'sʌlt]  / 英[ɪn'sʌlt] ",
+            "options": [
+                "A) adv. 在下方 / 在下层 / 在背后 / 在里面",
+                "B) n. 侮辱 / 冒犯 / 侮辱物 / 凌辱",
+                "C) n. 摧毁 / 杀伤 / 被杀伤 / 终结"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intact / 美[ɪn'tækt]  / 英[ɪn'tækt] ",
+            "options": [
+                "A) n. 会计师 / 会计人员",
+                "B) adj. 未遭损坏的 / 不曾削弱的 / 完整无缺的 / 原封不动的",
+                "C) n. 谨慎 / <英>警告 / 告诫"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intake / 美['ɪnteɪk]  / 英['ɪnteɪk] ",
+            "options": [
+                "A) n. 摄入量 / 纳入人员 / 入口 / 引入口",
+                "B) n. 筐 / <篮球>篮 / 投篮得分 / 篮子",
+                "C) adj. 流利连贯的 / 有关节的 / 发音清晰的 / 口才好的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "integral / 美['ɪntɪɡrəl]  / 英['ɪntɪɡrəl;ɪn'teɡrəl] ",
+            "options": [
+                "A) adv. 在过去 / 从前 / 以前 / 原来",
+                "B) n. 脱衣 / 脱衣舞 / 带 / 条状",
+                "C) n. <数>积分 / 满足微分方程的函数 / 部分 / 完整"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "integration / 美[ˌɪntɪ'ɡreɪʃn]  / 英[ɪntɪ'ɡreɪʃ(ə)n] ",
+            "options": [
+                "A) n. 小屋 / 客舱 / 船舱",
+                "B) ",
+                "C) n. 结合 / 混合 / 取消隔离 / <数>求积分"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "integrity / 美[ɪn'teɡrətɪ]  / 英[ɪn'teɡrɪtɪ] ",
+            "options": [
+                "A) n. 诚实 / 正直 / 完整 / 集成度",
+                "B) v. 环绕 / <古>促成 / 包围 / 完成",
+                "C) n. 怀孕，妊娠 / 怀孕期，妊娠期"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intellectual / 美[ˌɪntə'lektʃʊəl]  / 英[ˌɪntə'lektʃʊəl;-tjʊəl] ",
+            "options": [
+                "A) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "B) n. 资助 / 支持 / 赞助 / 倡议 / 担保",
+                "C) n. 盖 / 顶部，顶端 / 上部"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intensify / 美[ɪn'tensɪfaɪ]  / 英[ɪn'tensɪfaɪ] ",
+            "options": [
+                "A) n. 暴露 / 朝向 / 曝光 / 揭露",
+                "B) v. 卑躬屈膝 / 彻底击败 / 使谦恭 / 低声下气",
+                "C) v. 变强 / 加强 / <摄>增强的阻光度 / 变激烈"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intensity / 美[ɪn'tensətɪ]  / 英[ɪn'tensɪtɪ] ",
+            "options": [
+                "A) adj. 可爱的 / 迷人的 / 彬彬有礼的",
+                "B) n. 强烈 / 强烈情况 / <物理>强度 / 紧张",
+                "C) n. 有形进出口货物 / 可见物 / 进出口贸易中的有形项目"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intensive / 美[ɪn'tensɪv]  / 英[ɪn'tensɪv] ",
+            "options": [
+                "A) n. 加强的 / 集中的 / 透彻的 / 加强语气的",
+                "B) adj. 危险的 / 冒险的 / 有风险的 / 有伤风化的",
+                "C) n. 外国人 / 陌生人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intent / 美[ɪn'tent]  / 英[ɪn'tent] ",
+            "options": [
+                "A) n. 汽车 / 自动 / automatic 的简称",
+                "B) v. 忍耐 / 继续存在 / 持久 / 容忍",
+                "C) n. 意图 / 目的 / 含义"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interactive / 美[ˌɪntər'æktɪv]  / 英[ɪntər'æktɪv] ",
+            "options": [
+                "A) adj. 相互作用的 / 相互影响的 / 交互式的",
+                "B) n. 拥护者 / 辩护者 / / 律师",
+                "C) adj. 好奇的 / 好求知的 / 奇特的 / 离奇古怪的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interface / 美['ɪntərfeɪs]  / 英['ɪntəfeɪs] ",
+            "options": [
+                "A) n. 接合点 / 边缘区域 / 联系装置 / 交界面",
+                "B) v. 使更容易 / 推动 / 便于 / 促进",
+                "C) n. 住处 / 通融 / 调节 / 和解"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interfere / 美[ˌɪntər'fɪr]  / 英[ɪntə'fɪə] ",
+            "options": [
+                "A) n. 假货 / 冒充者 / 骗子 / 骗人的把戏",
+                "B) v. 扰乱 / 干涉 / 性骚扰 / 妨碍",
+                "C) n. 官僚制度 / 官僚机构 / 官僚国家 / 官僚阶层"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interference / 美[ˌɪntər'fɪrəns]  / 英[ɪntə'fɪər(ə)ns] ",
+            "options": [
+                "A) adj. 活跃的 / 振动的 / 充满生气的 / 响亮的",
+                "B) n. 反对 / 异议 / 反对的理由 / 妨碍",
+                "C) n. 扰乱 / 干扰 / 阻挡犯规 / 干涉"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interim / 美['ɪntərɪm]  / 英['ɪntərɪm] ",
+            "options": [
+                "A) n. 间歇 / 过渡时期 / 暂定",
+                "B) adj. 免疫的 / 免于......的 / 受保护的 / 不受影响的",
+                "C) v. 强迫 / 引起 / 强使发生 / <文>驱赶"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "interior / 美[ɪn'tɪrɪər]  / 英[ɪn'tɪɜːrɪə] ",
+            "options": [
+                "A) adj. 流利连贯的 / 有关节的 / 发音清晰的 / 口才好的",
+                "B) n. 扳机 / 启动装置 / 触发因素 / 制滑机",
+                "C) n. 室内 / 里面 / 内部 / 本质"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intermediate / 美[ˌɪntər'miːdɪət]  / 英[ˌɪntə'miːdɪət] ",
+            "options": [
+                "A) n. 检查 / 审查 / 检阅 / 巡视",
+                "B) adj. 最小的 / 最低限度的 / 可略而不计的 / <艺术>极简抽象艺术的",
+                "C) n. 中间事物 / 掌握中等知识水平的人 / 中间体 / 媒介"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intersection / 美[ˌɪntər'sekʃn]  / 英[ɪntə'sekʃ(ə)n] ",
+            "options": [
+                "A) n. 坑 / 矿井 / 陷阱 / 凹陷",
+                "B) n. 撤消 / 提款 / 取消 / 退股",
+                "C) n. 相交 / 交叉 / 十字路口 / 交集"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intervene / 美[ˌɪntər'viːn]  / 英[ɪntə'viːn] ",
+            "options": [
+                "A) adv. 某个时候 / 从前 / 改天 / 在某一时候",
+                "B) n. 值勤人员表 / 值勤登记表 / 花名册",
+                "C) v. 插入 / 干预 / 干涉 / 调停"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intervention / 美[ˌɪntər'venʃn]  / 英[ɪntə'venʃ(ə)n] ",
+            "options": [
+                "A) adj. 违反宪法的 / 不符合章程规定的",
+                "B) n. 介入 / 调停 / 妨碍",
+                "C) n. 排斥 / 排除 / 驱逐 / 被排除在外的事物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intimate / 美['ɪntɪmət]  / 英['ɪntɪmeɪt] ",
+            "options": [
+                "A) n. 同情 / 可惜 / 遗憾",
+                "B) n. 至交 / 密友 / 知己",
+                "C) n. 一把 / 难对付的人 / 少数 / 棘手事"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "intriguing / 美[ˌɪnˈtriɡɪŋ]  / 英[ɪnˈtriːɡɪŋ] ",
+            "options": [
+                "A) n. 魔鬼 / 恶棍 / 淘气鬼",
+                "B) adj. 光荣的 / 壮观的 / 辉煌的 / 极好的",
+                "C) adj. 引起兴趣的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "inventory / 美['ɪnvəntɔːrɪ]  / 英['ɪnv(ə)nt(ə)rɪ] ",
+            "options": [
+                "A) n. 机器，机械 / 机械部件",
+                "B) n. 存货清单 / 存货盘存 / 财产目录 / 建筑物内部部件清单",
+                "C) n. 实施 / 执行 / 完成 / 死刑"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "investigator / 美[ɪnˈvɛstɪˌɡeɪdər]  / 英[ɪnˈvɛstɪɡeɪtə] ",
+            "options": [
+                "A) n. 调查者",
+                "B) n. 同辈 / 同龄人 / 贵族 / 同等的人",
+                "C) n. 地心吸力 / 重大 / 严重 / 重力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "invisible / 美[ɪn'vɪzəbl]  / 英[ɪn'vɪzɪb(ə)l] ",
+            "options": [
+                "A) v. 雕刻 / 刻 / 切 / 开启",
+                "B) v. 加强 / 使坚强 / 变强 / 巩固",
+                "C) n. 无形进出口"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "invoke / 美[ɪn'voʊk]  / 英[ɪn'vəʊk] ",
+            "options": [
+                "A) adj. 市的 / 市政府的 / 地方的 / 地方政府的",
+                "B) v. 求助于 / 援引 / 祈求 / 引起",
+                "C) v. 提名 / 确定 / 指定 / 任命"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "involvement / 美[ɪn'vɑːlvmənt]  / 英[ɪn'vɒlvmənt] ",
+            "options": [
+                "A) adv. 据宣称",
+                "B) n. 公升（容量单位） / <美>同 litre",
+                "C) n. 牵连 / 参与 / 包含 / 混乱"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ironic / 美[aɪ'rɑːnɪk]  / 英[aɪ'rɒnɪk] ",
+            "options": [
+                "A) v. <正式>认为 / 视作 / 相信",
+                "B) adj. 讽刺的 / 反话的 / 有讽刺意味的",
+                "C) n. 开业者 / 从业者 / 执业医生"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ironically / 美[aɪ'rɑːnɪklɪ]  / 英[aɪ'rɒnɪklɪ] ",
+            "options": [
+                "A) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待",
+                "B) adv. 讽刺地 / 说反话地 / 令人啼笑皆非地",
+                "C) n. 安排 / 处理 / 支配 / 清理"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "irony / 美['aɪrənɪ]  / 英['aɪənɪ] ",
+            "options": [
+                "A) n. 讽刺 / 反语 / 具有讽刺意味的事",
+                "B) n. 农学 / 农业 / 农艺 / 农耕",
+                "C) n. 破产"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "irrelevant / 美[ɪ'reləvənt]  / 英[ɪ'relɪv(ə)nt] ",
+            "options": [
+                "A) n. 日志 / 原木 / 对数 / 记录",
+                "B) n. 游击队员",
+                "C) adj. 不相干的 / 不中肯的 / 离题的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "isolation / 美[ˌaɪsə'leɪʃn]  / 英[aɪsə'leɪʃ(ə)n] ",
+            "options": [
+                "A) n. 隔离 / 孤立 / 脱离 / 分离",
+                "B) adj. 附近的",
+                "C) n. 溢出液 / 溢出 / 摔下 / 小塞子"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "judicial / 美[dʒʊ'dɪʃl]  / 英[dʒuː'dɪʃ(ə)l] ",
+            "options": [
+                "A) n. 住处 / 通融 / 调节 / 和解",
+                "B) adj. 明断的 / 司法的 / 法院的 / 法官的",
+                "C) adv. 厉害地 / 非常 / 可怕地 / 极度地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "jurisdiction / 美[ˌdʒʊrɪs'dɪkʃn]  / 英[ˌdʒʊərɪs'dɪkʃ(ə)n] ",
+            "options": [
+                "A) n. 裁判权 / 司法权 / 管辖权 / 权限",
+                "B) n. 感觉 / 知觉 / 轰动 / 觉察",
+                "C) adj. 值得纪念的 / 难忘的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "just / 美[dʒʌst]  / 英[dʒʌst] ",
+            "options": [
+                "A) n. 缺乏 / 缺陷 / 赤字 / 不足的数额",
+                "B) adv. 精确地 / 正好 / 仅仅 / 简直",
+                "C) adj. 正义的 / 适当的 / 公正的 / 公平的"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "justification / 美[ˌdʒəstəfəˈkeɪʃ(ə)n]  / 英[dʒʌstɪfɪˈkeɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 灾难性的 / <非正式>非常失败的 / 损失惨重的 / 悲伤的",
+                "B) n. 理由 / 辩解 / 齐行",
+                "C) adv. 情绪上 / 感情上 / 激动地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "keen / 美[kiːn]  / 英[kiːn] ",
+            "options": [
+                "A) n. 竞争者",
+                "B) adj. 广阔的 / 广大的 / 粗放的 / 规模大的",
+                "C) n. 爱尔兰葬歌 / 痛哭"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "kidnap / 美['kɪdnæp]  / 英['kɪdnæp] ",
+            "options": [
+                "A) n. 独立存在物 / 实体",
+                "B) n. 罪犯 / 祸害",
+                "C) n. 诱拐 / 绑架"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "kidney / 美['kɪdnɪ]  / 英['kɪdnɪ] ",
+            "options": [
+                "A) adj. 使人产生误解的 / 导致错误印象的",
+                "B) n. 割下的东西 / 路堑 / 河道 / 剪辑",
+                "C) n. 肾脏 / 腰子 / 脾气 / 类型"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "kingdom / 美['kɪŋdəm]  / 英['kɪŋdəm] ",
+            "options": [
+                "A) n. 王国 / 天国 / 界 / 领域",
+                "B) n. 消防（队）员",
+                "C) n. 联系 / 关联 / 相互关系 / <统计>相关数"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "landlord / 美['lændlɔːrd]  / 英['lændlɔːd] ",
+            "options": [
+                "A) adj. 无数的 / 数不清的",
+                "B) n. 名望 / 名声 / 传闻",
+                "C) n. 地主 / 房东"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "landmark / 美['lændmɑːrk]  / 英['lændmɑːk] ",
+            "options": [
+                "A) n. 城镇标志性建筑 / 重要事件 / 纪念碑",
+                "B) v. 创作 / 组成 / 使平静 / 排版",
+                "C) n. 合身 / 发作 / 痉挛"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lap / 美[læp]  / 英[læp] ",
+            "options": [
+                "A) n. 下摆 / 一圈 / 膝盖 / 山坳",
+                "B) n. 行为规则 / 惯例 / 大会 / 习俗",
+                "C) n. 投资者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "large-scale / 美[ˌlɑːrdʒ 'skeɪl]  / 英[ˌlɑːdʒ 'skeɪl] ",
+            "options": [
+                "A) adj. 喜爱的 / 爱慕的 / 喜欢的 / 温柔的",
+                "B) n. 角 / 角质物 / 角状物 / 号角",
+                "C) adj. 大规模的 / 广泛的 / 大比例尺的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "laser / 美['leɪzər]  / 英['leɪzə] ",
+            "options": [
+                "A) n. 地下室 / <地质>基底杂岩 / 地窖",
+                "B) v. 耕地 / 培养 / 种植 / 陶冶",
+                "C) n. 激光器 / 激光"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "latter / 美['lætər]  / 英['lætə] ",
+            "options": [
+                "A) adj. 后面的 / 最后阶段的 / 最近的 / 较后的",
+                "B) n. 坚定不移 / 测定 / 决心 / 果断",
+                "C) v. 主持 / 领奏 / 主管某地 / 掌管"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lawmaker / 美['lɔːmeɪkər]  / 英['lɔːmeɪkə] ",
+            "options": [
+                "A) v. 取代 / 移动…的位置 / 罢免",
+                "B) n. 立法者",
+                "C) n. 罪犯 / 祸害"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lawn / 美[lɔːn]  / 英[lɔːn] ",
+            "options": [
+                "A) n. 草坪 / 草地 / 上等细麻布",
+                "B) adv. 以某种方式 / 用某种方法 / 以某种方法 / 莫名其妙地",
+                "C) n. 前任 / 前辈 / 原有事物 / 前身"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lawsuit / 美['lɔːsuːt]  / 英['lɔːsuːt;-sjuːt] ",
+            "options": [
+                "A) n. 诉讼（案）",
+                "B) n. 暗示 / 线索 / 细微迹象",
+                "C) n. 猜测 / 投机"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "layout / 美['leɪaʊt]  / 英['leɪaʊt] ",
+            "options": [
+                "A) adj. 专注的 / 献身的 / 专用的",
+                "B) n. 美学原则",
+                "C) n. 规划 / 布局 / 设计 / 安排"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "leak / 美[liːk]  / 英[liːk] ",
+            "options": [
+                "A) adv. 在下方 / 在下层 / 在背后 / 在里面",
+                "B) adv. 精确地 / 清楚地",
+                "C) n. 漏洞 / 渗漏 / 漏电 / 泄密"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "leap / 美[liːp]  / 英[liːp] ",
+            "options": [
+                "A) n. 首相 / 总理 / <澳>州总理",
+                "B) n. 集合 / 组装 / 议会 / 装配",
+                "C) n. 跳跃 / 剧涨 / 突然改变 / 越过处"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legacy / 美['leɡəsɪ]  / 英['leɡəsɪ] ",
+            "options": [
+                "A) n. 遗产",
+                "B) n. 门槛 / 临界点 / 开端 / 极限",
+                "C) adj. 刺耳的 / 严酷的 / 粗糙的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legendary / 美['ledʒənderɪ]  / 英['ledʒ(ə)nd(ə)rɪ] ",
+            "options": [
+                "A) n. 流行 / 流行程度",
+                "B) n. 马拉松赛跑 / 马拉松式的任务或行动 / 耐力的考验",
+                "C) adj. 传说的 / 声名远播的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legislation / 美[ˌledʒɪs'leɪʃn]  / 英[ledʒɪs'leɪʃ(ə)n] ",
+            "options": [
+                "A) v. 迷住 / 缠住 / 使...着迷 / 使...困扰",
+                "B) n. 法律 / 立法",
+                "C) v. 限制 / 控制 / 封锁 / 约束"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legislative / 美['ledʒɪsleɪtɪv]  / 英['ledʒɪslətɪv] ",
+            "options": [
+                "A) adj. 有立法权的 / 立法的 / 法律的 / 立法机关的",
+                "B) v. 认识到 / 理解 / 把看作 / 察觉",
+                "C) n. 幼儿房 / 托儿所 / 苗圃 / 动物养殖场"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legislature / 美['ledʒɪsleɪtʃər]  / 英['ledʒɪslətʃə] ",
+            "options": [
+                "A) v. 检查 / 审视 / 视察 / 检阅",
+                "B) n. 目的 / 利益 / 理由 / 日本米酒",
+                "C) n. 立法机构"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "legitimate / 美[lɪ'dʒɪtɪmət]  / 英[lɪ'dʒɪtɪmət] ",
+            "options": [
+                "A) adj. 合法的 / 正当的 / 合理的 / 正统的",
+                "B) v. 使合法化，使正当化",
+                "C) v. 抽回 / 移开 / 撤退 / 戒毒"
+            ],
+            "answer": [
+                "A",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "lengthy / 美['leŋθɪ]  / 英['leŋθɪ;'leŋkθɪ] ",
+            "options": [
+                "A) adj. （尤指时间）过长的，冗长的",
+                "B) adv. 从戏剧角度 / 戏剧性地 / 激动人心地 / 突发惊人地",
+                "C) adj. 优雅的 / 雅致的 / 讲究的 / 简洁的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lesbian / 美['lezbɪən]  / 英['lezbɪən] ",
+            "options": [
+                "A) adj. 隐秘的 / 隐藏的",
+                "B) n. 纪念物 / 纪念碑 / 历史遗迹 / 不朽的作品",
+                "C) n. 女同性恋者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lesser / 美['lesər]  / 英['lesə] ",
+            "options": [
+                "A) n. 辞职 / 辞呈 / <棋>认输 / 放弃",
+                "B) n. <北美>人行道",
+                "C) adj. 较少的 / 次要的 / 更小的 / 条件或档次较低的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lethal / 美['liːθl]  / 英['liːθ(ə)l] ",
+            "options": [
+                "A) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "B) adj. 致命的 / 有害的 / 极准的",
+                "C) n. 任命 / 提名 / 提名权 / 被提名的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "liable / 美['laɪəbl]  / 英['laɪəb(ə)l] ",
+            "options": [
+                "A) adj. 有…的倾向 / 有责任的 / 应受罚的",
+                "B) adj. 不足的 / 不够的 / 不胜任的 / 缺乏能力的",
+                "C) n. <律>指控 / 控诉物 / 起诉书 / 控告"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "liberal / 美['lɪbərəl]  / 英['lɪbərəl] ",
+            "options": [
+                "A) n. 兄弟，姊妹，同胞",
+                "B) n. 思想开明的人 / 自由党支持者 / 自由党党员 / 自由主义者",
+                "C) n. 颅骨，头骨"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "liberation / 美[,lɪbə'reʃən]  / 英[lɪbə'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 捐献者 / 投稿者 / 捐助者",
+                "B) n. 限制 / 限定 / 约束 / 束缚",
+                "C) n. 解放 / 解脱"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "liberty / 美['lɪbərtɪ]  / 英['lɪbətɪ] ",
+            "options": [
+                "A) n. 背书 / 赞同 / 违章记录 / 票据签字",
+                "B) n. 自由 / 自由的化身 / 许可 / 冒失",
+                "C) n. 处罚 / 刑罚 / 不利后果 / 劣势"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lifelong / 美['laɪflɔːŋ]  / 英['laɪflɒŋ] ",
+            "options": [
+                "A) adj. 毕生的，终生的",
+                "B) adv. 短暂地 / 简洁地 / 唐突无礼地 / 简言之",
+                "C) n. 巧合 / 符合 / 同时发生 / 一致"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "likelihood / 美['laɪklɪhʊd]  / 英['laɪklɪhʊd] ",
+            "options": [
+                "A) n. 可能性",
+                "B) n. 龙头 / 阀门 / 螺丝攻 / 轻打",
+                "C) v. 建造 / 搭建 / 竖立 / 创立"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "limb / 美[lɪm]  / 英[lɪm] ",
+            "options": [
+                "A) n. 肢体 / 翼 / 枝干",
+                "B) n. 资本家",
+                "C) n. 水坝 / 坝 / 障碍"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "linear / 美['lɪnɪər]  / 英['lɪnɪə] ",
+            "options": [
+                "A) adj. 沿直线的 / 线形的 / 连续的",
+                "B) n. 走廊 / 过道 / 连接地 / 地带",
+                "C) adj. 相关的 / 适用的 / 可适用的 / 可应用的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "linger / 美['lɪŋɡər]  / 英['lɪŋɡə] ",
+            "options": [
+                "A) n. 商标，牌号",
+                "B) n. 逆向 / 背面 / 相反 / 倒退",
+                "C) v. 逗留 / 多停留 / 磨蹭 / 继续留存"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "liter / 美['liːtər]  / 英['liːtə(r)] ",
+            "options": [
+                "A) n. 公升（容量单位） / <美>同 litre",
+                "B) n. 捐献者 / 投稿者 / 捐助者",
+                "C) n. 紧抓 / 紧握 / 理解 / 控制"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "literacy / 美['lɪtərəsɪ]  / 英['lɪtərəsɪ] ",
+            "options": [
+                "A) n. 识字 / 读写能力 / 精通文学 / 能力",
+                "B) v. 揭去面纱 / 揭开蒙布 / 使公之于众 / 揭幕",
+                "C) adj. 数学的 / 数学般精确的 / 精确的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "liver / 美['lɪvər]  / 英['lɪvə] ",
+            "options": [
+                "A) n. <旧>牧师 / 神学家 / 天意 / 上帝",
+                "B) adv. 表面上 / 显得 / 好像 / 看来似乎",
+                "C) n. 肝脏 / 猪肝色 / 生活者 / 居民"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "lobby / 美['lɑːbɪ]  / 英['lɒbɪ] ",
+            "options": [
+                "A) n. 害怕 / 惊吓 / 恐慌 / 惊恐",
+                "B) n. 查账 / 审计",
+                "C) n. 穿堂 / 休息室 / 议会休息室"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "log / 美[lɔːɡ]  / 英[lɒɡ'iː] ",
+            "options": [
+                "A) n. 日志 / 原木 / 对数 / 记录",
+                "B) n. 蜜饯 / 果脯 / 果酱",
+                "C) n. 流行 / 流行程度"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "logic / 美['lɑːdʒɪk]  / 英['lɒdʒɪk] ",
+            "options": [
+                "A) adj. 有雄心的 / 有野心的 / 要求高的",
+                "B) n. 一组镜头 / 尺码 / 长度 / 英尺长度",
+                "C) n. 逻辑 / 逻辑推理 / 逻辑操作 / 原理"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "long-standing / 美[ˌlɔːŋ 'stændɪŋ]  / 英[ˌlɒŋ 'stændɪŋ] ",
+            "options": [
+                "A) adj. 长存的，长期的",
+                "B) adv. 在过去 / 从前 / 以前 / 原来",
+                "C) v. <英>提供饮食 / 提供所需物 / 考虑 / 迎合"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "loom / 美[luːm]  / 英[luːm] ",
+            "options": [
+                "A) n. 隐隐出现 / 织布机 / 若隐若现的景象 / 暗影",
+                "B) n. 额外给予的报酬 / <英>余利 / 好处 / 奖金",
+                "C) v. 认为…很有可能 / 预期 / 先于…行动"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "loop / 美[luːp]  / 英[luːp] ",
+            "options": [
+                "A) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "B) adv. 公开地 / 坦白地 / 公然",
+                "C) n. 环 / 循环过程 / 翻筋斗 / 圈"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "loyalty / 美['lɔɪəltɪ]  / 英['lɔɪəltɪ] ",
+            "options": [
+                "A) n. 忠诚 / 忠心 / 忠贞 / 忠实",
+                "B) n. 关闭 / 封锁 / 辩论终止提付表决 / 解脱",
+                "C) n. 处罚 / 刑罚 / 不利后果 / 劣势"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "machinery / 美[mə'ʃiːnərɪ]  / 英[mə'ʃiːnərɪ] ",
+            "options": [
+                "A) n. 沉思 / 冥想",
+                "B) n. 机器，机械 / 机械部件",
+                "C) n. 乐意"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "magical / 美['mædʒɪkl]  / 英['mædʒɪk(ə)l] ",
+            "options": [
+                "A) adj. 魔法的 / 有魔力的 / 美妙的 / 似魔法的",
+                "B) n. 拍卖 / 拍卖活动 / <桥牌>叫牌 / 叫牌阶段",
+                "C) n. 利用 / 开发 / 剥削 / 利用"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "magnetic / 美[mæɡ'netɪk]  / 英[mæɡ'netɪk] ",
+            "options": [
+                "A) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "B) adj. 磁的 / 有磁性的 / 有吸引力的 / 可磁化的",
+                "C) n. 具有普遍行为模式的人 / 普遍 / 一般概念 / 普通性"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "magnificent / 美[mæɡ'nɪfɪsnt]  / 英[mæɡ'nɪfɪs(ə)nt] ",
+            "options": [
+                "A) n. 可取的东西 / 合意的人 / 合意的人或事物",
+                "B) adj. 壮丽的 / 豪华的 / 宏伟的 / 极好的",
+                "C) n. 负有责任 / 问责性"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "magnitude / 美['mæɡnɪtuːd]  / 英['mæɡnɪtjuːd] ",
+            "options": [
+                "A) adj. 令人愉快的，娱乐性的",
+                "B) n. 优点 / 人才 / 资产 / 有价值的人或物",
+                "C) n. 大小 / 重要性 / 震级"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mainland / 美['meɪnlænd]  / 英['meɪnlənd;-lænd] ",
+            "options": [
+                "A) n. 大陆 / 本土",
+                "B) n. 表示感激的行动 / 礼物 / <史>贡税",
+                "C) v. 隐藏 / 掩盖 / 隐瞒"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mainstream / 美['meɪnstriːm]  / 英['meɪnstriːm] ",
+            "options": [
+                "A) n. 目录 / 名录",
+                "B) n. 主流 / 主要倾向 / 主流派爵士乐",
+                "C) adv. 精确地 / 正好 / 仅仅 / 简直"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "maintenance / 美['meɪntənəns]  / 英['meɪnt(ə)nəns;-tɪn-] ",
+            "options": [
+                "A) n. 怪物 / 恶魔 / 残酷无情的人 / 残忍的人",
+                "B) n. 维持 / 保持 / 供养 / 维护",
+                "C) n. 启示 / 揭露 / 出乎意料的事 / 被揭露的真相"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mandate / 美['mændeɪt]  / 英['mændeɪt] ",
+            "options": [
+                "A) n. 山峰 / 巅 / 尖顶 / 最高点",
+                "B) n. 命令 / 执政权 / 授权 / 委托管理",
+                "C) v. 授予 / 商议 / 讨论 / 交流意见"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mandatory / 美['mændətɔːrɪ]  / 英['mændətərɪ] ",
+            "options": [
+                "A) adv. 立刻 / 不久 / 简短地 / 扼要地",
+                "B) n. 可取的东西 / 合意的人 / 合意的人或事物",
+                "C) n. 受托者 / 同 mandatary ."
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "manifest / 美['mænɪfest]  / 英['mænɪfest] ",
+            "options": [
+                "A) n. 舱单 / 旅客名单 / 货物清单 / 货运列车编组清单",
+                "B) n. 可能性",
+                "C) v. 刻画 / 描绘 / 扮演 / 表现"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "manipulate / 美[mə'nɪpjʊleɪt]  / 英[mə'nɪpjʊleɪt] ",
+            "options": [
+                "A) n. 末端 / 极限 / 终端 / 终点",
+                "B) v. 操作 / 使用 / 控制 / 编辑",
+                "C) v. 调整 / 理算 / 适应 / 校准"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "manipulation / 美[məˌnɪpjəˈleɪʃən]  / 英[məˌnɪpjʊˈleɪʃ(ə)n] ",
+            "options": [
+                "A) n. 感觉 / 知觉 / 轰动 / 觉察",
+                "B) n. 饥饿 / 饥荒 / 渴望",
+                "C) n. 操作 / 操纵 / 控制 / 篡改 / 推拿"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "manuscript / 美['mænjʊskrɪpt]  / 英['mænjʊskrɪpt] ",
+            "options": [
+                "A) n. 互相关联的事物 / 相辅相成的事物 / 相关物 / 相关联的人",
+                "B) n. 手写本 / 打字稿 / 手稿 / 原稿",
+                "C) n. 投资者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "march / 美[mɑːrtʃ]  / 英[mɑːtʃ] ",
+            "options": [
+                "A) n. 魅力 / 项链的坠饰 / 魔咒 / 魔力",
+                "B) n. 反抗 / 抵抗力 / 电阻 / 阻力",
+                "C) n. 行进 / 行军 / 抗议游行 / 边境"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "marginal / 美['mɑːrdʒɪnl]  / 英['mɑːdʒɪn(ə)l] ",
+            "options": [
+                "A) v. 使产生动机 / 激发积极性 / 刺激 / 使有动机",
+                "B) n. 捕食者 / 食肉动物 / 掠夺者",
+                "C) n. <英>微弱多数席位 / 岸边水生植物"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "marine / 美[mə'riːn]  / 英[mə'riːn] ",
+            "options": [
+                "A) n. 海军陆战队员 / 海运业 / 舰队 / 水兵",
+                "B) v. 使失望 / 使破灭",
+                "C) n. 教学 / 指导 / 学费 / 讲授"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "marketplace / 美['mɑːrkɪtpleɪs]  / 英['mɑːkɪtpleɪs] ",
+            "options": [
+                "A) n. 统治 / 控制 / 管理 / 支配",
+                "B) v. 将用于上 / 尽心竭力于… / 致力于 / 奉献",
+                "C) n. 露天集市"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mask / 美[mæsk]  / 英[mɑːsk] ",
+            "options": [
+                "A) n. 面具 / 面部模型 / <喻>掩饰 / 口罩",
+                "B) adj. 魔法的 / 有魔力的 / 美妙的 / 似魔法的",
+                "C) n. 誓言 / 发誓 / 许愿"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "massacre / 美['mæsəkər]  / 英['mæsəkə] ",
+            "options": [
+                "A) n. 启示 / 揭露 / 出乎意料的事 / 被揭露的真相",
+                "B) n. 大屠杀 / 惨败",
+                "C) adj. 活跃的 / 振动的 / 充满生气的 / 响亮的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mathematical / 美[ˌmæθə'mætɪkl]  / 英[mæθ(ə)'mætɪk(ə)l] ",
+            "options": [
+                "A) adj. 相关的 / 相似的",
+                "B) adj. 数学的 / 数学般精确的 / 精确的",
+                "C) v. 展开 / 摊开 / 透露 / 展现"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mature / 美[mə'tʃʊr]  / 英[mə'tʃʊə] ",
+            "options": [
+                "A) adj. 成熟的 / 充分考虑的 / 到期的 / 成年人的",
+                "B) n. 否认 / 拒绝 / 否认陈述 / 背弃",
+                "C) v. 发育成熟 / 长大 / 到期 / 变得可食用"
+            ],
+            "answer": [
+                "A",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "maximize / 美['mæksɪmaɪz]  / 英['mæksɪmaɪz] ",
+            "options": [
+                "A) n. 提升 / 升级 / 上升 / 上坡",
+                "B) v. 使...达到最大 / 取...最大值 / 对...极为重视",
+                "C) n. 谈判，洽谈"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "meaningful / 美['miːnɪŋfl]  / 英['miːnɪŋfʊl;-f(ə)l] ",
+            "options": [
+                "A) n. 相交 / 交叉 / 十字路口 / 交集",
+                "B) adj. 有意义的 / 意味深长的 / 严肃的 / 重要的",
+                "C) n. 公司 / 法人 / 社团"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "meantime / 美['miːntaɪm]  / 英['miːntaɪm] ",
+            "options": [
+                "A) n. 强烈 / 强烈情况 / <物理>强度 / 紧张",
+                "B) n. 任命 / 提名 / 提名权 / 被提名的人",
+                "C) adv. 同时 / 其间"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "medieval / 美[ˌmedɪ'iːvl]  / 英[ˌmedɪ'iːv(ə)l;miː-] ",
+            "options": [
+                "A) n. 幼儿房 / 托儿所 / 苗圃 / 动物养殖场",
+                "B) adj. 中世纪的 / 原始的 / 仿中世纪的 / 老式的",
+                "C) n. 断言 / 主张 / 坚持 / 认定"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "meditation / 美[ˌmedɪ'teɪʃn]  / 英[medɪ'teɪʃ(ə)n] ",
+            "options": [
+                "A) adj. 热情的 / 感情强烈的 / 热烈的 / 易怒的",
+                "B) n. 沉思 / 冥想",
+                "C) n. 新手 / 新队员 / <非正式>新兵"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "melody / 美['melədɪ]  / 英['melədɪ] ",
+            "options": [
+                "A) n. 旋律 / 主旋律 / 悦耳的音乐 / 悦耳",
+                "B) n. 依赖 / 信任 / 酒瘾 / 毒瘾",
+                "C) n. 乐意"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "memo / 美['memoʊ]  / 英['meməʊ] ",
+            "options": [
+                "A) v. 丢掉 / 处理 / 安置 / 安排",
+                "B) n. <非正式>备忘录",
+                "C) n. 虫 / 蜗杆 / 螺纹 / 小人物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "memoir / 美['memwɑːr]  / 英['memwɑː;-wɔː] ",
+            "options": [
+                "A) n. 作曲家 / 作家，著作者 / 设计者",
+                "B) n. 周报 / 周刊",
+                "C) n. 传记 / 专题学术论文 / 回忆录 / 研究报告"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "memorial / 美[mə'mɔːrɪəl]  / 英[mɪ'mɔːrɪəl] ",
+            "options": [
+                "A) n. 纪念建筑 / 纪念碑 / 纪念馆 / 纪念仪式",
+                "B) n. 混合物 / 混杂的人群 / 缩合词 / 混合",
+                "C) n. 口味 / 韵味 / 香味 / 滋味"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mentor / 美['mentɔːr]  / 英['mentɔː] ",
+            "options": [
+                "A) n. 宽容 / 公差 / 容限 / 耐药性",
+                "B) n. 导师 / 指导者 / 师傅",
+                "C) adj. 激发兴趣的 / 引人注目的 / 令人赞赏的 / 强制的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "merchant / 美['mɜːrtʃənt]  / 英['mɜːtʃənt] ",
+            "options": [
+                "A) n. 商人 / 批发商 / 供应商 / 店主",
+                "B) n. 签证",
+                "C) n. <古><苏格兰>命运，宿命"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mercy / 美['mɜːrsɪ]  / 英['mɜːsɪ] ",
+            "options": [
+                "A) n. 慈悲 / 怜悯 / 宽容 / 解脱",
+                "B) n. 奇迹 / 令人惊叹的产品 / 惊人事例 / 惊人的事例",
+                "C) n. 辞职 / 辞呈 / <棋>认输 / 放弃"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mere / 美[mɪr]  / 英['merɪ] ",
+            "options": [
+                "A) n. 战场",
+                "B) n. 步枪 / 来复枪 / 步枪队",
+                "C) n. <文>湖 / 池塘 / 小湖 / 石棒"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "merely / 美['mɪrlɪ]  / 英['mɪəlɪ] ",
+            "options": [
+                "A) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬",
+                "B) adv. 仅仅 / 只不过 / 纯粹是 / 只是",
+                "C) n. 实施 / 实践 / 执行"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "merge / 美[mɜːrdʒ]  / 英[mɜːdʒ] ",
+            "options": [
+                "A) v. 合并 / 使合并 / 吞没 / 融合",
+                "B) n. 贮藏橱 / 陈列柜 / 内阁 / <古>私人小房间",
+                "C) n. 部分 / 片段 / 时间段 / 段"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "merger / 美['mɜːrdʒər]  / 英['mɜːdʒə] ",
+            "options": [
+                "A) n. 业余爱好者 / 外行 / 爱好者",
+                "B) n. （尤指公司）合并",
+                "C) n. 火箭"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "merit / 美['merɪt]  / 英['merɪt] ",
+            "options": [
+                "A) n. 改正 / 校正 / 上下浮动值 / <北美或旧>惩罚",
+                "B) n. 指导方针，准则",
+                "C) n. 优秀品质 / 优点 / 价值 / 功绩"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "methodology / 美[ˌmeθə'dɑːlədʒɪ]  / 英[meθə'dɒlədʒɪ] ",
+            "options": [
+                "A) n. 方法学 / 方法论 / 系统方法",
+                "B) n. 逮捕证 / 证明 / 正当理由",
+                "C) v. 剥夺对某物的所有 / <古>革职 / 使丧失"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "midst / 美[mɪdst]  / 英[mɪdst] ",
+            "options": [
+                "A) n. 加强的 / 集中的 / 透彻的 / 加强语气的",
+                "B) n. <古>中央 / 当中",
+                "C) n. 播音员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "migration / 美[maɪˈɡreɪʃ(ə)n]  / 英[mʌɪˈɡreɪʃ(ə)n] ",
+            "options": [
+                "A) v. 动员 / 使可移动 / 鼓动 / 利用",
+                "B) n. 移居 / 迁徙 / 洄游 / 转移",
+                "C) n. 民兵组织 / 自卫队 / 义勇军 / 国民军"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "militant / 美['mɪlɪtənt]  / 英['mɪlɪtənt] ",
+            "options": [
+                "A) adj. 即将发生的 / <古>悬垂的 / 即将来临的",
+                "B) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "C) n. 激进分子 / 好斗分子 / 富有战斗精神的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "militia / 美[mə'lɪʃə]  / 英[mɪ'lɪʃə] ",
+            "options": [
+                "A) n. 民兵组织 / 自卫队 / 义勇军 / 国民军",
+                "B) n. 计算 / 评估 / 估定 / 估计",
+                "C) adj. 足够的 / 充足的 / 适当的 / 胜任的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mill / 美[mɪl]  / 英[mɪl] ",
+            "options": [
+                "A) n. 一丛 / 一群 / <天文>星团 / <语言学>辅音群",
+                "B) n. 纪念物 / 纪念碑 / 历史遗迹 / 不朽的作品",
+                "C) n. 磨坊 / 制造厂 / 磨粉机"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "minimal / 美['mɪnɪməl]  / 英['mɪnɪməl] ",
+            "options": [
+                "A) ",
+                "B) v. 调整 / 理算 / 适应 / 校准",
+                "C) adj. 最小的 / 最低限度的 / 可略而不计的 / <艺术>极简抽象艺术的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "minimize / 美['mɪnɪmaɪz]  / 英['mɪnɪmaɪz] ",
+            "options": [
+                "A) v. 使减少到最小量 / 低估 / 轻视 / 使减到最少",
+                "B) n. 蛋白质 / 朊",
+                "C) n. 螺钉 / 螺旋运动 / 螺丝钉 / 吝啬鬼"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mining / 美['maɪnɪŋ]  / 英['maɪnɪŋ] ",
+            "options": [
+                "A) n. 分析者 / 精神分析医师 / 化学分析师",
+                "B) n. 航天探测器 / 调查 / 探针",
+                "C) n. 采矿（业）"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ministry / 美['mɪnɪstrɪ]  / 英['mɪnɪstrɪ] ",
+            "options": [
+                "A) n. 痊愈 / 重新拥有 / 收回 / 回收修理",
+                "B) n. 部 / 牧师职责 / 一任首相的执政期 / 服务",
+                "C) n. 一致 / 符合 / 浓度 / 相容性"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "minute / 美['mɪnɪt]  / 英['mɪnɪt] ",
+            "options": [
+                "A) n. 分 / 刻 / <非正式>一会儿",
+                "B) n. 居民 / 栖居的动物 / <美>取得居住权的人 / 居住者",
+                "C) n. 货物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "miracle / 美['mɪrəkl]  / 英['mɪrək(ə)l] ",
+            "options": [
+                "A) adj. 中世纪的 / 原始的 / 仿中世纪的 / 老式的",
+                "B) n. 奇迹 / 令人惊叹的产品 / 惊人事例 / 惊人的事例",
+                "C) n. 已被宣判有罪的人 / 囚犯 / 罪犯"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "misery / 美['mɪzərɪ]  / 英['mɪzərɪ] ",
+            "options": [
+                "A) n. 拘留 / 延迟 / 挽留 / 课后留校",
+                "B) n. 苦恼 / 苦难 / 可悲情况 / 穷困",
+                "C) v. 扰乱 / 干涉 / 性骚扰 / 妨碍"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "misleading / 美[ˌmɪs'liːdɪŋ]  / 英[mɪs'liːdɪŋ] ",
+            "options": [
+                "A) adj. 彻底的 / 全面的 / 缜密的 / 尽心尽力的",
+                "B) adj. 使人产生误解的 / 导致错误印象的",
+                "C) n. 朋客摇滚乐 / 废物 / 小阿飞 / 年轻无知的人"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "missile / 美['mɪsl]  / 英['mɪsaɪl] ",
+            "options": [
+                "A) n. 投射物 / 飞弹 / 导弹",
+                "B) abbr. for 爱达荷 / 身份证件",
+                "C) n. 彻底的改变 / 转换 / 改革 / 变形"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mob / 美[mɑːb]  / 英[mɒb] ",
+            "options": [
+                "A) n. 人群 / 暴民 / 乌合之众 / 民众",
+                "B) n. （主要作商业用语）饮料",
+                "C) n. 生产 / 制造 / 制造业 / 制成品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mobile / 美['moʊbl]  / 英['məʊbaɪl] ",
+            "options": [
+                "A) n. 好 / 德行 / 美德 / 有益成分",
+                "B) n. <罕>颠覆 / 翻转 / 革命 / 破灭",
+                "C) n. 活动雕塑 / 活动装饰物 / 手机 / 移动电话"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mobility / 美[moʊ'bɪlətɪ]  / 英[məʊ'bɪlətɪ] ",
+            "options": [
+                "A) n. 伤亡者 / 意外事故 / 急诊室 / <喻>受害者",
+                "B) n. 移动能力 / 灵活性 / 流动性 / 移动性",
+                "C) adj. 不足的 / 不够的 / 不胜任的 / 缺乏能力的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mobilize / 美['moʊbəlaɪz]  / 英['məʊbɪlaɪz] ",
+            "options": [
+                "A) n. 毁灭 / 毁坏 / 崩溃 / 灭亡",
+                "B) n. 奇迹 / 令人惊叹的产品 / 惊人事例 / 惊人的事例",
+                "C) v. 动员 / 使可移动 / 鼓动 / 利用"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "modification / 美[ˌmɑːdɪfɪ'keɪʃn]  / 英[ˌmɒdɪfɪ'keɪʃ(ə)n] ",
+            "options": [
+                "A) n. 修改 / 改型 / 改变",
+                "B) v. <英>提供饮食 / 提供所需物 / 考虑 / 迎合",
+                "C) n. 跳跃 / 剧涨 / 突然改变 / 越过处"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "module / 美['mɑːdʒuːl]  / 英['mɒdjuːl] ",
+            "options": [
+                "A) n. 颅骨，头骨",
+                "B) adv. 立即 / 坚持地 / 立即地 / 马上地",
+                "C) n. 组件 / 模件 / 预制件 / 组成单元"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "momentum / 美[moʊ'mentəm]  / 英[mə'mentəm] ",
+            "options": [
+                "A) n. <物理>动量 / 冲量 / 冲力 / 势头",
+                "B) n. 纬线 / 平行圈 / 对应线 / 平行线",
+                "C) adj. 悲惨的 / 可悲的 / 悲痛的 / 悲剧作品的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "monk / 美[mʌŋk]  / 英[mʌŋk] ",
+            "options": [
+                "A) n. 修道士 / 僧侣 / 和尚",
+                "B) adj. 精巧的 / 复杂的 / 详尽的 / 精心设计的",
+                "C) npl. 电子学 / 电路 / 电子器件"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "monopoly / 美[mə'nɑːpəlɪ]  / 英[mə'nɒpəlɪ] ",
+            "options": [
+                "A) n. 限制 / 拘谨 / 低调处理 / 约束",
+                "B) n. 食欲 / 满足人体需要的欲望 / 对…的渴望 / 嗜好",
+                "C) n. 垄断 / 专卖 / 完全控制 / 垄断者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "morality / 美[mə'rælətɪ]  / 英[mə'rælɪtɪ] ",
+            "options": [
+                "A) n. 出价 / 投标 / 努力 / 叫牌",
+                "B) n. 道德准则 / 道德观 / 美德 / 道德",
+                "C) adv. 尤其"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "motive / 美['moʊtɪv]  / 英['məʊtɪv] ",
+            "options": [
+                "A) n. 动机 / 缘由 / 艺术思想 / 主题",
+                "B) n. 角 / 角质物 / 角状物 / 号角",
+                "C) n. 互相关联的事物 / 相辅相成的事物 / 相关物 / 相关联的人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "municipal / 美[mjuː'nɪsɪpl]  / 英[mjʊ'nɪsɪp(ə)l] ",
+            "options": [
+                "A) n. 操作员 / 经营者 / <数>运算符号 / 接线员",
+                "B) n. 膜拜 / 膜拜仪式 / 祭仪 / 狂热信徒",
+                "C) adj. 市的 / 市政府的 / 地方的 / 地方政府的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "mutual / 美['mjuːtʃʊəl]  / 英['mjuːtʃʊəl;-tjʊəl] ",
+            "options": [
+                "A) n. 摆放 / 布置 / 定位球 / 人员配置",
+                "B) n. 利益共享的住房信贷互助会 / 保险公司",
+                "C) adj. 好运的 / 有利的 / 物质上富裕的 / 幸运的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "namely / 美['neɪmlɪ]  / 英['neɪmlɪ] ",
+            "options": [
+                "A) adv. 即 / 那就是 / 也就是 / 即是",
+                "B) n. 加仑 / <英>相当于4.55升",
+                "C) n. 革新 / 变革 / 新方法 / 新产品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nationwide / 美[ˌneɪʃn'waɪd]  / 英['neɪʃ(ə)nwaɪd;-'waɪd] ",
+            "options": [
+                "A) v. 埋没 / 淹没 / 彻底击败 / 受打击",
+                "B) adv. 在全国",
+                "C) adj. 全国范围的 / 全国性的"
+            ],
+            "answer": [
+                "C",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "naval / 美['neɪvl]  / 英['neɪv(ə)l] ",
+            "options": [
+                "A) adj. 海军的 / 海军中的 / 海军船舶的 / 军舰的",
+                "B) n. 静脉 / 血管 / 叶脉 / 性情",
+                "C) adv. 所以 / …之后 / 因此 / 今后"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "neglect / 美[nɪ'ɡlekt]  / 英[nɪ'ɡlekt] ",
+            "options": [
+                "A) n. 忽略 / 疏漏 / 玩忽 / 怠慢",
+                "B) v. 诊断 / 判断所存在问题的性质 / 确定治疗状况 / 断定",
+                "C) n. 重罪"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "neighboring / 美[ˈneɪbərɪŋ]  / 英['neɪb(ə)rɪŋ] ",
+            "options": [
+                "A) v. 阻碍 / 防止 / 抑制 / 禁止",
+                "B) adj. 邻近的",
+                "C) adj. 合格的 / 有能力的 / 能干的 / 足够的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nest / 美[nest]  / 英[nest] ",
+            "options": [
+                "A) v. 计算 / 估计 / 依靠 / 确信",
+                "B) n. 操作员 / 经营者 / <数>运算符号 / 接线员",
+                "C) n. 鸟巢 / 一套 / 穴 / 温床"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "net / 美[net]  / 英[net] ",
+            "options": [
+                "A) n. 二重奏 / 二重唱 / 二人组",
+                "B) n. 罗网 / 网眼织物 / 圈套 / 网络",
+                "C) n. 存款 / 沉积物 / 放置 / 押金"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "newsletter / 美['nuːzletər]  / 英['njuːzletə] ",
+            "options": [
+                "A) n. 理由 / 辩解 / 齐行",
+                "B) n. 勇士 / 经验丰富的战士 / 武士 / 鼓吹战争的人",
+                "C) n. 业务通讯 / 时事通讯"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "niche / 美[niːʃ]  / 英[niːʃ;nɪtʃ] ",
+            "options": [
+                "A) n. 协调人",
+                "B) n. 壁龛 / 合适的职业 / 有利可图的市场",
+                "C) n. 组织 / 薄纸 / 纸巾 / 薄纱"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "noble / 美['noʊbl]  / 英['nəʊb(ə)l] ",
+            "options": [
+                "A) adj. （尤指时间）过长的，冗长的",
+                "B) n. 贵族 / <史>英国金币",
+                "C) adv. 在附近"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nod / 美[nɑːd]  / 英[nɒd] ",
+            "options": [
+                "A) n. 背景 / 背景幕 / 交流声",
+                "B) n. 点头 / 让步 / 打盹 / 摆动",
+                "C) n. 老手 / 退伍军人 / 老兵 / 老运动员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nominate / 美['nɑːmɪneɪt]  / 英['nɒmɪneɪt] ",
+            "options": [
+                "A) n. 誓言 / 发誓 / 许愿",
+                "B) v. 提名 / 确定 / 指定 / 任命",
+                "C) adj. <动>以种名命名的"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "nomination / 美[ˌnɑːmɪ'neɪʃn]  / 英[nɒmɪ'neɪʃ(ə)n] ",
+            "options": [
+                "A) n. 任命 / 提名 / 提名权 / 被提名的人",
+                "B) n. 拉紧 / 绷紧 / 紧张 / 电压",
+                "C) v. 先于 / 处在…的前面 / 走在…的前面 / 领先"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nominee / 美[ˌnɑːmɪ'niː]  / 英[nɒmɪ'niː] ",
+            "options": [
+                "A) n. 被任命者 / 被提名者 / 登记者 / 代名人",
+                "B) adv. 批判性地 / 极其 / 危重地 / 审慎地",
+                "C) n. 表示感激的行动 / 礼物 / <史>贡税"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nonetheless / 美[ˌnʌnðə'les]  / 英[ˌnʌnðə'les] ",
+            "options": [
+                "A) adv. 尽管如此，仍然",
+                "B) n. 登陆处 / 卸货处 / 登陆 / 码头",
+                "C) v. 证明 / 核实 / 证实 / 查证"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nonsense / 美['nɑːnsens]  / 英['nɒns(ə)ns] ",
+            "options": [
+                "A) n. 忠诚 / 忠心 / 忠贞 / 忠实",
+                "B) n. 偏见 / 偏袒 / 斜裁 / <滚木球>偏重心球形",
+                "C) n. 废话 / 愚蠢的行为 / 胡说 / 语言诙谐幽默"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "noon / 美[nuːn]  / 英[nuːn] ",
+            "options": [
+                "A) n. 中午12点 / 中午 / 正午 / 全盛期",
+                "B) n. 痛苦 / 恼怒 / 挫折",
+                "C) n. 咨询 / 辅导 / 建议"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "notable / 美['noʊtəbl]  / 英['nəʊtəb(ə)l] ",
+            "options": [
+                "A) n. 剂量 / 一剂 / 一服 / 接受电离辐射的剂量",
+                "B) n. 名人 / 要人",
+                "C) n. 处理器 / 处理程序 / 加工者 / food processor 的简称"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "notably / 美['noʊtəblɪ]  / 英['nəʊtəblɪ] ",
+            "options": [
+                "A) v. 减少 / 降低 / 使减少 / 使变小",
+                "B) adv. 尤其",
+                "C) n. 自选表演 / 即兴曲 / 自由调 / 志愿者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "notify / 美['noʊtɪfaɪ]  / 英['nəʊtɪfaɪ] ",
+            "options": [
+                "A) v. 知照 / 申报 / 通告 / 公布",
+                "B) n. 优雅 / 恩典 / 期限 / 大人",
+                "C) adv. 密实地 / 强有力地 / 牢固地 / 稳固地 / 坚定地 / 坚决地 / 严格地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "notorious / 美[noʊ'tɔːrɪəs]  / 英[nəʊ'tɔːrɪəs] ",
+            "options": [
+                "A) prep. 对 / 与…相对 / 与…相比 / 对抗",
+                "B) adj. 强壮的 / 活跃的 / 运动员的 / 体育的",
+                "C) adj. 声名狼藉的 / 众所周知的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "novel / 美['nɑːvl]  / 英['nɒv(ə)l] ",
+            "options": [
+                "A) n. 小说 / 小说书",
+                "B) n. 宽度 / 整幅的东西 / 池宽 / 广博",
+                "C) n. 地极区域 / 极 / 极点 / 杆"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "nursery / 美['nɜːrsərɪ]  / 英['nɜːsərɪ] ",
+            "options": [
+                "A) v. 治好 / 恢复 / 减轻 / 和解",
+                "B) n. 幼儿房 / 托儿所 / 苗圃 / 动物养殖场",
+                "C) n. 赌场"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "objection / 美[əb'dʒekʃn]  / 英[əb'dʒekʃ(ə)n] ",
+            "options": [
+                "A) n. 赞成 / 准许 / 同意",
+                "B) n. 反对 / 异议 / 反对的理由 / 妨碍",
+                "C) n. 乐观 / <哲>乐观主义"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "oblige / 美[ə'blaɪdʒ]  / 英[ə'blaɪdʒ] ",
+            "options": [
+                "A) v. 破坏 / 使瓦解 / 使中断 / 使陷于混乱",
+                "B) n. 外来植物 / 外来动物 / 外国种",
+                "C) v. 迫使 / 责成 / 义务"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "obsess / 美[əb'ses]  / 英[əb'ses] ",
+            "options": [
+                "A) v. 迷住 / 缠住 / 使...着迷 / 使...困扰",
+                "B) n. 海啸",
+                "C) v. 丢掉 / 处理 / 安置 / 安排"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "obsession / 美[əb'seʃn]  / 英[əb'seʃ(ə)n] ",
+            "options": [
+                "A) n. 捐献者 / 投稿者 / 捐助者",
+                "B) n. 笨蛋，傻瓜 / 白痴",
+                "C) n. 着迷"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "occasional / 美[ə'keɪʒənl]  / 英[ə'keɪʒ(ə)n(ə)l] ",
+            "options": [
+                "A) n. 垄断 / 专卖 / 完全控制 / 垄断者",
+                "B) adj. 不经常的 / 临时准备的 / 偶然的 / 特殊场合的",
+                "C) adj. 压倒性多数的 / 极其强烈的 / 压倒性的 / 势不可挡的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "occurrence / 美[ə'kɜːrəns]  / 英[ə'kʌrəns] ",
+            "options": [
+                "A) n. 事件 / 发生频率 / 存在",
+                "B) n. 忽略 / 疏漏 / 玩忽 / 怠慢",
+                "C) n. 敬神 / 拜神 / 崇拜 / 爱慕"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "odds / 美[ɑːdz]  / 英[ɒdz] ",
+            "options": [
+                "A) n. 脸颊 / 鲁莽 / 无礼 / 臀部",
+                "B) n. 胜败比率 / 几率 / 不平等 / 差别",
+                "C) n. <物理>辐射 / 辐射作用 / 放射线 / 放射物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "offering / 美['ɔːfərɪŋ]  / 英['ɒfərɪŋ] ",
+            "options": [
+                "A) n. 拘留 / 延迟 / 挽留 / 课后留校",
+                "B) n. <非正式>信息，资料，情报",
+                "C) n. 赠品 / 捐赠物品 / 提供 / 祭品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "offspring / 美['ɔːfsprɪŋ]  / 英['ɒfsprɪŋ] ",
+            "options": [
+                "A) n. 子女 / 幼仔 / <喻>产物 / 结果",
+                "B) n. 接受 / 接收 / 容忍 / 认可",
+                "C) adv. 向前 / 露出 / 以后 / 自…以后"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "operational / 美[ˌɑːpə'reɪʃənl]  / 英[ɒpə'reɪʃ(ə)n(ə)l] ",
+            "options": [
+                "A) adj. 实行的 / 使用的 / 日常业务的 / 操作的",
+                "B) n. 怪物 / 恶魔 / 残酷无情的人 / 残忍的人",
+                "C) n. 占优势的物体 / <遗传>显性性状 / <乐>属音 / 显性"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "opt / 美[ɑːpt]  / 英[ɒpt] ",
+            "options": [
+                "A) pron. 到底是谁",
+                "B) n. 歧视 / 辨别 / 区别 / 判断力",
+                "C) v. 选择，作出抉择"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "optical / 美['ɑːptɪkl]  / 英['ɒptɪk(ə)l] ",
+            "options": [
+                "A) n. 氧符号：O / <化学>氧气",
+                "B) n. 有效 / 正确 / 正当 / 有效",
+                "C) adj. 视觉的 / <物理>可见光谱区的 / 有助于视力的 / 光学的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "optimism / 美['ɑːptɪmɪzəm]  / 英['ɒptɪmɪzəm] ",
+            "options": [
+                "A) n. 乐观 / <哲>乐观主义",
+                "B) adv. 严重地 / 严厉地 / 苛刻地 / 简朴地 / 严肃地 / 极度",
+                "C) adv. 基本上，本质上"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "oral / 美['ɔːrəl]  / 英['ɔːrəl] ",
+            "options": [
+                "A) n. 立法机构",
+                "B) n. 口试",
+                "C) n. 宽带输送信号"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "organizational / 美[ˈˌɔrɡənəˈzeɪʃənl]  / 英[ɔːɡ(ə)nʌɪˈzeɪʃ(ə)n(ə)l] ",
+            "options": [
+                "A) v. 唤起 / 使人想起 / 召 / 博得",
+                "B) adj. 组织的 / 组织上的 / 机构的",
+                "C) n. 航游 / 游弋 / 巡航 / 乘船游览"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "orientation / 美[ˌɔːrɪən'teɪʃn]  / 英[ˌɔːrɪən'teɪʃ(ə)n;ˌɒr-] ",
+            "options": [
+                "A) n. 定位 / 适应 / 方向",
+                "B) n. 侮辱 / 冒犯 / 侮辱物 / 凌辱",
+                "C) n. 爱尔兰葬歌 / 痛哭"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "originate / 美[ə'rɪdʒɪneɪt]  / 英[ə'rɪdʒɪneɪt;ɒ-] ",
+            "options": [
+                "A) n. 斗篷式长袍 / 法衣 / <文>斗篷状物 / 长袍",
+                "B) n. 废话 / 愚蠢的行为 / 胡说 / 语言诙谐幽默",
+                "C) v. 发源 / 创造 / 引起 / 创作"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outbreak / 美['aʊtbreɪk]  / 英['aʊtbreɪk] ",
+            "options": [
+                "A) n. 大屠杀 / 惨败",
+                "B) n. 被揭发出来的事情",
+                "C) n. 爆发 / 发作"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outing / 美['aʊtɪŋ]  / 英['aʊtɪŋ] ",
+            "options": [
+                "A) n. 差异 / 不同 / 多样性",
+                "B) n. 前任 / 前辈 / 原有事物 / 前身",
+                "C) n. 外出游玩 / 外出 / 远足 / 短途旅游"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outlet / 美['aʊtlet]  / 英['aʊtlet] ",
+            "options": [
+                "A) n. 出口 / 商店",
+                "B) n. 支配权 / 影响力 / 优势 / 统治",
+                "C) n. 警惕 / 警报 / 警戒期 / 提示信号"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outlook / 美['aʊtlʊk]  / 英['aʊtlʊk] ",
+            "options": [
+                "A) n. 前景 / 展望 / 景色",
+                "B) n. 教学 / 指导 / 学费 / 讲授",
+                "C) n. 宽容 / 公差 / 容限 / 耐药性"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outrage / 美['aʊtreɪdʒ]  / 英['aʊtreɪdʒ] ",
+            "options": [
+                "A) n. 盛怒 / 愤慨 / 暴行 / 侮辱",
+                "B) n. 法律顾问 / 参赞 / 辅导员 / <美><爱尔兰>律师",
+                "C) n. 球拍 / 蝙蝠 / 球棒 / 批处理文件的扩展名"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "outsider / 美[ˌaʊt'saɪdər]  / 英[aʊt'saɪdə] ",
+            "options": [
+                "A) n. 圈外人 / 不大可能成功的竞争者 / 外人 / 无取胜希望者",
+                "B) adj. 合格的 / 有能力的 / 能干的 / 足够的",
+                "C) adj. 残忍的 / 野蛮的 / 令人不快的 / 苛刻的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overlook / 美[ˌoʊvər'lʊk]  / 英[ˌəʊvə'lʊk] ",
+            "options": [
+                "A) n. 离婚 / 离婚判决 / 分离",
+                "B) n. <北美>居高临下的位置 / 从高处能看到的景色 / 忽视 / 眺望",
+                "C) n. <乐>分音"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overly / 美['oʊvərlɪ]  / 英['əʊvəlɪ] ",
+            "options": [
+                "A) n. 保险费 / 加付款 / 加价 / 奖品",
+                "B) n. 排斥 / 排除 / 驱逐 / 被排除在外的事物",
+                "C) adv. 过度地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "oversee / 美[ˌoʊvər'siː]  / 英[əʊvə'siː] ",
+            "options": [
+                "A) n. 谨慎 / 自由裁量权 / 判断力 / 考虑周到",
+                "B) v. 监督（某人或其工作），管理",
+                "C) v. 插入 / 干预 / 干涉 / 调停"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overturn / 美[ˌoʊvər'tɜːrn]  / 英[ˌəʊvə'tɜːn] ",
+            "options": [
+                "A) adj. 代表大会的 / 国会的",
+                "B) n. <罕>颠覆 / 翻转 / 革命 / 破灭",
+                "C) v. 使合法化，使正当化"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overwhelm / 美[ˌoʊvər'welm]  / 英[əʊvə'welm] ",
+            "options": [
+                "A) adj. 被扰乱的，混乱的",
+                "B) adj. 足够的 / 充分的",
+                "C) v. 埋没 / 淹没 / 彻底击败 / 受打击"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "overwhelming / 美[ˌoʊvər'welmɪŋ]  / 英[əʊvə'welmɪŋ] ",
+            "options": [
+                "A) adj. 压倒性多数的 / 极其强烈的 / 压倒性的 / 势不可挡的",
+                "B) v. 使虚弱 / 减弱 / 变弱 / 减少",
+                "C) n. 修改 / 改型 / 改变"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pad / 美[pæd]  / 英[pæd] ",
+            "options": [
+                "A) n. 诚实 / 正直 / 完整 / 集成度",
+                "B) n. 水坝 / 坝 / 障碍",
+                "C) n. 衬垫 / 护具 / 便笺簿 / 填补"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "parameter / 美[pə'ræmɪtər]  / 英[pə'ræmɪtə] ",
+            "options": [
+                "A) adj. 民主的 / 民主党的 / 大众的 / 主张平等的",
+                "B) n. 标签 / 名称 / 结束语 / 附属物",
+                "C) n. <技>参数 / 参量 / 界限 / 系数"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "parental / 美[pəˈrɛn(t)l]  / 英[pəˈrɛnt(ə)l] ",
+            "options": [
+                "A) adj. 父母的",
+                "B) n. 独家新闻 / 独家专文 / 独家经营的项目 / 排外者",
+                "C) n. 喷射流 / 喷气式飞机 / 喷嘴 / 喷气发动机"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "parliament / 美['pɑːrləmənt]  / 英['pɑːləmənt] ",
+            "options": [
+                "A) n. 议会 / 议会两院 / 全体议员 / 国会",
+                "B) n. 密码 / 口令",
+                "C) n. 地下室 / <地质>基底杂岩 / 地窖"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "partial / 美['pɑːrʃl]  / 英['pɑːʃ(ə)l] ",
+            "options": [
+                "A) n. <乐>分音",
+                "B) n. 可取的东西 / 合意的人 / 合意的人或事物",
+                "C) n. 杂草 / 野草 / 水生植物 / 菸草"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "partially / 美['pɑrʃəli]  / 英['pɑːʃ(ə)lɪ] ",
+            "options": [
+                "A) n. 就任 / 安顿 / 安装 / 就职",
+                "B) adv. 部分地",
+                "C) v. 估计 / 计算"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "passing / 美['pæsɪŋ]  / 英['pɑːsɪŋ] ",
+            "options": [
+                "A) n. 伙伴 / 合作 / 合伙 / [经管] 合伙企业",
+                "B) n. 经过 / 消逝 / 死亡 / 及格",
+                "C) n. 转变 / <律>侵权行为 / 兑换 / 改变信仰"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pastor / 美['pæstər]  / 英['pɑːstə] ",
+            "options": [
+                "A) n. 声乐作品",
+                "B) n. 本堂牧师 / 牧师 / 见 rosy pastor",
+                "C) n. 组成 / 结构 / 构造 / 编队"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "patent / 美['pætnt]  / 英['pæt(ə)nt;'peɪt(ə)nt] ",
+            "options": [
+                "A) ",
+                "B) v. 使改道 / 转移",
+                "C) n. 专利 / 专利证 / 专利权 / 执照"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pathway / 美['pæθweɪ]  / 英['pɑːθweɪ] ",
+            "options": [
+                "A) n. 小径 / 路 / 途径",
+                "B) n. 管弦乐队 / 乐池 / 古希腊剧场舞台前部半圆形的表演区 / 乐队演奏处",
+                "C) n. 跳水 / 潜泳 / 潜水 / 俯冲"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "patrol / 美[pə'troʊl]  / 英[pə'trəʊl] ",
+            "options": [
+                "A) n. 同一品种 / 属 / 类型",
+                "B) adj. 分散的 / 稀疏的",
+                "C) n. 巡逻 / 巡逻队 / 巡查 / 侦察队"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "patron / 美['peɪtrən]  / 英['peɪtrən] ",
+            "options": [
+                "A) n. 资助人 / 顾客 / 赞助人 / 保护人",
+                "B) n. 辩论 / 纠纷 / 争吵",
+                "C) n. 动力 / <乐>同 dynamics / 动态"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "peak / 美[piːk]  / 英[piːk] ",
+            "options": [
+                "A) n. 山峰 / 巅 / 尖顶 / 最高点",
+                "B) adj. 基本的 / 初级的 / 简单的 / 单元素的",
+                "C) n. 订婚 / 预约 / 约会 / 诺言"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "peasant / 美['peznt]  / 英['pez(ə)nt] ",
+            "options": [
+                "A) n. 政变 / 巧妙的一举 / 成功的行动 / 砰然的一击",
+                "B) n. 农民 / 小农 / 雇农 / 乡下人",
+                "C) n. 悲伤 / 麻烦 / 烦恼 / 不幸"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "peculiar / 美[pɪ'kjuːlɪər]  / 英[pɪ'kjuːlɪə] ",
+            "options": [
+                "A) n. 混合物 / 混杂的人群 / 缩合词 / 混合",
+                "B) n. 痕迹 / 微量 / 描记线 / 缰绳",
+                "C) n. <英>特殊教区 / 特权 / 特有财产"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pension / 美['penʃn;pɑːnsɪ'oʊn]  / 英[pɒ̃'sjɒ̃;pɑ̃sjɒ̃] ",
+            "options": [
+                "A) n. 养老金 / 抚恤金 / 养老保险金 / 津贴",
+                "B) n. <非正式>精致的织物",
+                "C) n. 水晶 / 晶制玻璃 / 结晶，晶体 / 水晶饰品"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "persist / 美[pər'sɪst]  / 英[pə'sɪst] ",
+            "options": [
+                "A) v. 上船 / 上飞机 / 从事",
+                "B) v. 坚持 / 执意 / 持续 / 延续",
+                "C) n. 纸盒 / 硬纸盒 / <旧>定期邮轮 / 数据包"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "persistent / 美[pər'sɪstənt]  / 英[pə'sɪstənt] ",
+            "options": [
+                "A) adj. 坚持不懈的 / 执意的 / <植><动>宿存的 / 持久稳固的",
+                "B) n. 衰退 / 不景气 / 后退 / 凹处",
+                "C) adj. 生物体的 / 有机体的 / 组织的 / 器官的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "personnel / 美[ˌpɜːrsə'nel]  / 英[pɜːsə'nel] ",
+            "options": [
+                "A) n. 拥挤的人群 / 迷恋 / 粉碎 / 压榨",
+                "B) n. 统治 / 控制 / 管理 / 支配",
+                "C) npl. 人员 / 人事部门"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "petition / 美[pə'tɪʃn]  / 英[pɪ'tɪʃ(ə)n] ",
+            "options": [
+                "A) n. 螺钉 / 螺旋运动 / 螺丝钉 / 吝啬鬼",
+                "B) n. 请愿书 / 请愿 / 申请 / 祈求",
+                "C) n. 钟爱的人 / 心爱的人 / 亲爱的教友"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "philosopher / 美[fə'lɑːsəfər]  / 英[fɪ'lɒsəfə] ",
+            "options": [
+                "A) n. 王冠 / 顶部 / 王权 / 顶点",
+                "B) adv. 精确地 / 正好 / 仅仅 / 简直",
+                "C) n. 哲学家 / 哲人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "philosophical / 美[ˌfɪlə'sɑːfɪkl]  / 英[fɪlə'sɒfɪk(ə)l] ",
+            "options": [
+                "A) n. 帝国 / 大企业 / 企业集团 / 广泛活动",
+                "B) adj. 泰然自若的 / 哲学的 / 冷静的",
+                "C) n. 规划 / 布局 / 设计 / 安排"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pioneer / 美[ˌpaɪə'nɪr]  / 英[paɪə'nɪə] ",
+            "options": [
+                "A) n. 传记 / 人生历程 / 档案 / 个人简介",
+                "B) n. 凝视 / 特定视角 / 特定角度 / 注视",
+                "C) n. 开拓者 / 开发者 / 倡导者 / 先锋"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pipeline / 美['paɪplaɪn]  / 英['paɪplaɪn] ",
+            "options": [
+                "A) adj. 文学的 / 文学语言的 / 书面的 / 精通文学的",
+                "B) n. 知觉 / 感觉 / 看法 / 洞察力",
+                "C) n. 管道 / 大浪的空心部分 / 输油管 / 传递途径"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pirate / 美['paɪrət]  / 英['paɪrət] ",
+            "options": [
+                "A) n. 插入物 / 插页",
+                "B) n. 脱衣 / 脱衣舞 / 带 / 条状",
+                "C) n. 海盗 / 剽窃者 / 非法无线电节目广播者 / 盗版"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pit / 美[pɪt]  / 英[pɪt] ",
+            "options": [
+                "A) n. 坑 / 矿井 / 陷阱 / 凹陷",
+                "B) n. 排斥 / 排除 / 驱逐 / 被排除在外的事物",
+                "C) v. 举起 / 使上升 / 振奋情绪等 / 提升…的职位"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "plea / 美[pliː]  / 英[pliː] ",
+            "options": [
+                "A) n. 请求 / <律>供词 / 陈述 / 引述",
+                "B) n. 安排 / 处理 / 支配 / 清理",
+                "C) n. 破裂 / 崩溃 / 故障 / 分解"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "plead / 美[pliːd]  / 英[pliːd] ",
+            "options": [
+                "A) n. 大屠杀（尤指种族灭绝）",
+                "B) n. 修改 / 修订 / 修订本 / 订正版",
+                "C) v. 恳求 / 为陈述 / 争辩 / <律>辩护"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pledge / 美[pledʒ]  / 英[pledʒ] ",
+            "options": [
+                "A) adv. 批判性地 / 极其 / 危重地 / 审慎地",
+                "B) n. 保证 / 抵押",
+                "C) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "plug / 美[plʌɡ]  / 英[plʌɡ] ",
+            "options": [
+                "A) n. 喷射流 / 喷气式飞机 / 喷嘴 / 喷气发动机",
+                "B) n. 名声 / 宣传 / 公开 / 广告",
+                "C) n. 堵塞物 / 插头 / 口嚼烟草块 / 塞子"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "plunge / 美[plʌndʒ]  / 英[plʌndʒ] ",
+            "options": [
+                "A) n. 跳入 / 扎入 / 骤然下跌 / 投入",
+                "B) n. <非正式>精致的织物",
+                "C) v. 合作 / 协作 / 勾结 / 通敌"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pole / 美[poʊl]  / 英[pəʊl] ",
+            "options": [
+                "A) n. 高智力者 / 知识分子 / 凭理智做事者",
+                "B) v. 证明 / 核实 / 证实 / 查证",
+                "C) n. 地极区域 / 极 / 极点 / 杆"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pond / 美[pɑːnd]  / 英[pɒnd] ",
+            "options": [
+                "A) n. 池塘 / <非正式>大西洋",
+                "B) n. 外出游玩 / 外出 / 远足 / 短途旅游",
+                "C) n. 幼儿 / 婴儿 / <英>五至七岁的学童 / <律>未成年人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pop / 美[pɑːp]  / 英[pɒp] ",
+            "options": [
+                "A) n. 监护 / 保管 / 拘留 / 抚养权",
+                "B) n. 流行音乐 / 汽水 / 砰然声 / 枪击",
+                "C) n. 操作员 / 经营者 / <数>运算符号 / 接线员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "portfolio / 美[pɔːrt'foʊlɪoʊ]  / 英[pɔːt'fəʊlɪəʊ] ",
+            "options": [
+                "A) n. 文件夹 / 投资组合 / 部长职位 / 公文包",
+                "B) v. 等待 / 等着 / 期待",
+                "C) v. 背叛 / 出卖 / 泄露 / 露出…迹象"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "portray / 美[pɔːr'treɪ]  / 英[pɔː'treɪ] ",
+            "options": [
+                "A) v. 刻画 / 描绘 / 扮演 / 表现",
+                "B) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药",
+                "C) n. 知觉 / 感觉 / 看法 / 洞察力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "postpone / 美[poʊ'spoʊn]  / 英[pəʊs(t)'pəʊn;pə'spəʊn] ",
+            "options": [
+                "A) v. 推迟 / 使…延期 / 把…放在次要地位 / 把…放在后面",
+                "B) adj. 防卫用的 / 百般辩解的 / 自卫的 / 防守的",
+                "C) v. 增强 / 提高 / 加强 / 使更显著"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "practitioner / 美[præk'tɪʃənər]  / 英[præk'tɪʃ(ə)nə] ",
+            "options": [
+                "A) n. 查账 / 审计",
+                "B) n. 开业者 / 从业者 / 执业医生",
+                "C) n. 乐意"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "preach / 美[priːtʃ]  / 英[priːtʃ] ",
+            "options": [
+                "A) n. 美学原则",
+                "B) v. 布道 / 说教 / 鼓吹 / 反复灌输",
+                "C) n. 间歇 / 过渡时期 / 暂定"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "precedent / 美['presɪdənt]  / 英['presɪdənt] ",
+            "options": [
+                "A) v. 为…的成分 / 构成 / 建立 / 任命",
+                "B) n. 爆炸 / 猝发 / 迸发 / 爆发",
+                "C) n. 先例，前例"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "precision / 美[prɪ'sɪʒn]  / 英[prɪ'sɪʒ(ə)n] ",
+            "options": [
+                "A) n. 好 / 德行 / 美德 / 有益成分",
+                "B) v. 忍耐 / 继续存在 / 持久 / 容忍",
+                "C) n. 准确度 / 准确性 / 精密 / 精确"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "predator / 美['predətər]  / 英['predətə] ",
+            "options": [
+                "A) n. 悲伤 / 麻烦 / 烦恼 / 不幸",
+                "B) n. 捕食者 / 食肉动物 / 掠夺者",
+                "C) n. 捆绑 / 困境 / 讨厌的事情 / 植物的藤蔓"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "predecessor / 美['predəsesər]  / 英['priːdɪsesə] ",
+            "options": [
+                "A) n. 前任 / 前辈 / 原有事物 / 前身",
+                "B) n. 可能成功的人 / 有希望成功的人",
+                "C) n. 魔鬼 / 恶棍 / 淘气鬼"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "predominantly / 美[prɪ'dɑːmɪnəntlɪ]  / 英[prɪ'dɒmɪnəntlɪ] ",
+            "options": [
+                "A) adv. 主要地 / 大部分地",
+                "B) n. 论述 / 谈话 / 演讲",
+                "C) n. 杂草 / 野草 / 水生植物 / 菸草"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "pregnancy / 美['preɡnənsɪ]  / 英['preɡnənsɪ] ",
+            "options": [
+                "A) n. 签证",
+                "B) n. 怀孕，妊娠 / 怀孕期，妊娠期",
+                "C) adj. 有特定形状的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prejudice / 美['predʒʊdɪs]  / 英['predʒʊdɪs] ",
+            "options": [
+                "A) n. 朋客摇滚乐 / 废物 / 小阿飞 / 年轻无知的人",
+                "B) n. 先入之见 / 偏见 / 反感 / 侵害",
+                "C) n. 残留物 / 残渣 / 剩余 / 滤渣"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "preliminary / 美[prɪ'lɪmɪnerɪ]  / 英[prɪ'lɪmɪnərɪ] ",
+            "options": [
+                "A) n. <律>指控 / 控诉物 / 起诉书 / 控告",
+                "B) n. 初步做法 / 起始行为 / 预备性事务 / 预赛",
+                "C) n. <逻>前提 / 假定 / 上述各项 / 房屋连地基"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "premier / 美[prɪ'mɪr]  / 英['premɪə;'priː-] ",
+            "options": [
+                "A) v. 使兴奋 / 刺激 / 激励 / 促使",
+                "B) v. 澄清 / 讲清 / 烧熔以清除杂质 / 阐明",
+                "C) n. 首相 / 总理 / <澳>州总理"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "premise / 美['premɪs]  / 英['premɪs] ",
+            "options": [
+                "A) n. <逻>前提 / 假定 / 上述各项 / 房屋连地基",
+                "B) n. 药，药物",
+                "C) n. 道歉 / 勉强替代物 / 辩护"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "premium / 美['priːmɪəm]  / 英['priːmɪəm] ",
+            "options": [
+                "A) n. 牵连 / 参与 / 包含 / 混乱",
+                "B) n. 保险费 / 加付款 / 加价 / 奖品",
+                "C) n. 流行 / 流行程度"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prescribe / 美[prɪ'skraɪb]  / 英[prɪ'skraɪb] ",
+            "options": [
+                "A) n. 战场",
+                "B) adv. 厉害地 / 非常 / 可怕地 / 极度地",
+                "C) v. 开药 / 为…开处方 / 推荐 / 规定"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prescription / 美[prɪ'skrɪpʃn]  / 英[prɪ'skrɪpʃ(ə)n] ",
+            "options": [
+                "A) n. 处方 / 权威推荐 / 规定",
+                "B) v. 开始 / 着手 / <英>获得学位",
+                "C) v. 容许 / 不干预 / 宽恕 / 有耐力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "presently / 美['prezntlɪ]  / 英['prez(ə)ntlɪ] ",
+            "options": [
+                "A) v. 请教 / 向咨询 / 和…商量 / 查阅",
+                "B) adj. 错误的 / 不合规范的 / 不适当的 / 不真实的",
+                "C) adv. 不久 / 一会儿 / 目前"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "preservation / 美[ˌprezər'veɪʃn]  / 英[prezə'veɪʃ(ə)n] ",
+            "options": [
+                "A) n. 保护 / 保养 / 保存",
+                "B) adj. 长期的 / 经常复发的 / 慢性的 / 习惯性的",
+                "C) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "preside / 美[prɪ'zaɪd]  / 英[prɪ'zaɪd] ",
+            "options": [
+                "A) adj. 吸引人的 / 求助的 / 动人的 / 恳求似的",
+                "B) v. 主持 / 领奏 / 主管某地 / 掌管",
+                "C) n. 提示 / 暗示 / 线索 / 行动信号"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "presidency / 美['prezɪdənsɪ]  / 英['prezɪdənsɪ] ",
+            "options": [
+                "A) n. 优秀 / 美德 / 长处",
+                "B) n. 总统职务 / 总统的职位 / 管辖 / 支配",
+                "C) adj. 沿直线的 / 线形的 / 连续的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prestigious / 美[pre'stɪdʒəs]  / 英[pre'stɪdʒəs] ",
+            "options": [
+                "A) n. 脱衣 / 脱衣舞 / 带 / 条状",
+                "B) n. 擦 / 抹布 / 划变 / 擦拭",
+                "C) adj. 有名望的 / 享有声望的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "presumably / 美[prɪ'zuːməblɪ]  / 英[prɪ'zjuːməblɪ] ",
+            "options": [
+                "A) adv. 据推测 / 大概 / 可能 / 推测起来",
+                "B) n. 硬设备 / 硬件 / 五金器具 / 计算机硬件",
+                "C) n. 船 / 舰 / 容器 / 血管"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "presume / 美[prɪ'zuːm]  / 英[prɪ'zjuːm] ",
+            "options": [
+                "A) n. 地极区域 / 极 / 极点 / 杆",
+                "B) v. 推测 / 假定 / 擅自",
+                "C) n. 蛋白质 / 朊"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prevail / 美[prɪ'veɪl]  / 英[prɪ'veɪl] ",
+            "options": [
+                "A) n. 部 / 牧师职责 / 一任首相的执政期 / 服务",
+                "B) v. 占优势 / 获胜 / 盛行 / 劝服",
+                "C) n. 订婚 / 预约 / 约会 / 诺言"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prevalence / 美[ˈprɛv(ə)ləns]  / 英[ˈprɛv(ə)l(ə)ns] ",
+            "options": [
+                "A) adv. 相当多地",
+                "B) n. 竞争对手 / 可与…匹敌的人 / 对手 / 竞争者",
+                "C) n. 流行 / 流行程度"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prevention / 美[prɪ'venʃn]  / 英[prɪ'venʃn] ",
+            "options": [
+                "A) n. 活版架 / 追逐 / 追赶 / 追击",
+                "B) n. 防止 / 预防 / 妨碍 / 阻止",
+                "C) n. 玩电脑游戏"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "prey / 美[preɪ]  / 英[preɪ] ",
+            "options": [
+                "A) n. 不公正 / 不讲道义",
+                "B) adj. 机构的 / 类似机构的 / 旨在营造声誉的 / 制度的",
+                "C) n. 捕获物 / 受损害者 / 脆弱的人 / 捕食"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "privatization / 美[ˌpraɪvədəˈzeɪʃ(ə)n]  / 英[prʌɪvətʌɪˈzeɪʃ(ə)n] ",
+            "options": [
+                "A) n. 私有化",
+                "B) n. 推动 / <北美>来自下方的推力 / 帮助 / 宣扬",
+                "C) n. 透明，透明性，透明度 / 幻灯片"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "privilege / 美['prɪvəlɪdʒ]  / 英['prɪvɪlɪdʒ] ",
+            "options": [
+                "A) n. 限制 / 局限 / 拘束 / 强制",
+                "B) n. 代表团 / 代表 / 授权 / 委托",
+                "C) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "probe / 美[proʊb]  / 英[prəʊb] ",
+            "options": [
+                "A) v. 背离 / 出发 / 去世",
+                "B) v. 劝使 / 引诱 / 导致 / <医>引产",
+                "C) n. 航天探测器 / 调查 / 探针"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "problematic / 美[ˌprɑːblə'mætɪk]  / 英[prɒblə'mætɪk] ",
+            "options": [
+                "A) n. 成问题之事",
+                "B) n. 会员身份 / 会员数 / 全体会员 / 资格",
+                "C) n. 蚊子"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "proceeds / 美['proʊsiːdz]  / 英['prəʊsiːdz] ",
+            "options": [
+                "A) n. 收入 / 收益 / 实收款项",
+                "B) n. <喻>尖刻的言语 / <化>质子供体 / 酸 / <俚>迷幻药",
+                "C) n. 高智力者 / 知识分子 / 凭理智做事者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "processing / 美[ˈprɑsəsɪŋ]  / 英[ˈprəʊsɛsɪŋ] ",
+            "options": [
+                "A) n. 疼痛 / 痛苦",
+                "B) n. 处理 / 加工 / 冲洗",
+                "C) n. 密度 / 不透性 / 暗度 / <计算机>信息密度"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "processor / 美['prɑːsesər]  / 英['prəʊsesə] ",
+            "options": [
+                "A) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "B) n. 处理器 / 处理程序 / 加工者 / food processor 的简称",
+                "C) n. 抽彩给奖法 / 彩票 / 碰运气的事 / 难算计的事"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "proclaim / 美[prə'kleɪm]  / 英[prə'kleɪm] ",
+            "options": [
+                "A) n. 检测",
+                "B) adj. 有害的 / 破坏性的",
+                "C) v. 宣告 / 声明 / 强调 / 声称"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "productive / 美[prə'dʌktɪv]  / 英[prə'dʌktɪv] ",
+            "options": [
+                "A) adj. 多产的 / 富饶的 / 肥沃的",
+                "B) adj. 致命的 / 灾难性的 / 重大的 / 毁灭性的",
+                "C) v. 隐藏 / 掩盖 / 隐瞒"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "productivity / 美[ˌprɑːdʌk'tɪvətɪ]  / 英[prɒdʌk'tɪvɪtɪ] ",
+            "options": [
+                "A) n. 生产力 / 生产率 / 繁殖力 / 生产能力",
+                "B) v. 抢劫 / 使丧失 / 使…丧失 / 非法剥夺",
+                "C) n. 女权主义者 / 女权运动者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "profound / 美[prə'faʊnd]  / 英[prə'faʊnd] ",
+            "options": [
+                "A) adv. 坦白地 / 诚实地",
+                "B) adv. 自由地 / 随心所欲地 / 大量地 / 直爽地",
+                "C) n. <文>海洋 / 心灵深处"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "recruitment / 美[rɪ'kruːtmənt]  / 英[rɪ'kruːtmənt] ",
+            "options": [
+                "A) n. 定位 / 适应 / 方向",
+                "B) n. 喜欢 / 疾患 / 感情 / 感染",
+                "C) n. 招募 / 补充 / 征募新兵 / <生态>增长"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "replace / 美[rɪ'pleɪs]  / 英[rɪ'pleɪs] ",
+            "options": [
+                "A) n. 保护 / 保存 / 修复 / 节约",
+                "B) n. 壮举，功绩",
+                "C) v. 代替 / 放回 / 更换 / 把…放回原处"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reportedly / 美[rɪ'pɔːrtɪdlɪ]  / 英[rɪ'pɔːtɪdlɪ] ",
+            "options": [
+                "A) n. 放入物 / 被操作物 / 投入 / 输入电路",
+                "B) n. 信任 / 信誉 / 可信性 / 确实性",
+                "C) adv. 据传，据报道"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "representation / 美[ˌreprɪzen'teɪʃn]  / 英[ˌreprɪzen'teɪʃ(ə)n] ",
+            "options": [
+                "A) n. 紧抓 / 紧握 / 理解 / 控制",
+                "B) n. 海盗 / 剽窃者 / 非法无线电节目广播者 / 盗版",
+                "C) n. 代表 / 描述 / 陈述 / 表现"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reproduce / 美[ˌriːprə'duːs]  / 英[riːprə'djuːs] ",
+            "options": [
+                "A) v. 打扰 / 弄醒 / 使不安 / 使恼怒",
+                "B) v. 再生产 / 仿造 / 复制 / 再生",
+                "C) adj. 有用的 / 手边的 / 灵巧的 / 便利的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reproduction / 美[ˌriːprə'dʌkʃn]  / 英[riːprə'dʌkʃ(ə)n] ",
+            "options": [
+                "A) n. 容忍 / 耐心 / 耐性 / <英>单人纸牌戏",
+                "B) n. 复印 / 繁育 / 复制品 / 复制",
+                "C) adj. 有指望的 / 有出息的 / 有希望的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "republic / 美[rɪ'pʌblɪk]  / 英[rɪ'pʌblɪk] ",
+            "options": [
+                "A) n. 订婚 / 预约 / 约会 / 诺言",
+                "B) n. 化石 / 僵化的人 / 僵化的事物 / 顽固不化的人",
+                "C) n. 共和国 / <古>团体 / 共和政体"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reside / 美[rɪ'zaɪd]  / 英[rɪ'zaɪd] ",
+            "options": [
+                "A) v. 居住 / 位 / 属 / 存在",
+                "B) adj. 不友善的 / 敌对的 / 敌军的 / 反对的",
+                "C) n. 骚乱 / 聚众闹事"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "residential / 美[ˌrezɪ'denʃl]  / 英[rezɪ'denʃ(ə)l] ",
+            "options": [
+                "A) adj. 作住所用的 / 与居住有关的 / 提供寄宿的",
+                "B) adv. 充分地 / 足够地 / 合适地",
+                "C) n. 衰退 / 不景气 / 后退 / 凹处"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "residue / 美['rezɪduː]  / 英['rezɪdjuː] ",
+            "options": [
+                "A) n. 残留物 / 残渣 / 剩余 / 滤渣",
+                "B) n. 假定 / 设想 / 承担 / 采取",
+                "C) n. 不确定性 / 不确信 / 不确定 / 靠不住"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "resignation / 美[ˌrezɪɡ'neɪʃn]  / 英[rezɪɡ'neɪʃ(ə)n] ",
+            "options": [
+                "A) n. 残疾 / 无资格 / 无能 / 不利条件",
+                "B) adj. 民主的 / 民主党的 / 大众的 / 主张平等的",
+                "C) n. 辞职 / 辞呈 / <棋>认输 / 放弃"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "resistance / 美[rɪ'zɪstəns]  / 英[rɪ'zɪstəns] ",
+            "options": [
+                "A) n. 中心语句 / 广告口号 / 标语 / 呐喊声",
+                "B) n. 反抗 / 抵抗力 / 电阻 / 阻力",
+                "C) n. 货摊 / 牧师专座 / 畜栏 / 托辞"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "respective / 美[rɪ'spektɪv]  / 英[rɪ'spektɪv] ",
+            "options": [
+                "A) adj. 各自的 / 分别的",
+                "B) n. 发言人 / 代言人",
+                "C) n. 加强的 / 集中的 / 透彻的 / 加强语气的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "respectively / 美[rɪ'spektɪvlɪ]  / 英[rɪ'spektɪvlɪ] ",
+            "options": [
+                "A) n. 视平线 / 视野 / 眼界 / 范围",
+                "B) n. 学者 / 有学习天分的人 / 大学奖学金获得者 / 奖学金获得者",
+                "C) adv. 各自地 / 分别地"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "restoration / 美[ˌrestə'reɪʃn]  / 英[restə'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 归还 / 恢复 / 恢复原有地位 / 王政复辟",
+                "B) n. 大屠杀 / 惨败",
+                "C) n. 悲剧性事件 / 惨案 / 悲剧作品 / 悲剧"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "restraint / 美[rɪ'streɪnt]  / 英[rɪ'streɪnt] ",
+            "options": [
+                "A) n. <数>积分 / 满足微分方程的函数 / 部分 / 完整",
+                "B) n. 限制 / 拘谨 / 低调处理 / 约束",
+                "C) adj. 农业的 / <英>笨拙的 / 农艺的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "resume / 美[rɪ'zuːm]  / 英[rɪ'zjuːm] ",
+            "options": [
+                "A) n. 摘要 / 履历",
+                "B) n. 庙宇 / 寺院 / 神殿 / 太阳穴",
+                "C) v. 先于 / 处在…的前面 / 走在…的前面 / 领先"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "retreat / 美[rɪ'triːt]  / 英[rɪ'triːt] ",
+            "options": [
+                "A) v. 使确信 / 保证 / 担保 / 弄清楚",
+                "B) n. 撤退 / 退却 / 撤退信号 / 静居处",
+                "C) n. 悲剧性事件 / 惨案 / 悲剧作品 / 悲剧"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "retrieve / 美[rɪ'triːv]  / 英[rɪ'triːv] ",
+            "options": [
+                "A) v. 为…的成分 / 构成 / 建立 / 任命",
+                "B) n. 找回 / <古>恢复的可能性 / 检索 / 恢复",
+                "C) v. 怀感激之心 / 祝福 / 保佑 / 赞美"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "revelation / 美[ˌrevə'leɪʃn]  / 英[revə'leɪʃ(ə)n] ",
+            "options": [
+                "A) v. 称做… / 定名为… / 使…有权利",
+                "B) n. 启示 / 揭露 / 出乎意料的事 / 被揭露的真相",
+                "C) n. 人质 / 抵押品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "reverse / 美[rɪ'vɜːrs]  / 英[rɪ'vɜːs] ",
+            "options": [
+                "A) n. 利益共享的住房信贷互助会 / 保险公司",
+                "B) n. 收入 / 收益 / 实收款项",
+                "C) n. 逆向 / 背面 / 相反 / 倒退"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "revival / 美[rɪ'vaɪvl]  / 英[rɪ'vaɪv(ə)l] ",
+            "options": [
+                "A) adv. 必然地 / 不可避免地 / 不出所料地",
+                "B) n. 管弦乐队 / 乐池 / 古希腊剧场舞台前部半圆形的表演区 / 乐队演奏处",
+                "C) n. 改善 / 复兴 / 苏醒 / 再生效"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "revive / 美[rɪ'vaɪv]  / 英[rɪ'vaɪv] ",
+            "options": [
+                "A) n. 捕获物 / 受损害者 / 脆弱的人 / 捕食",
+                "B) v. 使复活 / 使重振活力 / 苏醒 / 恢复精神",
+                "C) n. 重击 / 震惊 / 失望 / 开花"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "revolutionary / 美[ˌrevə'luːʃənerɪ]  / 英[revə'luːʃ(ə)n(ə)rɪ] ",
+            "options": [
+                "A) adj. 较少的 / 次要的 / 更小的 / 条件或档次较低的",
+                "B) n. 加强的 / 集中的 / 透彻的 / 加强语气的",
+                "C) n. 革命者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rhetoric / 美['retərɪk]  / 英['retərɪk] ",
+            "options": [
+                "A) n. 修辞，修辞学",
+                "B) adj. 意识形态的",
+                "C) n. 采矿（业）"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rifle / 美['raɪfl]  / 英['raɪf(ə)l] ",
+            "options": [
+                "A) n. 步枪 / 来复枪 / 步枪队",
+                "B) n. 摘要，概要 / <北美>简历，履历",
+                "C) adv. 尽管如此，仍然"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "riot / 美['raɪət]  / 英['raɪət] ",
+            "options": [
+                "A) n. 骚乱 / 聚众闹事",
+                "B) adj. 有效的 / 确凿的 / 令人信服的 / 具有法律效力的",
+                "C) n. 喷射流 / 喷气式飞机 / 喷嘴 / 喷气发动机"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rip / 美[rɪp]  / 英[rɪp] ",
+            "options": [
+                "A) n. 评论 / 批评 / 评论文章",
+                "B) n. 长裂缝 / 裂口 / 偷窃 / 冒牌货",
+                "C) abbr. 艾滋病，获得性免疫缺陷综合征"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ritual / 美['rɪtʃʊəl]  / 英['rɪtʃʊəl] ",
+            "options": [
+                "A) n. 庄严仪式 / 惯例 / 礼制 / 老规矩",
+                "B) n. 忧虑 / 紧张 / <精神病学>焦虑症 / 渴望",
+                "C) n. 一部分 / 一定数量 / 一节 / 一片"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "robust / 美[roʊ'bʌst]  / 英[rəʊ'bʌst] ",
+            "options": [
+                "A) adj. 强壮的 / 健康的 / 粗野的 / 坚挺的",
+                "B) n. 合唱团 / 唱诗班 / 声部 / 教士席位",
+                "C) n. 混凝土 / 具体物 / 凝结物"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rock / 美[rɑːk]  / 英[rɒk] ",
+            "options": [
+                "A) n. 岩石 / 强壮的人 / 摇滚乐 / 暗礁",
+                "B) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物",
+                "C) n. 匍匐前进 / 自由泳 / 爬行"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rod / 美[rɑːd]  / 英[rɒd] ",
+            "options": [
+                "A) n. 联系 / 关联 / 相互关系 / <统计>相关数",
+                "B) n. 经销商 / 发牌者 / 交易员 / 商人",
+                "C) n. 杆 / 竿 / 棒"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rookie / 美['rʊkɪ]  / 英['rʊkɪ] ",
+            "options": [
+                "A) n. 新手 / 新队员 / <非正式>新兵",
+                "B) n. 悲伤 / 麻烦 / 烦恼 / 不幸",
+                "C) n. 背书 / 赞同 / 违章记录 / 票据签字"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "roster / 美['rɑːstər]  / 英['rɒstə;'rəʊst-] ",
+            "options": [
+                "A) n. 割下的东西 / 路堑 / 河道 / 剪辑",
+                "B) v. 使活跃 / 刺激 / 使活泼 / 使产生放射性",
+                "C) n. 值勤人员表 / 值勤登记表 / 花名册"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rotate / 美['roʊteɪt]  / 英[rəʊ'teɪt] ",
+            "options": [
+                "A) v. 操作 / 使用 / 控制 / 编辑",
+                "B) v. 旋转 / 转动 / 使旋转 / 轮流",
+                "C) adv. 在下方 / 在下层 / 在背后 / 在里面"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "rotation / 美[roʊ'teɪʃn]  / 英[rə(ʊ)'teɪʃ(ə)n] ",
+            "options": [
+                "A) n. 蒸汽 / 蒸气膨胀力 / 蒸汽机车 / 精力",
+                "B) v. 超过 / 胜过",
+                "C) n. 旋转 / 转动 / 轮流 / <林>轮伐期"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "ruling / 美['ruːlɪŋ]  / 英['ruːlɪŋ] ",
+            "options": [
+                "A) n. 视平线 / 视野 / 眼界 / 范围",
+                "B) n. （尤指法官的）裁决，裁定",
+                "C) n. 保险费 / 加付款 / 加价 / 奖品"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sacred / 美['seɪkrɪd]  / 英['seɪkrɪd] ",
+            "options": [
+                "A) n. 女同性恋者",
+                "B) adj. 附近的",
+                "C) adj. 神圣的 / 宗教的 / 神的 / 庄严的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sacrifice / 美['sækrɪfaɪs]  / 英['sækrɪfaɪs] ",
+            "options": [
+                "A) n. 献祭 / 供奉 / 祭献的动物 / 祭品",
+                "B) n. 化学方程式 / 方程式",
+                "C) n. 纪念建筑 / 纪念碑 / 纪念馆 / 纪念仪式"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "saint / 美[seɪnt]  / 英[seɪnt;snt] ",
+            "options": [
+                "A) n. 岩石 / 强壮的人 / 摇滚乐 / 暗礁",
+                "B) n. 圣人 / 至善的人 / 圣 / 圣徒",
+                "C) v. 合并 / 使合并 / 吞没 / 融合"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sake / 美[seɪk;'sɑːkɪ]  / 英['sɑːkɪ;'sækeɪ] ",
+            "options": [
+                "A) n. 目的 / 利益 / 理由 / 日本米酒",
+                "B) v. 使撤离危险地带 / 疏散 / 排空 / 排泄",
+                "C) adv. 讽刺地 / 说反话地 / 令人啼笑皆非地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sanction / 美['sæŋkʃn]  / 英['sæŋ(k)ʃ(ə)n] ",
+            "options": [
+                "A) n. 司令部 / 指挥部 / 总部",
+                "B) n. 主教 / （国际象棋的）象",
+                "C) n. 准许 / 批准 / 制裁 / 支持"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "say / 美[seɪ]  / 英[seɪ] ",
+            "options": [
+                "A) n. 证明 / 示威集会 / 示范 / 感情流露",
+                "B) n. 点 / 小圆点 / 微小的东西 / 嫁妆",
+                "C) n. 发言机会 / 发言权 / 决策权"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scattered / 美[ˈskædərd]  / 英[ˈskatəd] ",
+            "options": [
+                "A) n. 葬礼 / <美>葬礼上的布道 / 麻烦事",
+                "B) n. 协调 / <化>络合 / 配位 / 对等",
+                "C) adj. 分散的 / 稀疏的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scope / 美[skoʊp]  / 英[skəʊp] ",
+            "options": [
+                "A) adj. 频繁的 / 惯常的 / <古>间隔很近的 / 时常发生的",
+                "B) n. 腕 / 膝关节 / 翅膀 / 手腕",
+                "C) n. 范围 / 视野 / 眼界 / 导弹射程"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "screw / 美[skruː]  / 英[skruː] ",
+            "options": [
+                "A) n. 门槛 / 临界点 / 开端 / 极限",
+                "B) n. 螺钉 / 螺旋运动 / 螺丝钉 / 吝啬鬼",
+                "C) n. 接合点 / 边缘区域 / 联系装置 / 交界面"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "scrutiny / 美['skruːtənɪ]  / 英['skruːtɪnɪ] ",
+            "options": [
+                "A) adj. 远离的 / 遥远的 / 孤立的 / 分离的",
+                "B) adv. 现 / 现今 / 时下",
+                "C) n. 仔细观察 / 详细审查"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "seal / 美[siːl]  / 英[siːl] ",
+            "options": [
+                "A) n. 播音员",
+                "B) n. 封条 / 密封 / 印章 / 海豹",
+                "C) n. 产量 / 产物 / 利润 / 收益"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "secondly / 美['sekəndlɪ]  / 英['sekəndlɪ] ",
+            "options": [
+                "A) v. 使合法化，使正当化",
+                "B) n. 优秀品质 / 优点 / 价值 / 功绩",
+                "C) adv. 第二 / 其次"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "secular / 美['sekjələr]  / 英['sekjʊlə] ",
+            "options": [
+                "A) n. 在俗牧师",
+                "B) n. 现场演奏会 / 旋转物 / 鱼叉 / 临时工作",
+                "C) adv. <爱尔兰>非常 / 极其"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "seemingly / 美['siːmɪŋlɪ]  / 英['siːmɪŋlɪ] ",
+            "options": [
+                "A) n. 谈判，洽谈",
+                "B) n. 海啸",
+                "C) adv. 表面上 / 显得 / 好像 / 看来似乎"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "segment / 美['seɡmənt]  / 英['seɡmənt] ",
+            "options": [
+                "A) n. 酷刑 / 刑讯 / 折磨 / 忧虑",
+                "B) n. 部分 / 片段 / 时间段 / 段",
+                "C) n. 腹部 / 毅力 / 肠线 / 狭道"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "seize / 美[siːz]  / 英[siːz] ",
+            "options": [
+                "A) n. 捕获物 / 受损害者 / 脆弱的人 / 捕食",
+                "B) v. 抓住 / 夺取 / 理解 / 逮捕",
+                "C) n. 天性 / 本能 / 天赋 / 直觉"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "seldom / 美['seldəm]  / 英['seldəm] ",
+            "options": [
+                "A) v. 位于...之下（underlie 的现在分词）",
+                "B) adv. 不经常 / 很少",
+                "C) adj. <旧>不常见的 / 不经常的"
+            ],
+            "answer": [
+                "B",
+                "C"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "selective / 美[sɪ'lektɪv]  / 英[sɪ'lektɪv] ",
+            "options": [
+                "A) n. 栏杆 / 铁轨 / 扶手 / 围栏",
+                "B) n. 被揭发出来的事情",
+                "C) adj. 挑选的 / 选择的 / 选择性的 / 挑剔的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sensation / 美[sen'seɪʃn]  / 英[sen'seɪʃ(ə)n] ",
+            "options": [
+                "A) n. 感觉 / 知觉 / 轰动 / 觉察",
+                "B) v. 控制 / 调节 / 调整 / 校准",
+                "C) n. 修道士 / 僧侣 / 和尚"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sensitivity / 美[ˌsensə'tɪvətɪ]  / 英[sensɪ'tɪvɪtɪ] ",
+            "options": [
+                "A) n. 复印 / 繁育 / 复制品 / 复制",
+                "B) n. 敏感 / 敏锐 / 敏感性 / 过敏",
+                "C) n. 天赋 / 科 / 院 / 全体教员"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sentiment / 美['sentɪmənt]  / 英['sentɪmənt] ",
+            "options": [
+                "A) n. 水井 / 油井 / 天然气井 / 井",
+                "B) n. 观点 / 感觉 / 情绪 / 感伤",
+                "C) n. 兴旺 / 茂盛 / 炫耀"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "separation / 美[ˌsepə'reɪʃn]  / 英[sepə'reɪʃ(ə)n] ",
+            "options": [
+                "A) n. 分开 / 分居 / 辨别 / 离析",
+                "B) n. 音频信号 / 声音",
+                "C) n. 就任 / 安顿 / 安装 / 就职"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "serial / 美['sɪrɪəl]  / 英['sɪərɪəl] ",
+            "options": [
+                "A) n. 连载小说 / 连续剧 / 电视连续剧 / 期刊",
+                "B) n. 安排 / 设计 / 样式 / 格式",
+                "C) n. 集合 / 组装 / 议会 / 装配"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "settlement / 美['setlmənt]  / 英['set(ə)lm(ə)nt] ",
+            "options": [
+                "A) v. 指派 / 任命",
+                "B) n. 正式协议 / 清账 / 解决 / 殖民",
+                "C) n. 中心语句 / 广告口号 / 标语 / 呐喊声"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "sexuality / 美[ˌsekʃʊ'ælətɪ]  / 英[ˌseksjʊ'ælɪtɪ;ˌsekʃʊ-] ",
+            "options": [
+                "A) n. 创造性",
+                "B) n. 性欲 / 性能力 / [胚]性别 / 性偏好",
+                "C) adj. 遥远的 / 不亲密的 / 矜持的 / 冷淡的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shatter / 美['ʃætər]  / 英['ʃætə] ",
+            "options": [
+                "A) v. 粉碎 / 砸碎 / 破坏 / 使散开",
+                "B) n. 逆向 / 背面 / 相反 / 倒退",
+                "C) n. 肥胖"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shed / 美[ʃed]  / 英[ʃed] ",
+            "options": [
+                "A) n. 棚式建筑 / 货棚 / 牲口棚 / 工作棚",
+                "B) n. 名声 / 宣传 / 公开 / 广告",
+                "C) n. 创造者 / 创作者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "shipping / 美['ʃɪpɪŋ]  / 英['ʃɪpɪŋ] ",
+            "options": [
+                "A) n. 出席 / 在场人数 / 到场 / 出席人数",
+                "B) n. 船舶 / 船舶吨数 / 海运 / 运送",
+                "C) n. 转变 / <律>侵权行为 / 兑换 / 改变信仰"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "stereotype / 美['sterɪətaɪp]  / 英['sterɪə(ʊ)taɪp;'stɪərɪə(ʊ)-] ",
+            "options": [
+                "A) n. 陈规 / 铅版 / 陈腔滥调 / 旧框框",
+                "B) adj. 可辨别的 / 有区别的 / 分开的 / 独特的",
+                "C) v. 迷住 / 缠住 / 使...着迷 / 使...困扰"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "strip / 美[strɪp]  / 英[strɪp] ",
+            "options": [
+                "A) n. 脱衣 / 脱衣舞 / 带 / 条状",
+                "B) n. 性欲 / 性能力 / [胚]性别 / 性偏好",
+                "C) n. 硬设备 / 硬件 / 五金器具 / 计算机硬件"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "threshold / 美['θreʃhoʊld]  / 英['θreʃəʊld;'θreʃˌhəʊld] ",
+            "options": [
+                "A) n. <英>货运 / 运输 / 四轮马车 / 客车厢",
+                "B) n. 门槛 / 临界点 / 开端 / 极限",
+                "C) n. 放入物 / 被操作物 / 投入 / 输入电路"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "thrilled / 美[θrɪld]  / 英[θrɪld] ",
+            "options": [
+                "A) n. 外科医生 / 海军的医生",
+                "B) v. 同时发生 / 在同一地点同一时间在场 / 一致 / 重合",
+                "C) adj. 非常兴奋的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "thrive / 美[θraɪv]  / 英[θraɪv] ",
+            "options": [
+                "A) adj. 裸露的 / 无覆盖的 / 裸体的 / 直率的",
+                "B) v. 茁壮成长 / 植物茂盛生长 / 繁荣",
+                "C) n. 交易 / 办理 / 交流 / 议事录"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tide / 美[taɪd]  / 英[taɪd] ",
+            "options": [
+                "A) n. 潮 / 潮水 / 浪潮 / 潮汐",
+                "B) v. 制订 / 规划 / 用公式表示 / 明确地表达",
+                "C) pron. 到底是谁"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tighten / 美['taɪtn]  / 英['taɪt(ə)n] ",
+            "options": [
+                "A) adj. 平衡的 / 协调的 / 和谐的 / 安定的",
+                "B) v. 变紧 / 绷紧 / 变得更严格 / 使变紧",
+                "C) adv. 以某种方式 / 用某种方法 / 以某种方法 / 莫名其妙地"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "timber / 美['tɪmbər]  / 英['tɪmbə] ",
+            "options": [
+                "A) n. 现场演奏会 / 旋转物 / 鱼叉 / 临时工作",
+                "B) n. 木材 / 原木 / 树木 / 大木料",
+                "C) n. 断言 / 主张 / 坚持 / 认定"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "timely / 美['taɪmlɪ]  / 英['taɪmlɪ] ",
+            "options": [
+                "A) n. 蜂蜜 / 黄褐色 / 宝贝 / 甜蜜",
+                "B) adj. 及时的 / 适时的",
+                "C) n. 害怕 / 惊吓 / 恐慌 / 惊恐"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tobacco / 美[tə'bækoʊ]  / 英[tə'bækəʊ] ",
+            "options": [
+                "A) n. 烟草制品 / 烟草 / 抽烟",
+                "B) adj. 未实现的 / 不持久的 / 失败的 / 有故障的",
+                "C) adj. 组织的 / 组织上的 / 机构的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tolerance / 美['tɑːlərəns]  / 英['tɒlərəns] ",
+            "options": [
+                "A) n. 道歉 / 勉强替代物 / 辩护",
+                "B) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "C) n. 宽容 / 公差 / 容限 / 耐药性"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tolerate / 美['tɑːləreɪt]  / 英['tɒləreɪt] ",
+            "options": [
+                "A) adj. 令人不安的",
+                "B) v. 容许 / 不干预 / 宽恕 / 有耐力",
+                "C) v. 面对 / 对抗 / 遭遇 / 比较"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "toll / 美[toʊl]  / 英[təʊl] ",
+            "options": [
+                "A) n. 伤亡人数 / 通行费 / 代价 / 钟声",
+                "B) n. 鸡尾酒 / 开胃冷菜 / 开胃食品 / 混合因素",
+                "C) n. （步枪、手枪等）便携枪"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "top / 美[tɑːp]  / 英[tɒp] ",
+            "options": [
+                "A) adv. 每年",
+                "B) n. 满意 / 满足 / 投赞成票的贵族院议员 / 容量",
+                "C) n. 盖 / 顶部，顶端 / 上部"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "torture / 美['tɔːrtʃər]  / 英['tɔːtʃə] ",
+            "options": [
+                "A) n. 垃圾 / 一窝 / 铺垫物",
+                "B) n. 创造性",
+                "C) n. 酷刑 / 刑讯 / 折磨 / 忧虑"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "toss / 美[tɔːs]  / 英[tɒs] ",
+            "options": [
+                "A) n. 掷 / 掷硬币 / 投掷 / 摇荡",
+                "B) n. 散发 / 排放 / 喷射 / 发行",
+                "C) adv. 兼职地 / 用部分时间地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "total / 美['toʊtl]  / 英['təʊt(ə)l] ",
+            "options": [
+                "A) adj. 战争的，尚武的 / 好战的",
+                "B) n. 总数",
+                "C) adj. 成熟的 / 充分考虑的 / 到期的 / 成年人的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "toxic / 美['tɑːksɪk]  / 英['tɒksɪk] ",
+            "options": [
+                "A) n. 赌博",
+                "B) n. 有毒物质，毒药",
+                "C) adj. 相关的 / 相似的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trace / 美[treɪs]  / 英[treɪs] ",
+            "options": [
+                "A) adj. 数学的 / 数学般精确的 / 精确的",
+                "B) n. 限制 / 拘谨 / 低调处理 / 约束",
+                "C) n. 痕迹 / 微量 / 描记线 / 缰绳"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trademark / 美['treɪdmɑːrk]  / 英['treɪdmɑːk] ",
+            "options": [
+                "A) n. 商标，牌号",
+                "B) n. 命运 / 天数 / 结果 / 死亡",
+                "C) n. 重大成就 / 突破性进展 / 突破点 / 突破"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trail / 美[treɪl]  / 英[treɪl] ",
+            "options": [
+                "A) v. 逗留 / 多停留 / 磨蹭 / 继续留存",
+                "B) n. 足迹 / 小路 / 一缕 / 一串",
+                "C) adj. 感到宽慰的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trailer / 美['treɪlər]  / 英['treɪlə] ",
+            "options": [
+                "A) adj. 数学的 / 数学般精确的 / 精确的",
+                "B) n. 上扬 / 跳 / 弹力 / 活力",
+                "C) n. 拖尾物 / 拖车 / 预告片 / 追踪者"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transaction / 美[træn'zækʃn]  / 英[træn'zækʃ(ə)n;trɑːn-;-'sæk-] ",
+            "options": [
+                "A) v. 打扰 / 弄醒 / 使不安 / 使恼怒",
+                "B) n. 交易 / 办理 / 交流 / 议事录",
+                "C) n. 流血 / <印刷>出血版 / 液体逸出 / 渗色"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transcript / 美['trænskrɪpt]  / 英['trænskrɪpt;'trɑːn-] ",
+            "options": [
+                "A) n. 文本 / 成绩单 / 抄本 / 文字记录",
+                "B) n. <古>观念学 / 思想体系 / 对观念起源性质的研究 / 意识形态",
+                "C) n. 敬神 / 拜神 / 崇拜 / 爱慕"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transformation / 美[ˌtrænsfər'meɪʃn]  / 英[trænsfə'meɪʃ(ə)n;trɑːns-;-nz-] ",
+            "options": [
+                "A) v. 超过 / 胜过",
+                "B) n. 彻底的改变 / 转换 / 改革 / 变形",
+                "C) v. 开始 / 着手 / <英>获得学位"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transit / 美['trænzɪt]  / 英['trænsɪt;'trɑːns-;-nz-] ",
+            "options": [
+                "A) n. 运载 / 运输 / 经过 / <北美>公共交通客运",
+                "B) adv. 所以 / …之后 / 因此 / 今后",
+                "C) n. 怪物 / 恶魔 / 残酷无情的人 / 残忍的人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transmission / 美[trænz'mɪʃn]  / 英[trænz'mɪʃ(ə)n;trɑːnz-;-ns-] ",
+            "options": [
+                "A) v. 鼓励 / 促进 / 养育",
+                "B) n. 收入 / 收益 / 实收款项",
+                "C) n. 传播 / 播出的节目"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transparency / 美[træns'pærənsɪ]  / 英[træn'spær(ə)nsɪ;trɑːn-;-'speə-] ",
+            "options": [
+                "A) n. 透明，透明性，透明度 / 幻灯片",
+                "B) n. 特权 / 特惠待遇 / 特殊荣幸 / 优待",
+                "C) n. 操作 / 操纵 / 控制 / 篡改 / 推拿"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "transparent / 美[træns'pærənt]  / 英[træn'spær(ə)nt;trɑːn-;-'speə-] ",
+            "options": [
+                "A) n. 转变 / <律>侵权行为 / 兑换 / 改变信仰",
+                "B) n. 黑暗 / 邪恶 / 夜晚 / 阴郁",
+                "C) adj. 透明的 / 显然的 / 易察觉的 / <物理>可穿透的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "treaty / 美['triːtɪ]  / 英['triːtɪ] ",
+            "options": [
+                "A) n. 穿堂 / 休息室 / 议会休息室",
+                "B) n. 条约 / 协定 / 谈判",
+                "C) n. 家眷 / 侍从 / 食客 / 受赡养者"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tremendous / 美[trə'mendəs]  / 英[trɪ'mendəs] ",
+            "options": [
+                "A) v. 阻碍 / 防止 / 抑制 / 禁止",
+                "B) n. 插图 / 艺术品 / 美术品",
+                "C) adj. 极大的 / 可怕的 / 出色的 / 惊人的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tribal / 美['traɪbl]  / 英['traɪb(ə)l] ",
+            "options": [
+                "A) n. （尤指印度次大陆的）部落民",
+                "B) adj. 永恒的 / 永存的 / 本质不变的 / 上帝",
+                "C) v. 传送 / 发射 / 传染 / 传播"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tribute / 美['trɪbjuːt]  / 英['trɪbjuːt] ",
+            "options": [
+                "A) n. 天才 / 非凡创造力 / 守护神 / 精神",
+                "B) n. 表示感激的行动 / 礼物 / <史>贡税",
+                "C) n. 就任 / 安顿 / 安装 / 就职"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trigger / 美['trɪɡər]  / 英['trɪɡə] ",
+            "options": [
+                "A) n. 铁匠铺 / 锻铁炉 / 锻造车间 / 铁工厂",
+                "B) v. 使更容易 / 推动 / 便于 / 促进",
+                "C) n. 扳机 / 启动装置 / 触发因素 / 制滑机"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trio / 美['triːoʊ]  / 英['triːəʊ] ",
+            "options": [
+                "A) v. 吸收 / 使全神贯注 / 吞并 / 占用",
+                "B) n. <英>货运 / 运输 / 四轮马车 / 客车厢",
+                "C) n. 三人组 / 三件套 / 三重唱 / 三重奏曲"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "triumph / 美['traɪʌmf]  / 英['traɪʌmf] ",
+            "options": [
+                "A) n. 胜利 / 伟绩 / 喜悦 / 欢欣",
+                "B) adj. 行进的 / 活动的 / 动人的，感人的",
+                "C) v. 布道 / 说教 / 鼓吹 / 反复灌输"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trophy / 美['troʊfɪ]  / 英['trəʊfɪ] ",
+            "options": [
+                "A) n. 海港 / <喻>避难所 / 安全港湾 / 同 harbor",
+                "B) n. 修正 / 修正案 / 改善 / 修正条款",
+                "C) n. 奖杯 / 奖品 / 胜利纪念柱 / 战利品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "troubled / 美['trʌbld]  / 英['trʌb(ə)ld] ",
+            "options": [
+                "A) n. 青少年",
+                "B) adj. 非常兴奋的",
+                "C) adj. 被扰乱的，混乱的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "trustee / 美[trʌ'stiː]  / 英[trʌs'tiː] ",
+            "options": [
+                "A) v. 使乏味 / 使迟钝 / 使阴暗 / 缓和",
+                "B) n. 专门院校 / 研究院 / <旧>学校 / 学院",
+                "C) n. 受托人 / 托管人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tuition / 美[tʊ'ɪʃn]  / 英[tjuː'ɪʃ(ə)n] ",
+            "options": [
+                "A) n. 教学 / 指导 / 学费 / 讲授",
+                "B) n. 立法者",
+                "C) n. 委员 / 受委托的人 / 特派员 / 地区最高代表"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "tumor / 美['tuːmər]  / 英['tjuːmə] ",
+            "options": [
+                "A) n. 肿瘤，肿块",
+                "B) n. 能力 / 计算机性能 / 力量 / 性能",
+                "C) n. 可能性"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "turnout / 美['tɜːrnaʊt]  / 英['tɜːnaʊt] ",
+            "options": [
+                "A) n. 螺钉 / 螺旋运动 / 螺丝钉 / 吝啬鬼",
+                "B) n. 不同 / 优秀 / 特性 / 荣誉、勋章",
+                "C) n. 出席人数 / 出席者 / 全套车马 / 装束"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "turnover / 美['tɜːrnoʊvər]  / 英['tɜːnəʊvə] ",
+            "options": [
+                "A) n. 瑕疵 / 错误 / 一阵狂风 / 短暂的风暴",
+                "B) n. 营业额 / 成交量 / 人员更替率 / 酥饼",
+                "C) n. 周报 / 周刊"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "twist / 美[twɪst]  / 英[twɪst] ",
+            "options": [
+                "A) n. 螺旋形物体 / 拐弯处 / 扭曲 / 扭伤",
+                "B) n. 手臂 / 像手臂的东西 / 部门 / 武器",
+                "C) n. 内部人士，知晓内情者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unconstitutional / 美[ˌʌnˌkɑːnstɪ'tuːʃənl]  / 英[ˌʌnkɒnstɪ'tjuːʃ(ə)n(ə)l] ",
+            "options": [
+                "A) n. 分开 / 分居 / 辨别 / 离析",
+                "B) adj. 岁的 / 古老的 / 老化的 / 年老的",
+                "C) adj. 违反宪法的 / 不符合章程规定的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "undergraduate / 美[ˌʌndər'ɡrædʒʊət]  / 英[ʌndə'ɡrædjʊət] ",
+            "options": [
+                "A) n. 战场",
+                "B) n. 大学本科生 / 大学肄业生 / 大学生",
+                "C) adj. 非全日的 / 兼职的 / 部分时间的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "underlying / 美[ˌʌndər'laɪɪŋ]  / 英[ˌʌndə'laɪɪŋ] ",
+            "options": [
+                "A) n. 重新组装 / 改装的机器",
+                "B) v. 位于...之下（underlie 的现在分词）",
+                "C) 位于...之下 / 成为...的基础"
+            ],
+            "answer": [
+                "C",
+                "B"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "undermine / 美[ˌʌndər'maɪn]  / 英[ʌndə'maɪn] ",
+            "options": [
+                "A) v. 侵蚀底基 / 破坏 / 挖掘地基",
+                "B) v. 背离 / 出发 / 去世",
+                "C) adv. 因此 / 结果 / 所以"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "undoubtedly / 美[ʌn'daʊtɪdli]  / 英[ʌn'daʊtɪdlɪ] ",
+            "options": [
+                "A) n. 优雅 / 恩典 / 期限 / 大人",
+                "B) adv. 毫无疑问地",
+                "C) n. 害怕 / 惊吓 / 恐慌 / 惊恐"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unify / 美['juːnɪfaɪ]  / 英['juːnɪfaɪ] ",
+            "options": [
+                "A) v. 联合 / 统一 / 成一体 / 使相同",
+                "B) adj. 可比作…的 / 相似的 / 相当的 / 比得上的",
+                "C) n. 社论 / 报刊的非广告部分"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unprecedented / 美[ʌn'presɪdentɪd]  / 英[ʌn'presɪdentɪd] ",
+            "options": [
+                "A) adj. 无先例的 / 前所未闻的",
+                "B) n. 改善 / 复兴 / 苏醒 / 再生效",
+                "C) adv. 因此 / 结果 / 所以"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "unveil / 美[ˌʌn'veɪl]  / 英[ʌn'veɪl] ",
+            "options": [
+                "A) v. 揭去面纱 / 揭开蒙布 / 使公之于众 / 揭幕",
+                "B) n. 地极区域 / 极 / 极点 / 杆",
+                "C) v. 授权于 / 允许 / 使能够 / 增强的力量和信心"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "upcoming / 美['ʌpkʌmɪŋ]  / 英[ʌp'kʌmɪŋ] ",
+            "options": [
+                "A) adj. 即将到来的",
+                "B) v. 鼓掌表同意 / 向…喝彩 / 赞扬",
+                "C) n. 鸟巢 / 一套 / 穴 / 温床"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "upgrade / 美['ʌpɡreɪd]  / 英['ʌpɡreɪd] ",
+            "options": [
+                "A) n. 能力 / 计算机性能 / 力量 / 性能",
+                "B) n. 提升 / 升级 / 上升 / 上坡",
+                "C) adj. 有…的倾向 / 有责任的 / 应受罚的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "uphold / 美[ʌp'hoʊld]  / 英[ʌp'həʊld] ",
+            "options": [
+                "A) v. 支持 / 支撑 / 维持 / 鼓励",
+                "B) n. 性欲 / 性能力 / [胚]性别 / 性偏好",
+                "C) adj. 官能的 / <数>函数的 / 功能的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "utility / 美[juː'tɪlətɪ]  / 英[juː'tɪlɪtɪ] ",
+            "options": [
+                "A) n. 让步 / 特许权 / 承认 / 退位",
+                "B) n. 功用 / 公用事业 / 实用 / 效用",
+                "C) v. 推断 / 推论"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "utterly / 美[ˈədərli]  / 英[ˈʌtəli] ",
+            "options": [
+                "A) adv. 完全地",
+                "B) adj. 持续的 / 正在进行的",
+                "C) n. 暗杀"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vacuum / 美['vækjuːm]  / 英['vækjʊəm] ",
+            "options": [
+                "A) n. 真空状态 / 空白 / 真空 / 空间",
+                "B) v. 变紧 / 绷紧 / 变得更严格 / 使变紧",
+                "C) n. 提示 / 暗示 / 线索 / 行动信号"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vague / 美[veɪɡ]  / 英[veɪɡ] ",
+            "options": [
+                "A) n. 密度 / 不透性 / 暗度 / <计算机>信息密度",
+                "B) v. 推测 / 假定 / 擅自",
+                "C) adj. 不明确的 / 模糊的 / 含糊的 / 暧昧的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "validity / 美[və'lɪdəti]  / 英[və'lɪdɪtɪ] ",
+            "options": [
+                "A) n. 有效 / 正确 / 正当 / 有效",
+                "B) n. 查账 / 审计",
+                "C) n. 可能成功的人 / 有希望成功的人"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vanish / 美['vænɪʃ]  / 英['vænɪʃ] ",
+            "options": [
+                "A) v. 从…中获得 / 源自 / 由……派生",
+                "B) n. 订婚 / 预约 / 约会 / 诺言",
+                "C) v. 突然不见 / 逐渐消失 / 消失 / 成为零"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "variable / 美['verɪəbl]  / 英['veərɪəb(ə)l] ",
+            "options": [
+                "A) n. 可变性 / 可变因素 / 变风区",
+                "B) v. 求助于 / 援引 / 祈求 / 引起",
+                "C) adv. 部分地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "varied / 美['verɪd]  / 英['veərɪd] ",
+            "options": [
+                "A) v. 变化（vary 的过去式）",
+                "B) n. 处理 / 加工 / 冲洗",
+                "C) adj. 各种各样的 / 形形色色的 / 多变的 / 杂色的"
+            ],
+            "answer": [
+                "C",
+                "A"
+            ],
+            "flag": "answers amount: 2 "
+        },
+        {
+            "title": "vein / 美[veɪn]  / 英[veɪn] ",
+            "options": [
+                "A) v. 因而产生 / 接着发生 / 继起",
+                "B) n. 静脉 / 血管 / 叶脉 / 性情",
+                "C) n. 无形进出口"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "venture / 美['ventʃər]  / 英['ventʃə] ",
+            "options": [
+                "A) v. 背离 / 出发 / 去世",
+                "B) n. 蜂蜜 / 黄褐色 / 宝贝 / 甜蜜",
+                "C) n. 冒险旅行 / 冒险行动 / 企业 / 风险"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "verbal / 美['vɜːrbl]  / 英['vɜːb(ə)l] ",
+            "options": [
+                "A) n. 恐慌 / 经济恐慌 / 粟",
+                "B) n. 学术研究 / 学术成就 / 学问 / 奖学金",
+                "C) n. <语法>动词性单词 / 动词的非谓语形式"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "verdict / 美['vɜːrdɪkt]  / 英['vɜːdɪkt] ",
+            "options": [
+                "A) n. 定 / 结论 / 意见 / 判断",
+                "B) n. 山峰 / 巅 / 尖顶 / 最高点",
+                "C) n. 观众 / 旁观者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "verify / 美['verɪfaɪ]  / 英['verɪfaɪ] ",
+            "options": [
+                "A) adj. 无一定之规的 / 任意选取的 / 任意的 / 胡乱的",
+                "B) v. 证明 / 核实 / 证实 / 查证",
+                "C) n. 蜡烛 / <物理>旧烛光 / 烛光 / 烛形物"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "verse / 美[vɜːrs]  / 英[vɜːs] ",
+            "options": [
+                "A) adv. 同样 / 亦 / 同样地 / 也",
+                "B) n. 诗 / 韵文 / 节 / 独唱部",
+                "C) n. 共和国 / <古>团体 / 共和政体"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "versus / 美['vɜːrsəs]  / 英['vɜːsəs] ",
+            "options": [
+                "A) n. 专栏作家",
+                "B) n. 怀孕，妊娠 / 怀孕期，妊娠期",
+                "C) prep. 对 / 与…相对 / 与…相比 / 对抗"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vessel / 美['vesl]  / 英['ves(ə)l] ",
+            "options": [
+                "A) n. 船 / 舰 / 容器 / 血管",
+                "B) n. 发生率 / 税务负担 / 影响 / 影响范围",
+                "C) n. 花费 / 支出 / 经费 / 费用"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "veteran / 美['vetərən]  / 英['vetərən] ",
+            "options": [
+                "A) adj. 成熟的 / 充分考虑的 / 到期的 / 成年人的",
+                "B) v. 恳求 / 为陈述 / 争辩 / <律>辩护",
+                "C) n. 老手 / 退伍军人 / 老兵 / 老运动员"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "viable / 美['vaɪəbl]  / 英['vaɪəb(ə)l] ",
+            "options": [
+                "A) n. <乐>分音",
+                "B) adj. 可望成功的 / 可行的 / 能养活的 / 能生育的",
+                "C) n. 货摊 / 牧师专座 / 畜栏 / 托辞"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vibrant / 美['vaɪbrənt]  / 英['vaɪbrənt] ",
+            "options": [
+                "A) n. 航行 / 航海 / 航空 / <方>内河水道",
+                "B) n. 配置 / 构造 / 布局 / 外形",
+                "C) adj. 活跃的 / 振动的 / 充满生气的 / 响亮的"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vice / 美[vaɪs]  / 英[vaɪs] ",
+            "options": [
+                "A) n. 恶习 / 缺点 / 犯罪行为 / 虎头钳",
+                "B) n. <古>检察官 / 财政官员 / 伯牢鸟 / 菲斯卡尔",
+                "C) n. 注射剂 / 注射 / 充血 / 射入轨道"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vicious / 美['vɪʃəs]  / 英['vɪʃəs] ",
+            "options": [
+                "A) n. 被任命者 / 被提名者 / 登记者 / 代名人",
+                "B) adj. 凶残的 / 恶毒的 / 堕落的",
+                "C) adj. 岁的 / 古老的 / 老化的 / 年老的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "violate / 美['vaɪəleɪt]  / 英['vaɪəleɪt] ",
+            "options": [
+                "A) n. 命运 / 天数 / 结果 / 死亡",
+                "B) n. 公墓 / 墓地",
+                "C) v. 违反 / 扰乱 / 侵犯 / 亵渎"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "violation / 美[ˌvaɪə'leɪʃn]  / 英[ˌvaɪə'leɪʃn] ",
+            "options": [
+                "A) n. 违反 / 侵犯 / 亵渎 / 强奸",
+                "B) n. 传染病 / 流行病 / 风尚等的流行 / 猖獗",
+                "C) n. 独立 / 自主 / 自立"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "virtue / 美['vɜːrtʃuː]  / 英['vɜːtjuː;-tʃuː] ",
+            "options": [
+                "A) n. 钟爱的人 / 心爱的人 / 亲爱的教友",
+                "B) n. 德行 / 道德天使 / 美德 / 优点",
+                "C) n. 一部分 / 一定数量 / 一节 / 一片"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vocal / 美['voʊkl]  / 英['vəʊk(ə)l] ",
+            "options": [
+                "A) prep. 对 / 与…相对 / 与…相比 / 对抗",
+                "B) n. 牛仔 / <非正式>不诚实的人 / 莽撞的人 / 牧童",
+                "C) n. 声乐作品"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vow / 美[vaʊ]  / 英[vaʊ] ",
+            "options": [
+                "A) adv. 现 / 现今 / 时下",
+                "B) n. 誓言 / 发誓 / 许愿",
+                "C) n. 集合 / 组装 / 议会 / 装配"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "vulnerable / 美['vʌlnərəbl]  / 英['vʌln(ə)rəb(ə)l] ",
+            "options": [
+                "A) adj. 易受攻击的 / 易受伤害的 / 脆弱的 / 有弱点的",
+                "B) v. 扰乱 / 干涉 / 性骚扰 / 妨碍",
+                "C) n. 船舶 / 船舶吨数 / 海运 / 运送"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "warehouse / 美['werhaʊs]  / 英['weəhaʊs] ",
+            "options": [
+                "A) n. 仓库 / 货栈 / 批发商店 / 大商店",
+                "B) n. 氧符号：O / <化学>氧气",
+                "C) n. 欣赏，鉴别 / 感谢 / 货币增值"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "warfare / 美['wɔːrfer]  / 英['wɔːfeə] ",
+            "options": [
+                "A) n. 侵略 / 涌入 / 侵犯 / 干预",
+                "B) n. 战争 / 作战 / 斗争 / 冲突",
+                "C) adj. 意识形态的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "warrant / 美['wɔːrənt]  / 英['wɒrənt] ",
+            "options": [
+                "A) n. 边缘 / 数量 / 盈余 / 页边的空白",
+                "B) n. 逮捕证 / 证明 / 正当理由",
+                "C) n. 冒险旅行 / 冒险行动 / 企业 / 风险"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "warrior / 美['wɔːrɪər]  / 英['wɒrɪə] ",
+            "options": [
+                "A) n. 勇士 / 经验丰富的战士 / 武士 / 鼓吹战争的人",
+                "B) n. <物理>辐射 / 辐射作用 / 放射线 / 放射物",
+                "C) n. 专门技能 / 专门知识"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "weaken / 美['wiːkən]  / 英['wiːkən] ",
+            "options": [
+                "A) v. 使虚弱 / 减弱 / 变弱 / 减少",
+                "B) adj. 广阔的 / 广大的 / 粗放的 / 规模大的",
+                "C) n. 发现 / 侦查 / 察觉"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "weave / 美[wiːv]  / 英[wiːv] ",
+            "options": [
+                "A) n. 经常拜访之地 / 栖息地 / 常去的地方",
+                "B) n. 长凳 / 工作台 / 法官职位 / 替补队员",
+                "C) n. 编结式样 / 编织方法 / 织物 / 织法"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "weed / 美[wiːd]  / 英[wiːd] ",
+            "options": [
+                "A) n. 杂草 / 野草 / 水生植物 / 菸草",
+                "B) adj. 流利连贯的 / 有关节的 / 发音清晰的 / 口才好的",
+                "C) adj. 易碎的 / 易损坏的 / 脆的 / 易被吓倒的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "well / 美[wel]  / 英[wel] ",
+            "options": [
+                "A) n. 水井 / 油井 / 天然气井 / 井",
+                "B) n. 入住者 / 同院病人 / 同狱犯人 / 同被收容者",
+                "C) n. 索引 / 指示 / 标志 / 指标"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "well-being / 美['wel biːɪŋ]  / 英['wel biːɪŋ] ",
+            "options": [
+                "A) n. 舒适，健康，快乐",
+                "B) n. 低沉有回响的声音 / 隆隆声 / 迅速增长 / 繁荣",
+                "C) adv. 效率高地 / 收效大地"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "whatsoever / 美[ˌwɒtsoʊ'evə]  / 英[wɒtsəʊ'evə] ",
+            "options": [
+                "A) pron. <古>无论什么，不管什么",
+                "B) n. 命令 / 执政权 / 授权 / 委托管理",
+                "C) n. 捐赠者 / 供者 / 赠送人 / 献血者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "whereby / 美[wer'baɪ]  / 英[weə'baɪ] ",
+            "options": [
+                "A) adv. 靠那个 / 借以",
+                "B) v. 使裸露 / 露出",
+                "C) v. 联合 / 统一 / 成一体 / 使相同"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "whip / 美[wɪp]  / 英[wɪp] ",
+            "options": [
+                "A) v. 不准…进入 / 开除 / 排除 / 逐出",
+                "B) n. 鞭子 / 鞭子似的东西 / 鞭策者 / 组织秘书",
+                "C) n. 不足额 / 赤字 / 亏损 / 失分数"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wholly / 美['hoʊllɪ]  / 英['həʊllɪ;'həʊlɪ] ",
+            "options": [
+                "A) v. 逃离某处 / 摆脱危险处境 / 逃走 / 消失",
+                "B) adv. 完全地 / 通通 / 全部 / 统统",
+                "C) adj. 极有趣的 / 欢闹的 / 非常滑稽的 / 喜不自禁的"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "widen / 美['waɪdn]  / 英['waɪd(ə)n] ",
+            "options": [
+                "A) n. 场面恢宏的事件",
+                "B) v. 忍耐 / 继续存在 / 持久 / 容忍",
+                "C) v. 加宽 / 变宽 / 放宽"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "widow / 美['wɪdoʊ]  / 英['wɪdəʊ] ",
+            "options": [
+                "A) n. 恐慌 / 经济恐慌 / 粟",
+                "B) n. 爱尔兰葬歌 / 痛哭",
+                "C) n. 寡妇 / 寡妇鸟 / 孀妇"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "width / 美[wɪdθ]  / 英[wɪtθ;wɪdθ] ",
+            "options": [
+                "A) n. 美学原则",
+                "B) n. 幸存 / 残存物 / 残存习俗",
+                "C) n. 宽度 / 整幅的东西 / 池宽 / 广博"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "willingness / 美[ˈwɪlɪŋnəs]  / 英[ˈwɪlɪŋnəs] ",
+            "options": [
+                "A) n. 乐意",
+                "B) n. 圣人 / 至善的人 / 圣 / 圣徒",
+                "C) n. 地心吸力 / 重大 / 严重 / 重力"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wipe / 美[waɪp]  / 英[waɪp] ",
+            "options": [
+                "A) n. 擦 / 抹布 / 划变 / 擦拭",
+                "B) n. 水坝 / 坝 / 障碍",
+                "C) n. 趋势 / 倾向 / 政治社团 / 癖好"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "wit / 美[wɪt]  / 英[wɪt] ",
+            "options": [
+                "A) n. 颖悟力 / 机智 / 风趣 / 解决实际问题的智慧",
+                "B) n. 加仑 / <英>相当于4.55升",
+                "C) n. 女权主义者 / 女权运动者"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "withdrawal / 美[wɪð'drɔːəl]  / 英[wɪð'drɔː(ə)l] ",
+            "options": [
+                "A) v. 表现 / 描述",
+                "B) n. 撤消 / 提款 / 取消 / 退股",
+                "C) v. 背叛 / 出卖 / 泄露 / 露出…迹象"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "workout / 美['wɜːrkaʊt]  / 英['wɜːkaʊt] ",
+            "options": [
+                "A) n. 表示感激的行动 / 礼物 / <史>贡税",
+                "B) n. 专利 / 专利证 / 专利权 / 执照",
+                "C) n. 锻炼，训练"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "worship / 美['wɜːrʃɪp]  / 英['wɜːʃɪp] ",
+            "options": [
+                "A) n. 敬神 / 拜神 / 崇拜 / 爱慕",
+                "B) n. 类比 / 可类比物 / <语言学>类推法 / 类似",
+                "C) n. 自治权 / 自治 / 自治国 / 自治地区"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "worthwhile / 美[ˌwɜːrθ'waɪl]  / 英[wɜːθ'waɪl] ",
+            "options": [
+                "A) adj. 值得花时间的 / 有价值的",
+                "B) n. 假定 / 设想 / 承担 / 采取",
+                "C) adj. 远离的 / 遥远的 / 孤立的 / 分离的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "worthy / 美['wɜːrðɪ]  / 英['wɜːðɪ] ",
+            "options": [
+                "A) adv. 向前 / 露出 / 以后 / 自…以后",
+                "B) n. <常贬或幽默>知名人士 / 杰出人物",
+                "C) v. 继承 / 遗传而得 / 接手 / <北美>获得"
+            ],
+            "answer": [
+                "B"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "yell / 美[jel]  / 英[jel] ",
+            "options": [
+                "A) v. 合并 / 使合并 / 吞没 / 融合",
+                "B) n. <数>积分 / 满足微分方程的函数 / 部分 / 完整",
+                "C) n. 叫声 / 号叫 / <美>呐喊 / <英>有趣的人"
+            ],
+            "answer": [
+                "C"
+            ],
+            "flag": "answers amount: 1 "
+        },
+        {
+            "title": "yield / 美[jiːld]  / 英[jiːld] ",
+            "options": [
+                "A) n. 产量 / 产物 / 利润 / 收益",
+                "B) n. 农学 / 农业 / 农艺 / 农耕",
+                "C) adj. 危险的 / 冒险的 / 有风险的 / 有伤风化的"
+            ],
+            "answer": [
+                "A"
+            ],
+            "flag": "answers amount: 1 "
+        }
+    ]
+const phonetic_5000_level_by_four_options_and_not_n =
+    []
 // let questions = [...data_1]
 let questions = [...phonetic_3000_level_by_three_options_and_n]
 let currentQuestion = 0;
@@ -83031,7 +104089,9 @@ let isWordMode = true;
 * */
 class TestPapers {
     static PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N = "phonetic_3000_level_by_three_options_and_n";
+    static PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N = "phonetic_5000_level_by_three_options_and_n";
     static PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N = "phonetic_3000_level_by_four_options_and_not_n";
+    static PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N = "phonetic_5000_level_by_four_options_and_not_n";
     static getName(value) {
         return Object.keys(this).find(key => this[key] === value);
     }
@@ -83124,24 +104184,14 @@ const testPaper = document.getElementById("testPaper");
 testPaper.addEventListener("change", () => {
     changeTestPaper()
 })
-
-function loadTestPaperRender() {
+const appendChildToTestPaperDOM = (optionValue)=>{
 
     const option3 = document.createElement("option");
-    option3.innerHTML = TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N;
-    option3.value = TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N
+    option3.innerHTML = optionValue;
+    option3.value = optionValue
     testPaper.appendChild(option3)
-    const option4 = document.createElement("option");
-    option4.innerHTML = TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N;
-    option4.value = TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N
-    testPaper.appendChild(option4)
-    for (let i = 1; i <= 10; i++) {
-
-        const option = document.createElement("option");
-        option.innerHTML = "" + i;
-        option.value = i + ""
-        testPaper.appendChild(option)
-    }
+}
+function loadTestPaperRender() {
 
     const option = document.createElement("option");
     option.innerHTML = "1-10试卷的前10题";
@@ -83151,12 +104201,27 @@ function loadTestPaperRender() {
     option2.innerHTML = "11-20试卷的前10题";
     option2.value = "allTestPaperTopTenQuestions2"
     testPaper.appendChild(option2)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N)
+    for (let i = 1; i <= 10; i++) {
+
+        const option = document.createElement("option");
+        option.innerHTML = "" + i;
+        option.value = i + ""
+        testPaper.appendChild(option)
+    }
+
 }
 
 
 function changeTestPaper() {
     if(testPaper.value!=TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N
-    ||testPaper.value!=TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
+    ||testPaper.value!=TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N
+    ||testPaper.value!=TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N
+    ||testPaper.value!=TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N
+    )
         isWordMode = false
     else isWordMode = true
     switch (testPaper.value) {
@@ -83200,10 +104265,17 @@ function changeTestPaper() {
             questions = [...phonetic_3000_level_by_three_options_and_n]
             questionsCopy = [...questions]
             break
+        case TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N:
+            questions = [...phonetic_5000_level_by_three_options_and_n]
+            questionsCopy = [...questions]
+            break
         case TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N:
             questions = [...phonetic_3000_level_by_four_options_and_not_n]
             questionsCopy = [...questions]
-
+            break
+        case TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N:
+            questions = [...phonetic_5000_level_by_four_options_and_not_n]
+            questionsCopy = [...questions]
             break
         default:
             break
