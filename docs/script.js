@@ -104193,6 +104193,11 @@ const appendChildToTestPaperDOM = (optionValue)=>{
 }
 function loadTestPaperRender() {
 
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
+    appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N)
+
     const option = document.createElement("option");
     option.innerHTML = "1-10试卷的前10题";
     option.value = "allTestPaperTopTenQuestions"
@@ -104201,10 +104206,6 @@ function loadTestPaperRender() {
     option2.innerHTML = "11-20试卷的前10题";
     option2.value = "allTestPaperTopTenQuestions2"
     testPaper.appendChild(option2)
-    appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N)
-    appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
-    appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
-    appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N)
     for (let i = 1; i <= 10; i++) {
 
         const option = document.createElement("option");
