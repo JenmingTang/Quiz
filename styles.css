@@ -1,3 +1,17 @@
+/*
+贝塞尔曲线(cubic-bezier(n,n,n,n))之外
+Timing Function	描述
+ease	默认值。慢速开始，然后加快，在结束前变慢。
+linear	匀速过渡。从头到尾速度保持一致。
+ease-in	加速过渡。开始时慢，然后逐渐加快。
+ease-out	减速过渡。开始时快，接近结束时慢下来。
+ease-in-out	先加速后减速过渡。开始和结束时速度较慢，中间加速。
+step-start	立即跳到最终状态，类似于没有过渡效果。
+step-end	维持初始状态，直到过渡结束时直接跳到最终状态。
+*/
+* {
+    transition: all 0.7s ease; /* all 表示所有可过渡的属性，0.3s 是持续时间，ease 是动画速度曲线 */
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;

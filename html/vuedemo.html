@@ -1,0 +1,38 @@
+<!--
+我可以学
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Element Plus with Vue 3</title>
+    <!-- 引入 Vue 3 -->
+    <script src="https://unpkg.com/vue@next"></script>
+    <!-- 引入 Element Plus 样式 -->
+    <link rel="stylesheet" href="https://unpkg.com/element-plus/dist/index.css">
+    <!-- 引入 Element Plus -->
+    <script src="https://unpkg.com/element-plus"></script>
+</head>
+<body>
+<div id="app">
+    <el-button @click="handleClick">点击我</el-button>
+</div>
+
+<script>
+    const { createApp } = Vue;
+
+    const App = {
+        methods: {
+            handleClick() {
+                this.$message('按钮被点击了!');
+            }
+        }
+    };
+
+    const app = createApp(App);
+    app.use(ElementPlus);
+    app.mount('#app');
+</script>
+</body>
+</html>

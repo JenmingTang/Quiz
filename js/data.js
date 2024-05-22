@@ -1,3 +1,13 @@
+
+/*
+* 静态网页不支持
+* Cannot use import statement outside a module
+* */
+// import {data} from "./data";
+// import * as __data from "./data";
+export function usefulFunction() {
+    return "usefulFunction";
+}
 /*
 * node环境
 * */

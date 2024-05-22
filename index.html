@@ -14,17 +14,21 @@
 <label for="testPaper">选择一张试卷：</label>
 <select id="testPaper" name="testPaper" style="padding: 8px">
 <!--    <option value="1">21222党校考试试卷01_1.pdf</option>-->
-<!--    <option value="2">21222党校考试试卷02_1.pdf</option>-->
-<!--    <option value="3">21222党校考试试卷03_1.pdf</option>-->
-<!--    <option value="4">21222党校考试试卷04_1.pdf</option>-->
-<!--    <option value="5">21222党校考试试卷05_1.pdf</option>-->
-<!--    <option value="6">21222党校考试试卷06_1.pdf</option>-->
-<!--    <option value="7">21222党校考试试卷07_1.pdf</option>-->
-<!--    <option value="8">21222党校考试试卷08_1.pdf</option>-->
-<!--    <option value="9">21222党校考试试卷09_1.pdf</option>-->
-<!--    <option value="10">21222党校考试试卷010_1.pdf</option>-->
 </select>
 <button onclick="showAnswer()" style="padding: 16px">showAnswer</button>
+
+<label for="shuffle">shuffle:</label>
+<select id="shuffle" name="shuffle" style="padding: 8px">
+    <optgroup label="No action and reset">
+        <option value="nothing">nothing</option>
+    </optgroup>
+    <optgroup label="Actually">
+        <option value="questions">questions</option>
+        <option value="options">options</option>
+        <option value="questions_and_options">questions_and_options</option>
+    </optgroup>
+</select>
+<!--<button onclick="shuffleQuestionsAndOptions()" style="padding: 16px">shuffleQuestionsAndOptions</button>-->
 <div>已选择的选项：
     <span id="selected-answer-container"></span></div>
 <div class="quiz-container">
@@ -46,7 +50,16 @@
 <!--    <label for="sizeSlider">滑动以调整按钮大小</label><br>-->
 </div>
 <div id="question-list">
-
+</div>
+<div>
+    <label for="question-total">question-total (0-total): </label>
+    <span id="question-total"></span>
+</div>
+<div>
+    <label for="goto">goto: </label>
+<!--    min="1" max="10" step="1"-->
+    <input type="number" id="goto" name="goto" min="0"  step="1" style="padding: 16px">
+    <button  onclick="gotoQuestion()" style="padding: 16px">goto</button>
 </div>
 <script src="script.js"></script>
 </body>
