@@ -15,8 +15,10 @@
 <select id="testPaper" name="testPaper" style="padding: 8px">
 <!--    <option value="1">21222党校考试试卷01_1.pdf</option>-->
 </select>
-<br>
 
+<!--添加分割线样式-->
+<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>
+<div>
 <label for="shuffle">shuffle:</label>
 <select id="shuffle" name="shuffle" style="padding: 8px">
     <optgroup label="No action and reset">
@@ -28,7 +30,10 @@
         <option value="questions_and_options">questions_and_options</option>
     </optgroup>
 </select>
-<br>
+</div>
+
+<!--添加分割线样式-->
+<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>
 <button onclick="showAnswer()" style="padding: 16px">showAnswer</button>
 <div>已选择的选项：
     <span id="selected-answer-container"></span></div>
@@ -56,11 +61,29 @@
     <label for="question-total">question-total (0-total): </label>
     <span id="question-total"></span>
 </div>
+
+<!--添加分割线样式-->
+<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>
+<!--<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>-->
 <div>
     <label for="goto">goto: </label>
 <!--    min="1" max="10" step="1"-->
     <input type="number" id="goto" name="goto" min="0"  step="1" style="padding: 16px">
     <button  onclick="gotoQuestion()" style="padding: 16px">goto</button>
+</div>
+
+<!--添加分割线样式-->
+<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>
+<div>
+    <label for="question-lasted">question-lasted: </label>
+    <span id="question-lasted"></span>
+</div>
+<!--添加分割线样式-->
+<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>
+
+<div>
+    <label for="test-paper-lasted">test-paper-lasted: </label>
+    <span id="test-paper-lasted"></span>
 </div>
 <script src="script.js"></script>
 </body>

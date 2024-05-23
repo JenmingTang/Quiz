@@ -1,4 +1,8 @@
-
+const LocalStorage = Object.freeze({
+    CURRENT_QUESTION: "current_question",
+});
+localStorage.setItem(LocalStorage.CURRENT_QUESTION, currentQuestion)
+localStorage.getItem(LocalStorage.CURRENT_QUESTION)
 /*
 * 静态网页不支持
 * Cannot use import statement outside a module
