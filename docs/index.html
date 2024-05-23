@@ -15,7 +15,7 @@
 <select id="testPaper" name="testPaper" style="padding: 8px">
 <!--    <option value="1">21222党校考试试卷01_1.pdf</option>-->
 </select>
-<button onclick="showAnswer()" style="padding: 16px">showAnswer</button>
+<br>
 
 <label for="shuffle">shuffle:</label>
 <select id="shuffle" name="shuffle" style="padding: 8px">
@@ -28,14 +28,15 @@
         <option value="questions_and_options">questions_and_options</option>
     </optgroup>
 </select>
-<!--<button onclick="shuffleQuestionsAndOptions()" style="padding: 16px">shuffleQuestionsAndOptions</button>-->
+<br>
+<button onclick="showAnswer()" style="padding: 16px">showAnswer</button>
 <div>已选择的选项：
     <span id="selected-answer-container"></span></div>
 <div class="quiz-container">
-    <h1>Quiz</h1>
-    <div id="question-container"></div>
+<!--    <h1>Quiz</h1>-->
+    <div id="question-container" style="text-align: center"></div>
     <div id="answer-container"></div>
-    <div id="options-container"></div>
+    <div id="options-container" style="display: flex;flex-direction: column"></div>
     <div id="feedback"></div>
     <div id="navigation">
         <button id="prev-btn" style="padding: 16px" onclick="prevQuestion()">Previous</button>

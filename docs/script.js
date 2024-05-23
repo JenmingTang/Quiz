@@ -104291,9 +104291,12 @@ function loadQuestion() {
     const optionsContainer = document.getElementById("options-container");
     const currentQues = questions[currentQuestion];
     // questionContainer.innerHTML = "<h1>tangdada</h1>";
-    if (isWordMode)
-        questionContainer.innerHTML = currentQuestion + " # " + currentQues.flag + ": " + "<h1>"+currentQues.title+"</h1>";
-    else
+    if (isWordMode) {
+
+        // questionContainer.innerHTML = currentQuestion + " # " + currentQues.flag + ": " + "<h1>"+currentQues.title+"</h1>";
+        titleArr = currentQues.title.split("/")
+        questionContainer.innerHTML = `<h1>${titleArr[0]}</h1><br>${titleArr[1]} / ${titleArr[2]}`;
+    }    else
         questionContainer.textContent = currentQuestion + " # " + currentQues.flag + ": " + currentQues.title;
     optionsContainer.innerHTML = "";
     currentQues.options.forEach((option, index) => {
