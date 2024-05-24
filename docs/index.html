@@ -7,9 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./css/message-box.css">
 </head>
 
 <body>
+    <!-- <button type="button" onclick="onTestButtonClick()">onTestButtonClick</button> -->
+    <div id="messageBox" class="message-box">This is a message.</div>
 
 <label for="testPaper">选择一张试卷：</label>
 <select id="testPaper" name="testPaper" style="padding: 8px">
@@ -37,6 +40,13 @@
 <button onclick="showAnswer()" style="padding: 16px">showAnswer</button>
 <div>已选择的选项：
     <span id="selected-answer-container"></span></div>
+    
+<!--添加分割线样式-->
+<div style="border-bottom: 1px solid #ccc;margin: 10px 0;"></div>
+<div style="display: flex;justify-content: end;">
+    <button id="delete-from-glossary" disabled style="padding: 16px">Delete from glossary</button>
+    <button id="add-to-glossary" onclick="addToGlossary()" style="padding: 16px">Add to glossary</button>
+</div>
 <div class="quiz-container">
 <!--    <h1>Quiz</h1>-->
     <div id="question-container" style="text-align: center"></div>
@@ -85,6 +95,8 @@
     <label for="test-paper-lasted">test-paper-lasted: </label>
     <span id="test-paper-lasted"></span>
 </div>
+<script src="./js/phonetic.js"></script>
+<script src="./js/message-box.js"></script>
 <script src="script.js"></script>
 </body>
 

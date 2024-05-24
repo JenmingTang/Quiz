@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Message Box</title>
+  <style>
+    /* message-box.html */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .message-box {
+      position: fixed;
+      top: -100px; /* 初始状态隐藏 */
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 10px 20px;
+      background-color: #4caf50;
+      color: white;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      opacity: 0; /* 初始状态隐藏 */
+      transition: top 0.5s ease, opacity 0.5s ease; /* 过渡效果 */
+    }
+    .message-box.show {
+      top: 20px; /* 显示时的位置 */
+      opacity: 1; /* 显示时的透明度 */
+    }
+  </style>
+</head>
+<body>
+
+<div id="messageBox" class="message-box">This is a message.</div>
+
+<script>
+  // 显示消息框函数
+  function showMessage(message, duration = 3000) {
+    const messageBox = document.getElementById('messageBox');
+    messageBox.textContent = message;
+    messageBox.classList.add('show');
+
+    // 定时关闭消息框
+    setTimeout(() => {
+      hideMessage();
+    }, duration);
+  }
+
+  // 隐藏消息框函数
+  function hideMessage() {
+    const messageBox = document.getElementById('messageBox');
+    messageBox.classList.remove('show');
+  }
+
+  // 修改消息内容
+  function setMessageContent(message) {
+    const messageBox = document.getElementById('messageBox');
+    messageBox.textContent = message;
+  }
+
+  // 示例：显示消息框
+  showMessage('Hello, this is a test message!', 5000);
+</script>
+
+</body>
+</html>
