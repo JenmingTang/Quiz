@@ -12,7 +12,13 @@
 
 <body>
     <!-- <button type="button" onclick="onTestButtonClick()">onTestButtonClick</button> -->
-    <div id="messageBox" class="message-box">This is a message.</div>
+    <!-- <div id="messageBox" class="message-box">This is a message.</div> -->
+    <!-- 实现水平垂直居中最便捷的方法
+https://csscoco.com/inspiration/#/./layout/best-way-to-center-element.md
+     -->
+     <div class="g-container">
+        <div class="g-box message-box" id="messageBox"></div>
+    </div>
 
 <label for="testPaper">选择一张试卷：</label>
 <select id="testPaper" name="testPaper" style="padding: 8px">
@@ -95,6 +101,7 @@
     <label for="test-paper-lasted">test-paper-lasted: </label>
     <span id="test-paper-lasted"></span>
 </div>
+<script src="./js/history-data-handled.js"></script>
 <script src="./js/phonetic.js"></script>
 <script src="./js/message-box.js"></script>
 <script src="script.js"></script>

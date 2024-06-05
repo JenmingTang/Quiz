@@ -39,6 +39,19 @@ class TestPapers {
     static PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY = "phonetic_5000_level_by_three_options_and_n_glossary";
     static PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N_GLOSSARY = "phonetic_3000_level_by_four_options_and_not_n_glossary";
     static PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N_GLOSSARY = "phonetic_5000_level_by_four_options_and_not_n_glossary";
+    static SEPARATOR = "======================";
+    static CHAPTER_ONE = "chapter_one";
+    static CHAPTER_TWO = "chapter_two";
+    static CHAPTER_THREE = "chapter_three";
+    static CHAPTER_FOUR = "chapter_four";
+    static CHAPTER_FIVE = "chapter_five";
+    static CHAPTER_SIX = "chapter_six";
+    static CHAPTER_SEVEN = "chapter_seven";
+    static CHAPTER_EIGHT = "chapter_eight";
+    static CHAPTER_NINE = "chapter_nine";
+    static CHAPTER_TEN = "chapter_ten";
+    static CHAPTER_ONE_TO_TEN = "chapter_one_to_ten";
+
     static getName(value) {
         return Object.keys(this).find(key => this[key] === value);
     }
@@ -146,6 +159,19 @@ function loadTestPaperRender() {
     appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY)
     appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
     appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N)
+    appendChildToTestPaperDOM(TestPapers.SEPARATOR)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_ONE_TO_TEN)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_ONE)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_TWO)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_THREE)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_FOUR)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_FIVE)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_SIX)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_SEVEN)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_EIGHT)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_NINE)
+    appendChildToTestPaperDOM(TestPapers.CHAPTER_TEN)
+    appendChildToTestPaperDOM(TestPapers.SEPARATOR)
 
     const option = document.createElement("option");
     option.innerHTML = "1-10试卷的前10题";
@@ -233,19 +259,15 @@ function changeTestPaper() {
             break
         case TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N:
             questions = [...phonetic_3000_level_by_three_options_and_n]
-            questionsCopy = [...questions]
             break
         case TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N:
             questions = [...phonetic_5000_level_by_three_options_and_n]
-            questionsCopy = [...questions]
             break
         case TestPapers.PHONETIC_3000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N:
             questions = [...phonetic_3000_level_by_four_options_and_not_n]
-            questionsCopy = [...questions]
             break
         case TestPapers.PHONETIC_5000_LEVEL_BY_FOUR_OPTIONS_AND_NOT_N:
             questions = [...phonetic_5000_level_by_four_options_and_not_n]
-            questionsCopy = [...questions]
             break
         case TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY:
 
@@ -253,7 +275,6 @@ function changeTestPaper() {
                 showMessage("生词本为空，你切换什么！！！请切换回去添加一些单词！")
             else {
                 questions = [...phonetic_3000_level_by_three_options_and_n_glossary]
-                questionsCopy = [...questions]
             }
             break
         case TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY:
@@ -261,12 +282,46 @@ function changeTestPaper() {
                 showMessage("生词本为空，你切换什么！！！请切换回去添加一些单词！")
             else {
                 questions = [...phonetic_5000_level_by_three_options_and_n_glossary]
-                questionsCopy = [...questions]
             }
+            break
+        case TestPapers.CHAPTER_ONE_TO_TEN:
+            questions = [...chapter_one_to_ten]
+            break
+        case TestPapers.CHAPTER_ONE:
+            questions = [...chapter_one]
+            break
+        case TestPapers.CHAPTER_TWO:
+            questions = [...chapter_two]
+            break
+        case TestPapers.CHAPTER_THREE:
+            questions = [...chapter_three]
+            break
+        case TestPapers.CHAPTER_FOUR:
+            questions = [...chapter_four]
+            break
+        case TestPapers.CHAPTER_FIVE:
+            questions = [...chapter_five]
+            break
+        case TestPapers.CHAPTER_SIX:
+            questions = [...chapter_six]
+            break
+        case TestPapers.CHAPTER_SEVEN:
+            questions = [...chapter_seven]
+            break
+        case TestPapers.CHAPTER_EIGHT:
+            questions = [...chapter_eight]
+            break
+        case TestPapers.CHAPTER_NINE:
+            questions = [...chapter_nine]
+            break
+        case TestPapers.CHAPTER_TEN:
+            questions = [...chapter_ten]
             break
         default:
             break
     }
+    
+    questionsCopy = [...questions]
     reloadCurrentQuestion()
 }
 
@@ -289,7 +344,8 @@ function loadQuestion() {
         titleArr = currentQues.title.split("/")
         questionContainer.innerHTML = `<h1>${titleArr[0]}</h1><br>${titleArr[1]} / ${titleArr[2]}`;
     } else
-        questionContainer.textContent = currentQuestion + " # " + currentQues.flag + ": " + currentQues.title;
+        // questionContainer.textContent = currentQuestion + " # " + currentQues.flag + ": " + currentQues.title;
+        questionContainer.innerHTML = `currentQuestion: ${currentQuestion}<br>flag: ${currentQues.flag}<br><h3>${currentQues.title}</h3>`;
     optionsContainer.innerHTML = "";
     currentQues.options.forEach((option, index) => {
         const button = document.createElement("button");
@@ -545,7 +601,7 @@ const deleteFromGlossary = () => {
     switch (testPaper.value) {
         case TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY:
             // console.log("phonetic_3000_level_by_three_options_and_n_glossary:", phonetic_3000_level_by_three_options_and_n_glossary);
-            
+
             // 找到对象的索引
             const index = phonetic_3000_level_by_three_options_and_n_glossary
                 .findIndex(item => item.title === question.title);
@@ -578,7 +634,7 @@ const deleteFromGlossary = () => {
 
                 questions = [...phonetic_5000_level_by_three_options_and_n_glossary]
                 save5000GlossaryToLocalStorage()
-                
+
                 currentQuestion = currentQuestion - 1
                 showMessage(`已删除：${question.title}`, 2000)
             }
@@ -588,11 +644,11 @@ const deleteFromGlossary = () => {
         default:
             break;
     }
-    if (currentQuestion!==-1)    
+    if (currentQuestion !== -1)
         reloadCurrentQuestion()
-    else{
+    else {
         currentQuestion = 0
-        showMessage("已经完全删除单词本，请切换试卷！！",2000)
+        showMessage("已经完全删除单词本，请切换试卷！！", 2000)
     }
 
 }
@@ -664,7 +720,7 @@ const reloadCurrentQuestion = () => {
     resetPagination()
     loadQuestion();
     loadQuestionList()
-    
+
     // load_phonetic_3000_level_by_three_options_and_n_glossary()
     // load_phonetic_5000_level_by_three_options_and_n_glossary()
 }
