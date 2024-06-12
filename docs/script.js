@@ -550,7 +550,7 @@ function nextQuestion() {
         loadQuestion();
         document.getElementById("feedback").textContent = "";
     } else {
-        showResult();
+        // showResult();
     }
 }
 
