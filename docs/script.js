@@ -51,6 +51,8 @@ class TestPapers {
     static CHAPTER_NINE = "chapter_nine";
     static CHAPTER_TEN = "chapter_ten";
     static CHAPTER_ONE_TO_TEN = "chapter_one_to_ten";
+    static COMPUTER_NETWORK = "COMPUTER_NETWORK";
+    static DATA_STRUCTURE_QUESTIONS = "DATA_STRUCTURE_QUESTIONS";
 
     static getName(value) {
         return Object.keys(this).find(key => this[key] === value);
@@ -154,6 +156,8 @@ const appendChildToTestPaperDOM = (optionValue) => {
 function loadTestPaperRender() {
 
     appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N)
+    appendChildToTestPaperDOM(TestPapers.COMPUTER_NETWORK)
+    appendChildToTestPaperDOM(TestPapers.DATA_STRUCTURE_QUESTIONS)
     appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N)
     appendChildToTestPaperDOM(TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY)
     appendChildToTestPaperDOM(TestPapers.PHONETIC_5000_LEVEL_BY_THREE_OPTIONS_AND_N_GLOSSARY)
@@ -256,6 +260,12 @@ function changeTestPaper() {
             break
         case "allTestPaperTopTenQuestions2":
             questions = allTestPaperTopTenQuestions2
+            break
+        case TestPapers.COMPUTER_NETWORK:
+            questions = [...COMPUTER_NETWORK_QUESTIONS]
+            break
+        case TestPapers.DATA_STRUCTURE_QUESTIONS:
+            questions = [...DATA_STRUCTURE_QUESTIONS]
             break
         case TestPapers.PHONETIC_3000_LEVEL_BY_THREE_OPTIONS_AND_N:
             questions = [...phonetic_3000_level_by_three_options_and_n]
